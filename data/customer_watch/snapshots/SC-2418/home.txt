@@ -1,4 +1,4 @@
-# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-2418 streakwave.com · home · https://www.streakwave.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Streakwave Wireless
 Skip to main content
 Menu
@@ -21,13 +21,13 @@ Back Omni Antennas (85) Directional Antennas (392) Sector Antennas (92) Antenna 
 Wireless
 Back Point-to-Point (214) Point-to-Multipoint (164)
 Wi-Fi
-Back Indoor Access Points (170) Outdoor Access Points (44) Wi-Fi Accessories (24)
+Back Indoor Access Points (170) Outdoor Access Points (43) Wi-Fi Accessories (24)
 Networking
 Back Switches (348) Routers & Gateways (164) SFP & Transceivers (122) Controllers (7) Remote Management (0) Extenders & Converters (38) Network Attached Storage (8) Fiber & PON (14)
 Cellular & LTE
 Back LTE/5G Routers & Gateways (212) Cellular Modems & Cards (21) Cellular Accessories (174)
 Power & PoE
-Back PoE Injectors & Midspans (310) Solar & Remote Power (147) Surge & Lightning Protection (435) Power Management (69)
+Back PoE Injectors & Midspans (308) Solar & Remote Power (147) Surge & Lightning Protection (435) Power Management (69)
 Cables & Connectors
 Back Ethernet Cables (101) Coaxial Cables & Jumpers (110) Fiber Optic Cables (78) Connectors & Adapters (187) Cable Management (80)
 Mounting & Enclosures

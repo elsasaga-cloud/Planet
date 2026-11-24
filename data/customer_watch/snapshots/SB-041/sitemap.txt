@@ -1,4 +1,4 @@
-# SB-041 Telcam Fire&securoty Ltd · sitemap · https://telcam.co.uk/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-041 Telcam Fire&securoty Ltd · sitemap · https://telcam.co.uk/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 	https://telcam.co.uk/
 	https://telcam.co.uk/about-us/
 	https://telcam.co.uk/access-control/
@@ -58,6 +58,7 @@
 	https://telcam.co.uk/emergency-alarms-and-cctv-installs/
 	https://telcam.co.uk/ev-charging/
 	https://telcam.co.uk/fault-finding/
+	https://telcam.co.uk/fire-alarm-categories/
 	https://telcam.co.uk/fire-alarm-solutions/
 	https://telcam.co.uk/fire-extinguisher/
 	https://telcam.co.uk/fire-protection/

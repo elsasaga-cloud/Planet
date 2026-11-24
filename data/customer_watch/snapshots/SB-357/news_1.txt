@@ -1,4 +1,4 @@
-# SB-357 infonet-tech.com · news_1 · https://infonet-tech.com/blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-357 infonet-tech.com · news_1 · https://infonet-tech.com/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 Infonet Blog | Fuel Retail & Gas Station Industry News
 Home
 Industries Retail Gas Stations Convenience Stores Unattended Fuel Sites Fleet Fueling First Nations Retail
@@ -49,6 +49,11 @@ Oct 19, 2026
 Integrated POS and Payment Processing: Where Most Setups Quietly Fail
 On demo day, an integrated POS might look flawless. You tap the card, the terminal approves it, and the sale lands in your reports without anyone touching a key. Then a busy Friday arrives. A connection blips mid-sale, the terminal says approved while the register says unpaid, and nobody notices until the daily report fails […]
 read more about Integrated POS and Payment Processing: Where Most Setups Quietly Fail
+Resources
+Nov 24, 2026
+POS Integrations Explained: Connecting Payments, Loyalty, and Fuel Systems
+Walk into any fuel and convenience site, and you will see one register. Behind it sit a card terminal, a loyalty host, pump controllers, price signs, a tank gauge, and sometimes a car wash. POS integrations are the connections that make all of these parts act like one system. When those links work, a customer […]
+read more about POS Integrations Explained: Connecting Payments, Loyalty, and Fuel Systems
 news & blog
 Jul 4, 2026
 How Manual Reporting Is Slowing Down Multi-Site Operators and Draining Profits
@@ -65,6 +70,10 @@ NACS Trade Show and Conference Oct. 6th to 9th – 2026
 We are attending the NACS trade show in Las Vegas this year and will be in booth C6654, we hope that if you are attending the show you can come by and see us and what we have to offer to your gas station, convenience store, cardlock and fleet fuel sites. As a proud member […]
 read more about NACS Trade Show and Conference Oct. 6th to 9th – 2026
 All events news & blog Resources
+Resources
+NOV 24, 2026
+POS Integrations Explained: Connecting Payments, Loyalty, and Fuel Systems
+read more about POS Integrations Explained: Connecting Payments, Loyalty, and Fuel Systems
 Resources
 OCT 19, 2026
 Integrated POS and Payment Processing: Where Most Setups Quietly Fail
@@ -85,10 +94,6 @@ Resources
 SEP 17, 2026
 How to Use C-Store Back Office Software to Catch Shrink Before It Becomes a Pattern
 read more about How to Use C-Store Back Office Software to Catch Shrink Before It Becomes a Pattern
-news & blog
-AUG 30, 2026
-Why Most Convenience Store POS Software Fails at Multi-Site Reporting
-read more about Why Most Convenience Store POS Software Fails at Multi-Site Reporting
 1 2
 Ready to Transform Your Business?
 Whether you’re managing fuel stations, convenience stores, card locks, unattended fuel sites, fleet operations, Infonet can provide technology solutions that simplify operations

@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-277 instantbyte.com · news_1 · https://www.instantbyte.com/blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Blog de Instant Byte - Mayorista de valor añadido espcializados en networking, wireless, VoIP, seguridad y vídeovigilancia, fibra óptica e IoT
 Skip to content
 Twitter
@@ -13,6 +13,11 @@ Conoce
 Casos de éxito
 Promociones
 Webinar
+Grandstream adelanta sus soluciones para 2027: IA, comunicaciones, redes y seguridad
+24 de noviembre de 2026
+Webinar
+Resumen en español del avance 2027 de Grandstream: GRP Pro, GS AI, Wi-Fi 7, switches 100G y seguridad IP, con las respuestas técnicas del fabricante y sus plazos previstos
+Read More
 RouterOS 7.25: más control en bridge, VTI para IPsec y cliente SSH reforzado
 23 de noviembre de 2026
 Conoce
@@ -67,11 +72,6 @@ Grandstream GRP2600 Lite: cinco teléfonos IP esenciales para despliegues profes
 12 de noviembre de 2026
 Conoce
 Grandstream presenta cinco nuevos teléfonos IP GRP2600 Lite con aprovisionamiento zero-touch, GDMS y funciones para telefonía profesional. Descubre los modelos en vídeo.
-Read More
-Certificaciones Ubiquiti All in One en Barcelona: UFSP, UWA y URSCA del 16 al 18 de noviembre
-11 de noviembre de 2026
-Formación
-Tres certificaciones oficiales Ubiquiti en un curso presencial de tres días en Barcelona: UFSP, UWA y URSCA. Consulta programa, horarios e inscripción.
 Read More
 Paginación de entradas
 1
@@ -635,4 +635,4 @@ comunicaciones unificadas
 comunicado
 conectar gds con gswave
 conectividad
-conectividad 
+cone

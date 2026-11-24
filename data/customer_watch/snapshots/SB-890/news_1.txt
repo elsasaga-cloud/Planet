@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · news_1 · https://technopc.com.tr/haberler-medya/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-890 technopc.com.tr · news_1 · https://technopc.com.tr/haberler-medya/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Haberler & Medya
 Destek
 Teknik Destek Talep Formu
@@ -190,7 +190,7 @@ AI Server
 AI Workstation Notebook
 AI Endüstriyel Ürünler
 AI Medikal Endüstriyel PC
-Copyright 2025 All rights reserved. | KVKK Metni | Gizlilik Politikası | Çerez Politikası
+© 2026 Technopc. Tüm hakları saklıdır. | KVKK Metni | Gizlilik Politikası | Çerez Politikası
 FNP
 Kurumsal Ürünler
 Endüstriyel Ürünler
@@ -362,6 +362,7 @@ Technopc Tümleşik Araç Yönetim Sistemi AKS-200
 Endüstriyel Monitör Serisi
 Technopc Endüstriyel Monitör TPM Serisi
 Technopc Endüstriyel Monitör TPL Serisi
+Technopc Panel PC TPM1002
 Digital Signage Serisi
 Technopc OPS G5860S
 Technopc OPS PC TPOG12
@@ -469,5 +470,4 @@ Mustafa Kemal Mah. 2140. Sk. Gökçen Life Plaza A Blok Daire:2, No:17, 06510 Ç
 29/2 Niyazbek Road ,Yunusabod, Tashkent, Uzbekistan
 AI Workstation
 NVIDIA DGX Station GB300
-Technopc Pro Workstation WSTW3XW9W7D5
-NVIDIA DGX Spark GB10
+Technopc Pro Workstation WSTW3

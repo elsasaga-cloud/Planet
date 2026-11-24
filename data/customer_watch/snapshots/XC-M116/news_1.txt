@@ -1,4 +1,4 @@
-# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-23T10:56:18Z · HTTP 200
+# XC-M116 QL3D · news_1 · https://ql3d.fr/actualit%C3%A9s/category/1_home.html · fetched 2026-11-24T12:40:24Z · HTTP 200
 Toutes les catégories
 Accueil
 - Produits
@@ -394,6 +394,9 @@ Mon compte
 Actualités
 Blog
 Actualités
+23/11/2026
+Edge2Cloud : vos données Modbus dans le cloud, directement depuis le routeur Robustel.
+Compteurs, centrales de mesure, onduleurs, variateurs : vos équipements [...]
 03/11/2026
 Cas client QL3D – Éditeur de logiciel HACCP : plus de 30 000 capteurs Dragino D20-LB
 Logiciel HACCP : plus de 30 000 capteurs Dragino D20-LB pour automatiser [...]
@@ -409,9 +412,6 @@ AKCP x QL3D ont le plaisir de vous inviter à les rejoindre au salon Data [...]
 22/10/2026
 Surveillance environnementale : anticiper plutôt que subir les pannes de climatisation et de secteur (cas client)
 Pour un grand groupe hospitalier francilien, une solution de monitoring a [...]
-29/09/2026
-Surveiller à distance forages, puits et qualité de l'eau
-Un producteur français de jus de fruits voulait piloter ses ressources en [...]
 1
 2
 3
@@ -419,8 +419,8 @@ Un producteur français de jus de fruits voulait piloter ses ressources en [...]
 5
 Suivant
 Catégorie
-Actualités (48)
-Produits (3)
+Actualités (49)
+Produits (4)
 Les produits en un clin d'oeil (1)
 Cas clients (3)
 Evènements (3)
@@ -456,10 +456,10 @@ Utiliser un serveur SMTP public : Non recommandé
 Ethiopian Airlines améliore la logistique de la chaîne du froid grâce aux appareils STE2 R2 et au portail SensDesk (Article HW group)
 08/12/2023
 Articles récents
+Edge2Cloud : vos données Modbus dans le cloud, directement depuis le routeur Robustel.
+23/11/2026
 Cas client QL3D – Éditeur de logiciel HACCP : plus de 30 000 capteurs Dragino D20-LB
 03/11/2026
-Restauration collective : contrôler l'hygiène du lave-vaisselle sans relevé manuel avec DishSense
-02/11/2026
 Tags Post
 ste2
 surveillance
@@ -701,4 +701,4 @@ Accueil
 --- Switches PTP IEEE 1588 (Transparent & Boundary Clock)
 -- Débitmétrie & comptage
 --- Compteurs d’eau
---- Compteurs d’énerg
+--- 

@@ -1,4 +1,5 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-23T14:00:34+00:00	PLC Timer Nedir? Valf Üç Saniye Dolunca Nasıl Açılır?	https://www.youtube.com/shorts/VbbqxIFGS7g
 2026-11-21T14:00:35+00:00	Ladder Diyagram Nasıl Okunur? Kontak ve Bobin Ne İşe Yarar?	https://www.youtube.com/shorts/ablKYHdRnJo
 2026-11-19T14:00:39+00:00	PLC Programlama Nasıl Yapılır? Bir Cümle Programa Nasıl Dönüşür?	https://www.youtube.com/shorts/9jx776Y0_s0
 2026-11-17T14:00:39+00:00	PLC Scan Cycle Nedir? Sensör Gördü de PLC Neden Saymadı?	https://www.youtube.com/shorts/mWmORRLMu6s
@@ -13,4 +14,3 @@
 2026-02-07T13:52:05+00:00	Endüstriyel Ağda Yüksek Bant Genişliği ve Güvenlik | Hirschmann BOBCAT Switch	https://www.youtube.com/watch?v=42gU4B_fySg
 2026-02-04T11:10:06+00:00	Çelik ve Metal Üretiminde Veri Takibi Nasıl Yapılır? | PI Vision Dokum Uygulaması	https://www.youtube.com/watch?v=WaZ5Hx0AZEU
 2026-02-01T21:00:37+00:00	Rüzgar Türbini Arizasını Oluşmadan Önce Tespit Edin | AVEVA Predictive Analytics	https://www.youtube.com/watch?v=YgEeVOmV8rM
-2026-01-28T10:37:15+00:00	SCADA Verilerini Nasıl Anlamlandırırsınız? AVEVA PI System ile Endüstriyel Veri Analizi	https://www.youtube.com/watch?v=eIRCCeKCEus

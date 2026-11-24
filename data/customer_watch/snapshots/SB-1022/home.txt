@@ -1,4 +1,4 @@
-# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1022 danbit.dk · home · https://danbit.dk/da/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Danbit - Leverandør af IT-produkter til professionelle
 Velkommen til DANBIT - Dansk Binær Teknik A/S
 B2B – Kun handel med virksomheder
@@ -40,22 +40,22 @@ Vi tilbyder blandt andet:
 - Projektstøtte og projektarbejde
 - Faglig support gennem hele projektforløbet
 Kontakt Os
-26" ECDIS DNVGL-CG-0339, IACS-E10 Marine godkendt Panel-Monitor, 24VDC, PCAP Touch, format
-28.485,00 kr
-21,5" CPU I5, PCAP Panel PC FULD IP69K, SUS316/ASIS316 rustfrit stål 250 nits eller 1500 nits version
-0,00 kr
-15U Støjsvag 19" rackskab, 650 x 650 mm udv. mål, lydsvag Fan + Digital temp. regulering, sort
-14.924,00 kr
-NVIDIA® Jetson AGX Orin™ AI Embedded Computer, 2x Isolated CAN Bus, NVIDIA Ampere™ arkitektur GPU med 56 Tensor Cores
-0,00 kr
+IP68 anti-bakteriel silikonetastatur med Track Point - USB - LED baggrundslys, Nordisk tegnsæt
+836,00 kr
 13MP 4K Industrikamera Dual Band Wifi, POE, Fast fokus med M12 linsefatning
+0,00 kr
+Wi-Fi-kamera 13 MP (4K) farve med AR1335-sensor, PoE, HDR og lavlys
 0,00 kr
 27" touchskærm med høj lysstyrke, 1000 nits, IP65, HDMI/VGA/USB-C
 7.245,00 kr
+21,5" CPU I5, PCAP Panel PC FULD IP69K, SUS316/ASIS316 rustfrit stål 250 nits eller 1500 nits version
+0,00 kr
+8-ports Managed Switch RJ45, PoE++ 2-ports 100 / 1000Mbit og 2-ports 10Gbit SFP-slot, DIN, 48 - 56VDC
+6.527,00 kr
+32" IP66 TFT-skærm 6 sider IP66 tæt, Optical Bonded, PCAP touch, 1000 nits i rustfrit stål
+30.578,00 kr
 Armeret fiberkabel, Multi mode, SC-SC, 50m, 50/125my, OM3, Aquafarvet, LSZH
 1.457,00 kr
-15,6" 12. gen. notebook, Intel® Alder Lake-processo, i5, TPM 2.0, RS232, 2xRJ45, 3xUSB 3.0, IP65 800Nits
-0,00 kr
 Erfaring & ekspertise
 50+ års erfaring med tekniske løsninger og rådgivning.
 Kvalitetsprodukter
@@ -102,10 +102,6 @@ Adgangskontrol med brik: kort, læsere og låse
 Hvilken brik er sikker, hvordan forbindes læseren, og hvornår skal låsen være fail-safe? En faglig gennemgang af adgangskontrol til erhverv.
 Magnetkort, Strekkode, NFC
 Nye produkter
-4-ports USB KM-switch med USB HID-understøttelse og Mouse Roaming, deler tastatur og mus på tværs af 4 pc'er
-988,00 kr
-USB-C/DisplayPort KVM Extender 4K60Hz, 100W PD 3.0, 160m CAT5e/6 eller 20km fiber
-Ring +45 56 66 20 20 for pris
 12.2 Robust Tablet-PC med Windows 11 Pro, Intel Core i5-1235U, Touchskærm til industri og jernbane
 Ring +45 56 66 20 20 for pris
 Trådløs trackball mus, 6 programmerbare knapper, 34 mm kugle, 750/1500 DPI, ergonomisk, sort
@@ -121,6 +117,10 @@ Mini dome-netværkskamera 8MP, IR 15 m, fast linse 2.8 mm, mikrofon, IP66
 19 Open Frame Touch Monitor, TFT-LCD med projiceret kapacitiv touch, 1x DisplayPort, 1x HDMI®, 1x VGA
 Ring +45 56 66 20 20 for pris
 Fanless Edge AI Box PC med NVIDIA Jetson AGX Orin 32GB, 4x PoE+, 8K-skærm (64GB-version på bestilling)
+Ring +45 56 66 20 20 for pris
+IP69K vandtæt blæserløs computer med Intel® Amston Lake CPU, M12-stik, -40~70°C
+Ring +45 56 66 20 20 for pris
+Robust Edge AI-computer med Intel Core Ultra 200S, 150W NVIDIA RTX GPU, PoE og 10GbE
 Ring +45 56 66 20 20 for pris
 Levering
 Salgs og leveringsbetingelser

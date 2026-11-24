@@ -1,4 +1,4 @@
-# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-434 s-connect.es · home · https://s-connect.es/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 S-Connect - Su socio para el IoT
 Iniciar sesión
 o
@@ -162,9 +162,12 @@ Telemática embebida y gestión de flotas
 IA embebida para vehículos (In-Vehicle AI)
 Conectividad 5G para vehículos de bomberos
 Vehículos policiales conectados
-Sistema Edge AI para AGV y AMR
+Conectividad sanitaria móvil
+Autobuses escolares conectados
+Vehículos de mantenimiento conectados
 Arquitectura ferroviaria inteligente (Moxa)
 Ferrocarril inteligente (Sintrones)
+Sistema Edge AI para AGV y AMR
 Sistema de vigilancia para vehículos de emergencia
 Sector marítimo
 Sistema de navegación marítima inteligente

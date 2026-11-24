@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 KBC Networks - BLOG
 PRODUCTS
 NETWORK SWITCHES
@@ -13,6 +13,9 @@ FIBER SOLUTIONS
 KBC NEXUS™
 NEW
 Secure Infrastructure Networking and Management Platform
+Find out more
+NEW
+Control without the complexety of Management
 Find out more
 NEW
 NEW IP and PoE++ over Coax with up to 90W PoE and over 1km distance
@@ -193,7 +196,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Phone
+Email
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -334,12 +337,4 @@ Liberia
 Libyan Arab Jamahiriya
 Liechtenstein
 Lithuania
-Luxembourg
-Macao
-Macedonia
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Ma
+Luxembo

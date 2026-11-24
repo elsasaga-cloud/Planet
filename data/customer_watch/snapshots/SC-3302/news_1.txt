@@ -1,4 +1,4 @@
-# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-3302 niveoprofessional.com · news_1 · https://www.niveoprofessional.com/news/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 News & Blog | Niveo Professional
 Skip to content
 Menu
@@ -12,11 +12,14 @@ Where to Buy
 Get Design Help Subscribe
 Home / News & Blog FIELD NOTES News & Blog
 Niveo news, technical articles, and design evidence for AV and broadcast projects.
-All News Design Guide Troubleshooting Design Evidence
+All News News archive Design Guide Troubleshooting Design Evidence Historical article
 Subscribe via RSS
 News · February 2–5, 2027 Meet Niveo at ISE 2027
 Meet Niveo Professional at ISE 2027 in Barcelona to discuss switching and network design for professional AV and broadcast.
 View event
+November 11, 2026 · News archive · 1 min read InfoComm 2026: Scaling SDVoE from meeting rooms to broadcast
+Arthur de Jager discusses the Niveo Professional switch portfolio and SDVoE applications at InfoComm 2026.
+Read article
 Design Guide · 5 min read How to size uplinks for an SDVoE network
 Count the flows that can cross each link at the same time. A device count alone cannot tell you where the network will run out of capacity.
 Read article
@@ -28,6 +31,51 @@ A topology, traffic matrix, and failure scenarios make it possible to review a m
 Read article
 Design Evidence · Project story Qatar Development Bank
 Sonic Electronics upgraded the Qatar Development Bank auditorium for presentations, training, webinars, and executive meetings.
+Read article
+March 4, 2025 · News archive · 2 min read Just Add Power AMP now supports select Niveo Professional switches
+An archived announcement of AMP support for selected Niveo Professional switches.
+Read article
+March 4, 2025 · News archive · 3 min read Just Add Power to amp up the AV-over-IP experience at ISE 2025
+A look back at Just Add Power’s product announcements for ISE 2025.
+Read article
+April 25, 2024 · News archive · 1 min read Niveo AVB preconfigured switch
+The April 2024 announcement of Niveo Professional’s preconfigured AVB switch.
+Read article
+January 26, 2024 · News archive · 1 min read Niveo Professional at Hamburg Open 2024
+A look back at Niveo Professional’s appearance at Hamburg Open in January 2024.
+Read article
+August 18, 2023 · News archive · 1 min read SDVoE Academy course
+An August 2023 introduction to an SDVoE Academy training resource.
+Read article
+July 19, 2023 · News archive · 1 min read Niveo Professional joins the SDVoE Alliance
+Niveo Professional’s July 2023 announcement of joining the SDVoE Alliance as an adopting member.
+Read article
+July 19, 2023 · News archive · 1 min read Niveo Professional – nowa marka w ofercie Konsbud Audio
+An archived Polish-language announcement of Niveo Professional joining the Konsbud Audio offering.
+Read article
+June 23, 2023 · News archive · 1 min read InfoComm 2023: Niveo Professional reveals L2 full-management Ethernet PoE switch
+Arthur at InfoComm 2023, with the original video report.
+Read article
+May 5, 2022 · News archive · 1 min read New AVB switch
+The original announcement introducing the NGSME9AVB switch in May 2022.
+Read article
+June 5, 2020 · Historical article · 1 min read Networking for easy and profitable installations
+A June 2020 recap of the Niveo workshop on networking, Wi-Fi and remote management for profitable installations.
+Read article
+May 1, 2020 · Historical article · 3 min read What type of UPS to use and why it is relevant to AV
+Why UPS protection matters for AV installations and how different UPS designs address power interruptions.
+Read article
+April 8, 2020 · Historical article · 3 min read Working from home?
+Practical advice from April 2020 for improving video conferencing while working from home.
+Read article
+April 3, 2020 · Historical article · 3 min read Taking wireless networking to the next level
+How Niveo approached wireless networking design, installation and remote management.
+Read article
+March 27, 2020 · Historical article · 6 min read How secure are your AV installations?
+An archived guide to security considerations for AV networks, including access, passwords and connected devices.
+Read article
+March 24, 2020 · Historical article · 1 min read Zero-config Video-over-IP switches
+An archived introduction to Niveo Professional’s zero-config Video-over-IP switch range.
 Read article
 Design Evidence · Partner compatibility Just Add Power AMP
 Check listed Niveo models, system limits, and minimum firmware on the partner's own compatibility table.

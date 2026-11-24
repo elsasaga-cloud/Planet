@@ -1,4 +1,5 @@
-# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-678 qntmnet.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCE6kjBkYI6dwzp5i_QLQbMQ · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24T11:26:31+00:00	The backbone of your network deserves precision.	https://www.youtube.com/shorts/Z8axrY7bxxY
 2026-11-21T13:42:58+00:00	An old account.An unchecked device?	https://www.youtube.com/shorts/IIv3Smest34
 2026-11-07T06:30:18+00:00	A session log should answer the questions that matter.	https://www.youtube.com/shorts/xIt0E_t0aro
 2026-11-04T07:30:15+00:00	A campus network is tested when everyone comes online at once.	https://www.youtube.com/shorts/_9a2MtyPG8E
@@ -13,4 +14,3 @@
 2026-09-05T05:30:30+00:00	An unknown device should not turn into a midnight investigation.	https://www.youtube.com/shorts/p6Yzkt_59L4
 2026-09-02T05:18:41+00:00	Shared passwords, unmanaged devices, or Access Traditional VPNs create hidden vulnerabilities.	https://www.youtube.com/shorts/y0JuvnXEkPg
 2026-08-27T13:17:39+00:00	Temporary access shouldn’t turn permanent.	https://www.youtube.com/shorts/oR_Zxw15vb8
-2026-06-18T13:34:25+00:00	Unknown Devices on Your Network? Here's What You're Missing	https://www.youtube.com/shorts/mip5FuGkKIE

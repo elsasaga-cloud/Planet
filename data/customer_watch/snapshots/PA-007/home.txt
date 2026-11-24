@@ -1,4 +1,4 @@
-# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Alarm Absolon - dodavatel bezpečnostních technologií | Absolon.cz
 ×
 Z důvodu uzavírky části ulice Šaldova v úseku od Rohanského nábřeží doporučujeme při cestě na naši pražskou pobočku využít náhradní trasu přes ulici Thámova nebo Sokolovská.
@@ -34,22 +34,10 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Akce
-DS-PD501PC12
-Hikvision
+RKZ 121
+ASITA
 Skladem
-Drátový AX PRO PIR detektor DS-PD501PC12 Hikvision kombinovaný s integrovanou FullHD kamerou. SEC, AES-128, PET 24Kg. Dosah a úhel detekce je 12m a 90°. Úhel záběru kamery je 109° a IR přísvit 12m. ....
-Pro zobrazení ceny se přihlaste
-Akce
-RW432P
-RISCO
-Skladem
-Sada ústředny LightSYS Air, obsahuje ústřednu v bílé barvě, 4G GSM komunikátor, bezdrátový pohybový detektor s Pet imunitou, bezdr. magnetický kontakt a čtyřtlačítkový dálkový ovladač, včetně všech baterií.
-Pro zobrazení ceny se přihlaste
-Akce
-RWX350D
-RISCO
-Skladem
-Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
+Montážní krabice pod omítku s 8 pájecími dvojsvorkami Asita RKZ 121
 Pro zobrazení ceny se přihlaste
 Akce
 DS-PR501-HWE
@@ -58,22 +46,34 @@ Skladem
 Bezdrátový přijímač Tri-X DS-PR501-HWE kompatibilní s ústřednou AX Hybrid Pro k rozšíření bezdrátových možností ústředny. Zařízení podporuje připojení až 32 bezdrátových detektorů, 8 bezdrátových vnitřních...
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PZ501SHL-P
-Hikvision
+SC 30AH
+Dexon
 Skladem
-AX HYBRID PRO plastový box, prostor pro aku 7Ah, 2x slot na expandér
+SC 30AH reentrantní reproduktor, 30 W / 100 V, 250 – 14 000 Hz, 109 dB
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PM501Z8T4
+DS-PA502-96
 Hikvision
 Skladem
-AX HYBRID PRO expander; 8 zón; 4x PGM výstup
+AX PRO hybridní ústředna DS-PA502-96, 96 vstupů, 48 oblastí, PIR CAM: max 36, Klávesnice max 24, Ethernet 10/100 Mbps , Wi-Fi 2,4GHz 802.11b/g/n, 1x Tamper
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PC502S
+JA-156E-GR
+Jablotron
+Skladem
+Bezdrátová dotyková klávesnice s čtečkou - šedý Jablotron JA-156E
+Pro zobrazení ceny se přihlaste
+Akce
+6701W/8
+Comelit
+Skladem
+Barevný 4,3" monitor Mini se sluchátkem a 8-mi tlačítky pro systém Comelit Simplebus včetně terminálu 1214/2C. Bílé provedení, 8 dotykových tlačítek. Rozměry: 175x160x22mm.
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PD501PC12
 Hikvision
 Skladem
-Komunikační 4G modul DS-PC502S pro ústřednu řady AX Hybrid Pro. Podpora SMS, hlasových hovorů a mobilních dat. Sloty SIM 2
+Drátový AX PRO PIR detektor DS-PD501PC12 Hikvision kombinovaný s integrovanou FullHD kamerou. SEC, AES-128, PET 24Kg. Dosah a úhel detekce je 12m a 90°. Úhel záběru kamery je 109° a IR přísvit 12m. ....
 Pro zobrazení ceny se přihlaste
 Akce
 DS-PS1-II-WE (RED)
@@ -82,30 +82,28 @@ Skladem
 Bezdrátová vnitřní siréna AXPro DS-PS1-II-WE s červeným blikačem a obousměrnou hlasovou komunikací. Obousměrná komunikace 868MHz šifrování AES-128, dosah až 1000m, výkon 110dB, 2x tamper. Provozní teplota: ...
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PR531-3A
-Hikvision
-Skladem
-AX HYBRID PRO napájecí zdroj 3A v boxu, prostor pro aku 7Ah
-Pro zobrazení ceny se přihlaste
-Akce
-RW132I04
+RWX350D
 RISCO
 Skladem
-Bezdrátový expandér 4 vstupů a 4 výstupů a 16ti x10 zařízení
+Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
 Pro zobrazení ceny se přihlaste
 Akce
-DS-KIS202T
-Hikvision
-1 823 Kč bez DPH
-3 647 Kč bez DPH
+RWX107DT
+RISCO
 Skladem
-Analogová sestava video interkomu Hikvision pro 1 uživatele. Venkovní tablo s pinhole 1/2.7" CMOS kamerou 1920x1080, barevný LCD monitor 7" s rozlišením 800x480. Povrchová montáž, propojení venkovní stanice...
-Do košíku
+Obousměrně komunikující venkovní bezdrátový PIR + MW detektor Risco se záclonovou charakteristikou s dosahem 12m. Napájení 1x baterie CR123A (v balení).
+Pro zobrazení ceny se přihlaste
 Akce
-MV-8
-Vodak
+DS-PWA96-M-WE/BLACK
+Hikvision
 Skladem
-MV-8 - Zkušební plyn pro optickokouřové požární hlásiče
+HIKVISION AXpro DS-PWA96-M-WE v černé barvě, Bezdrátová ústředna, 96 vstupů, Wi-Fi, TCP/IP, GPRS/3G/4G, AES-128, Tri-X. 96 bezdrátových vstupů, Až 48 připojitelných bezdrátových klíčenek, 4 opakovače, 6...
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PD512DT15
+Hikvision
+Skladem
+Drátový detektor DS-PD512DT15 Hikvision je duální pohybový detektor kombinující PIR senzor a mikrovlnnou technologii pro přesné a spolehlivé vyhodnocení pohybu.
 Pro zobrazení ceny se přihlaste
 dalsi
 Novinky
@@ -113,78 +111,77 @@ predchozi
 Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
-Měření teploty
 Novinka
-HM-TP23-7QF/WF/W-M31
-Hikmicro
+DS-XS6606-S/B
+Hikvision
 Na objednání
-Termokamera Hikvision Hikmicro M31 s teplotním rozsahem -20°C až +650°C. 3,5" LCD displej, Wi-Fi, Bluetooth,USB-C, IP54, výdrž 4 hodiny, měření v infračerveném i viditelném spektru, automatické vyhodnocení...
+6U rozložený nástěnný rozvaděč (Rack) od výrobce Hikvision o rozměrech 370 x 600 x 600 mm. 19" standard s maximální nosností 40 kg. Rozvaděč je určený k zavěšení na stěnu. Rack disponuje prosklenými dveřmi s...
 Pro zobrazení ceny se přihlaste
 Novinka
-DING2-12V3A
+TL-SL1218P
+TP-Link
+Skladem
+18-portový neřízený PoE switch TP-link s 16x PoE+ porty, max. výkon 150W s (30W na port). extend modu do 250m. 16x RJ-45 10/100Mbps, 2x RJ-45 1Gbps a 1x kombinovaný SFP 1Gbps port .Napájení 230V AC.
+Pro zobrazení ceny se přihlaste
+Novinka
+JB-151TP
+Jablotron
+Na objednání
+Bezdrátový pokojový termostat Jablotron JB-151TP. Ovládá standardní PGM výstupy ústředny JA100+
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-2CD1043G3-LIU(2.8mm)
+Hikvision
+Skladem
+4MPx IP hybridní venkovní bullet kamera Hikvision s fixním objektivem 2,8 mm, CMOS 1/3", citlivost 0,003lux, H.265+/H.265/H.264+/H.264, 120 dB WDR, 3D DNR, BLC, HLC, Přísvit LED + IR až 30 m, mikrofon, IP67,...
+Pro zobrazení ceny se přihlaste
+Novinka
+EXT-POEG3DIN
 Pulsar
-Na objednání
-Spínaný záložní zdroj 13,8VDC/3,5A na DIN lištu. V souladu s normou EN50131 Grade2. Tlačítko pro start z AKU. Max kapacita připojitelného AKU 20Ah. max dobíjecí proud AKU 1A. Ochrana SCP, OLP, OVP, UVP....
+Skladem
+4 portový PoE extender s možností napájet 3 IP zařízení současně do maximálního výkonu 25 W s výkonem na jeden port max. 25 W, v případě zapojení všech portů 6,25W. 1x 1 Gbps PoE vstup a 3x 1 Gbps PoE výstup...
 Pro zobrazení ceny se přihlaste
 Novinka
-HIKVISION HDD 1TB DS-10HKVS-VX2
+DS-4603ZJ-WAAC
 Hikvision
-Skladem
-Pevný disk DS-10HKVS-VX2 od výrobce Hikvision s kapacitou 1TB určený pro trvalý provoz v záznamových zařízení pro kamerové systémy. Tento disk je vhodnější než klasické disky, které nejsou konstruovány na...
-Pro zobrazení ceny se přihlaste
-Novinka
-3S700F
-Eaton
 Na objednání
-Záložní zdroj Eaton, mini-tower UPS, offline, výkon 700VA,/420W, vstup 1,5 kabel s FR zástrčkou, výstup 8x zásuvka FR (z toho 4x pouze přepětí), 2x USB nabíjecí port, ochrana ethernetové a telefoní linky,...
+Nástěnná konzole DS-4603ZJ-WAAC pro PTZ kamery. Materiál je slitina hliníku. Držák je bílý o rozměrech 180 x 97 x 329 mm a hmotnosti 1.39 kg.
 Pro zobrazení ceny se přihlaste
 Novinka
-TL-SG2218P
-TP-Link
+20004153
+Comelit
 Na objednání
-18-portový řízený PoE switch TP-link s možností napájet až 16 IP zařízení, PoE+ 802.3at/af, max. výkon 150W (max 30W na port). Přepínací kapacita 36Gb/s. 16x RJ45 1Gbps, 2x SFP 1Gbps. Napájení 230V AC. Omada...
+Venkovní sensor teploty PT100 připojitelný k modulu 20004140 domácí automatizace Comelit Simplehome. Rozsah měřených teplot -30 až +90°C, UV odolný plastový box, IP65, rozměry: 72 x 64 x 37.8 mm
 Pro zobrazení ceny se přihlaste
 Novinka
-HAC-HDBW1200E-0280B
-Dahua Technology
-Na objednání
-2MPx multiformátová 4v1 venkovní dome kamera Dahua s monofokálním objektivem a ohniskovou vzdáleností 2,8 mm. 0,02lux 1920 x 1080@25fps. DWDR,2D NR, BLC, HLC,. IR přísvit do 30m.IP67 IK10. Napájení 12V DC....
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-1280ZJ-DM46
-Hikvision
-Skladem
-Montážní patice kamery DS-1280ZJ-DM46, hliníková slitina, boční a zadní výstup, vnitřní a vnější instalace, pr. 120x37.2mm, zatížení 4.5kg, hmotnost 250g
-Pro zobrazení ceny se přihlaste
-Novinka
-HS-TF-P1 256G
-Hiksemi
-Skladem
-Paměťová karta micro SDXC od výrobce Hiksemi s kapacitou 256 GB. Rychlostní třída: 10, U3, V30. Rychlost čtení 100 MB/s, rychlost zápisu 88 MB/s. Karta je konstruována na provoz 24/7.
-Pro zobrazení ceny se přihlaste
-Novinka
-TL-FC311B-20
-TP-Link
-Na objednání
-Gigabitový média konvertor TP-link slouží k převodu vedení signálu mezi metalickou a optickou kabeláží. odesílání a příjem dat pomocí jednoho optického vedení, a také automatické vyjednávání poloduplexního /...
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-1276ZJ-SUS
+DS-2CE12UF3T-LSYE(2.8mm)
 Hikvision
 EU sklad, obvykle 7-10 dnů
-Rohový držák Hikvision DS-1276ZJ-SUS. Barevné provedení -bílé. Držák rozšiřuje zorné pole kamer. Při venkovním použití je zapotřebí použít voděodolnou těsnící gumu. Maximální nosnost držáku činí 10 Kg při...
+8MPx TVI ColorVu hybridní venkovní bullet kamera Hikvision s fixním objektivem a ohniskovou vzdáleností 2.8 mm. 0,0005lux, 3840 x 2160 @12,5fps. 130 dB WDR, 3D DNR, BLC, HLC, HLS. IR i LED do 40 m. Mikrofon,...
 Pro zobrazení ceny se přihlaste
 Novinka
-Osobní rušička GPS signálu (10m)
-Cyber
-Na objednání
-Osobní rušička GPS signálu - (10m)
+TL-SG105PP-M2
+TP-Link
+Skladem
+5 portový neřízený PoE switch TP-link s možností napájet až 4 zařízení současně díky PoE++ portům 802.3af/at/bt do maximálního výkonu 123W s výkonem na jeden port maximálně 60W. RJ-45 s rychlostí až 2,5Gb/s...
 Pro zobrazení ceny se přihlaste
 Novinka
-Patch kabel CAT5E UTP PVC 2m červený snag-proof C5E-114RD-2MB
-Solarix
+Stropní TV držák Vogel's DCM1-22, VESA 200 max
+Vogels
 Na objednání
-Nestíněný patch kabel Solarix kategorie 5E, provedení UTP, se snag-proof ochranou konektorů, plášť PVC červené barvy. Délka kabelu 2m
+Stropní držák od výrobce Vogel's pro TV a monitory s hmotností až 30kg. Standard VESA - 75x75 až 200x200. Nastavitelná délka tyče 935-1475m, adaptér umožňuje sklon 15° a otočení o 360°
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-KV8114-KWE1
+Hikvision
+Na objednání
+Venkovní dveřní stanice Hikvision DS-KV8114-KWE1 kombinuje pokročilé technologie kontroly vstupu a AI funkce. Nabízí 4MP kameru, několik způsobů ověření uživatele včetně rozpoznání obličeje, karty, Bluetooth...
+Pro zobrazení ceny se přihlaste
+Novinka
+HL TRZM8
+HL system
+Na objednání
+Trapézový závěs s pevnou maticí M8, galvanicky pozinkováno, GZ
 Pro zobrazení ceny se přihlaste
 dalsi
 Reference

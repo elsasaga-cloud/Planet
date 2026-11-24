@@ -1,4 +1,4 @@
-# SB-505 eso.co.th · sitemap · https://www.eso.co.th/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-505 eso.co.th · sitemap · https://www.eso.co.th/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 	https://www.eso.co.th
 2022-08-13T00:00:24+07:00	https://www.eso.co.th/contactus
 2022-08-13T00:01:49+07:00	https://www.eso.co.th/support
@@ -133,6 +133,7 @@
 2026-01-06T23:54:08+07:00	https://www.eso.co.th/category/9342/21/hmi
 2026-01-10T17:35:24+07:00	https://www.eso.co.th/vibrationsensors-prowave
 2026-09-12T11:26:57+07:00	https://www.eso.co.th/categorycontent/7779/scr-ssr
+2026-11-19T22:37:13+07:00	https://www.eso.co.th/careers
 2023-06-22T10:23:52+07:00	https://www.eso.co.th/category/9281/solinoid-valve
 2023-06-22T10:23:52+07:00	https://www.eso.co.th/category/9282/flow-meter
 2023-06-22T10:23:52+07:00	https://www.eso.co.th/category/9283/weighing-system
@@ -165,5 +166,4 @@
 2025-01-12T11:20:06+07:00	https://www.eso.co.th/category/12350/1468/laser-distance-sensors
 2025-01-12T11:20:06+07:00	https://www.eso.co.th/category/12350/1469/proximity-sensors
 2025-01-12T11:20:06+07:00	https://www.eso.co.th/category/12350/1471/level-measurements
-	https://www.eso.co.th/category/12395/1495/ฮีตเตอร์-แบบสายไฟ
-20
+	https:

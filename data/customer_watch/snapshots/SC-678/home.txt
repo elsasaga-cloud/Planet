@@ -1,4 +1,4 @@
-# SC-678 QVIS · home · https://qvis.co.uk/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-678 QVIS · home · https://qvis.co.uk/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Home |
 { scrolled = window.scrollY > 100 })"
 :class="scrolled ? 'bg-brand-light-blue shadow-md' : 'bg-transparent shadow-0'">

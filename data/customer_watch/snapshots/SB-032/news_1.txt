@@ -1,4 +1,4 @@
-# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-032 PIOLINK · news_1 · https://www.piolink.com/en/company/News.php · fetched 2026-11-24T12:40:24Z · HTTP 200
 PIOLINK - News
 Skip to main content
 Skip to main menu
@@ -86,6 +86,11 @@ No.
 분류
 제목
 작성일
+205
+PIOLINK Signs Strategic MOU with Vietnam's VSEC to Expand Its Business in Vietnam - Partners with a local provider of internationally accredited security operations to drive market development and technology collaboration
+- Combines application and network security technologies with local SOC and penetration testing expertise to open
+2026-11-24
+Press Releases
 204
 PIOLINK Launches Wi-Fi 7 Wireless AP for Reliable Connectivity in High-Density Indoor Environments - Supports up to 17.982Gbps, 2.4 times the performance of Wi-Fi 6
 - Deploys and runs as a standalone AP, with no separate controller required
@@ -143,10 +148,6 @@ Press Releases
 191
 PIOLINK Appoints Ex-IBM Executive Myung-ki Jang as Head of Business Division to Bolster Sales Competitiveness
 2026-01-07
-Press Releases
-190
-[2026 Spotlight: Security Leader] PIOLINK Focuses on Strengthening "Cyber Resilience"
-2026-01-01
 Press Releases
 1 2 3 4 5 6 7 8 9 10
 Share this page

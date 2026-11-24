@@ -1,4 +1,4 @@
-# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 MikroTik & Ubiquiti Network Equipment | Baltic Networks
 Skip to content
 MikroTik WiFi 7 Giveawy by Baltic Networks
@@ -120,8 +120,6 @@ View All
 Shop
 MikroTik
 View All
-Save 0 %
-Save %
 MikroTik Intercell 10 B38+B39 Outdoor TDD-LTE Dual Carriers Base Station for Bands 38 and 39 [P02003-B38B39-10W]
 Original price
 $3,500.00
@@ -137,8 +135,6 @@ $3,500.00
 | /
 The MikroTik Intercell 10 B38+B39 [P02003-B38B39-10W] is an outdoor TDD-LTE dual carriers base station with 2*(2*10W) output power (each carrier su...
 View full details
-Save 11 %
-Save %
 MikroTik CCR2216-1G-12XS-2XQ Cloud Core Router with 12x 25G SFP28 and 2x 100G QSFP28
 Original price
 $2,795.00
@@ -158,8 +154,6 @@ $2,495.00
 | /
 The MikroTik CCR2216-1G-12XS-2XQ is a high-performance Cloud Core Router designed for networks that require extremely fast fiber connectivity, larg...
 View full details
-Save 10 %
-Save %
 MikroTik CRS520-4XS-16XQ-RM 100G Switch with 16x QSFP28, 4x 25G SFP28 and 2x 10G Ethernet
 Original price
 $2,195.00
@@ -179,8 +173,6 @@ $1,975.00
 | /
 The MikroTik CRS520-4XS-16XQ-RM is a high-density 100 Gigabit switch for data centers, ISP aggregation, and enterprise networks. With sixteen 100G ...
 View full details
-Save 8 %
-Save %
 MikroTik ROSE Data Server (RDS) [RDS2216-2XG-4S+4XS-2XQ]
 Original price
 $1,950.00
@@ -200,8 +192,6 @@ $1,799.00
 | /
 The MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ) is an all-in-one enterprise platform for storage, networking, containers, and virtualized wo...
 View full details
-Save 9 %
-Save %
 MikroTik CRS518-16XS-2XQ-RM 16-Port 25G SFP28 Switch with 2 × 100G QSFP28 Uplinks
 Original price
 $1,595.00
@@ -221,8 +211,6 @@ $1,450.00
 | /
 The MikroTik CRS518-16XS-2XQ-RM is a high-density switch designed for enterprise distribution, data center connectivity, and high-capacity aggregat...
 View full details
-Save 8 %
-Save %
 MikroTik CRS804 DDQ Cloud Router Switch [CRS804-4DDQ-hRM]
 Original price
 $1,295.00
@@ -243,8 +231,6 @@ $1,195.00
 Pre-order: Orders will ship when inventory becomes available.
 The MikroTik CRS804 DDQ Cloud Router Switch (CRS804-4DDQ-hRM) is a compact 400 Gi...
 View full details
-Save 8 %
-Save %
 Mikrotik CRS812 DDQ Cloud Router Switch [CRS812-8DS-2DQ-2DDQ-RM]
 Original price
 $1,295.00
@@ -265,8 +251,6 @@ $1,195.00
 Pre-order: Orders will ship when inventory becomes available.
 The MikroTik CRS812 DDQ Cloud Router Switch (CRS812-8DS-2DQ-2DDQ-RM) is a high-pe...
 View full details
-Save 8 %
-Save %
 MikroTik CCR2116-12G-4S+ Cloud Core Router with 12x Gigabit Ethernet and 4x 10G SFP+
 Original price
 $995.00
@@ -286,8 +270,6 @@ $915.00
 | /
 The MikroTik CCR2116-12G-4S+ is a high-performance Cloud Core Router built for large ISPs and demanding networks that require powerful routing perf...
 View full details
-Save 10 %
-Save %
 MikroTik CRS326-4C+20G+2Q+RM Cloud Router Switch w/ 2.5 Gigabit Ethernet and 40 Gbps QSFP+
 Original price
 $999.00
@@ -307,8 +289,6 @@ $900.00
 | /
 The MikroTik CRS326-4C+20G+2Q+RM is a top-of-the-line switch with incredible 2.5 Gigabit port density, combo ports, and even a pair of 40 Gbps QSFP...
 View full details
-Save 10 %
-Save %
 MikroTik CRS510-8XS-2XQ-IN 8-Port 25G SFP28 Switch with 2 × 100G QSFP28 Uplinks
 Original price
 $999.00
@@ -342,7 +322,6 @@ A powerful, efficient, and cost-effective way to bring 50G, 200G, and 400G into 
 hAP ax³
 Gen 6 wireless, 2.5 Gigabit Ethernet, PoE, WPA3, and more!
 MikroTik CRS354-48P-4S+2Q+RM 48-Port PoE Gigabit Switch with 10G & 40G Uplinks
-Save 11 %
 Original price
 $999.00
 Original price
@@ -366,8 +345,6 @@ View All
 Shop
 Ubiquiti
 View All
-Save 0 %
-Save %
 Ubiquiti Cloud Key Enterprise [CK-Enterprise]
 Original price
 $4,999.00
@@ -384,8 +361,6 @@ $4,999.00
 The Ubiquiti Cloud Key Enterprise [CK-Enterprise] is a UniFi Network Console platform specifically designed for massive scale.
 Manage 1000+ UniFi N...
 View full details
-Save 0 %
-Save %
 Ubiquiti UniFi Enterprise Campus 48 PoE Switch, 2150W [ECS-48-PoE]
 Original price
 $3,499.00
@@ -401,25 +376,6 @@ $3,499.00
 | /
 The Ubiquiti UniFi Enterprise Campus 48 PoE Switch [ECS-48-PoE] is an enterprise-grade, Layer 3 Etherlighting™ PoE switch with (16) 2.5 GbE PoE+++,...
 View full details
-Save 0 %
-Save %
-Ubiquiti airFiber 24GHz PtP 2Gbps+ Backhaul Radio (half link) (US Version) [AF-24HD-US]
-Original price
-$3,000.00
--
-Original price
-$3,000.00
-Original price
-$3,000.00
--
-$3,000.00
-Current price
-$3,000.00
-| /
-Half-link, need to purchase 2 units of this product to make a complete linkairFiber is revolutionary 24GHz Point-to-Point radio from Ubiquiti Netwo...
-View full details
-Save 0 %
-Save %
 Ubiquiti UniFi Enterprise Audio/Video Fiber [EAV-Fiber]
 Original price
 $2,999.00
@@ -435,8 +391,6 @@ $2,999.00
 | /
 The Ubiquiti UniFi Enterprise Audio/Video Fiber [EAV-Fiber] is an Enterprise Audio/Video switch with (20) 10G SFP+ and (2) 100G QSFP28 uplinks. Sup...
 View full details
-Save 0 %
-Save %
 Ubiquiti Access Point AC SHD (5-Pack) (US) [AP-AC-SHD-5-US]
 Original price
 $2,649.00
@@ -452,8 +406,6 @@ $2,649.00
 | /
 The Ubiquiti Access Point AC SHD [AP-AC-SHD-5-US] is a four-stream, 802.11ac Wave 2 access point with a dedicated network security radio.The Access...
 View full details
-Save 0 %
-Save %
 Ubiquiti UniFi Pro XG Aggregation [USW-Pro-XG-Aggregation]
 Original price
 $2,499.00
@@ -469,8 +421,6 @@ $2,499.00
 | /
 The Ubiquiti UniFi Pro XG Aggregation [USW-Pro-XG-Aggregation] is a professional-grade 32-port, Layer 3 Etherlighting™ switch for high-capacity 25G...
 View full details
-Save 0 %
-Save %
 Ubiquiti UISP Fiber OLT XGS [UISP-FIBER-OLT-XGS]
 Original price
 $2,499.00
@@ -486,8 +436,6 @@ $2,499.00
 | /
 The Ubiquiti UISP Fiber OLT XGS [UISP-FIBER-OLT-XGS] is an eight-port optical line terminal that can deliver 10 Gbps uplink/downlink speeds to over...
 View full details
-Save 0 %
-Save %
 Ubiquiti UniFi E7 Audience Access Point US [E7-Audience-US]
 Original price
 $1,999.00
@@ -503,8 +451,6 @@ $1,999.00
 | /
 The Ubiquiti UniFi E7 Audience Access Point US [E7-Audience-US] is an enterprise-grade, indoor/outdoor access point designed for high-density envir...
 View full details
-Save 0 %
-Save %
 Ubiquiti UniFi Gateway Enterprise [UXG-Enterprise]
 Original price
 $1,999.00
@@ -520,8 +466,6 @@ $1,999.00
 | /
 The Ubiquiti UniFi Gateway Enterprise [UXG-Enterprise]is a 25G independent gateway with multi-WAN load balancing, 12.5 Gbps IPS routing, and redund...
 View full details
-Save 0 %
-Save %
 Ubiquiti UniFi E7 Audience Indoor Access Point (US) [E7-Audience-Indoor-US]
 Original price
 $1,999.00
@@ -537,9 +481,22 @@ $1,999.00
 | /
 The Ubiquiti UniFi E7 Audience Indoor Access Point (US) [E7-Audience-Indoor-US] is an enterprise-grade access point designed for high-density envir...
 View full details
+Ubiquiti UniFi Protect G4 PTZ High-Performance Pan-Tilt-Zoom 4K Camera [UVC-G4-PTZ]
+Original price
+$1,800.00
+-
+Original price
+$1,800.00
+Original price
+$1,800.00
+-
+$1,800.00
+Current price
+$1,800.00
+| /
+The Ubiquiti UniFi Protect G4 PTZ is a high-performance pan-tilt-zoom camera with 4K, 24 FPS video streaming, 22x optical zoom, and adaptive IR LED...
+View full details
 New Products
-Save 0 %
-Save %
 Ubiquiti UniFi Glass Break Sensor [USL-GlassBreak]
 Original price
 $59.00
@@ -619,4 +576,32 @@ $1,799.00
 | /
 The Ubiquiti UniFi AI Multi Sensor 4 Camera, Black [UVC-AI-MS-4-B] is an all-weather PoE++ 32MP multi-sensor camera featuring a Multi-TOPS AI engin...
 View full details
-Shop New 
+Shop New Ubiquiti
+Ubiquiti UISP Fiber OLT XGS [UISP-FIBER-OLT-XGS]
+Original price
+$2,499.00
+-
+Original price
+$2,499.00
+Original price
+$2,499.00
+-
+$2,499.00
+Current price
+$2,499.00
+| /
+Quantity
+Add to cart
+View full details
+Top Categories
+Accessories
+Cameras
+Indoor Wireless
+Outdoor Wireless
+Routers
+Switches
+Top
+Back to top
+Follow us
+Email Baltic Networks
+Find us

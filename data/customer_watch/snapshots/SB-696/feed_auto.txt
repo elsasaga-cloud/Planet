@@ -1,4 +1,4 @@
-# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Mon, 23 Nov 2026 08:36:33 +0000	CTC Union: Building Reliable Networks for Demanding Environments	https://aironix.co.il/articles/aironix-x-ctc-union-building-reliable-networks-for-demanding-environments/
 Tue, 17 Nov 2026 11:22:00 +0000	NEW!!!! VECOW SPC-8000	https://aironix.co.il/articles/new-vecow-spc-8000-ultra-compact-fanless-computing-for-edge-ai-and-industrial-applications/
 Mon, 16 Nov 2026 13:49:58 +0000	MOXA EDS-4000/G4000 Series: Secure and Resilient Industrial Networking	https://aironix.co.il/articles/moxa-eds-4000-g4000-series-secure-and-resilient-industrial-networking/

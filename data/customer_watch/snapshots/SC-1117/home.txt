@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,60 +170,52 @@ Carrito
 Productos
 Noticias
 Ver todas
-Gregorio · 1d · Audio e Intercom
-Nadie tocó el control remoto y la cámara igual te siguió toda la junta.
-SmartVision 40: doble lente de 48MP, 4K y 8 micrófonos que escuchan a 6 metros. El A50-010: triple cámara de 50MP, 16 micrófonos y 10 m de alcance. Súmale el WPP30 y compartes pantalla en 4K sin un solo cable.
-Ya disponibles en SYSCOM.
-Descubre las barras que se encuadran solas
-Sylvia · 2d · Alarmas e Intrusión
-Tu vehículo, bajo control: alarmas e inmovilizadores Teltonika
-IMB5 identifica por RFID 2.4 GHz con hasta 5 tarjetas ID-TAG. GN7C.HP suma relé de 25 A y CAN bus para más de 800 modelos. El kit GN7C.HUPS.KRH agrega sensor ultrasónico volumétrico. Los tres operan de -40 a +85 °C.
-Conoce las alarmas Teltonika 3
-Victor · 2d · Control de Acceso
-El control de acceso ya no se queda sin credenciales.
-El M2M AXS sube a 4,000 credenciales en un solo controlador IP de una puerta: Wi-Fi, 4G LTE y Bluetooth como respaldo, RFID y NFC para abrir con tarjeta o celular, y la app RControl para gestionar todo desde el teléfono. Incluye un año de 4G LTE ilimitado.
-Conoce el M2M AXS de 4,000 credenciales
-Leopoldo · 2d · Audio e Intercom
-El HDMI no falla por la distancia. Falla por la compresión.
-El TT672PRO de EPCOM Titanium lleva 4K@60 Hz hasta 70 m sobre Cat 6, 6a o 7 con IPColor: cero latencia y sin comprimir. Salida Loop para monitoreo local, control IR bidireccional y PoC — un solo cable alimenta el receptor.
-Conoce el extensor de 70 m sin compresión
-Luis · 2d · Audio e Intercom
-El cable que falla no avisa: se va a media prueba de sonido
-La línea Cosmiconn resuelve el tendido completo: XLR de 1 a 10 m con contactos dorados y triple blindaje, XLR a plug 1/4, plug a plug estéreo y mono, 2 RCA y 3.5 mm a 2 RCA hasta 10 m. Conectores Seetronic Serie M y stock en la mayoría de las medidas.
-Conoce los cables Cosmiconn 1
-Rafael · 2d · Redes
-400 Mbps sobre 5 GHz con 25 dBi y hasta 10 km de alcance
-El ePMP Force 300-25L trabaja en 4910–6200 MHz con antena integrada de 25 dBi y latencia baja, pensado para zonas donde el espectro ya está peleado. Un suscriptor que sostiene la tasa de subida en horas pico sin sacrificar alcance.
-Conoce el Force 300-25L
-Cesar · 3d · Redes
+Leopoldo · 13h · Audio e Intercom
+El jueves, el AV de Kramer se ve funcionando. En Puebla.
+Floor Day Kramer en Sucursal Puebla, 26 de noviembre, de a . KDS en AVoIP y video wall, la línea completa de cables HDMI certificados y los equipos de demo montados para que los pruebes con las manos. Trae tu proyecto y lo armamos ahí mismo.
+Ve lo que Kramer lleva a Puebla
+Gregorio · 14h · Audio e Intercom
+Hay un sonido en cada junta que nadie admite hacer.
+El UH46 Mono de Yealink lo apaga: 3 micrófonos con cancelación de ruido por IA que borran teclados, ventiladores y al de la esquina masticando. Altavoz de 35 mm con EQ dinámico, 20 Hz a 20 kHz, plug-and-play USB-C con adaptador USB-A y luz de ocupado para que nadie te interrumpa. Ya disponible en SYSCOM.
+Conoce la diadema que silencia la oficina
+Daniel · 14h · Herramientas
+Ya lo conoces. Y ya está de vuelta en stock.
+El AEROJET360 de SILIMEX regresó a SYSCOM. Su válvula 360° permite aplicar aire comprimido en cualquier posición, sin residuos ni humedad: lentes de cámara, puertos de switch, ventiladores de servidor, UPS y paneles de control de acceso. Disparos cortos de un segundo a 15-20 cm, envase de 660 ml.
+el mejor removedor de polvo AEROJET360 de SILIMEX
+Cesar · 17h · Redes
 ¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
 Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real.
 📍 San Luis Potosí: 24 de noviembre
 📍 Guadalajara: 26 de noviembre
 ⏰ Horario: a.m. a p.m.
 Asiste en el horario que mejor te acomode. ¡Te esperamos!
-Conoce UniFi Full Stack 3 1
-Leopoldo · 3d
-4K@60Hz 4: 4:4. 18 Gbps. HDCP 2.2. HDR. Sin compresión y sin letras chiquitas.
-La línea completa de cables HDMI Kramer, de 0.9 a 100 m: pasivos hasta 15.2 m, ultradelgados en cuatro colores, activos hasta 30 m, ópticos híbridos y un AOC blindado de 100 m. Conectores K-Lock de 15 lbs y certificación Premium HDMI.
-30 modelos en catálogo.
-Mira los 30 cables HDMI Kramer 1
-Fernando · 3d · Redes
-70 switches industriales en una planta que no puede apagarse
-Umm Al Houl Power, en Qatar, genera 2,520 MW y surte 40% del agua potable del país. Ahí operan 70 switches Wi-Tek SP3010F: PoE industrial, rango de temperatura extendido y sin ventilador. La red no se cae porque el equipo aguanta.
-Conoce el switch que aguantó Qatar
-Leopoldo · 3d · Audio e Intercom
-El HDMI se ve bien en el anaquel y falla a los 7 metros
-El C-HM/HM-25 de Kramer entrega 4K@60 (4:2:0) y 18 Gbps en 7.6 m con cable pasivo: sin chip, sin alimentación, sin firmware. Triple blindaje contra EMI y conectores K-Lock de 15 lbs que no se aflojan con el peso del cable. Certificación Premium HDMI.
-Conoce el C-HM/HM-25 de Kramer
+Conoce UniFi Full Stack
+Leopoldo · 18h · Audio e Intercom
+El techo de una tienda no perdona un altavoz que no cubre.
+El FreeSpace FS2CW reparte 150° de cobertura con un transductor de 57 mm y baja hasta 83 Hz. Transformador 70V/100V con niveles seleccionables para ajustar potencia por zona. Par en blanco, montaje en plafón.
+Conoce el altavoz que cubre 150°
+Ruben · 19h · Drones
+Impón presencia y asegura el perímetro desde el primer segundo.
+La luz de advertencia multicolor FL60 lleva la señalización táctica a otro nivel, adaptándose a tus operativos tanto en drones como en tierra. Equipa a tu corporación con ventajas reales en campo:
+• Máximo efecto disuasivo visible a cientos de metros.
+• Versatilidad total para montarla en tu dron o en tripié.
+• Operación ágil sin sacrificar el tiempo de vuelo.
+Conoce la luz táctica FL60CZI
+Adrián · 19h · Ubiquiti
+Ubiquiti certifica en CDMX: llega el UDSS, y lo imparte el fabricante
+El 4 de diciembre, Sucursal México Norte abre el UniFi Digital Sentinel Specialist (UDSS), curso de UniFi Protect y UniFi Access impartido por Miguel Paz, Pre-Sales de Ubiquiti. Cubre Site Manager, detecciones con IA, control de acceso y diseño de proyectos. Incluye equipos para prácticas y el cupo es limitado.
+Reserva tu lugar en el UDSS
+Adrian · 20h · Audio e Intercom
+Cuatro metros de sala. Cero puntos ciegos.
+La Jabra PanaCast 40 VBS entrega 180° en 4K con dos cámaras, seis micrófonos beamforming y Android 13 sobre MDEP: corre Teams Rooms o Zoom Rooms sin computadora en la sala. Incluye el Jabra Control IP por PoE.
+Conoce la barra que ve 180°
+Rafael · 22h · Redes
+600 Mbps reales en 5 GHz: el Force 300 no negocia capacidad
+Radio suscriptor 802.11ac Wave 2 con antena de 25 dBi, hasta 600+ Mbps y 10 km de alcance en 4910–5970 MHz. Construido para zonas de alta interferencia, con latencia baja y throughput sostenido. Cuando el enlace no puede caerse a media tarde.
+Conoce el ePMP Force 300
+Rafael · 22h
+Linknet360 opera el Wi-Fi del Estadio Olímpico Atahualpa, el Coliseo Rumiñahui, el Parque Bicentenario y la Plaza de Toros con la familia Grandstream GWN: picos de más de 2.500 usuarios simultáneos, VAR, CCTV y control de acceso sobre una sola red, y cero multas de los organizadores.
+Leer: Caso de éxito: Wi-Fi para 45.000 personas en los estadios de Quito con Grandstre
 Videos
 Ver todos
-¡Encontrar errores que ni el ojo humano puede notar
-Ver producto
-¿Cuál OLT de VSOL elegir? 🏻
-Ver producto
-INGESSS ¿Ya jugaron?
-Ver producto
-¿Más días de grabación? Conoce los grabadores con la tecnología GUANLAN de #HIKVISION
-Ver producto
-¿Ya jugaron? Así los días de los
+¡Encontrar errores que ni el ojo huma

@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,82 +75,82 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
+Ubiquiti UACC-Cable-USB-100W-2M-BK, USB-C kabel s displejem, 2m
+USB-C kabel délky 2 m s podporou Power Delivery až 100 W pro nabíjení telefonů, notebooků a powerbank. Integrovaný displej zobrazuje aktuální nabíjecí výkon, opletený plášť kombinuje materiály PP a PET.
+646 Kč bez DPH
+782 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+TP-Link Fusion 2.5G PoE, Omada gateway
+Síťový router s integrovaným kontrolerem pro správu až 30 zařízení Omada má 9× 2,5Gb/s RJ45, z toho 8× PoE-Out se souhrnným výkonem 180 W. Dotykový displej doplňují IDS/IPS s propustností až 2,1 Gb/s, VPN a SD-WAN pro až 20 lokalit.
+8 132 Kč bez DPH
+9 840 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Cudy LT300 Bezdrátový 4G LTE router, N300
+4G LTE router s nano SIM slotem, stahováním až 150 Mb/s a odesíláním až 50 Mb/s. Wi-Fi 2,4 GHz dosahuje až 300 Mb/s. Má 1× LAN a 1× LAN/WAN 10/100 Mb/s, VPN klienta OpenVPN a WireGuard a správu přes aplikaci.
+743 Kč bez DPH
+899 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+MHPower Nomad 144k Powerbanka LiFePO4, 144000mAh, černá
+Outdoorová LiFePO4 powerbanka 144 000 mAh / 460,8 Wh se dvěma USB-A, dvěma USB-C, dvěma 12V autozásuvkami a 12V Anderson výstupem až 30 A. Solární MPPT vstup až 160 W, LED displej, světlo a funkce Pass-Through.
+4 760 Kč bez DPH
+5 760 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
 Wiking WK-PS210 V2, PoE switch
-Wiking WK-PS210 V2 je nemanagovatelný PoE switch s kapacitou přepínání 2Gbps, (8) 10/100Mbps PoE+ porty a (2) 10/100Mbps uplink porty. Downlink porty podporují 802.3af/at PoE+ s budgetem 76W. Switch je ideální pro CCTV instalace díky PoE napájení, automat
+PoE+ switch s 8 porty 10/100 Mb/s a 2 uplinky 10/100 Mb/s pro IP kamery. Napájecí rozpočet 76 W, až 30 W na port, standard 802.3af/at. Režim Extend umožňuje dosah 250 m při 10 Mb/s a restart zařízení funkcí PD Alive.
 721 Kč bez DPH
 872 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-MikroTik IAQM-THC2V-G, CLAIRÉ Lite monitor kvality vzduchu, šedý
-Šedý monitor kvality vnitřního vzduchu s měřením CO2, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
-1 536 Kč bez DPH
-1 859 Kč s DPH
+MikroTik G1317-0600W - Hot Swap 600W napájecí DC zdroj pro CRS320
+Výměnný DC/DC napájecí zdroj 600 W pro switch MikroTik CRS320-8P-8B-4S+RM. Přijímá vstup 36–72 V DC a poskytuje výstup 54,5 V / 10,35 A. Funkce Hot Swap umožňuje výměnu za provozu při dostatečném výkonu druhého zdroje.
+4 113 Kč bez DPH
+4 977 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+MHPower konektor MC4 s integrovaným pojistkovým pouzdrem, pojistka 32 A
+Solární pojistkový konektor MC4 pro jištění fotovoltaických DC obvodů do 1000 V. Integrované pouzdro obsahuje pojistku 32 A o rozměru 10 × 38 mm. Zapojuje se přímo do solárního vedení, krytí IP67 platí při správně provedeném spojení.
+130 Kč bez DPH
+157 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+MikroTik IAQM-THC2PV-G, CLAIRÉ monitor kvality vzduchu, šedý
+Šedý monitor kvality vnitřního vzduchu s měřením CO2, PM2,5, PM10, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 799 Kč bez DPH
+2 177 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Cudy LT500E Bezdrátový 4G LTE router, AC1200
-Dvoupásmový 4G LTE router s nano SIM slotem a rychlostí až 150/50 Mb/s pro stahování a odesílání. Wi-Fi 2,4 a 5 GHz dosahuje až 300 + 866 Mb/s. Má 3× LAN a 1× LAN/WAN 10/100 Mb/s a VPN klienta OpenVPN a WireGuard.
-756 Kč bez DPH
-915 Kč s DPH
+Cudy FS1016 Switch
+Síťový switch se 16 porty 10/100 Mb/s pro umístění na stůl nebo do 19" racku. Podporuje oddělení portů a prodloužení dosahu až na 250 m při rychlosti 10 Mb/s na portech 1–14. Napájení 230 V AC, rackové úchyty v balení.
+572 Kč bez DPH
+692 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MikroTik LGO-LTE-W, IoT combo anténa pro LTE a LoRa
-Kombinovaná všesměrová IoT anténa pro LTE, CAT-M/NB a LoRa s konektorem SMA male. Frekvenční rozsah 617 MHz až 5,925 GHz umožňuje použití stejné antény pro různé komunikační technologie.
-103 Kč bez DPH
-125 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-TP-Link ES210XPP-M2 Omada Easy PoE Switch
-10portový PoE++ switch s 8× 2,5Gb/s RJ45, 10Gb/s RJ45 a 10Gb/s SFP+ uplinkem. Poskytuje PoE rozpočet 200 W, až 90 W na port a podporuje VLAN, QoS, IGMP Snooping i správu přes Omada.
-4 847 Kč bez DPH
-5 865 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Cudy LT700E Bezdrátový 4G LTE router, AC1200
-4G LTE Cat 6 router s nano SIM slotem a rychlostí až 300/50 Mb/s pro stahování a odesílání. Dvoupásmová Wi-Fi dosahuje až 300 + 866 Mb/s. Má 3× gigabitový LAN a 1× gigabitový LAN/WAN port a VPN klienta OpenVPN a WireGuard.
-1 679 Kč bez DPH
-2 032 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-TINKO bateriový článek 18650, Li-Ion 3,7 V, 2200 mAh
-Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 2200 mAh pro akupacky s řízeným nabíjením, svítilny či powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 5 A trvale a až 10 A krátkodobě.
-65 Kč bez DPH
-79 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti Gigabitový 2.5G PoE Injektor, 24V 0.5A 12W
-Pasivní PoE injektor s datovým rozhraním 2,5G a výstupem 24 V / 0,5 A (12 W) pro napájení kompatibilních síťových zařízení přes ethernetový kabel. Vstupní napájení 100–230 V AC, součástí je napájecí kabel.
-183 Kč bez DPH
-221 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Huawei eKitOptiX FS600D, GPON ONT Gateway, Wi-Fi 6
-Optická GPON ONT brána s dvoupásmovou Wi-Fi 6 pro připojení domácnosti či firmy. Konektor SC/APC, čtyři gigabitové LAN porty a pásma 2,4 a 5 GHz s celkovou teoretickou rychlostí až 2,98 Gb/s. Součástí je adaptér 12 V / 1 A.
-659 Kč bez DPH
-797 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UVC-G6-Dome-W, UniFi Video Camera G6 Dome, bílá
-Dome IP kamera s rozlišením 8 Mpx, infračerveným přísvitem do 30 m a napájením přes PoE. Krytí IP66 pro vnitřní i venkovní instalaci, správa v UniFi Protect a AI rozpoznávání obličejů i registračních značek vozidel přímo v kameře.
-6 830 Kč bez DPH
-8 264 Kč s DPH
+MikroTik XS+31LC20D, SFP28 optický modul, Single-Mode, 20km, 25G, 1310nm
+Optický modul SFP/SFP+/SFP28 pro single-mode vlákno podporuje přenos 1/10/25 Gb/s na vzdálenost až 20 km při 1310 nm. Duplexní LC konektor doplňuje digitální diagnostika DDMI pro sledování optického výkonu, napětí a teploty.
+2 571 Kč bez DPH
+3 111 Kč s DPH
 Novinka
 Porovnat
 skladem

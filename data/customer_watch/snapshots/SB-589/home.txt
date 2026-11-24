@@ -1,4 +1,4 @@
-# SB-589 bydemes.com · home · https://bydemes.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-589 bydemes.com · home · https://bydemes.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 The leading distributor in security technologies | By Demes Group
 Company About us Solutions Top brands Employment
 News News Newsletters
@@ -111,36 +111,37 @@ Networking
 IoT SmartHome
 All All CCTV Video Door Phones Access Control Intrusion Fire Networking IoT SmartHome
 News
-VESTA-426
-VESTA IP+2G intrusion alar...
+DAHUA-5435
+DH-IPC-HDBW5659ZP-ZHE-PV-0832-PRO-ATC
+Dahua WizMind 5 6MP IP min...
 View price
-TPLINK-343
-TL-WPA4220 KIT
-TP-Link AV600 Powerline ki...
+DAHUA-5434
+DH-IPC-HDBW5459ZP-ZHE-PV-0832-PRO-ATC
+Dahua WizMind 5 4MP IP min...
 View price
-TPLINK-342
-SM5220-3M
-TP-Link Omada 3 m passive ...
+TPLINK-365
+ER701-5G-Outdoor
+TP-Link VIGI solar power c...
 View price
-TPLINK-341
-FC111A-20
-TP-Link Omada WDM single-m...
+TPLINK-364
+VIGI PS20
+TP-Link VIGI solar power c...
 View price
-TPLINK-340
-ES220GP
-TP-Link Omada Agile manage...
-View price
-TPLINK-338
-DS-P7001-04
+TPLINK-360
+DS-P7001-01
 TP-Link DeltaStream GPON o...
 View price
-TPLINK-337
-SG3452XMPP
-TP-Link Omada L2+ managed ...
+TPLINK-358
+XX532v
+TP-Link Aginet GPON router...
 View price
-TPLINK-336
-EAP783
-TP-Link Omada BE19000 tri-...
+TPLINK-357
+TL-MR100
+TP-Link 4G LTE router with...
+View price
+TPLINK-356
+RE505X
+TP-Link AX1500 dual-band W...
 View price
 Brands catalogue
 All All CCTV Video Door Phones Access Control Intrusion Fire Networking IoT SmartHome
@@ -158,17 +159,17 @@ All
 News
 Newsletters
 VIEW ALL
-19 de noviembre de 2026
+23 de noviembre de 2026
 0 0
+Black Friday 2026 at By Demes: over 1,400 products on offer
+19 de noviembre de 2026
 VESTA Advanced Video: new cameras with intelligent fire detection
+0 0
 18 de noviembre de 2026
 Exclusive By Demes offer on Western Digital Purple hard drives
 0 0
 17 de noviembre de 2026
 What's new on the By Demes website: enhanced security
-0 0
-6 de noviembre de 2026
-SmartHomeSec: a personalised app for every user
 0 0
 VIEW ALL
 All your solutions from one supplier

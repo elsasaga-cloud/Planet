@@ -1,4 +1,4 @@
-# XC-M120 Tekniska Polska Przemysłowe Systemy Transmisji Danych Sp. z o.o. · home_2 · https://westermo.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# XC-M120 Tekniska Polska Przemysłowe Systemy Transmisji Danych Sp. z o.o. · home_2 · https://westermo.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Tekniska - Lider Przemysłowej Transmisji Danych
 Wpisz czego szukasz
 i kliknij enter
@@ -312,11 +312,13 @@ Weź udział w szkoleniach autoryzowanych lub wybierz atrakcyjne szkolenia specj
 Wyszkoliliśmy 3500 specjalistów, a nasze szkolenia oceniane są bardzo wysoko, szczególnie za to, że prowadzone są przez praktyków!
 Oferta szkoleń
 Nasze case studies
+Energetyka
+Elektrownia węglowa- modernizacja sieci zgodnie z wymogami IEC 61850
+Modernizacja sieci, polegająca na wymianie infrastruktury istniejących przełączników oraz dostarczeniu urządzeń zapewniających komunikację zgodną z normą i wymaganiami klienta.
+Czytaj
 Transport
 Modernizacja i rozbudowa przemysłowej sieci komunikacyjnej opartej na platformie XTran
 Klient zarządzał rozproszoną infrastrukturą obejmującą około 40 lokalizacji połączonych ograniczoną siecią światłowodową. Poszczególne obiekty znajdowały się w znacznej odległości od siebie, a rozbudowa istniejącej infrastruktury kablowej była bardzo kosztowna lub wręcz niemożliwa z uwagi na uwarunkowania terenowe.
 Jednocześnie sieć obsługiwała krytyczne systemy odpowiedzialne za bieżące funkcjonowanie infrastruktury, dlatego całkowite wyłączenie komunikacji na czas modernizacji nie wchodziło w grę.
 Czytaj
-Branża spożywcza
-Kompleksowe badanie bezpieczeństwa sieci i inwentaryzacja infrastruktury OT w środowisku produkcyjnym
-Głównym założeniem przedsięwzięcia było nie tylko wykrycie potencjalnych zagrożeń, ale także dogłębne zrozumienie posiadanej przez klienta infrastruktury. Realizacja 
+Zobacz więcej case st

@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Technopc
 Destek
 Teknik Destek Talep Formu
@@ -69,19 +69,23 @@ Akıllı Şehir
 Kargo & Lojistik
 Ar-Ge Tasarım Merkezi
 NVIDIA Profesyonel Ekran Kartları
-Performansta Fark Yaratın
+Tasarlayın
+İşleyin
+Etkileyin
 Detaylı Bilgi
 Technopc Signtech 12NS 11.97
-Teknolojinin En Zarif Hali
+Dijital
+Dünyaya
+Dokunun
 Detaylı Bilgi
 Technopc Notebook TB154 15.6
-Verimliliğin Yeni Standardı
+Çalışmanın Yerini Seçin
 Technopc All In One M24-L250B
-Şık Tasarım Üstün Performans
+İşinize Yeni Perspektif
 Technopc All in One Luna H610 23.8
-Estetik ve Verimlililk
+Düşüncelere Pencere Açın
 Technopc Panel PC PP15C3
-Teknolojide Sınırları Zorlayın
+Kontrolü Ekrana Taşıyın
 Detaylı Bilgi
 NVIDIA Profesyonel Ekran Kartları
 Technopc Signtech 12NS 11.97
@@ -210,7 +214,7 @@ AI Server
 AI Workstation Notebook
 AI Endüstriyel Ürünler
 AI Medikal Endüstriyel PC
-Copyright 2025 All rights reserved. | KVKK Metni | Gizlilik Politikası | Çerez Politikası
+© 2026 Technopc. Tüm hakları saklıdır. | KVKK Metni | Gizlilik Politikası | Çerez Politikası
 FNP
 Kurumsal Ürünler
 Endüstriyel Ürünler
@@ -382,6 +386,7 @@ Technopc Tümleşik Araç Yönetim Sistemi AKS-200
 Endüstriyel Monitör Serisi
 Technopc Endüstriyel Monitör TPM Serisi
 Technopc Endüstriyel Monitör TPL Serisi
+Technopc Panel PC TPM1002
 Digital Signage Serisi
 Technopc OPS G5860S
 Technopc OPS PC TPOG12
@@ -394,4 +399,4 @@ Technopc Rugged El Terminali TM-T05 Serisi
 Technopc Endüstriyel Telefon RawPhone RP05NLA
 Technopc TM-T04 Genius Endüstriyel El Terminali
 Technopc TM-T04U20 Endüstriyel El Terminali
-Technopc Ultrapad El Termi
+Technopc Ul

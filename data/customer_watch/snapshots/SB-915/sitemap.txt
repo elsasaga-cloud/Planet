@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-11-12	https://www.radwin.com/app/suint
 2026-01-22	https://www.radwin.com/become-a-partner
@@ -13,7 +13,7 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-11-19	https://www.radwin.com/contactus
+2026-11-23	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
 2026-10-29	https://www.radwin.com/descubre-qora
 2026-10-25	https://www.radwin.com/employee/form
@@ -108,22 +108,19 @@
 	https://www.radwin.com/shop
 	https://www.radwin.com/
 	https://www.radwin.com/website/info
-	https://www.radwin.com/jobs/administrative-manager-50-position-246
-	https://www.radwin.com/jobs/business-development-manager-techno-commercial-position-transportation-india-apac-247
-	https://www.radwin.com/jobs/regional-sales-manager-critical-infrastructure-250
+	https://www.radwin.com/jobs/pre-sales-bd-manager-transportation-india-apac-247
+	https://www.radwin.com/jobs/senior-hardware-engineer-digital-power-and-fpga-260
+	https://www.radwin.com/jobs/senior-rf-hardware-engineer-wi-fi-and-frequency-conversion-261
 	https://www.radwin.com/jobs/wifi-tech-engineer-249
-	https://www.radwin.com/jobs/web-architect-chennai-india-248
 	https://www.radwin.com/jobs
-	https://www.radwin.com/jobs/apply/administrative-manager-50-position-246
-	https://www.radwin.com/jobs/apply/business-development-manager-techno-commercial-position-transportation-india-apac-247
-	https://www.radwin.com/jobs/apply/regional-sales-manager-critical-infrastructure-250
+	https://www.radwin.com/jobs/apply/pre-sales-bd-manager-transportation-india-apac-247
+	https://www.radwin.com/jobs/apply/senior-hardware-engineer-digital-power-and-fpga-260
+	https://www.radwin.com/jobs/apply/senior-rf-hardware-engineer-wi-fi-and-frequency-conversion-261
 	https://www.radwin.com/jobs/apply/wifi-tech-engineer-249
-	https://www.radwin.com/jobs/apply/web-architect-chennai-india-248
-	https://www.radwin.com/jobs/detail/administrative-manager-50-position-246
-	https://www.radwin.com/jobs/detail/business-development-manager-techno-commercial-position-transportation-india-apac-247
-	https://www.radwin.com/jobs/detail/regional-sales-manager-critical-infrastructure-250
+	https://www.radwin.com/jobs/detail/pre-sales-bd-manager-transportation-india-apac-247
+	https://www.radwin.com/jobs/detail/senior-hardware-engineer-digital-power-and-fpga-260
+	https://www.radwin.com/jobs/detail/senior-rf-hardware-engineer-wi-fi-and-frequency-conversion-261
 	https://www.radwin.com/jobs/detail/wifi-tech-engineer-249
-	https://www.radwin.com/jobs/detail/web-architect-chennai-india-248
 	https://www.radwin.com/blog
 	https://www.radwin.com/blog/articles-3
 	https://www.radwin.com/blog/customer-success-7
@@ -177,4 +174,6 @@
 	https://www.radwin.com/blog/pr-archive-6/911-sistema-nacional-de-emergencias-in-choluteca-honduras-chooses-radwin-wireless-as-an-alternative-to-fiber-for-safe-city-cctv-project-57
 	https://www.radwin.com/blog/pr-archive-6/fcc-grants-radwin-s-waiver-enabling-jet-point-to-multipoint-beamforming-5ghz-base-stations-to-operate-at-a-higher-power-during-the-covid-19-pandemic-56
 	https://www.radwin.com/blog/pr-archive-6/radwin-professional-services-provides-network-optimization-assistance-worldwide-during-covid-19-55
-	https://www.radwin.com/blog/pr-archive-6/introducing-radwin-s-ne
+	https://www.radwin.com/blog/pr-archive-6/introducing-radwin-s-new-and-innovative-multisectortm-ptmp-dual-carrier-base-station-series-54
+	https://www.radwin.com/blog/pr-archive-6/radwin-introduces-terrabridge-a-cutting-edge-mmwave-solution-for-the-transportation-market-53
+	https://www.radwi

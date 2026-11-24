@@ -1,4 +1,6 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24T10:15:24+00:00	Jak zabezpieczyć sieć OT krok po kroku bez przestojów produkcji?	https://www.youtube.com/watch?v=_hJjpfNR3TU
+2026-11-24T10:01:43+00:00	Lokalne AI bez chmury: NVIDIA DGX Spark	https://www.youtube.com/shorts/ovZEqXlria0
 2026-11-20T14:00:33+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/shorts/9V1jKlYjPj8
 2026-11-20T13:00:22+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/watch?v=BkDBZ2jDEIM
 2026-11-20T07:30:19+00:00	PRP i HSR: bezstratna rekonfiguracja w sieciach OT stacji IEC 61850	https://www.youtube.com/shorts/dtLMW4YGXpw
@@ -12,5 +14,3 @@
 2026-11-05T09:00:27+00:00	DASYLab: akwizycja i analiza danych pomiarowych bez programowania	https://www.youtube.com/watch?v=T-mcfpqH1Mo
 2026-11-05T07:30:05+00:00	Etykietowanie palet cobotem: etykieta w dowolnym miejscu	https://www.youtube.com/shorts/Kquk895fBjs
 2026-11-04T10:16:55+00:00	Pierwsze uruchomienie serwa Elmatic: podłączenie i test JOG	https://www.youtube.com/watch?v=ftsKRTgqmXA
-2026-11-04T09:50:57+00:00	Tryb momentowy serwonapędu Elmatic z potencjometru lub PLC	https://www.youtube.com/watch?v=bpvppkz49os
-2026-11-04T08:48:47+00:00	Etykietowanie palet cobotem: Universal Robots UR7e, UR12e i UR20	https://www.youtube.com/watch?v=aEZnxZCkhvg

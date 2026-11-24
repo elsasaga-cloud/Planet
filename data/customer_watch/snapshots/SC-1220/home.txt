@@ -1,4 +1,4 @@
-# SC-1220 starelec.fi · home · https://starelec.fi/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-1220 starelec.fi · home · https://starelec.fi/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Sähkökomponentit netistä - Starelec.fi
 Tervetuloa uudistettuun verkkokauppaan! Voit kirjautua sisään samoilla tunnuksilla kuin ennen.
 Soita meille
@@ -58,9 +58,9 @@ Tuotemerkit
 Viikon suosituimmat
 Eniten ostetut tuotteet
 Katso kaikki
-Hakkuriteholähde 12Vdc 2A 24W
-SKU: PSS-12V2A (1-4 arkipäivässä)
-12,80 € ALV. 25.5%
+DC-runkoliitin mutterikiinnitys 2,1mm/5,5mm
+SKU: DC-2.1S (1-4 arkipäivässä)
+0,95 € ALV. 25.5%
 Elektroniikkakomponentit ja tarvikkeet Starelec verkkokaupasta
 Starelec on suomalainen elektroniikan verkkokauppa, josta löydät laajan valikoiman komponentteja, työkaluja ja tarvikkeita elektroniikka- ja automaatioprojekteihin. Valikoima kattaa tuhansia tuotteita niin harrastajille, opiskelijoille kuin ammattilaisillekin. Starelec Oy on vuodesta 1984 toiminut elektroniikan, sähkötekniikan ja automaation erikoisliike, joka tarjoaa kilpailukykyiset hinnat, laajan varastovalikoiman sekä asiantuntevaa palvelua. Verkkokaupan lisäksi noutomyymälä sijaitsee Vaasassa.
 Laaja valikoima elektroniikkakomponentteja

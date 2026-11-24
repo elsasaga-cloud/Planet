@@ -1,4 +1,4 @@
-# SB-247 jpg.lt · sitemap · https://jpg.lt/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-247 jpg.lt · sitemap · https://jpg.lt/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 	https://jpg.lt/
 	https://jpg.lt/gps-sekliai-priedai/
 	https://jpg.lt/vaizdo-stebejimo-sistemos/
@@ -151,7 +151,6 @@
 	https://jpg.lt/ip-kam-dahua-hdbw5442rase
 	https://jpg.lt/ip-kam-dahua-hfw5541t-ase
 	https://jpg.lt/dahua-ebw81242
-	https://jpg.lt/ip-kamera-kupol-dahua-hdw2231tas36
 	https://jpg.lt/dahua-hdw3441t-zas
 	https://jpg.lt/dahua-hfw5442tas28
 	https://jpg.lt/dahua-ew5541-as
@@ -177,7 +176,6 @@
 	https://jpg.lt/dahua-hdw1430dtstw
 	https://jpg.lt/dahua-hfw2231s-sb
 	https://jpg.lt/dahua-hfw5442e-zeb
-	https://jpg.lt/dahua-hdw5541tmab
 	https://jpg.lt/dahua-hfw1430dssaw
 	https://jpg.lt/dahua-hfw244ssil
 	https://jpg.lt/dahua-hdw2449tmsil
@@ -199,7 +197,6 @@
 	https://jpg.lt/dahua-hdbw3441fasb
 	https://jpg.lt/dahua-hdw3841ema-b
 	https://jpg.lt/dahua-hdw3849hzas
-	https://jpg.lt/dahua-hfw1801tlmil
 	https://jpg.lt/dahua-hfw2849ssilb
 	https://jpg.lt/dahua-hdw3449hzas
 	https://jpg.lt/dahua-hdw3449hzasb
@@ -214,7 +211,6 @@
 	https://jpg.lt/dahua-hfw2449tailb
 	https://jpg.lt/dahua-hdw3549hs428
 	https://jpg.lt/dahua-hdw5449tmled
-	https://jpg.lt/ip-kamera-hfw3549t1-as-pv-s4-5mp-full-color-irled-pasvietimas-iki-30m-2-8mm-97grad-poe-ip67-smd
 	https://jpg.lt/dahua-hdw5449tm28
 	https://jpg.lt/dahua-eb5541-as
 	https://jpg.lt/dahua-hdw1439vai28
@@ -238,4 +234,8 @@
 	https://jpg.lt/dahua-hdw3849pro36
 	https://jpg.lt/dahua-hdw5449tm-b
 	https://jpg.lt/dahua-hdw5849led-b
-	https://jpg.
+	https://jpg.lt/dahua-hfw2449tzs-b
+	https://jpg.lt/dahua-hfw2849tzsil
+	https://jpg.lt/dahua-hfw3849pro36
+	https://jpg.lt/ip-kamera-p5b-pv-5mp-25fps-ip66-irled-pasvietimas-iki-30m-wi-fi6-sd-iki-256gb-78grad
+	https://jpg.lt/ip-kamera-t4a-pv-4mp-su

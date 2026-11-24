@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · news_1 · https://lan.hu/hirek_1/digitus-cat8-halozati-megoldasok-blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1052 lan.hu · news_1 · https://lan.hu/hirek_1/digitus-cat8-halozati-megoldasok-blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 DIGITUS CAT8 Kábelek és Keystone Modulok | CAT8.1, CAT8.2 | LAN.hu
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -14,6 +14,7 @@ Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚
 2026.11.16-tól változnak kiszállítási feltételeink.
 A megjelenített árak és AKCIÓK, kizárólag webshopon keresztűl történő vásárláskor érvényesek!!!!
 Új DIGITUS ipari hálózati eszközök érkeznek a LAN.HU kínálatába
+DIGITUS ipari tápegységek már elérhetők a LAN.hu kínálatában
 +36 1 415 2300
 Belépés
 Regisztráció
@@ -328,11 +329,13 @@ Szerszámok réz hálózathoz
 DIGITUS shop
 Egyedi gyártású optikai patch kábelek | Árajánlatkérő
 Ipari megoldások
-rack szekrények
-réz falkábelek
-szerelt patchkábelek
-réz végződtetés
-aktív eszközök
+IP védett rack szekrények
+Kültéri , UV álló réz falkábelek
+Szerelt patchkábelek UV álló köpennyel
+Réz végződtetés
+Ipari aktív eszközök
+Ipari tápegységek
+Optikai végződtetés DIN sín / kültéri
 TP-Link VIGI kamerarendszer
 Kamerák
 Kiegészítők

@@ -1,4 +1,4 @@
-# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-758 fossfibreoptics.com · news_1 · https://www.fossfibreoptics.com/news · fetched 2026-11-24T12:40:24Z · HTTP 200
 News & Articles | Fiber Optic Insights, Product Updates & Company News | Foss
 Skip to main content
 To top
@@ -119,6 +119,9 @@ Sale and delivery conditions
 Data protection policy
 For Slovakia and Czech Republic
 NEWS AND ARTICLES
+Rugged fiber connectivity for mining and defence
+Expanded Beam fiber optic connectors are designed for reliable communication in demanding environments. See how MIL-DTL-83526/20 and /21 connectivity meets the challenges of mining, defence and field deployment.
+Read more
 FTTA (Fiber-to-the-Antenna): A Key Pillar of Modern 5G Networks
 The world of telecommunications is undergoing a major transformation. While base stations in the 3G era and the early days of 4G/LTE relied heavily on traditional coaxial cabling, today’s demands for speed, capacity, and low latency have introduced a new standard: FTTA – Fiber-to-the-Antenna.
 Read more
@@ -201,7 +204,4 @@ Wall box DIN Mini (FPD66)
 FPD66 is a compact wall box for DIN rail and wall mounting of fiber optic cables. Despite its modest dimensions, the box is designed to maintain the correct fiber bend radius and provide enough working space for installers. For easier installation and service, both the lid and the adapter plate can be removed.
 Read more
 Foss successfully completes circuit integrity test according to Metro curve (750°C)
-Foss has once again demonstrated the reliability of its DB4678 fiber optic cables by successfully completing circuit integrity testing in combination with the KOPOS cable support system. The test was conducted under demanding fire conditions following the Metro curve (750°C), confirming the system’s performance in critical environments.
-Read more
-Presentation at the Event: The Future of Wireless Microphones – The Next Level
-On February 11, 2026, the Foss team took part in an event hosted by G‑Tec Professio
+Foss has once again demonstrated the reliability of its DB4678 fiber optic cables by successfully completing circuit integrity testing in combination with the KOPOS cable support system. The test was conducted under demanding fire condition

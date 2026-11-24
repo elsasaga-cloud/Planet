@@ -1,4 +1,5 @@
-# SB-1046 ivolta.pl · youtube · https://www.youtube.com/user/VoltaCCTV · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1046 ivolta.pl · youtube · https://www.youtube.com/user/VoltaCCTV · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-23T14:49:00+00:00	Video Analysis fire detection - using DL and anomaly detection	https://www.youtube.com/watch?v=mU9gfs0QguI
 2026-06-01T14:25:23+00:00	Radiacode field test - strage rogue radiation source found	https://www.youtube.com/shorts/Fc-8f1XeIbM
 2026-02-02T11:48:24+00:00	Thermal Camera vs Standard Visual Camera Bonkers test	https://www.youtube.com/watch?v=4svfU7-s91M
 2026-01-29T17:09:09+00:00	From an exposed camera to Home NAS and Google Drive leak #cctv #vulnerability #leak	https://www.youtube.com/shorts/oX_wtkJan3U
@@ -13,4 +14,3 @@
 2023-06-12T13:43:57+00:00	Thermal camera grill time-lapse	https://www.youtube.com/watch?v=u3j8-oX2t9Q
 2022-09-19T14:44:12+00:00	VMS systems be like	https://www.youtube.com/watch?v=R_aSSc_WEtQ
 2022-04-06T15:18:59+00:00	Vivotek CC9380 time lapse	https://www.youtube.com/watch?v=2f8TrWWFvxg
-2022-02-15T11:44:41+00:00	Luxriot - time line and time lapse	https://www.youtube.com/watch?v=isHEONPs454

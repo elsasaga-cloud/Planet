@@ -1,4 +1,4 @@
-# SC-1053 casmarglobal.com · home · https://casmarglobal.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-1053 casmarglobal.com · home · https://casmarglobal.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 CASMAR | Distribuidor de tecnologías de seguridad electrónica
 0 0
 Idioma es | es
@@ -604,6 +604,7 @@ Detectores zonas de seguridad intrínseca con cámara
 Detectores de chispa
 Comprobadores
 Accesorios
+Cámaras termográficas DITE
 Mantenimiento de sistemas de PCI
 Comprobadores serie Solo 365
 Recambios y consumibles serie Solo 365
@@ -630,5 +631,4 @@ Montaje sistema NEO+/NEO
 Montaje sistema ONE-500
 Cargadores de baterías
 Altavoces certificados EN54-24
-Software
-Terminales para puertas 
+Softwa

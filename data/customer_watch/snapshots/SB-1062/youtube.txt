@@ -1,4 +1,7 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24T11:17:52+00:00	Webinaire - Odoo 20 : Tout savoir sur les nouveautés du site web	https://www.youtube.com/watch?v=lJZuBz4OKaE
+2026-11-24T08:04:53+00:00	Webinaire - Odoo 20 - La nouvelle ère du payroll en Belgique	https://www.youtube.com/watch?v=rhfo8nmkDd0
+2026-11-23T13:39:04+00:00	Italian Tutorial: Chiedilo ai BA	https://www.youtube.com/watch?v=kG3esRHmcxc
 2026-11-23T09:07:44+00:00	Odoo Insider - Questions-Réponses en français avec Louis	https://www.youtube.com/watch?v=LQwEoDraRZI
 2026-11-23T08:28:50+00:00	Working at Odoo: Careers, Teams & Life in Our Belgian Offices	https://www.youtube.com/watch?v=Bn7ZgsZ_SX4
 2026-11-21T00:00:19+00:00	From Silos to One Source of Truth: How KUCHT Gained Real-Time Visibility with Odoo	https://www.youtube.com/watch?v=N5TSIUYH0W4
@@ -11,6 +14,3 @@
 2026-11-19T16:43:24+00:00	Das Ende der Insellösungen Folge 7	https://www.youtube.com/watch?v=NQ47OO3uHlU
 2026-11-19T15:40:07+00:00	Webinar - How to successfully implement Odoo with an Odoo integration partner	https://www.youtube.com/watch?v=4BMkSDZsrXY
 2026-11-19T08:49:26+00:00	Industry Webinar - Property management & Real Estate	https://www.youtube.com/watch?v=g6x2Ieg6Mxg
-2026-11-19T05:38:58+00:00	Mastering Real-Time Profitability with Odoo	https://www.youtube.com/watch?v=InEWB2SJLSk
-2026-11-19T04:51:08+00:00	Unify Multi-Company Operations on One ERP	https://www.youtube.com/watch?v=7i7bkcUoNoc
-2026-11-18T18:10:45+00:00	Webinar - Come il fotovoltaico cresce con dati e tecnologia	https://www.youtube.com/watch?v=vSFpgqcPkDg

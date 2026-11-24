@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -291,42 +291,42 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ)
-6 765,00 zł z VAT
-7 470,49 zł
-5 500,00 zł netto
+Wisnetworks WIS-L5819S Sector Base Station
+257,07 zł z VAT
+719,55 zł
+209,00 zł netto
 szt
-Najniższa cena z 30 dni: 7 470,49 zł
-Drzwiczki rewizyjne, 400x300
-60,27 zł z VAT
-70,11 zł
-49,00 zł netto
+Najniższa cena z 30 dni: 719,55 zł
+Tenda G103 Gigabit GPON Terminal SC/PC
+97,17 zł z VAT
+113,16 zł
+79,00 zł netto
 szt
-Najniższa cena z 30 dni: 70,11 zł
+Najniższa cena z 30 dni: 113,16 zł
+Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
+6,03 zł z VAT
+10,46 zł
+4,90 zł netto
+szt
+Najniższa cena z 30 dni: 10,46 zł
+Teltonika RUTX14 router LTE12 (RUTX14000000)
+1 617,45 zł z VAT
+2 017,73 zł
+1 315,00 zł netto
+szt
+Najniższa cena z 30 dni: 2 017,73 zł
 ZTE F623 GPON ONU 1GE+3FE+1POTS+WIFI+USB
 109,47 zł z VAT
 141,08 zł
 89,00 zł netto
 szt
 Najniższa cena z 30 dni: 141,08 zł
-Tenda TEG1124P-24-250W
-762,60 zł z VAT
-799,50 zł
-620,00 zł netto
+TornadoBox 18 dBi (mmcx)
+104,55 zł z VAT
+147,60 zł
+85,00 zł netto
 szt
-Najniższa cena z 30 dni: 799,50 zł
-Switch przemysłowy LNK-GY008
-244,77 zł z VAT
-383,58 zł
-199,00 zł netto
-szt
-Najniższa cena z 30 dni: 383,58 zł
-Daszek Orno OR-Dom-RL-901DN/G
-55,35 zł z VAT
-61,49 zł
-45,00 zł netto
-szt
-Najniższa cena z 30 dni: 61,49 zł
+Najniższa cena z 30 dni: 147,60 zł
 Najnowsze propozycje
 NOWOŚĆ
 Obudowa hermetyczna słupowa 300x200x400 (HGF-30/20/40)
@@ -344,14 +344,14 @@ Teltonika FTC927 (FTC927BPPIL1)
 213,08 zł netto
 szt
 NOWOŚĆ
-TP-Link Fusion 2.5G PoE
-1 733,07 zł z VAT
-1 409,00 zł netto
+TP-Link EAP603-Outdoor
+507,98 zł z VAT
+412,99 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 852,11 zł z VAT
-6 383,83 zł netto
+7 891,03 zł z VAT
+6 415,47 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect Motion Sensor, 3-pack (USL-Motion-3)
@@ -383,5 +383,4 @@ PARTNER
 MikroTik
 Jesteśmy oficjalnym dystrybutorem firmy MikroTik.
 Posiadamy status:
-MikroTik Value Added Distributor.
-Ostatn
+MikroTik

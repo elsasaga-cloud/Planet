@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1090 tramaweb.com.br · news_1 · https://www.tramaweb.com.br/blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Blog da Trama | Um canal cheio de Comunicação e Conteúdo Blog da Trama | Um canal cheio de Comunicação e Conteúdo
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -74,6 +74,33 @@ Blog
 Últimas da Trama
 Pesquise no blog
 Todas as categorias
+Imprensa
+Internet
+Diversidade
+Economia
+Educação Corporativa
+Influenciadores Digitais
+Novos clientes
+Cidadania
+Marketing de Influência
+Comunicação Corporativa
+Terceiro Setor
+Digital
+Comunicação Interna
+Branding
+Media Training
+Sem categoria
+Marketing Digital
+Storytelling
+Startups
+Bastidores da Trama
+Logística
+Marketing
+Employer Branding
+Marketing de Busca
+Transporte
+Relações Públicas
+Podcast Diálogos
 Mídias Sociais
 Produção de Conteúdo
 Opinião Pública
@@ -104,34 +131,11 @@ Cultura Organizacional
 Comunicação
 Petróleo e Gás
 Design da Narrativa
-Imprensa
-Internet
-Diversidade
-Economia
-Educação Corporativa
-Influenciadores Digitais
-Novos clientes
-Cidadania
-Marketing de Influência
-Comunicação Corporativa
-Terceiro Setor
-Digital
+Prêmios Grupo Trama Reputale é finalista do Brasil Digital Awards 2026
+Case desenvolvido com a Fundação Grupo Volkswagen concorre na categoria Gestão de Mídias Sociais, com uma estratégia que ampliou a visibilidade da mobilidade social e o acesso a oportunidades.
+23 novembro 2026 | Grupo Trama Reputale
 Comunicação Interna
-Branding
-Media Training
-Sem categoria
-Marketing Digital
-Storytelling
-Startups
-Bastidores da Trama
-Logística
-Marketing
-Employer Branding
-Marketing de Busca
-Transporte
-Relações Públicas
-Podcast Diálogos
-Comunicação Interna Diversidade nas empresas: o papel da Comunicação Interna
+Diversidade nas empresas: o papel da Comunicação Interna
 Grandes empresas estão revendo suas políticas de diversidade e inclusão. Como a Comunicação Interna pode ajudar a proteger esses compromissos e fortalecer a cultura organizacional?
 16 novembro 2026 | Michel Baptista
 Inteligência Artificial
@@ -142,11 +146,11 @@ Digital
 Foi feito por IA? O que o AI slop revela sobre a comunicação da sua empresa
 O excesso de conteúdo gerado por inteligência artificial já afeta a confiança nas marcas. Entenda os limites da detecção e por que a criatividade humana ganha importância nesse cenário.
 12 novembro 2026 | Veridiana Augusto dos Santos
-Eventos
-Grupo Trama Reputale participa do CONEXION 2026 sobre Marketing para Máquinas
+Eventos Grupo Trama Reputale participa do CONEXION 2026 sobre Marketing para Máquinas
 Sandra Bonani, diretora de Comunicação Integrada da agência, participa de painel sobre reputação das marcas na era dos agentes de inteligência artificial.
 11 novembro 2026 | Grupo Trama Reputale
-Prêmios Grupo Trama Reputale é finalista do Prêmio Agência de Relações Públicas do Ano 2026
+Prêmios
+Grupo Trama Reputale é finalista do Prêmio Agência de Relações Públicas do Ano 2026
 Case desenvolvido com o UNICEF destaca o papel da assessoria de imprensa na ampliação do debate sobre os direitos de crianças e adolescentes.
 10 novembro 2026 | Grupo Trama Reputale
 Eventos
@@ -157,18 +161,14 @@ Prêmios
 Grupo Trama Reputale é finalista em duas categorias do Troféu Jatobá PR 2026
 Case desenvolvido com o Instituto Mauá de Tecnologia concorre nas categorias Análise de Dados para Estratégia de Comunicação e Assessoria de Imprensa.
 3 novembro 2026 | Grupo Trama Reputale
-Comunicação Corporativa
-Ghostwriting: seu executivo tem boas ideias, mas quem escreve?
+Comunicação Corporativa Ghostwriting: seu executivo tem boas ideias, mas quem escreve?
 Entenda como essa estratégia de Relações Públicas transforma o conhecimento das lideranças em conteúdos que fortalecem autoridade, posicionamento e reputação.
 29 outubro 2026 | Jessyca Costa Caires
-Comunicação Agências de PR no Brasil: como escolher a ideal para sua marca?
-Sua empresa precisa fortalecer a reputação, ganhar espaço na imprensa ou construir autoridade no mercado? Entenda o que avaliar antes de contratar uma agência de Relações Públicas.
-26 outubro 2026 | Grupo Trama Reputale
 Anteriores
 Próximos
 Receba o boletim diálogos
 Newsletter semanal com curadoria de conteúdo desenvolvida por nós. Uma visão integrada e de futuro da comunicação. Assine.
-Comments
+Company
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *
@@ -178,7 +178,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-URL
+Comments
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

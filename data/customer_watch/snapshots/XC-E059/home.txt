@@ -1,24 +1,36 @@
-# XC-E059 Alyseo · home · https://alyseo.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# XC-E059 Alyseo · home · https://alyseo.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Home - Alyseo
-Notre concept
-Découvrez notre concept
+Concept
+Produits
 Décuplez le potentiel de vos bâtiments
 Nos produits
 WireBOS
 WireNode
 WireGet
-Nos solutions
-Découvrez toutes nos applications
-Le portail hypervision
+Nos packs
+Voléo
+Chaufféo
+Solutions
+Découvrez nos suites logicielles
+Le portail d'hypervision
 La suite applicative de vos occupants
-Nos services applicatifs
+Nos applications
 Bilan énergétique
 Thermostat
 Qualité de l'air
 Smart Control
-Nos projets
+Carnet numérique
+Domaines d'activité
+Voir les domaines d'activité
+Secteurs d'activité
+Tertiaire
+Industrie
+Résidentiel
+Hôtellerie et Immobilier géré
+Éducation
+Silver economy
+Nos réalisations
 À propos
-Contact
 Supervisez et pilotez à distance tous vos équipements
 Grâce à la plateforme d'hypervision NeMa, analysez les consommations et productions d'énergies de vos bâtiments, économisez sur vos frais de maintenance avec des alertes préventives. Gérez la sécurité de vos bâtiments, pilotez les thermostats, éclairages, VMC et automatisez vos scénarios à distance.
 Découvrir NeMa
@@ -140,11 +152,15 @@ Découvrez tout nos solutions
 NeMa
 NeHo
 Alyseo
-Nos projets
+Nos réalisations
 À propos
 Contact
-Mentions Légales
+Mentions légales
 © Alyseo 2025-2026 | Tous droits réservés
 Thème
-Clair
-Sombre
+☀️ Clair
+🌑 Sombre
+Langue
+Français
+English
+Español

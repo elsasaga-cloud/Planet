@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · news_2 · https://kbcnetworks.com/news-events/events · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-541 kbcnetworks.com · news_2 · https://kbcnetworks.com/news-events/events · fetched 2026-11-24T12:40:24Z · HTTP 200
 KBC Networks - EVENTS
 PRODUCTS
 NETWORK SWITCHES
@@ -13,6 +13,9 @@ FIBER SOLUTIONS
 KBC NEXUS™
 NEW
 Secure Infrastructure Networking and Management Platform
+Find out more
+NEW
+Control without the complexety of Management
 Find out more
 NEW
 NEW IP and PoE++ over Coax with up to 90W PoE and over 1km distance
@@ -133,7 +136,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Phone
+Email
 ×
 KBC Employee Registration
 Employee Portal Registration
@@ -394,7 +397,7 @@ Yemen
 Zambia
 Zimbabwe
 Submit
-Email
+First Name
 ×
 Select Country
 Afghanistan
@@ -646,7 +649,7 @@ Zimbabwe
 Subscribe
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Name
+Message
 ×
 Please complete the information below and someone from the KBC Nexus Team will get in touch with you
 Full Name *
@@ -664,4 +667,4 @@ Plant / Operations Management
 Procurement / Vendor Evaluation
 Other
 Submit
-Website
+Last Name

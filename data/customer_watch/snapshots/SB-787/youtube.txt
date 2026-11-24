@@ -1,4 +1,5 @@
-# SB-787 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-787 tccomm.com · youtube · https://www.youtube.com/@TCCommInc · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-23T19:26:28+00:00	Multimode to Single Mode Converter/Repeater | TC3005	https://www.youtube.com/watch?v=RYOFT6cPQn4
 2026-11-18T19:24:26+00:00	Multi-Interface Sync / Async Fiber Optic Modem | TC1705	https://www.youtube.com/watch?v=23sq501vbJw
 2026-11-11T22:20:09+00:00	Analog Broadcaster/Bridge | TC8928	https://www.youtube.com/watch?v=0MQOugOQixA
 2026-11-03T19:13:57+00:00	Balancing Next-Gen Networks with Grid Reliability	https://www.youtube.com/watch?v=V92XitsFkYs
@@ -13,4 +14,3 @@
 2026-08-11T14:28:37+00:00	Leased Line Replacement Is Accelerating: How Organizations Can Navigate the Transition to IP	https://www.youtube.com/watch?v=A1Z6dH3mfvw
 2026-08-03T18:45:48+00:00	Telephone or Analog over Ethernet Extender | TC1910	https://www.youtube.com/watch?v=U6fJS77cjlk
 2026-07-28T14:47:23+00:00	JumboBank Voice-over-T1/E1 Multiplexer| TC8638	https://www.youtube.com/watch?v=iLZC93K1HPg
-2026-05-27T15:42:54+00:00	600 Ohm Analog & Dry Contact-over-T1/E1 Multiplexer | TC8624	https://www.youtube.com/watch?v=bfJUlIp4LW8

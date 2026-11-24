@@ -1,4 +1,4 @@
-# SB-539 ipcomm.de · sitemap · https://www.ipcomm.de/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-539 ipcomm.de · sitemap · https://www.ipcomm.de/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 	https://www.ipcomm.de/
 	https://www.ipcomm.de/iso9001_ipcomm2020_de.pdf
 	https://www.ipcomm.de/products_de.html
@@ -97,8 +97,8 @@
 	https://www.ipcomm.de/hardware/ERM1/de/ERM1_Datenblatt_V1_1_DE.pdf
 	https://www.ipcomm.de/hardware/ERM1/de/EU declaration of conformity_ERM1_signed.pdf
 	https://www.ipcomm.de/hardware/FWU/de/sheet.html
-	https://www.ipcomm.de/hardware/FWU/de/fwu_manual_3_3_DE.pdf
-	https://www.ipcomm.de/hardware/FWU/de/fwu_Datenblatt_3_2_3_DE.pdf
+	https://www.ipcomm.de/hardware/FWU/de/FWU_Manual_V4_0_DE.pdf
+	https://www.ipcomm.de/hardware/FWU/de/FWU_Datenblatt_V4_0_DE.pdf
 	https://www.ipcomm.de/hardware/HEC2/de/sheet.html
 	https://www.ipcomm.de/hardware/HEC2/de/HEC_manual_K_3_2_DE.pdf
 	https://www.ipcomm.de/hardware/HEC2PM/de/sheet.html

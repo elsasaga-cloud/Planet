@@ -1,4 +1,5 @@
-# SB-505 eso.co.th · youtube · https://www.youtube.com/@ESOTECHOFFICIAL · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-505 eso.co.th · youtube · https://www.youtube.com/@ESOTECHOFFICIAL · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-23T17:19:35+00:00	METALEX 2026 Highlights | 4 Days with ESO TECH × WECON	https://www.youtube.com/shorts/R84p5mNItoI
 2026-11-18T14:54:12+00:00	METALEX 2026 | บูธ ESO TECH อยู่ตรงไหน? พาเดินไป Booth 9E44 ใกล้ EH99	https://www.youtube.com/shorts/ForpiG7bYRY
 2026-11-11T13:04:30+00:00	แกะกล่อง WECON INVERTER VC SERIES | รีวิวตัวเครื่องและฟังก์ชันควบคุมมอเตอร์	https://www.youtube.com/watch?v=FYpdBsSP0pc
 2026-11-09T14:49:24+00:00	จากประกอบตู้ถึงทดสอบจริง! อบรมระบบวัด DO ด้วย PLC HMI WECON | ESO TECH	https://www.youtube.com/watch?v=eUrir0SwND4
@@ -13,4 +14,3 @@
 2026-10-25T09:38:11+00:00	HMI WECON Tutorial EP23 | สร้าง Historical Trend Chart แสดงกราฟย้อนหลังจาก Data Record	https://www.youtube.com/watch?v=2fjEZmd-TNE
 2026-10-25T09:20:45+00:00	HMI WECON Tutorial EP22 | สร้าง Data Record บันทึกข้อมูลลง HMI, SD Card และ USB	https://www.youtube.com/watch?v=XtA2VbITwgg
 2026-10-25T08:39:14+00:00	HMI WECON Tutorial EP21 | สร้าง Popup Display หน้าต่างสั่งงานและตั้งค่าอุปกรณ์ใน PI Studio	https://www.youtube.com/watch?v=UXSuGO2Lxzg
-2026-10-25T08:04:28+00:00	HMI WECON Tutorial EP20 | Character Input/Display แสดงข้อความจาก PLC และ Barcode Reader	https://www.youtube.com/watch?v=VdpRQNPrW1c

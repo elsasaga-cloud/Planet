@@ -1,4 +1,6 @@
-# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-399 petawise.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCU3Nq4CjuDP8-51g6jo4njw · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24T05:00:34+00:00	What would you use for fast remotesecurity installs?#cctv #securitycamera	https://www.youtube.com/shorts/VxRDjVKGhiE
+2026-11-23T19:29:21+00:00	SeekFree: Powerful Subscription Free NVR searching of CCTV	https://www.youtube.com/watch?v=t9nhpI606wU
 2026-11-11T20:30:03+00:00	Security footage can now be searched like AI *no internet required* | Uniview SeekFree walkthrough	https://www.youtube.com/watch?v=Bkg1abynT44
 2026-11-10T17:45:31+00:00	What if you could search CCTV like prompting AI? This search tool allows you to do just that.	https://www.youtube.com/shorts/xlsFyXWBA60
 2026-11-02T19:13:07+00:00	Installing a security camera without any power or cables running to a site?	https://www.youtube.com/shorts/kKEl8wmqcYM
@@ -12,5 +14,3 @@
 2026-08-13T14:32:24+00:00	How to setup a Uniview NVR on the *New* User Interface (GUI)	https://www.youtube.com/watch?v=B544WFlzG0w
 2026-07-23T20:15:29+00:00	Walkthrough of Uniview's EZCloud platform (remotely manage UNV systems)	https://www.youtube.com/watch?v=pFJHKj3CiPI
 2026-07-17T14:36:45+00:00	Fixing False Alerts: How to Manage NVR Playback Event Highlights [Uniview Tutorial]	https://www.youtube.com/watch?v=4NJTJv9Y6Bc
-2026-07-07T16:30:30+00:00	How to add new security cameras from different brands to your system. ONVIF Explained #cctv	https://www.youtube.com/shorts/IblruJvqJmw
-2026-07-01T10:45:10+00:00	Centralized VMS Upgrade for ONVIF cameras: Cloud-Based Face & Vehicle Tracking Explained	https://www.youtube.com/watch?v=Xh_gto7UvVI

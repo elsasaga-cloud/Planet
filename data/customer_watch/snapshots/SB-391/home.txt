@@ -1,4 +1,4 @@
-# SB-391 inscapedata.com · home · https://inscapedata.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-391 inscapedata.com · home · https://inscapedata.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Outdoor PoE Switch, Leader in Outdoor Network Solutions, Outdoor 2, 4, 8 Port Gigabit PoE Switch, Outdoor PoE Managed Switch, Weatherproof Gigabit PoE Switch, Waterproof PoE Switch, Gigabit PoE Injector, Remote Reboot, Outdoor Power over Ethernet Management, Wired, Wireless & IP Video Surveillance Systems | Inscape Data
 Products & Solutions
 Outdoor PoE & Enclosure Solutions
@@ -60,7 +60,7 @@ Search Our Site
 ×
 Outdoor PoE
 Switch Systems
-Managed and unmanaged PoE switches built to perform in the harshest environments.
+Managed and unmanaged 200W, 300W and 400W PoE switches built to perform in the harshest environments.
 Port Range: 6-16
 Explore →
 Outdoor

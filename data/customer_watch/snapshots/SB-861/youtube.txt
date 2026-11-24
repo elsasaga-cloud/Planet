@@ -1,4 +1,5 @@
-# SB-861 bimel.com.tr · youtube · https://www.youtube.com/user/bimelltd · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-861 bimel.com.tr · youtube · https://www.youtube.com/user/bimelltd · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24T10:07:22+00:00	ATEN essentials UP5100 ve UP5165 GaN Şarj Cihazları	https://www.youtube.com/shorts/-RZpvLw-cvk
 2026-11-06T06:47:30+00:00	Beek BT-LT600S Dokunmatik Ekranlı Çok Fonksiyonlu Ağ Kablosu Test Cihazı çıktı! @numanumanoglu	https://www.youtube.com/watch?v=nCAeg0YBzxY
 2026-10-23T12:51:55+00:00	Lindy Splitter	https://www.youtube.com/shorts/aaOh9cVBiH0
 2026-10-19T13:37:31+00:00	HUAWEI eKit is bringing AI to more scenarios	https://www.youtube.com/watch?v=EBiYFBa8KoU
@@ -13,4 +14,3 @@
 2026-09-28T11:57:00+00:00	Huawei eKit S630-48X6C	https://www.youtube.com/watch?v=Iaj3RCYB-Pw
 2026-09-14T07:23:51+00:00	Huawei eKit uygulaması üzerinden cihazlar fabrika ayarlarına nasıl döndürülür?	https://www.youtube.com/shorts/QdGRaGUPfIQ
 2026-09-14T07:14:12+00:00	Huawei eKitEngine S380 ile ağ yönetimi nasıl yapılır	https://www.youtube.com/shorts/JtRSTfz0KaA
-2026-09-07T06:44:46+00:00	Huawei eKit uygulamasında DHCP`de IP adresi ayırma nasıl yapılır	https://www.youtube.com/shorts/hfF4jr_2nkg

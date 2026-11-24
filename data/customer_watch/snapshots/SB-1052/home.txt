@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -14,6 +14,7 @@ Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚
 2026.11.16-tól változnak kiszállítási feltételeink.
 A megjelenített árak és AKCIÓK, kizárólag webshopon keresztűl történő vásárláskor érvényesek!!!!
 Új DIGITUS ipari hálózati eszközök érkeznek a LAN.HU kínálatába
+DIGITUS ipari tápegységek már elérhetők a LAN.hu kínálatában
 +36 1 415 2300
 Belépés
 Regisztráció
@@ -39,39 +40,6 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
-Industrial Power Supply 48V DC DN-PWR12048
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-PWR1204
-Ár:
-17.032 Ft + ÁFA
-(21.631 Ft)
-1 db raktáron
-db
-Kosárba
-Részletek
-Industrial Power Supply 48V DC 240 W DN-PWR24048
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-PWR2404
-Ár:
-28.547 Ft + ÁFA
-(36.255 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Step Power Supply 5V DC, 2.4A, 12W DN-PWR-SST-125
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIGDNPWRSST125
-Ár:
-3.958 Ft + ÁFA
-(5.027 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Step Power Supply 12V DC, 1,25A, 15W DN-PWR-SST-1512
 ÚJDONSÁG!
 Villámnézet
@@ -138,6 +106,39 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+Industrial Power Supply 48V DC DN-PWR12048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-PWR1204
+Ár:
+17.032 Ft + ÁFA
+(21.631 Ft)
+1 db raktáron
+db
+Kosárba
+Részletek
+Industrial Power Supply 48V DC 240 W DN-PWR24048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-PWR2404
+Ár:
+28.547 Ft + ÁFA
+(36.255 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Step Power Supply 5V DC, 2.4A, 12W DN-PWR-SST-125
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGDNPWRSST125
+Ár:
+3.958 Ft + ÁFA
+(5.027 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
 ÚJDONSÁG!
 Villámnézet
@@ -178,17 +179,6 @@ Cikkszám: HDIG-DN-651157
 Ár:
 99.034 Ft + ÁFA
 (125.773 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8 + 4 10G Gigabit PoE switch DN-651161
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651161
-Ár:
-161.135 Ft + ÁFA
-(204.641 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -281,6 +271,17 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+Industrial 8 + 4 10G Gigabit PoE switch DN-651161
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651161
+Ár:
+161.135 Ft + ÁFA
+(204.641 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Tooltest - 4p,6p,8p fogó + teszter
 ÚJDONSÁG!
 Villámnézet
@@ -289,28 +290,6 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
-db
-Kosárba
-Részletek
-2U panel for D-type modules, 24-port DN-97697
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97697
-Ár:
-4.380 Ft + ÁFA
-(5.563 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-8P8C Cat6a UTP toolless mod. dugó DN-93633
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: K289543TD
-Ár:
-810 Ft + ÁFA
-(1.029 Ft)
-60 db raktáron
 db
 Kosárba
 Részletek
@@ -366,6 +345,28 @@ Cikkszám: HDIG-DN-97696
 2.480 Ft + ÁFA
 (3.150 Ft)
 Előrendelhető h
+db
+Kosárba
+Részletek
+2U panel for D-type modules, 24-port DN-97697
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97697
+Ár:
+4.380 Ft + ÁFA
+(5.563 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+8P8C Cat6a UTP toolless mod. dugó DN-93633
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K289543TD
+Ár:
+810 Ft + ÁFA
+(1.029 Ft)
+50 db raktáron
 db
 Kosárba
 Részletek
@@ -426,6 +427,12 @@ Kosárba
 Részletek
 Összes újdonság
 Hírek
+DIGITUS ipari tápegységek már elérhetők a LAN.hu kínálatában
+2026. 11. 19.
+A stabil tápellátás kulcsfontosságú az ipari hálózatok, automatizálási rendszerek és vezérlőszekrények megbízható működésében. Ennek támogatására elérhetővé váltak kínálatunkban a DIGITUS ipari DIN sínre szerelhető tápegységei.
+A termékcsalád ultra-slim, slim és standard kivitelű modelleket tartalmaz, amelyek különböző teljesítmény- és feszültségigényekhez kínálnak megfelelő megoldást.
+Temékek
+Részletek
 Új DIGITUS ipari hálózati eszközök érkeznek a LAN.HU kínálatába
 2026. 11. 17.
 Gigabites, PoE és menedzselhető ipari switchek már előrendelhetők
@@ -473,12 +480,6 @@ DIGITUS CAT8 hálózati megoldások professzionális infrastruktúrákhoz
 A modern hálózatok egyre nagyobb teljesítményt és megbízhatóságot követelnek meg. Adatközpontokban, szervertermekben, irodaházakban és nagy sávszélességet igénylő vállalati környezetekben a hálózati infrastruktúra minősége meghatározó szerepet játszik. A DIGITUS CAT8 termékcsalád olyan komponenseket kínál, amelyek alkalmasak nagy teljesítményű strukturált kábelezési rendszerek kialakítására.
 Termékek
 Részletek
-Viharok és áramszünetek idején egy UPS többet érhet, mint gondolnád
-2026. 07. 02.
-Az egyre gyakoribb nyári viharok és szélsőséges időjárási események miatt egyre több háztartás találkozik váratlan áramszünetekkel és feszültségingadozásokkal. Bár egy rövidebb kimaradás is kellemetlen lehet, a probléma ennél komolyabb: adatvesztést, megszakadt munkafolyamatokat és akár elektronikai eszközök károsodását is okozhatja.
-Erre nyújtanak megoldást a szünetmentes tápegységek (UPS-ek), amelyek áramszünet esetén ideiglenesen biztosítják az energiaellátást, így a fontos eszközök tovább működhetnek vagy biztonságosan leállíthatók.
-Termékek
-Részletek
 További hírek
 Top termékek
 Cat7 S/FTP PiMF LSOH/3 1200Mhz AWG23/1 500m DK-1743-VH-5
@@ -487,7 +488,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-23735 m raktáron
+19435 m raktáron
 m
 Kosárba
 Részletek
@@ -517,7 +518,7 @@ Cikkszám: TA-K661LSOH
 Ár:
 225 Ft + ÁFA
 (286 Ft)
-9810 m raktáron
+9200 m raktáron
 m
 Kosárba
 Részletek
@@ -527,8 +528,12 @@ Cikkszám: K1142050FÖLD
 Ár:
 175 Ft + ÁFA
 (222 Ft)
-2509 m raktáron
+1509 m raktáron
 m
 Kosárba
 Részletek
-
+UTP Cat6A falkábel kék 305m LSOH DK-1613-A-VH-305
+Villámnézet
+Cikkszám: K1120501C6ADIG
+Ár:
+225 Ft + Á

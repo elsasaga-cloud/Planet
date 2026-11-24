@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-23T10:56:18Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-24T12:40:24Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Menu
@@ -1235,9 +1235,14 @@ New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC
 VUPoint AI cameras in black
 Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
 SmartSD trainings
-Akuvox Intercom Basics
-23 November
+2N CIP Certified Training
+24 November
+@ SmartSD Breda (NL)
+10 December
 @ SmartSD Merchtem (BE)
+12 January
+@ SmartSD Breda (NL)
+Akuvox Intercom Basics
 24 November
 @ SmartSD Lisses (FR)
 3 December
@@ -1246,20 +1251,8 @@ Akuvox Intercom Basics
 @ SmartSD Breda (NL)
 1 February
 @ SmartSD Merchtem (BE)
-Bandit Fog Generators
-24 November
+22 February
 @ SmartSD Merchtem (BE)
-4 December
-@ SmartSD Merchtem (BE)
-18 December
-@ SmartSD Breda (NL)
-2N CIP Certified Training
-24 November
-@ SmartSD Breda (NL)
-10 December
-@ SmartSD Merchtem (BE)
-12 January
-@ SmartSD Breda (NL)
 acre Access Control Basics
 25 November
 @ SmartSD Merchtem (BE)
@@ -1294,7 +1287,7 @@ Acre SPCevo
 @ SmartSD Breda (NL)
 14 December
 @ SmartSD Merchtem (BE)
-16 December
+14 December
 @ SmartSD Saint-herblain (FR)
 20 January
 @ SmartSD Breda (NL)
@@ -1310,6 +1303,13 @@ Dahua Basic Training & Hands-on
 @ SmartSD Saint-herblain (FR)
 Network Optix Nx Witness VMS
 4 December
+@ SmartSD Breda (NL)
+Bandit Fog Generators
+24 November
+@ SmartSD Merchtem (BE)
+4 December
+@ SmartSD Merchtem (BE)
+18 December
 @ SmartSD Breda (NL)
 Ajax EN54 Hands-On Training
 8 December

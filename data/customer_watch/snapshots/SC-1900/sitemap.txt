@@ -1,4 +1,4 @@
-# SC-1900 konectsoluciones.com · sitemap · https://www.konectsoluciones.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-1900 konectsoluciones.com · sitemap · https://www.konectsoluciones.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 2026-06-19	https://www.konectsoluciones.com/https/wa-me/593995653148
 2026-06-19	https://www.konectsoluciones.com/nosotros
 	https://www.konectsoluciones.com/terms
@@ -19,6 +19,7 @@
 	https://www.konectsoluciones.com/shop/pubi47-ubiquiti-unifi-u7-lite-ap-wifi-7-con-4-spatial-streams-2-5-gbe-poe-5115
 	https://www.konectsoluciones.com/shop/pubi49-ubiquiti-unifi-u7-outdoor-ap-wifi-7-para-exteriores-con-con-4-spatial-streams-2-5-gbe-poe-5116
 	https://www.konectsoluciones.com/shop/pubi50-ubiquiti-unifi-u7-pro-ap-wifi-7-con-6-spatial-streams-2-5-gbe-poe-5059
+	https://www.konectsoluciones.com/shop/pubi110-ubiquiti-unifi-u7-pro-max-ap-con-8-spatial-streams-wifi-7-2-5-gbe-poe-500-clientes-5369
 	https://www.konectsoluciones.com/shop/pubi51-ubiquiti-unifi-u7-pro-xg-ap-con-6-spatial-streams-wifi-7-10-gbe-poe-5117
 	https://www.konectsoluciones.com/shop/pubi54-ubiquiti-unifi-ua-ultra-lector-de-acceso-con-nfc-bluetooth-ip55-y-poe-5119
 	https://www.konectsoluciones.com/shop/pubi74-ubiquiti-unifi-uacc-hdd-e-16tb-disco-duro-enterprise-de-16tb-para-cttv-5130
@@ -31,6 +32,7 @@
 	https://www.konectsoluciones.com/shop/pubi62-ubiquiti-unifi-usw-pro-max-24-poe-switch-24-puertos-poe-8-poe-8-poe-8-2-5-gbe-y-400w-poe-5127
 	https://www.konectsoluciones.com/shop/pubi66-ubiquiti-unifi-uvc-ai-lpr-b-camara-ai-lpr-con-reconocimiento-de-matriculas-3x-zoom-hasta-90-km-h-5128
 	https://www.konectsoluciones.com/shop/pubi67-ubiquiti-unifi-uvc-g5-turret-ultra-w-camara-turret-ultra-2k-4mp-con-vision-nocturna-30m-deteccion-ai-y-poe-ip66-5129
+	https://www.konectsoluciones.com/shop/pubi125-ubiquiti-unifi-ux7-cloud-gateway-con-wifi-7-integrado-10-gbe-gestion-unificada-de-ap-mesh-escalable-5471
 	https://www.konectsoluciones.com/shop/pubi73-ubiquiti-airmax-lap-120-ptpm-antena-sectorial-de-exterior-5-ghz-ac-120-y-poe-pasivo-5133
 	https://www.konectsoluciones.com/shop/pubi69-ubiquiti-airmax-loco5ac-ptp-de-exterior-5-ghz-ac-con-antena-integrada-poe-pasivo-no-incluye-nanostation-5ac-loco-5131
 	https://www.konectsoluciones.com/shop/accesorio-fuente-de-alimentacion-12v-1a-3223
@@ -99,5 +101,4 @@
 	https://www.konectsoluciones.com/shop/grandstream-ap-gwn7630lr-ac-dual-band-ip66-mesh-mu-mimo-4x4-2-puertos-gb-base-t-poe-poe-administrable-3249
 	https://www.konectsoluciones.com/shop/grandstream-ap-gwn7664-wifi6-dual-band-mesh-mu-mimo-4x4-1-puerto-gb-1-puerto-2-5gb-poe-poe-administrable-3252
 	https://www.konectsoluciones.com/shop/grandstream-ap-gwn7660-wifi6-dual-band-mesh-mu-mimo-2x2-2-puertos-gb-poe-poe-administrable-3247
-	https://www.konectsoluciones.com/shop/grandstream-router-gwn7062-wifi6-dual-band-mesh-mu-mimo-2x2-1-puerto-wan-gb-1-puerto-gb-wan-lan-y-3-puertos-lan-gb-vpn-3254
-	https://www.konectsoluciones.com/shop/grandstream-switch-l2-gwn7801p-8-puertos-gigabit-ethernet-2-puertos-sfp-gigabit-150w-poe-802-3af-at-ad
+	https://www.kone

@@ -1,4 +1,4 @@
-# SA-055 NOVA Group Engineering Project Electronic Co LTD · home · https://www.novacom.com.tr/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SA-055 NOVA Group Engineering Project Electronic Co LTD · home · https://www.novacom.com.tr/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Anasayfa - Novacom Technology
 Ürünlerimiz
 Güvenlik ve Ağ Ürünleri
@@ -152,43 +152,43 @@ Merkezi TV ve Uydu (SMATV)
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-Inverto Circular Black Pro Twin
-Merkezi TV ve Uydu (SMATV) , (4K) Full HD LNB
-In stock
-SKU:
-64
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-NMS-10/12P Sonlu Kaskat Multiswitch
-Merkezi TV ve Uydu (SMATV) , Multiswitch
-In stock
-SKU:
-9536
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-Inverto Wideband 40mm Horizontal LNB
+Inverto Unicable II 950-2300Mhz 2 Way Combiner
 Merkezi TV ve Uydu (SMATV) , Unicable2 Ürünler
 In stock
 SKU:
-71
+1895
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-RG11 F Sıkmalı Konnektör
-Merkezi TV ve Uydu (SMATV) , Konnektör
+DRHD-STC10 Combo Signal Meter Uydu Bulucu
+Merkezi TV ve Uydu (SMATV) , Sinyal Bulucu
 In stock
 SKU:
-215
+9477
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-NMS-17/12S Sonlu Multiswitch
-Merkezi TV ve Uydu (SMATV) , Multiswitch
+Homatics Box R 4K/4K Plus Orjinal Uzaktan Kumanda
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-8164
+9451
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Universal Premium Single
+Merkezi TV ve Uydu (SMATV) , (4K) Full HD LNB
+In stock
+SKU:
+10557
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Inverto Red Extend Quad
+Merkezi TV ve Uydu (SMATV) , (4K) Full HD LNB
+In stock
+SKU:
+57
 NOVACOM SİNYAL AVCISI
 Sinyal Bulucular
 İncele
@@ -203,27 +203,27 @@ SKU:
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-Sathero-820 HD Uydu ve Kamera Test Cihazı
-Sinyal Bulucu
-In stock
-SKU:
-8635
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-DRHD-STC10 Combo Signal Meter Uydu Bulucu
-Merkezi TV ve Uydu (SMATV) , Sinyal Bulucu
-In stock
-SKU:
-9477
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
 Gtmedia V8 Finder2
 Sinyal Bulucu
 In stock
 SKU:
 8880
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Sathero SH-820HD Sinyal Bulucu
+Merkezi TV ve Uydu (SMATV) , Sinyal Bulucu
+In stock
+SKU:
+10236
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Sathero-820 HD Uydu ve Kamera Test Cihazı
+Sinyal Bulucu
+In stock
+SKU:
+8635
 Güvenlik Ağ Ürünleri
 Novacom ile güvenliğiniz her zaman önde.
 0
@@ -235,35 +235,13 @@ Dk
 00
 Sn
 İncele
-NVC-LED22A 22″ Profesyonel Monitör
-UTP CAT6 Outdoor 305M Kablo
-45x55x17 Dik Tip DVR Kabini
-NVC-HC1108PGL
-NVC-HIF0820FBL-C PoE Switch
+NVC-SFP Modül
+ND-WR1200E AC1200 Wireless Router (Beyaz)
+1×2 HDMI Splitter
+NVC-LED22AR 22″ Profesyonel Monitör
+ND-1PD1622LG POE Switch
 IPTV Ürünleri
 İncele
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-NVC16-IPG IPTV Gateway
-IPTV Ürünleri , IPTV Gateway
-In stock
-SKU:
-2015
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-TBS2955 DVB / ISDB-T / ATSC to IP Gateway Server
-IPTV Ürünleri , IPTV Server
-In stock
-Karşılaştır
-Hızlı Görüntüle
-İstek Listesine Ekle
-TBS2955 IPTV Streaming Server
-IPTV Ürünleri , IP Transcoder , IPTV Server
-In stock
-SKU:
-7336
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
@@ -271,15 +249,39 @@ Homatics Box R 4K Plus
 IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-9604
+9906
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-NR01IP-200G IP Gateway
-IPTV Ürünleri , IPTV Gateway
+Homatics Premium Kumanda
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
 In stock
 SKU:
-10523
+8690
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Homatics Type-C DVB-S/S2 Uydu Bağlantı Modülü
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
+In stock
+SKU:
+8323
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Formuler Z11 Pro Max BT1 Edition
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
+In stock
+SKU:
+9422
+Karşılaştır
+Hızlı Görüntüle
+İstek Listesine Ekle
+Formuler Z10 Pro
+IPTV Ürünleri , IPTV Set Top Box , Set Top Box
+In stock
+SKU:
+6879
 Fiber Optik TV
 Ürünleri
 Fiber Optik TV ürünlerinde geniş bir yelpaze sunuyoruz. Her ihtiyaca uygun çözümlerimizle kesintisiz bir TV deneyimi için Novacom'a göz atın.
@@ -307,11 +309,11 @@ SKU:
 Karşılaştır
 Hızlı Görüntüle
 İstek Listesine Ekle
-SMA TV Fiber Optik Çoklayıcı
-Fiber Optik TV Ürünleri , Çoklayıcı
+NVC-OTH-2015
+Transmitter
 In stock
 SKU:
-8290
+9210
 Son Görüntülenen Ürünler
 Bizden Haberler
 Novacom, ihtiyaçlarınızı karşılayan teknoloji çözümleri sunar.

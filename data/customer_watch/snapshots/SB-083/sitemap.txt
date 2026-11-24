@@ -1,4 +1,4 @@
-# SB-083 MERIT LILIN ENT. CO., LTD. · sitemap · https://meritlilin.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-083 MERIT LILIN ENT. CO., LTD. · sitemap · https://meritlilin.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 	https://meritlilin.com/tw
 	https://meritlilin.com/tw/support
 	https://meritlilin.com/tw/worldwide
@@ -242,8 +242,8 @@
 2026-08-12	https://meritlilin.com/en/product/category/183
 2025-01-07	https://meritlilin.com/tw/product/category/184
 2025-01-07	https://meritlilin.com/en/product/category/184
-2026-11-20	https://meritlilin.com/tw/product/category/187
-2026-11-20	https://meritlilin.com/en/product/category/187
+2026-11-24	https://meritlilin.com/tw/product/category/187
+2026-11-24	https://meritlilin.com/en/product/category/187
 2024-01-11	https://meritlilin.com/tw/product/category/188
 2026-08-12	https://meritlilin.com/en/product/category/188
 2023-08-31	https://meritlilin.com/tw/product/category/190

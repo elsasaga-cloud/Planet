@@ -1,4 +1,4 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
 O nas Pomoc i FAQ
@@ -12,7 +12,7 @@ Kamery IP PTZ 483
 Kamery samochodowe 71
 Kamery IP fisheye 76
 Kamery IP mini/ukryte 140
-Kamery IP wewnętrzne 726
+Kamery IP wewnętrzne 727
 Kamery IP wandaloodporne 1038
 Rejestratory NVR 1250 AI 233
 PoE: tak 270

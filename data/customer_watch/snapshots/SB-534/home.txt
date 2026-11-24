@@ -1,4 +1,4 @@
-# SB-534 elfcams.com · home · https://www.elfcams.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-534 elfcams.com · home · https://www.elfcams.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Elfcam | Votre spécialiste en équipements fibre optique et réseau
 ELFCAM
 Votre partenaire N°1 en solutions de communication et de connectivité De A à Z pour Data Centres, FTTx et réseaux télécoms
@@ -119,7 +119,6 @@ Promo !
 Sponsorisé ‹ ›
 Armoire Murale Compacte 6U pour Rack Serveur et Équipement Réseau – 5mm Porte Verre Trempé, Capacité 100kg, Certification CE RoHS, Noir
 4 commentaires Noté 4.75 sur 5 basé sur 4 notations client
-600*450*6U – 600*600*6U
 199,00 € Le prix initial était : 199,00 €. 189,99 € Le prix actuel est : 189,99 €.
 +
 Ce produit a plusieurs variations. Les options peuvent être choisies sur la page du produit
@@ -139,7 +138,6 @@ Promo !
 Sponsorisé ‹ ›
 Câble à Fibre Optique OM4 LC/UPC vers LC/UPC Duplex Multimode 50/125um ODM 5.0mm, Convient aux Installations Extérieur et Intérieur
 3 commentaires Noté 5.00 sur 5 basé sur 3 notations client
-3m – 300m
 24,99 € Le prix initial était : 24,99 €. 19,99 € Le prix actuel est : 19,99 €.
 +
 Ce produit a plusieurs variations. Les options peuvent être choisies sur la page du produit
@@ -159,7 +157,6 @@ Promo !
 Sponsorisé ‹ ›
 MPO 16 Fibres vers 2x MPO 8 Fibres Multimode OS2/OM3OM4 ,Polarité de Type B LSZH ,Disponible pour 40G/100G/200G/400G/800G/1.6T Optique Transceiver Module ,16F vers 2x8F (Ref: 26727)
 2 commentaires Noté 5.00 sur 5 basé sur 2 notations client
-OM3 – OM4
 63,99 € Le prix initial était : 63,99 €. 63,99 € Le prix actuel est : 63,99 €.
 +
 Ce produit a plusieurs variations. Les options peuvent être choisies sur la page du produit
@@ -386,7 +383,7 @@ Mon Panier
 Chargement...
 Nous acceptons
 Certification de Sécurité
-©2018 - 2026 ELFCAM FR Tous droits réservés. v10.12.33
+©2018 - 2026 ELFCAM FR Tous droits réservés. v10.14.3
 Préférences de cookies
 ×
 Lorsque vous visitez un site web, celui-ci peut stocker ou récupérer des informations sur votre navigateur, principalement sous la forme de cookies. Ces informations peuvent porter sur vous, vos préférences ou votre appareil et sont principalement utilisées pour que le site fonctionne comme vous l'attendez. Parce que nous respectons votre droit à la vie privée, vous pouvez choisir de ne pas autoriser certains types de cookies.
@@ -395,4 +392,4 @@ Tout refuser
 Gérer les préférences de consentement
 Cookies Strictement Nécessaires
 Toujours actif
-Ces cookies sont nécessaires au fonctionnement du site web et ne peuvent pas être désactivés. Ils ne sont généralement définis qu'en réponse à des act
+Ces cookies sont nécessaires au fonctionnement du site web et ne peuvent pas être désactivés. Ils ne sont généralement définis qu'en réponse à des actions que vous effectuez, telles que le réglag

@@ -1,4 +1,5 @@
-# SA-083 kyma.it · youtube · https://www.youtube.com/user/PLANETTechnology · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SA-083 kyma.it · youtube · https://www.youtube.com/user/PLANETTechnology · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24T05:29:16+00:00	PLANET Enterprise 5G NR Cellular + Wi-Fi 7 5100BE + Dual 10G VPN Security Router (XVR-800BE)	https://www.youtube.com/shorts/LTmcO6OdOmw
 2026-11-18T07:22:50+00:00	PLANET AI Surveillance Station Training Lesson Part 3: Advanced Detection Features	https://www.youtube.com/watch?v=Bnbz8TNnHXA
 2026-11-18T07:22:47+00:00	PLANET AI Surveillance Station Training Lesson Part 2: Alert Notification & Report Generation	https://www.youtube.com/watch?v=vur0Xw0dLdw
 2026-11-18T07:22:44+00:00	PLANET AI Surveillance Station Training Lesson Part 1: Smart Search & Advanced Playback	https://www.youtube.com/watch?v=enmPsMLUnoU
@@ -13,4 +14,3 @@
 2026-05-25T05:48:00+00:00	PLANET AI Surveillance Station (AIS-1000)	https://www.youtube.com/watch?v=SK4vQ8vRr0Q
 2026-03-26T03:06:43+00:00	PLANET L3 2.5G 802.3bt PoE + 10G Fiber Managed Ethernet Switch (MGS-6311-8UP4X)	https://www.youtube.com/shorts/jLJtsVAnFuU
 2026-03-24T03:38:42+00:00	PLANET Wi-Fi 7 Dual Band 802.11be 5100Mbps Outdoor Wireless Access Point (WDAP‑5100BE)	https://www.youtube.com/shorts/ATswT4RCT98
-2026-03-12T07:32:04+00:00	Unleash the Power of 100G Data Center with PLANET DCS‑7342‑24X6C Layer 3 Managed Switch	https://www.youtube.com/shorts/-WnjO7i49_s

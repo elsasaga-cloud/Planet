@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,16 @@ Partner Stories
 Business Hacks
 Success Stories
 Loading...
-1803 result(s)
+1806 result(s)
+DL Wholesale Streamlines Wholesale Distribution with Odoo: Real-Time Inventory and Integrated Operations
+Nov 23, 2026
+Customer Reviews
+One Platform, Multiple Functions: How Radial Consulting Runs Its Business with Odoo
+Nov 23, 2026
+Customer Reviews
+The New Business Resilience: Why Visibility Matters More Than Ever
+Nov 23, 2026
+Business Hacks
 How Ellgass - Plastiline paved the way for growth by transitioning to Odoo’s all-in-one ERP
 Nov 20, 2026
 Customer Reviews
@@ -213,15 +222,6 @@ Odoo News
 More Tools or Better Systems?
 Nov 16, 2026
 Partner Stories
-7 Best Features of an ERP System for Small Businesses
-Nov 13, 2026
-Business Hacks
-Beyond the ERP: how Reflect Group builds several businesses around Odoo
-Nov 13, 2026
-Customer Reviews
-Odoo Italy integrates fiskaly: receipt management goes 100% cloud with no electronic cash register required
-Nov 12, 2026
-Odoo News
 1
 2
 3

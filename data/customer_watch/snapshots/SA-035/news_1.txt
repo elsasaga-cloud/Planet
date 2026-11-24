@@ -1,121 +1,117 @@
-# SA-035 td-fe.com · news_1 · https://td-fe.com/news/ · fetched 2026-11-23T10:56:18Z · HTTP 200
-News of TH Faraday Electronics Ltd.
-TH Faraday Electronics Ltd. Power supplies - professional design, reliable solutions
-RU
-UK
-+7 (812) 953 13 59
-sales@td-fe.com
-Profile
-Products
-Certificates
-Contacts
-More
-Power supplies
-Enclosed 18W/12-24V/78AL
+# SA-035 td-fe.com · news_1 · https://td-fe.com/news/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+Новости ООО "ТД "Фарадей Электроникс" (TH Faraday Electronics Ltd.
+ООО “ТД “Фарадей Электроникс” ПРОИЗВОДИТЕЛЬ БЛОКОВ ПИТАНИЯ FARADAY
++7 (812) 953-13-59
+spb@td-fe.ru
+О компании
+Продукция
+Услуги
+Сертификаты
+Партнеры
+Контакты
+Подробнее
+Блоки питания
+БП в металлическом корпусе DIN-holder
+18W/12-24V/78AL
 36W/12-24V/95AL
 50W/12-24V/120AL
 75W/12-24V/140AL
 120W/12V
-150W/24V
-240W/12V
-350W/48V
-DIN holder
-DIN rail 12W/12-24V/DIN
+AL150-24-Slim
+AL150-50/60-Slim
+AL350-48
+БП на DIN рейку 12W/12-24V/DIN
+12W/12V/DIN
+12W/24V/DIN
 24W/12-24V/DIN
-36W/12-24V/DIN
 36W/12-24V/DIN Slim
+36W/12-24V/DIN
 50W/12-24V/DIN
-80W/12-24V/DIN
+DIN75-12/24
 75W/12-24V/DIN
-120W/24V/DIN
+DIN80-12/24
+DIN120-24
 120W/48V/DIN
 240W/24V/DIN
 240W/48V/DIN
 480W/48V/DIN
-Uninterruptible power supplies (UPS) Bracket. Battery holder
-UPS 600W/48V/DIN
+Блоки бесперебойного питания (ББП) UPS 600W/48V/DIN
+UPS-DIN300-48
 UPS 300W/48V/DIN
-UPS 300W/24V/DIN
+UPS-DIN300-24-V1
 UPS 120W/24V/DIN
 UPS 75W/24V/DIN
 UPS 45W/DIN
 UPS 30W/DIN
-UPS 300W/48V Simple
+UPS600-12
 UPS 300W Simple
-UPS 160W/48V Simple
-UPS 155W/48V Simple
-UPS 120W Simple
-UPS 120W/24V Simple
+UPS 300W/48V Simple
+UPS200-48
+UPS120-12
+UPS120-24
 UPS 75W Simple
-UPS 30W Simple
-UPS 30W/24V Simple
-UPS 75W BOX
-UPS 45W BOX
-PoE injectors and extenders F-812, Switch PoE
-F-802. Switch PoE
-24W/POE. PoE injector
-30W/1Gb/POE+. PoE injector
-60W/1Gb/POE+. PoE injector
-Ext/POE. PoE extender (IP66)
-Desktop 24W/12V/WP
+UPS45-12-Slim
+Кронштейн для крепления АКБ на DIN-рейку
+БП (инжекторы) PoE и сетевое оборудование Коммутатор F-812 управляемый (L2)
+Коммутатор F-802 управляемый
+Коммутатор FU04-2R неуправляемый
+Коммутатор FU08-2RG неуправляемый
+Ком-тор FU16-2RG/1SG неуправляемый
+Коммутатор FU24-2RG неуправляемый
+Коммутатор FM24-4CG управляемый
+Инжектор 90W/1Gb/POE+
+Инжектор POE60-48-1.0GbV1
+Инжектор 30W/1Gb/POE+
+Инжектор 24W/POE
+Удлинитель Ext/POE (IP66)
+БП в пластиковом корпусе 24W/15V/WP
+24W/12V/WP
 18W/12V/WP
 18W/18V/WP
 18W/18V/1A
+19W/14.4V/EU
 12W/12V/1A
 24W/12V/2A
 36W/12V/3A
 60W/12V/5A
-24W/15V/WP
-18W/15V/WP
-Wall mount 12W/WM/PL
+Адаптеры 10W/WM/PL
+12W/WM/PL1
 18W/WM/PL
-3W/WM/PL
-5W/WM/PL
-30W/WM/PL
-Open frame 6W/OPF
+WM5-5-USB
+Бескорпусные БП 6W/OPF
 10W/OPF
 27W/OPF
 18W/OPF
-Download Brochure
-News of TH Faraday Electronics Ltd.
-Main
+Электронный каталог продукции FARADAY
+Новости ООО "ТД "Фарадей Электроникс" (TH Faraday Electronics Ltd.
+Главная
 /
-News
-September,22 2020
-Security-Essen 2020
-More
-April,16 2020
-Securika. MIPS-2020. Moscow
-More
-January,16 2020
-Intersec-2020. Dubai.
-More
-March,19 2019
-Securika. MIPS-2019. Moscow
-More
-April,17 2018
-Expo-Electronica-2018. Moscow
-More
-1
-2
-3
->
->>
-+7 (812) 953 13 59
-sales@td-fe.com
-www.td-fe.com
-Site map
-×
-Request a call
-Name * :
-Phone * :
-Time to call:
-Comment:
-Enter the code * :
-Consent to the processing of my personal data in accordance with the privacy policy *
-Fields marked with an asterisk ( * ) are required.
-Close
-Send
-×
-The site uses cookies and the technical data collection service of its visitors.
-By continuing to use this resource, you automatically agree to the use of these technologies. Read more...
+Новости
+22.04.26
+Securika 2026
+На выставке Securika 2026 в Москве представлены новые модели коммерческих коммутаторов.
+Подробнее
+01.01.26
+Каталог продукции FARADAY Electronics
+Каталог продукции FARADAY Electronics в PDF-формате можно скачать здесь
+Подробнее
+01.08.19
+Международная регистрация торгового знака TD-FE®
+Получено подтверждение регистрации торгового знака TD-FE® в Мадридской международной системе торговых знаков
+Подробнее
+20.04.17
+Свидетельство на торговый знак FARADAY
+Подробнее
+13.01.16
+Европейский сертификат
+Европейские сертификаты CE.
+Подробнее
++7 (812) 953-13-59
+spb@td-fe.ru
+www.td-fe.ru
+Карта сайта
+Политика конфиденциальности
+Отказаться
+Принять
+Сайт использует файлы cookies, необходимые для работы, а также сервис сбора технических данных его посетителей Яндекс.Метрика. Метрика обрабатывает IP-адрес, cookie и данные браузера.
+Подробнее в Политике конфиденциальности .

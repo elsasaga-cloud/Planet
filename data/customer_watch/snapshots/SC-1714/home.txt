@@ -1,4 +1,4 @@
-# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-1714 omniray.ch · home · https://www.omniray.ch:443/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Omni Ray AG | Ihr Automationspartner | E-Shop | Top Preise
 Schnelle Lieferung
 Kostenloser Versand ab 250 CHF
@@ -129,6 +129,9 @@ Bestellstatus im Blick und Favoriten speichern.
 Sparen Sie Zeit dank schnellerer Checkout.
 Jetzt anmelden
 Produkt-News
+KNS Extended von di-soric: Kapazitive Sensoren für vielseitige Anwendungen
+Kapazitive Näherungssensoren KNS Extended von di-soric: Zuverlässige Detektion von Flüssigkeiten, Pulvern und Feststoffen – auch durch Behälterwände.
+23.11.2026
 Temposonics® G-Serie V GT5: Redundante Positionssensoren für sicherheitskritische Anwendungen
 Die Temposonics G-Serie V GT5 bietet doppelte oder dreifache Redundanz, einfache Migration und komfortable Diagnose für sicherheitskritische Anwendungen.
 23.11.2026
@@ -144,9 +147,6 @@ Mit der XELAN-Produktfamilie bietet Etic Telecom eine kompakte und preiswerte L�
 Cybersecurity für Endgeräte mit der Firewall EDF-G1002-BP von Moxa
 Die industrielle Firewall Moxa EDF-G1002-BP bietet hier eine wirkungsvolle Lösung. Sie schützt bestehende Geräte durch eine zusätzliche Sicherheit auf der Netzwerkebene, ganz ohne die Installation von Software auf den Endgeräten (Endpoint Protection).
 11.11.2026
-Industrielle Netzwerke wirksam schützen mit dem Secure Router EDR-G9004 von Moxa
-Die industriellen Secure Router Moxa EDR-G9004 bieten eine wirkungsvolle Lösung, um Netzwerke gezielt abzusichern. Durch die Netzwerksegmentierung werden unterschiedliche Anlagenteile und Sicherheitszonen voneinander getrennt.
-09.11.2026
 Previous slide
 Next slide
 Marken
@@ -481,4 +481,8 @@ Stellantriebe
 Ventilstellantriebe
 Thermischer Stellantrieb
 Elektromechanische Stellantriebe
-Zubehö
+Zubehör Ventile
+Industrieautomation
+Antriebstechnik
+Frequenzumrichter
+Kostenoptimierte FR

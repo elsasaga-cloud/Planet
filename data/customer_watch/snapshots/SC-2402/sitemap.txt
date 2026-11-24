@@ -1,7 +1,7 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
-2026-11-16	https://www.sisegusa.com/home
+2026-11-23	https://www.sisegusa.com/home
 2026-07-20	https://www.sisegusa.com/quienes-somos
 2025-12-05	https://www.sisegusa.com/quieres-ser-nuestro-distribuidor
 2026-09-15	https://www.sisegusa.com/radios-hytera
@@ -72,6 +72,7 @@
 	https://www.sisegusa.com/shop/tp-eap615-wall-access-point-tplink-omada-ax1800-wifi-6-dual-band-montaje-en-pared-4487
 	https://www.sisegusa.com/shop/tp-eap653-access-point-tplink-omada-ax3000-wifi-6-dual-band-4255
 	https://www.sisegusa.com/shop/tp-eap650-outdoor-access-point-tplink-omada-ax3000-wifi-6-dual-band-exterior-4117
+	https://www.sisegusa.com/shop/tp-eap655-wall-access-point-tplink-omada-ax3000-wifi-6-dual-band-montaje-en-pared-10554
 	https://www.sisegusa.com/shop/tp-eap660-hd-access-point-tplink-omada-ax3600-mbps-wifi-6-mu-mimo-multi-gigabit-4400
 	https://www.sisegusa.com/shop/tp-eap668-outdoor-hd-access-point-tplink-omada-ax3600-wifi-6-mu-mimo-multi-gigabite-exterior-8238
 	https://www.sisegusa.com/shop/tp-eap683ur-access-point-tplink-omada-ax6000-wifi-6-mu-mimo-1-pto-25-gb-8456
@@ -106,6 +107,7 @@
 	https://www.sisegusa.com/shop/de-amn30-amarra-negra-30cm-44
 	https://www.sisegusa.com/shop/ds-qae0a240g1-vb6-amplificador-analogico-240w-6-zonas-4151
 	https://www.sisegusa.com/shop/ds-qae0a60g1-vb-amplificador-analogico-60w-2-zonas-10373
+	https://www.sisegusa.com/shop/ds-qaz1a500g1-vb2-amplificador-ip-500w-2-zonas-10546
 	https://www.sisegusa.com/shop/ds-qae1a80g1-vb-amplificador-ip-80w-2-zonas-4152
 	https://www.sisegusa.com/shop/se-anc-anclaje-de-piso-para-barrera-zk-pb40xx-4067
 	https://www.sisegusa.com/shop/de-ae2012-angulo-externo-20x12-blanco-40
@@ -127,6 +129,4 @@
 	https://www.sisegusa.com/shop/zk-zkam10-esclavo-antenas-antihurto-zk-am-esclava-3772
 	https://www.sisegusa.com/shop/zk-zkam10a-esclavo-antenas-antihurto-zk-am-esclava-acrilico-3774
 	https://www.sisegusa.com/shop/zk-zkam10-master-antenas-antihurto-zk-am-principal-3773
-	https://www.sisegusa.com/shop/zk-zkam10a-master-antenas-antihurto-zk-am-principal-acrilico-3775
-	https://www.sisegusa.com/shop/zk-d2180-arco-detector-de-metales-18-zonas-2966
-	https://www.sisegusa.com/shop/ds-isd
+	https://w

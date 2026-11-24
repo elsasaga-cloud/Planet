@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -462,13 +462,13 @@ Kurzy
 Přihlaste se
 Zaregistrujte se
 Pomoc
-Signal Pro
-Multiswitche Signal Pro
-nová řada multiswitchů
-Dozvědět se více
 Signal Fire Welding Machines
 Signal Fire Welding Machines – which model is right for you?
 Which model is right for you?
+Dozvědět se více
+Signal Pro
+Multiswitche Signal Pro
+nová řada multiswitchů
 Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
@@ -557,7 +557,6 @@ Předchozí nejnižší cena: 400,80 Kč
 400,80 Kč
 331,24 Kč bez DPH
 Kód: L5406
-Do košíku
 Náhled
 Police pro optické kabely do racku P-PSP-G19-1U-6-SC
 1242,67 Kč
@@ -591,4 +590,4 @@ Pokračovat ve čtení
 Je možné ovládat více než dvě brány v IP videotelefonním systému Hikvision pomocí jedné bránové stanice?
 Bránové stanice IP/2-Wire videotelefonního systému Hikvision mají v závislosti na modelu maximálně dva reléové výstupy určené k ovládání boční branky a vjezdové brány. K bránovým stanicím lze sice připojit přídavný řídicí modul DS-K2M061 G77253 přes sběrnici RS-485, tento modul však slouží k nahrazení druhého reléového výstupu v bránové stanici za účelem zvýšení bezpečnosti otevírání, nikoli k přidání dalšího výstupu. Řešením tohoto problému může být využití reléových výstupů na monitoru videot...
 Pokračovat ve čtení
-HiTo
+HiTools Delive

@@ -1,4 +1,4 @@
-# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-2606 logicbus.com · home · https://www.logicbus.com · fetched 2026-11-24T12:40:24Z · HTTP 200
 Logicbus | Industrial Automation, Sensors, PLCs & Test Equipment
 Skip to content
 Tienda en español
@@ -150,11 +150,6 @@ ModBUS RTU/ASCII Compact Gateway. Power Supply: 10~40VDC; 19~28VAC. 1x Ethernet 
 (0)
 $173.86
 In stock.
-Z-SG
-Z-SG is a strain gauge signal converter. Measurements taken using the 6-wires or 4-wires technique are available through Modbus-RTU serial protocol
-(0)
-$218.89
-In stock.
 100.000.00
 Controllino Mini PLC Compatible with Arduino; 4DI/AI, 2 AI, 2DI, 10DO (3PWM) to 2A, 6 Relay outputs (in parallel to DO); TTL, I²C, SPI interface; RTC; 12/24VDC power supply; 5VDC Pin Headers
 (0)
@@ -165,6 +160,11 @@ Oscilloscope Model SDS1000X-E. 200 MHz, 2 channels; 1 GSa/s, 14 M memory depth, 
 (0)
 $379.00
 In stock.
+Z-SG
+Z-SG is a strain gauge signal converter. Measurements taken using the 6-wires or 4-wires technique are available through Modbus-RTU serial protocol
+(0)
+$218.89
+In stock.
 435USB-NNCU-D
 USB printer or barcode scanner to AB PLC. Does not include power supply
 (0)
@@ -174,6 +174,11 @@ In stock.
 Gateway to connect an EtherNet/IP Scanner and Ethernet TCP/IP Device(s). Mounting: Din Rail, without Power Supply. Platform N34: 1x 5Pin Screw Terminal (RS232/485/422), 1x DB9 Port (RS232/485/422), 1x Ethernet RJ45. Barrel plug for power supply.
 (0)
 $963.56
+In stock.
+SPD3303X-E
+Linear programmable DC power supply, model SPD3000X, has 3 isolated outputs: 2 adjustable channels of 32V/3.2A and a selectable channel of 2.5/3.5/5V/3.2A, LCD TFT-LCD screen. Output modes: independent, series , parallel. USB and LAN interface.
+(0)
+$459.00
 In stock.
 TCW122B-CM
 Remote I/O module with SNMPv1 support with authentication (SSL/TLS not supported), web-based intelligent temperature and humidity monitoring and control, 2 AI 0-60Vdc, 2 DI, 2 DO relay NO/NC, alerts by mail, HTTP and XML API commands.
@@ -204,11 +209,6 @@ K109PT
 K109PT is a converter for Thermoresistance PT100 with 2,3,4 wires and provides a mA/V standard output signal.
 (0)
 $168.86
-In stock.
-SPD3303X-E
-Linear programmable DC power supply, model SPD3000X, has 3 isolated outputs: 2 adjustable channels of 32V/3.2A and a selectable channel of 2.5/3.5/5V/3.2A, LCD TFT-LCD screen. Output modes: independent, series , parallel. USB and LAN interface.
-(0)
-$459.00
 In stock.
 6069-410-041
 Dynamic Signal Analyzer Model DT9837A. USB-powered Dynamic Signal Analyzer Model DT9837A; 24-bit, 52.7 kHz, 4 IEPE AI, 1 AO, 1 Tach, AO Readback

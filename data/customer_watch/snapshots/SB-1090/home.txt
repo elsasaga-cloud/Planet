@@ -1,4 +1,4 @@
-# SB-1090 tramaweb.com.br · home · https://www.tramaweb.com.br/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1090 tramaweb.com.br · home · https://www.tramaweb.com.br/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Grupo Trama Reputale | Agência de Comunicação Corporativa em SP Grupo Trama Reputale | Agência de Comunicação Corporativa em SP
 Ir para o menu do site
 Ir para o conteúdo do site
@@ -103,6 +103,10 @@ Cada Passo Conta
 E Alguns de nossos clientes
 Veja todos os trabalhos
 ' Blog da Trama
+Prêmios
+Grupo Trama Reputale é finalista do Brasil Digital Awards 2026
+Case desenvolvido com a Fundação Grupo Volkswagen concorre na categoria Gestão de Mídias Sociais, com uma estratégia que ampliou a visibilidade da mobilidade social e o acesso a oportunidades.
+23 novembro 2026
 Comunicação Interna
 Diversidade nas empresas: o papel da Comunicação Interna
 Grandes empresas estão revendo suas políticas de diversidade e inclusão. Como a Comunicação Interna pode ajudar a proteger esses compromissos e fortalecer a cultura organizacional?
@@ -111,10 +115,6 @@ Inteligência Artificial
 Business Hub: ChatGPT agora permite que empresas gerenciem um perfil de marca
 OpenAI lança o Business Hub, ferramenta que permite atualizar informações corporativas e acompanhar como empresas aparecem na plataforma. Entenda o impacto para a reputação digital.
 13 novembro 2026
-Digital
-Foi feito por IA? O que o AI slop revela sobre a comunicação da sua empresa
-O excesso de conteúdo gerado por inteligência artificial já afeta a confiança nas marcas. Entenda os limites da detecção e por que a criatividade humana ganha importância nesse cenário.
-12 novembro 2026
 Veja o blog completo
 Treinamentos em Comunicação Corporativa
 A competência comunicativa é cada vez mais exigida de todos os empregados e, principalmente, das lideranças. Oferecemos um amplo portfólio de treinamentos para melhorar o desempenho comunicacional do seu time. Atuamos com um casting de profissionais (mestres e doutores da USP, Top Voices do LinkedIn) altamente especializado em diversos temas.
@@ -124,7 +124,7 @@ Peça uma proposta
 Venha trabalhar com a gente
 Informação para a mídia
 Nossos projetos inspiram pessoas e negócios a se moverem rumo ao futuro. Quer ser um cliente do Grupo Trama Reputale? Entre em contato com a gente!
-Company
+X/Twitter
 Este campo é para fins de validação e não deve ser alterado.
 Nome *
 E-mail *

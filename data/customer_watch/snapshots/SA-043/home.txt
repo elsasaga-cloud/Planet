@@ -1,4 +1,4 @@
-# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SA-043 direktronik.se · home · https://www.direktronik.se/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Direktronik - dataprodukter utöver det vanliga
 Varukorg
 Summa produkter:
@@ -237,7 +237,6 @@ Kabelkanal
 Fäst-/monteringsdetaljer
 3D-print och fixturer
 Fixturer/ jiggar
-3D Printer/ Skrivare
 Filament & Tillbehör
 Adaptrar/ Kontaktdon/ Kåpor
 Portlås
@@ -646,4 +645,4 @@ exkl. moms
 Lägg i varukorg
 Best.nr 188-1999
 SFP Koppar RJ45, 10/100/1000 Autonegotiation NO RX_LOS, Pref
-SFP RJ45 u
+SFP RJ45 utan RX_LOS med SERDES

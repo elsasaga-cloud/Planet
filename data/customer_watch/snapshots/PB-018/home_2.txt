@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Főoldal - Techson
 0 || parent > 0"
 x-transition:enter-start="-translate-x-full xl:translate-x-0"
@@ -50,7 +50,7 @@ $refs.input.focus();
 >
 {
 if (!value) {
-window.livewire.find('wSltXiuSl5WPIeLccd8K').call('resetSearch')
+window.livewire.find('oaTtrM3bvN5G6Ix4T5NN').call('resetSearch')
 }
 $dispatch('force:toggle', { toggle });
 })"
@@ -239,7 +239,7 @@ A Magyar Doka Kft. az osztrák székhelyű Umdasch Group tagja, amely világszer
 Forrás SportPark
 A sportparkban több sportág számára épültek pályák: mountainbike, futás, sízés, tenisz, tollas és padel. Az ingyenesen igénybevehető sportkomplexus biztonságáról a Techson kamerák több mint 15 éves megbízható, magas minőségű ...
 BMW Budapest Motors
-A BMW Budapest Motors modern autószalonja és szervizközpontja kiemelt figyelmet fordít a prémium ügyfélélményre és a biztonságra. A létesítmény megbízható működését és vagyonvédelmét a Techson professzionális biztonságtechnikai me
+A BMW Budapest Motors modern autószalonja és szervizközpontja kiemelt figyelmet fordít a prémium ügyfélélményre és a biztonságra. A létesítmény megbízható működését és vagyonvédelmét a Techson professzionális biztonságtechnikai...
 Összes referencia
 {
 if(!open) video = null

@@ -1,4 +1,4 @@
-# SB-1097 yatun.cz · home · https://www.yatun.cz/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1097 yatun.cz · home · https://www.yatun.cz/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Domů | Yatun.cz
 CZK
 EUR
@@ -51,11 +51,6 @@ EK-FH1-TP-I
 KNX univerzální aktor řady AEVO, 4 výstupy, 4 vstupy, 4M
 Detail
 Nejbližší školení
-24. 11.
-2026
-Control4 certifikační školení
-3 dny
-V Olšinách 2300/75, Praha, Česká republika, 10000
 25. 11.
 2026
 Přínos automatizace budov (1 bod – ČKA)
@@ -65,6 +60,11 @@ Praha, Česko
 2026
 KNX certifikační školení
 3.5 dny
+V Olšinách 2300/75, Praha, Česká republika, 10000
+14. 01.
+2027
+Control4 recertifikační školení
+1 Den
 V Olšinách 2300/75, Praha, Česká republika, 10000
 Všechny termíny
 Aktuality
@@ -268,6 +268,10 @@ Nesouhlasím
 Statistické cookies
 Technické uložení nebo přístup, který se používá výhradně pro anonymní statistické účely. Bez předvolání, dobrovolného plnění ze strany vašeho Poskytovatele internetových služeb nebo dalších záznamů od třetí strany nelze informace, uložené nebo získané pouze pro tento účel, obvykle použít k vaší identifikaci.
 Zjistit více »
+Souhlasím
+Nesouhlasím
+Preferenční cookies
+Pomocí preferenčních cookies jsme schopni vám poskytnout personalizovaný obsah na základě vašeho procházení či nastavení eshopu.
 Souhlasím
 Nesouhlasím
 Marketingové cookies

@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -61,15 +61,15 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5114)
-Wszystkie 5114
+Światłowody (5119)
+Wszystkie 5119
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1029
-Patchcordy światłowodowe 1336
+Patchcordy światłowodowe 1337
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 381
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 383
 Adaptery światłowodowe 128
-Budowa sieci optotelekomunikacyjnej 367
+Budowa sieci optotelekomunikacyjnej 368
 Spawarki światłowodowe i akcesoria 50
 Urządzenia diagnostyczne 159
 Mediakonwertery 91
@@ -77,7 +77,7 @@ Mufy światłowodowe 215
 Multipatchcordy 50
 Narzędzia światłowodowe 128
 Osłonki spawów 19
-Przełącznice światłowodowe 321
+Przełącznice światłowodowe 322
 Splittery optyczne 58
 Stelaże zapasu kabla 43
 Szafy teleinformatyczne 165
@@ -110,8 +110,8 @@ LAN (4976)
 Wszystkie 4976
 Kable LAN 404
 Patchcordy RJ45 1873
-Szafy RACK 892
-Akcesoria do szaf RACK 900
+Szafy RACK 891
+Akcesoria do szaf RACK 901
 Moduły keystone 236
 Gniazda, wtyki, łączniki LAN 295
 Organizacja kabli 97
@@ -121,9 +121,9 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2298)
-Wszystkie 2298
-Zasilacze UPS 372
+Zasilanie (2300)
+Wszystkie 2300
+Zasilacze UPS 374
 Zasilacze PoE 91
 Zasilacze buforowe 227
 Zasilacze impulsowe 559
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Lanberg AK-1100-S listwa uziemiająca do szaf RACK 19″
+34.51 zł netto
+Do koszyka
+Złączka redukcyjna do mikrorur 16 mm na 12/8 mm
+8.85 zł netto
+Do koszyka
+FS SFP-10G23-BX10 moduł optyczny SFP+ BiDi 10G 10 km kompatybilny z Cisco
+292.32 zł netto
+Do koszyka
+FS SFP-10G32-BX10 moduł SFP+ BiDi 10G 10 km LC kompatybilny z Cisco
+292.32 zł netto
+Do koszyka
+Zasilacz UPS CyberPower CP1200EIPFCRM2U zasilacz UPS rack 1200 VA 720 W
+1450 zł netto
+Do koszyka
+Zasilacz UPS CyberPower CP900EPFCLCD 900VA 540W
+971.7 zł netto
+Do koszyka
 Zasilacz PoE 48V 1A Gigabit POE-48-48W
 51.1 zł netto
 Do koszyka
 Patchcord światłowodowy SILVER LC/APC-LC/UPC G.652D DUPLEX 10M 2.0mm YELLOW LSZH
 33.75 zł netto
-Do koszyka
-Patchcord światłowodowy SILVER LC/APC-LC/APC G.652D DUPLEX 1M 3.0mm YELLOW LSZH
-23.49 zł netto
-Do koszyka
-Patchcord światłowodowy SILVER LC/APC-LC/UPC G.652D DUPLEX 1M 3.0mm YELLOW LSZH
-22.1 zł netto
-Do koszyka
-Hikvision DS-2CD2955G0-IS(U) kamera IP fisheye 5 MP
-1327.42 zł netto
-Do koszyka
-Hikvision DS-2CD2383G2P-LISU/S(L)(RB) panoramiczna kamera IP 8 MP 180°
-982.4 zł netto
-Do koszyka
-Kamera IP Hikvision DS-2CD2363G2P-LISU/SL(180°)(O-STD) panoramiczna 6 MP
-744.4 zł netto
-Do koszyka
-Hikvision DS-2CD2343G2P-LISU/SL(180°) kamera IP panoramiczna 4 MP
-704 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -373,6 +373,61 @@ Anterior
 Siguiente
 Mercasat distribuidor de productos de seguridad y telecomunicaciones
 Novedades
+ADS-110DL-48N-1
+Fuente de alimentación para NVR 53V CC, 1,8A
+Fuente de Alimentación Dahua
+Para NVR (requiere cable IEC C13)
+Entrada: 240V CA
+Salida: 53V CC, 1,812A
+Corriente DC
+Precio
+48,00 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+AK-R25K
+Videoportero IP 4 Mpx Gran Angular con Teclado PoE Akuvox
+Videoportero IP en superficie
+Cámara 4 Mpx gran angular
+Audio bidireccional
+Tarjeta EM/MF, NFC y PIN | 2 relés
+Códigos tempo. | PoE, SIP estándar
+Mantenimiento Cloud
+Precio
+389,62 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+AK-E12S-BLACK
+Videoportero IP 2 Mpx PoE Akuvox Negro
+Videoportero IP en superficie
+Cámara 2 Mpx | Audio bidireccional
+Apertura tarjeta MF, NFC y BLE | 1 relé
+PoE, SIP estándar
+Mantenimiento Cloud
+Conexión de monitor y placas por Cloud
+Precio
+143,99 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
+AK-E12W-BLACK
+Videoportero IP WiFi 2 Mpx PoE Akuvox Negro
+Videoportero IP en superficie
+Cámara 2 Mpx | Audio bidireccional
+Apertura tarjeta MF, NFC y BLE | 1 relé
+PoE, WiFi, SIP estándar
+Mantenimiento Cloud
+Conexión de monitor y placas Cloud
+Precio
+157,54 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
 7760
 Kit videoportero Fermax CORA DUOX PLUS 1 vivienda 4,3″
 Kit de videoportero 1 vivienda Fermax
@@ -425,62 +480,6 @@ Instalación mediante 2 hilos
 Cámara en color con visión nocturna
 Precio
 568,70 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-9457
-Conector negro DUOX PLUS para monitores Fermax VEO e Iris
-Conector negro DUOX PLUS Fermax
-Para monitores Fermax VEO e Iris
-Sujeción firme sobre la pared
-Se adapta a paredes irregulares
-100 x 71.5 x 14 mm
-Acabado en color negro
-Precio
-16,94 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-9265
-Monitor videoportero Fermax Iris Smart 7” WiFi DUOX PLUS negro
-Fermax
-Monitor Iris Smart Wi-Fi 7" Negro
-Pantalla táctil
-Comunicación manos libres
-Instalación Duox Plus
-Permite el desvío de llamadas a móviles
-Precio
-617,10 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-9264
-Monitor videoportero Fermax Iris Smart 7” WiFi DUOX PLUS blanco
-Fermax
-Monitor Iris Smart Wi-Fi 7"
-Pantalla táctil
-Comunicación manos libres
-Instalación Duox Plus
-Permite el desvío de llamadas a móviles
-Precio
-617,10 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-9261
-Monitor videoportero Fermax Iris 7” WiFi DUOX PLUS blanco
-Fermax
-Monitor Iris Wi-Fi 7"
-Pantalla táctil
-Comunicación manos libres
-Instalación Duox Plus
-Permite el desvío de llamadas a móviles
-Precio
-520,30 €
 
 Añadir al carrito
 Nuevo

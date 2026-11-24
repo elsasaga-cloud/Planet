@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
 	https://www.artsistem.com/
 	https://www.artsistem.com/hakkimizda
 	https://www.artsistem.com/oduller
@@ -248,7 +248,7 @@
 	https://www.artsistem.com/markalar/speed/urunler
 	https://www.artsistem.com/markalar/spenta
 	https://www.artsistem.com/markalar/spenta/urunler
-	https://www.artsistem.com/markalar/spider
-	https://www.artsistem.com/markalar/spider/urunler
 	https://www.artsistem.com/markalar/steelseries
-	https://www.
+	https://www.artsistem.com/markalar/steelseries/urunler
+	https://www.artsistem.com/markalar/sunlux
+	https:/

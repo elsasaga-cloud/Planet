@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Fiberden
 Size Özel Fiyatlardan Yararlanmak İçin Bayimiz Olabilirsiniz!
 Siparişlerim/Kargo Takip
@@ -102,449 +102,449 @@ Kayıt Ol
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (BEYAZ)
-398,22 TL KDV
+400,92 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (SİYAH)
-398,22 TL KDV
+400,92 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (SİYAH)
-361,55 TL KDV
+364,00 TL KDV
 Tükendi
 % 0
 yeni
 fiberden
 FİBER OPTİK HAVAİ ÇELİK ASKI TELLİ (G.567A1) SİYAH 4 CORE 1000 MT
-8.854,36 TL KDV
+8.914,36 TL KDV
 % 0
 yeni
 fiberden
 PLC Splitter Kaset Tipi-1/4-SC/APC
-202,98 TL KDV
+204,36 TL KDV
 % 0
 V-SOL
 V-SOL 8 PON OLT (V1600G1-R) C++++ SFPLERİ DAHİL
-73.084,75 TL KDV
+73.580,00 TL KDV
 YENİ GELENLER
 Yeni gelen ürünleri bu alanda görebilirsiniz.
 % 0
 yeni
 V-SOL
 SİNGLE PON MİNİ GPON OLT (V-SOL V1600GS-R)
-8.264,00 TL KDV
+8.320,00 TL KDV
 % 0
 yeni
 fiberden
 FİBER OPTİK HAVAİ (ÇELİK ASKI TELLİ) 16 CORE (TÜPLÜ)
-33.941,28 TL KDV
+34.171,28 TL KDV
 Tükendi
 % 0
 yeni
 fiberden
 FİBER OPTİK HAVAİ ÇELİK ASKI TELLİ (G.567A1) SİYAH 4 CORE 1000 MT
-8.854,36 TL KDV
+8.914,36 TL KDV
 % 0
 yeni
 fiberden
 PLC Splitter Kaset Tipi-1/8-SC/APC
-243,79 TL KDV
+245,44 TL KDV
 % 0
 yeni
 fiberden
 PLC Splitter Kaset Tipi-1/4-SC/APC
-202,98 TL KDV
+204,36 TL KDV
 İNDİRİMDEKİLER
 İndirimde olan ürünleri bu alanda görebilirsiniz.
 % 0
 V-SOL
 V-SOL 8 PON OLT (V1600G1-R) C++++ SFPLERİ DAHİL
-73.084,75 TL KDV
+73.580,00 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/8-SC/UPC
-236,04 TL KDV
+237,64 TL KDV
 % 0
 V-SOL
 V-SOL 4 PORT POE XPON ONT (V2820D-1G3FPS)
-3.615,50 TL KDV
+3.640,00 TL KDV
 % 0
 V-SOL
 GPON ONT 8 PORT Ters Poe (V2808PD-ZG)
-3.253,95 TL KDV
+3.276,00 TL KDV
 % 0
 V-SOL
 GPON SFP C++++ Çıkış Gücü 9dB
-1.756,10 TL KDV
+1.768,00 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/16-SC/UPC
-442,64 TL KDV
+445,64 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/32-SC/UPC
-1.106,86 TL KDV
+1.114,36 TL KDV
 % 0
 yeni
 fiberden
 PLC Splitter Kaset Tipi-1/4-SC/APC
-202,98 TL KDV
+204,36 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/2-SC/APC
-169,41 TL KDV
+170,56 TL KDV
 % 0
 yeni
 fiberden
 PLC Splitter Kaset Tipi-1/8-SC/APC
-243,79 TL KDV
+245,44 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/16-SC/APC
-416,82 TL KDV
+419,64 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/32-SC/APC
-1.106,86 TL KDV
+1.114,36 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (BEYAZ)
-398,22 TL KDV
+400,92 TL KDV
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (BEYAZ)
-361,55 TL KDV
+364,00 TL KDV
 fiberden
 FİBERDEN KASET TİPİ 2 * 1/4 SPLİTTER APC
-398,74 TL KDV
+401,44 TL KDV
 fiberden
 MİNİ SPLİTTER 1/2 APC (YEŞİL)
-193,69 TL KDV
+195,00 TL KDV
 % 0
 V-SOL
 GPON ONT 1 GE V2801SG (XPON)
-774,75 TL KDV
+780,00 TL KDV
 % 0
 V-SOL
 V-SOL AX3000 TAVANA MONTE EDİLEBİLİR Wi-Fi 6 ONT (POF)
-4.353,58 TL KDV
+4.383,08 TL KDV
 % 0
 fiberden
 FİBER OPTİK HAVAİ (ÇELİK ASKI TELLİ) 1 CORE 1000 MT GRİ
-4.058,14 TL KDV
+4.085,64 TL KDV
 % 0
 Yeni
 V-SOL
 SİNGLE PON MİNİ GPON OLT (V-SOL V1600GS-R)
-8.264,00 TL KDV
+8.320,00 TL KDV
 Tükendi
 % 0
 fiberden
 FİBERDEN ÇELİK CLEAVER (SİYAH) (OEM) ONE STEP
-5.853,49 TL KDV
+5.893,16 TL KDV
 % 0
 METASE
 METASE MT-06 TAM OTOMATIK FİBER OPTİK KESİCİ
-11.018,49 TL KDV
+11.093,16 TL KDV
 % 0
 fiberden
 K5 FÜZYON CİHAZI YEDEK ELEKTROD
-1.180,72 TL KDV
+1.188,72 TL KDV
 % 0
 fiberden
 Fiber Çelik Askı Telli Drop Kablo (G.657A2) GRİ 2 Core 2000 Metre
-15.126,22 TL KDV
+15.228,72 TL KDV
 % 0
 fiberden
 Fiber Çelik Askı Telli Drop Kablo (G.567A2) SİYAH 2 Core 1000 Metre
-7.599,78 TL KDV
+7.651,28 TL KDV
 % 0
 fiberden
 FİBER OPTİK HAVAİ ÇELİK ASKI TELLİ (G.657A1) SİYAH 2 CORE 1000 MT
-5.607,12 TL KDV
+5.645,12 TL KDV
 Tükendi
 % 0
 fiberden
 GİGABİT SFP MODUL SİNGLE MODE Bi-Di (TEK ) (SARI) SC
-354,32 TL KDV
+356,72 TL KDV
 % 0
 fiberden
 DAĞITIM KUTUSU (1/32 APC SPLİTTER İÇİNDE ÇAKILI) SİYAH
-1.844,94 TL KDV
+1.857,44 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/32 SPLİTTER UYUMLU (SİYAH)
-774,75 TL KDV
+780,00 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/16 SPLİTTER UYUMLU (SİYAH)
-398,22 TL KDV
+400,92 TL KDV
 % 0
 fiberden
 DİSTRİBUTİON BOX (DAĞITIM KUTUSU) 1/8 SPLİTTER UYUMLU (SİYAH)
-361,55 TL KDV
+364,00 TL KDV
 % 0
 fiberden
 MİNİ SPLİTTER 1/16 APC
-417,33 TL KDV
+420,16 TL KDV
 Tükendi
 % 0
 fiberden
 REVERS POE 8 SC 2 RJ45 (8A)
-6.050,28 TL KDV
+6.091,28 TL KDV
 Tükendi
 % 0
 fiberden
 MEDİA CONVERTER GİGABİT 1 SC 2 RJ45 (B VERSİYON)
-1.291,25 TL KDV
+1.300,00 TL KDV
 Tükendi
 % 0
 GUANGYAN
 GUANGYAN Q1 METAL FİBER CLEAVER
-3.873,75 TL KDV
+3.900,00 TL KDV
 % 0
 fiberden
 2 PORT DUVAR PRİZİ (BOŞ)
-40,80 TL KDV
+41,08 TL KDV
 % 0
 fiberden
 CORE TEMİZLEME MENDİLİ (100 AD)
-294,92 TL KDV
+296,92 TL KDV
 % 0
 fiberden
 Fiber Adaptör SC/APC (Duplex)
-17,56 TL KDV
+17,68 TL KDV
 % 0
 fiberden
 CLOSURE 48 CORE 4 İN 4 OUT
-1.180,72 TL KDV
+1.188,72 TL KDV
 % 0
 fiberden
 CLOSURE 24 CORE 4 İN 4 OUT
-1.033,00 TL KDV
+1.040,00 TL KDV
 % 0
 fiberden
 FİBERDEN 6 MOTORLU FİBER KAYNAK MAKİNESİ (GUANGYAN K5 )
-68.178,00 TL KDV
+68.640,00 TL KDV
 % 0
 GUANGYAN
 GUANGYAN Y9 İŞLEVLİ FİBER OPTİK GÜÇ ÖLÇER OPM + VFL +LAZER
-2.892,40 TL KDV
+2.912,00 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/APC (SUPERFAST)
-18,59 TL KDV
+18,72 TL KDV
 fiberden
 KASET TİPİ CO SPLİTTER 1/4 APC (YEŞİL)
-232,94 TL KDV
+234,52 TL KDV
 Tükendi
 % 0
 fiberden
 MİNİ SPLİTTER 1/8 APC
-243,79 TL KDV
+245,44 TL KDV
 % 0
 fiberden
 MİNİ SPLİTTER 1/8 UPC
-236,04 TL KDV
+237,64 TL KDV
 % 0
 Yeni
 fiberden
 PLC Splitter Kaset Tipi-1/4-SC/APC
-202,98 TL KDV
+204,36 TL KDV
 Tükendi
 % 0
 V-SOL
 V-SOL GPON OLT 1 PON (V1600GS)
-17.561,00 TL KDV
+17.680,00 TL KDV
 Tükendi
 % 0
 V-SOL
 V-SOL 1 PON OLT 1/32 SPLİTER GÖMÜLÜ (V1600GS-O32)
-19.627,00 TL KDV
+19.760,00 TL KDV
 % 0
 fiberden
 MİNİ SPLİTTER 1/4 APC (YEŞİL)
-243,79 TL KDV
+245,44 TL KDV
 Tükendi
 % 0
 V-SOL
 V-SOL 4 PON OLT (V1600G0-B) C++++ 9dB SFPLERİ DAHİL
-57.589,75 TL KDV
+57.980,00 TL KDV
 % 0
 V-SOL
 V-SOL 8 PON OLT (V1600G1-R) C++++ SFPLERİ DAHİL
-73.084,75 TL KDV
+73.580,00 TL KDV
 % 0
 V-SOL
 V-SOL 4 PORT POE XPON ONT (V2820D-1G3FPS)
-3.615,50 TL KDV
+3.640,00 TL KDV
 % 0
 V-SOL
 GPON ONT 8 PORT Ters Poe (V2808PD-ZG)
-3.253,95 TL KDV
+3.276,00 TL KDV
 % 0
 V-SOL
 GPON SFP C++++ Çıkış Gücü 9dB
-1.756,10 TL KDV
+1.768,00 TL KDV
 Tükendi
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/2-SC/UPC
-162,18 TL KDV
-206,60 TL KDV
+163,28 TL KDV
+208,00 TL KDV
 Tükendi
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/4-SC/UPC
-191,62 TL KDV
+192,92 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/8-SC/UPC
-236,04 TL KDV
+237,64 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/16-SC/UPC
-442,64 TL KDV
+445,64 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/32-SC/UPC
-1.106,86 TL KDV
+1.114,36 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/2-SC/APC
-169,41 TL KDV
+170,56 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/16-SC/APC
-416,82 TL KDV
+419,64 TL KDV
 % 0
 Yeni
 fiberden
 PLC Splitter Kaset Tipi-1/8-SC/APC
-243,79 TL KDV
+245,44 TL KDV
 % 0
 fiberden
 PLC Splitter Kaset Tipi-1/32-SC/APC
-1.106,86 TL KDV
+1.114,36 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (Çoklu Fiber Kablolar İçin)
-36,67 TL KDV
+36,92 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/APC (BNC)
-34,61 TL KDV
+34,84 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (BNC)
-33,06 TL KDV
+33,28 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/APC (KEPKEP)
-30,99 TL KDV
+31,20 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (KEPKEP)
-29,44 TL KDV
+29,64 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (SUPERFAST)
-18,59 TL KDV
+18,72 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/APC (TİMSAH)
-34,61 TL KDV
+34,84 TL KDV
 % 0
 fiberden
 Fast Konnektör SC/UPC (TİMSAH)
-33,06 TL KDV
+33,28 TL KDV
 Tükendi
 % 0
 fiberden
 Fiber Optik Toprak Altı Outdoor Kablo 12 Core 2000 metre
-73.785,64 TL KDV
+74.285,64 TL KDV
 % 0
 fiberden
 Fiber Optik Toprak Altı Outdoor Kablo 8 Core 2000 metre
-51.650,00 TL KDV
+52.000,00 TL KDV
 Tükendi
 % 0
 fiberden
 Fiber Optik Toprak Altı Outdoor Kablo 4 Core 2000 metre
-44.269,22 TL KDV
+44.569,20 TL KDV
 Tükendi
 % 0
 Yeni
 fiberden
 FİBER OPTİK HAVAİ ÇELİK ASKI TELLİ (G.567A1) SİYAH 4 CORE 1000 MT
-8.854,36 TL KDV
+8.914,36 TL KDV
 Tükendi
 % 0
 fiberden
 FİBER OPTİK HAVAİ ÇELİK ASKI TELLİ (G.657A1) SİYAH 1 CORE 1000 MT
-4.058,14 TL KDV
+4.085,64 TL KDV
 % 0
 fiberden
 Fiber Drop Kablo Bina İçi 1 Core 1x1 2.0mmX3.0mm
-4.353,58 TL KDV
+4.383,08 TL KDV
 % 0
 fiberden
 Fiber Optik Pigtail SC APC
-29,44 TL KDV
+29,64 TL KDV
 % 0
 fiberden
 Fiber Optik Pigtail SC UPC
-27,89 TL KDV
+28,08 TL KDV
 % 0
 fiberden
 Fiber Optik Patchcord SC UPC (Simplex)
-66,63 TL KDV
+67,08 TL KDV
 % 0
 fiberden
 Fiber Patchcord SC APC (Simplex)
-66,63 TL KDV
+67,08 TL KDV
 % 0
 fiberden
 Fiber Patchcord SC/APC To SC/UPC (Simplex)
-66,63 TL KDV
+67,08 TL KDV
 Tükendi
 % 0
 fiberden
 Fiber Patch kablo SC/UPC (Duplex)
-132,74 TL KDV
+133,64 TL KDV
 % 0
 fiberden
 Fiber Patch kablo SC To LC (Duplex)
-132,74 TL KDV
+133,64 TL KDV
 % 0
 fiberden
 Fiber Patch kablo LC To LC (Duplex)
-132,74 TL KDV
+133,64 TL KDV
 % 0
 fiberden
 Fiber Adaptör SC/UPC (Simplex)
-8,78 TL KDV
+8,84 TL KDV
 % 0
 fiberden
 Fiber Adaptör SC/APC (Simplex)
-8,78 TL KDV
+8,84 TL KDV
 % 0
 fiberden
 Fiber Adaptör SC/UPC (Duplex)
-17,56 TL KDV
+17,68 TL KDV
 Tükendi
 % 0
 fiberden
 Fast Konnektör Sonlandırma Seti (28mm)
-664,22 TL KDV
+668,72 TL KDV
 Tükendi
 % 0
 fiberden
 Fast Konnektör Sonlandırma Seti (25mm)
-664,22 TL KDV
+668,72 TL KDV
 % 0
 fiberden
 DROP KABLO SOYUCU PENSE 3 MM (YEŞİL)
-671,45 TL KDV
+676,00 TL KDV
 Güvenli̇ Alişveri̇ş
 256Bit SSL Sertifikası ile Güvenli Alışveriş
 Orijinal Ürün

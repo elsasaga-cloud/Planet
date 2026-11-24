@@ -1,4 +1,4 @@
-# SB-432 qubix.it · news_1 · https://www.qubix.it/sezione-news/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-432 qubix.it · news_1 · https://www.qubix.it/sezione-news/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 News – QUBIX
 ×
 Area riservata: login
@@ -207,7 +207,7 @@ https://www.qubix.it/wp-content/uploads/2026/12/CuBLU_16-9-News-sito.jpg
 900
 Alessandro
 https://www.qubix.it/wp-content/uploads/2022/01/Logo-QUBIX-rettangolare-homepage-QBX.png
-Alessandro 2026-11-18 2026-11-20 È arrivato CuBLU di AEM Networks
+Alessandro 2026-11-18 2026-11-23 È arrivato CuBLU di AEM Networks
 Novità Qubix: apparati attivi, cavo Long Reach e strumenti per la fibra ottica
 24 Settembre 2026
 Novità Qubix! Disponibili tre novità prodotto: apparati attivi, cavo in rame per le lunghe distanze e strumenti per la fibra ottica. Continua a leggere

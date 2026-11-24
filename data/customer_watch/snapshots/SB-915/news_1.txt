@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -61,18 +61,16 @@ Blogs:
 All
 Videos
 Articles
-What's New
 PR Archive
+What's New
 Customer Success
-​
 Blogs
 All
 Videos
 Articles
-What's New
 PR Archive
+What's New
 Customer Success
-​
 Why Wi-Fi 7 Alone Isn't Enough Outdoors
 In Part 1 of The Road to QORA, we explored how Wi-Fi 7 opens new possibilities for fixed wireless access. But speed alone does not win long-term customer loyalty. For broadband operators, the real tes...
 Deterministic Wireless

@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,43 +41,43 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision IP bullet kamera DS-2CD1023G2-LIU(4mm), 2Mpx, 4mm, ColorVu
-Kingston Micro SDXC Canvas Select Plus Gen3 256GB
-1 041 Kč bez DPH
-1 260 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD1023G3-LIU(2.8mm), 2Mpx, 2.8mm
-Ubiquiti UniFi Premium Etherlighting patch kabel, 3m, Cat6A, bílý, 10 pack
-2 102 Kč bez DPH
-2 544 Kč s DPH
-Triton 19" stojanový rack 45U/600x1000 prosklené dveře, šedý
-15 370 Kč bez DPH
-18 598 Kč s DPH
-Kingston Micro SDXC Canvas Select Plus Gen3 128B + SD adaptér
-736 Kč bez DPH
-891 Kč s DPH
-Ubiquiti UniFi patch kabel, 2m, Cat5e, černý
+Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý, 24 pack
+1 092 Kč bez DPH
+1 321 Kč s DPH
+MEAN WELL DDR-240B-48 Měnič napětí DC/DC, 240W
+2 238 Kč bez DPH
+2 708 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(4mm), 8Mpx, 4mm, AcuSense
+Triton 19" nástěnný rám 6U/300
+1 340 Kč bez DPH
+1 621 Kč s DPH
+Ubiquiti UniFi patch kabel, 2m, Cat5e, modrý
 115 Kč bez DPH
 139 Kč s DPH
-MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax
-5 838 Kč bez DPH
-7 064 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
-Triton 19" stojanový rack 42U/600x1000 prosklené dveře, šedý
-14 470 Kč bez DPH
-17 509 Kč s DPH
-Ubiquiti UniFi Premium Etherlighting patch kabel, 30cm, Cat6A, bílý, 24 pack
-2 631 Kč bez DPH
-3 184 Kč s DPH
-Ubiquiti Singlemode simplex optický patch cord SC APC/SC APC, 3m, 50 pack
-2 863 Kč bez DPH
-3 464 Kč s DPH
-Hikvision IP bullet kamera DS-2CD2087G3-LI2UY(2.8mm), 8Mpx, 2.8mm, ColorVu 3.0
-Triton 19" stojanový rack 37U/800x900 prosklené dveře, šedý
-15 270 Kč bez DPH
-18 477 Kč s DPH
-TP-Link Tapo RVA110, Náhradní sada pro Tapo robotické vysavače Tapo
-1 464 Kč bez DPH
-1 771 Kč s DPH
+NOYAFA NF-270 Ruční laserový dálkoměr do 70m
+303 Kč bez DPH
+366 Kč s DPH
+VAMI VMBF-51314 baterie, 16.08 kWh, LV
+37 893 Kč bez DPH
+45 850 Kč s DPH
+Hikvision DS-2FA1205-C8 Vícekanálový spínaný zdroj 12V/5A, 8x výstup
+Ubiquiti UX7, UniFi Express 7, 2 pack
+9 951 Kč bez DPH
+12 040 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,4m, Cat5e, modrý, 50 pack
+2 375 Kč bez DPH
+2 874 Kč s DPH
+SanDisk Nintendo Switch Micro SDXC 128GB (GNCZN)
+1 105 Kč bez DPH
+1 338 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, černý
+92 Kč bez DPH
+111 Kč s DPH
+Hikvision IP mini dome hybrid kamera DS-2CD2543G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
+Triton 19" stojanový rack 37U/600x600 prosklené dveře, šedý
+10 920 Kč bez DPH
+13 213 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

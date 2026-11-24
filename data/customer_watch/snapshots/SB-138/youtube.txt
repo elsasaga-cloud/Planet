@@ -1,4 +1,4 @@
-# SB-138 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-138 Volktek · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCnfa1v_jvahfH-3kgEzTRUw · fetched 2026-11-24T12:40:24Z · HTTP 200
 2026-11-19T02:59:16+00:00	How TSN Delivers Deterministic Communication	https://www.youtube.com/watch?v=gmT5nC2aWzY
 2026-09-14T07:12:07+00:00	為什麼智慧工廠需要TSN	https://www.youtube.com/watch?v=yKCif5AvJow
 2026-09-14T07:12:00+00:00	Why Smart Factories Need TSN	https://www.youtube.com/watch?v=fglIY45juGU

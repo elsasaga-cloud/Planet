@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-24T12:40:24Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -47,11 +47,14 @@ Uranium
 2010 · PSU, kasa
 Sensei
 2010 · Çevre birimi
-132 markanın tamamı A'dan Z'ye.
+131 markanın tamamı A'dan Z'ye.
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 67 içerik).
+Sektörden güncel haberler ve analizler ( 68 içerik).
+Ürün Lansmanı AMD ROCm 10.2 Çıktı: PyTorch ve Ryzen Desteği Genişledi
+AMD, ROCm 10.2.0'ı duyurdu: hipFile, vLLM ve PyTorch entegrasyonu, AITER desteği ve 18 yeni Ryzen işlemci.
+24 Kasım 2026
 Marka Duyurusu Micron, G10'u Atlayıp G11 NAND'ı Duyurdu
 Micron, G9'dan sonra G10'u atlayarak G11 NAND'ı duyurdu; 400+ katman, 2 kat yoğunluk ve 512TB SSD vaadi 2027'de geliyor.
 23 Kasım 2026
@@ -138,9 +141,6 @@ AMD'nin FSR 4.1 güncellemesi RDNA 2 ekran kartlarına geldi. Hardware Unboxed t
 26 Ekim 2026
 Marka Duyurusu Intel, Crescent Island GPU D-Series'i tanıttı
 Intel, OCP Global Summit'te Crescent Island adını verdiği Xe3P tabanlı GPU D-Series'i duyurdu; 480GB belleğe kadar çıkıyor.
-26 Ekim 2026
-Yapay Zekâ Google Gemini 4 Argon Modelini Tanıttı
-Google DeepMind, yeni yapay zeka modeli Gemini 4 Argon'u duyurdu. Model, performans ve güvenlik testlerinde dikkat çekiyor.
 26 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

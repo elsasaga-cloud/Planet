@@ -1,4 +1,4 @@
-# SB-1072 securame.com · home · https://www.securame.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1072 securame.com · home · https://www.securame.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Securame
 Contacte con nosotros
 Servicio al cliente
@@ -581,7 +581,6 @@ Cables incendio bobinas
 Contacte con nosotros
 Inicio
 Ver Productos
-VER PRODUCTOS
 Video
 Intrusión
 Accesos
@@ -766,4 +765,4 @@ Propósito
 Caducidad
 PHP_SESSID
 www.securame.com
-La cookie dos. En el sitio web se utiliza para establecer una sesión de usuario y para pasar los datos de estad
+La cookie dos. En el sitio web se utiliza para establecer una sesión de usuario y para pasar los datos de estado a través de 

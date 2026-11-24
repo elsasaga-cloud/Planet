@@ -1,119 +1,118 @@
-# SA-035 td-fe.com · home · https://td-fe.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
-TH Faraday Electronics Ltd. is a professional developer and manufacturer of power supplies under trade marks FARADAY Electronics and TD-FE.
-TH Faraday Electronics Ltd. Power supplies - professional design, reliable solutions
-RU
-UK
-+7 (812) 953 13 59
-sales@td-fe.com
-Profile
-Products
-Certificates
-Contacts
-More
-Power supplies
-Enclosed 18W/12-24V/78AL
+# SA-035 td-fe.com · home · https://td-fe.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+ООО "ТД "Фарадей Электроникс". Производитель блоков питания FARADAY. Контрактное производство электроники и клавиатур. TH Faraday Electronics Ltd.
+ООО “ТД “Фарадей Электроникс” ПРОИЗВОДИТЕЛЬ БЛОКОВ ПИТАНИЯ FARADAY
++7 (812) 953-13-59
+spb@td-fe.ru
+О компании
+Продукция
+Услуги
+Сертификаты
+Партнеры
+Контакты
+Подробнее
+Блоки питания
+БП в металлическом корпусе DIN-holder
+18W/12-24V/78AL
 36W/12-24V/95AL
 50W/12-24V/120AL
 75W/12-24V/140AL
 120W/12V
-150W/24V
-240W/12V
-350W/48V
-DIN holder
-DIN rail 12W/12-24V/DIN
+AL150-24-Slim
+AL150-50/60-Slim
+AL350-48
+БП на DIN рейку 12W/12-24V/DIN
+12W/12V/DIN
+12W/24V/DIN
 24W/12-24V/DIN
-36W/12-24V/DIN
 36W/12-24V/DIN Slim
+36W/12-24V/DIN
 50W/12-24V/DIN
-80W/12-24V/DIN
+DIN75-12/24
 75W/12-24V/DIN
-120W/24V/DIN
+DIN80-12/24
+DIN120-24
 120W/48V/DIN
 240W/24V/DIN
 240W/48V/DIN
 480W/48V/DIN
-Uninterruptible power supplies (UPS) Bracket. Battery holder
-UPS 600W/48V/DIN
+Блоки бесперебойного питания (ББП) UPS 600W/48V/DIN
+UPS-DIN300-48
 UPS 300W/48V/DIN
-UPS 300W/24V/DIN
+UPS-DIN300-24-V1
 UPS 120W/24V/DIN
 UPS 75W/24V/DIN
 UPS 45W/DIN
 UPS 30W/DIN
-UPS 300W/48V Simple
+UPS600-12
 UPS 300W Simple
-UPS 160W/48V Simple
-UPS 155W/48V Simple
-UPS 120W Simple
-UPS 120W/24V Simple
+UPS 300W/48V Simple
+UPS200-48
+UPS120-12
+UPS120-24
 UPS 75W Simple
-UPS 30W Simple
-UPS 30W/24V Simple
-UPS 75W BOX
-UPS 45W BOX
-PoE injectors and extenders F-812, Switch PoE
-F-802. Switch PoE
-24W/POE. PoE injector
-30W/1Gb/POE+. PoE injector
-60W/1Gb/POE+. PoE injector
-Ext/POE. PoE extender (IP66)
-Desktop 24W/12V/WP
+UPS45-12-Slim
+Кронштейн для крепления АКБ на DIN-рейку
+БП (инжекторы) PoE и сетевое оборудование Коммутатор F-812 управляемый (L2)
+Коммутатор F-802 управляемый
+Коммутатор FU04-2R неуправляемый
+Коммутатор FU08-2RG неуправляемый
+Ком-тор FU16-2RG/1SG неуправляемый
+Коммутатор FU24-2RG неуправляемый
+Коммутатор FM24-4CG управляемый
+Инжектор 90W/1Gb/POE+
+Инжектор POE60-48-1.0GbV1
+Инжектор 30W/1Gb/POE+
+Инжектор 24W/POE
+Удлинитель Ext/POE (IP66)
+БП в пластиковом корпусе 24W/15V/WP
+24W/12V/WP
 18W/12V/WP
 18W/18V/WP
 18W/18V/1A
+19W/14.4V/EU
 12W/12V/1A
 24W/12V/2A
 36W/12V/3A
 60W/12V/5A
-24W/15V/WP
-18W/15V/WP
-Wall mount 12W/WM/PL
+Адаптеры 10W/WM/PL
+12W/WM/PL1
 18W/WM/PL
-3W/WM/PL
-5W/WM/PL
-30W/WM/PL
-Open frame 6W/OPF
+WM5-5-USB
+Бескорпусные БП 6W/OPF
 10W/OPF
 27W/OPF
 18W/OPF
-Download Brochure
-Profile
-Who we are
-Faraday Electronics Company was founded in 2011 by power supply specialists. The company was created to meet the specific needs of customers. For example, power supplies were developed with the ability to set any output voltage in the range from 12V to 24V using an adjustable resistor.
-Our products are manufactured under two brand names
-The trademark is protected on the territory of Russia.
-The trademark is protected by
-Madrid - The International Trademark System.
-Who our partners are
-Our Key Manufacturing Partners are Chinese factories with a high level of technological production of Power Supplies. We trust the production of our power supplies only to factories with which we have been cooperating for many years.
-What we can do for you
-We design and manufacture Power Supplies according to customer requests. Key Power Supplies also have the capability to modify or custom build products to suit your application.
-Faraday Power Supplies comply with international standards for reliability and consumer properties because we do not use simplified circuit solutions and cheap components in the design and manufacture of Switching Power Supplies.
-The warranty period for our products is at least two years.
-Contact us, and we will deal with your enquiry promptly whilst offering the lowest cost Power solution possible
-News
-September,22 2020
-Security-Essen 2020
-April,16 2020
-Securika. MIPS-2020. Moscow
-January,16 2020
-Intersec-2020. Dubai.
-All news
-+7 (812) 953 13 59
-sales@td-fe.com
-www.td-fe.com
-Site map
-×
-Request a call
-Name * :
-Phone * :
-Time to call:
-Comment:
-Enter the code * :
-Consent to the processing of my personal data in accordance with the privacy policy *
-Fields marked with an asterisk ( * ) are required.
-Close
-Send
-×
-The site uses cookies and the technical data collection service of its visitors.
-By continuing to use this resource, you automatically agree to the use of these technologies. Read more...
+Электронный каталог продукции FARADAY
+О компании
+ООО "ТД "Фарадей Электроникс" - компания, сплотившая опытных специалистов России и Китая в области производства импульсных блоков питания и контрактного производства электронных модулей. Команда - это наша главная ценность.
+При разработке и производстве импульсных источников питания не используются упрощенные схемные решения и дешевые компоненты. Поэтому блоки питания FARADAY соответствуют требованиям международных стандартов по надежности и потребительским свойствам. Мы дорожим своей репутацией и торговой маркой smart solutions inside FARADAY ELECTRONICS ® .
+Продукция ООО "ТД "Фарадей Электроникс" широко используется в таких системах, как охранно-пожарные системы, системы разграничения доступа, системы видеонаблюдения, медицинское оборудование, системы передачи данных, кассовое оборудование, системы бесперебойного питания.
+Наши источники питания имеют следующие конкурентные преимущества:
+в блоках питания до 75Вт может выставляться любое напряжение в диапазоне 12В - 24В с помощью подстроечного резистора;
+автоматическая защита блоков питания от перепадов входного напряжения, короткого замыкания и от перегрузок;
+миниатюрные размеры корпусов значительно упрощают монтаж оборудования;
+имеется возможность крепления блоков питания как винтами, так и с помощью фиксатора на DIN-рейку.
+ООО "ТД "Фарадей Электроникс" предоставляет услугу бесплатной разработки блоков питания по техническому заданию заказчика в случае размещения серийного заказа.
+Вся продукция сертифицирована в России. Серия блоков питания на DIN рейку и отдельные другие модели имеют СЕ сертификат. Так, например, блоки питания, разработанные для домофонов VIZIT, поставляются в составе изделий в страны Евросоюза.
+Нами в 2019 году получено подтверждение регистрации торгового знака TD-FE ® в Мадридской международной системе торговых знаков. Д ля продвижения блоков питания FARADAY как на рынке РФ, так и на международных рынках принято решение о переходе на маркировку всех изделий компании торговым знаком TD-FE ® .
+ООО "ТД "Фарадей Электроникс" полностью посвящает себя клиенту и его желанию приобретать качественные услуги и продукты. Будем рады расширению и углублению партнерских отношений.
+Новости
+22 апреля 2026
+Securika 2026
+На выставке Securika 2026 в Москве представлены новые модели коммерческих коммут...
+01 января 2026
+Каталог продукции FARADAY Electronics
+Каталог продукции FARADAY Electronics в PDF-формате можно скачать здесь
+01 августа 2019
+Международная регистрация торгового знака TD-FE®
+Получено подтверждение регистрации торгового знака TD-FE® в Мадридской ...
+Все новости
++7 (812) 953-13-59
+spb@td-fe.ru
+www.td-fe.ru
+Карта сайта
+Политика конфиденциальности
+Отказаться
+Принять
+Сайт использует файлы cookies, необходимые для работы, а также сервис сбора технических данных его посетителей Яндекс.Метрика. Метрика обрабатывает IP-адрес, cookie и данные браузера.
+Подробнее в Политике конфиденциальности .

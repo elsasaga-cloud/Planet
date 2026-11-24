@@ -1,4 +1,4 @@
-# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 eSoft – Verkkokauppa – eSoft – Verkkokauppa
 Siirry sisältöön
 eSoft - Verkkokauppa
@@ -45,13 +45,13 @@ GPS/Navigointi/Seuranta ( 20 ) Ajoneuvo- ja henkilöseuranta ( 10 )
 Bluetooth GPS-vastaanottimet ( 4 )
 GPS-antennit ja -toistimet ( 2 )
 GPS-vastaanottimet ( 4 )
-GSM/2G/4G/5G/Mobiili ( 113 ) 2G/4G-mokkulat, RS-232 ( 6 )
+GSM/2G/4G/5G/Mobiili ( 112 ) 2G/4G-mokkulat, RS-232 ( 6 )
 2G/4G-mokkulat, USB ( 3 )
 2G/4G/5G-antennit ja -kaapelit ( 42 )
 2G/4G/5G-reitittimet ( 21 )
 2G/4G/GSM-vahvistimet/toistimet ( 1 )
 4G-kortit/modulit/adapterit ( 5 )
-GSM-puhelimet ja yhdyskäytävät ( 14 )
+GSM-puhelimet ja yhdyskäytävät ( 13 )
 LoRa-yhdyskäytävät ja -päätelaitteet ( 21 )
 HomePlug/HomePNA ( 8 ) HomePlug/Powerline ( 3 )
 HomePNA-laitteet ( 5 )
@@ -92,7 +92,7 @@ Seiko Precision Tulostimet ( 3 )
 Seiko SLP-tarratulostimet ( 4 )
 Tarratulostimien tarrat ( 40 )
 Tulostinpalvelimet ( 1 )
-Turvallisuus/kameravalvonta ( 356 ) Analoginen kameravalvonta ( 15 )
+Turvallisuus/kameravalvonta ( 355 ) Analoginen kameravalvonta ( 15 )
 Anturit/tarvikkeet hälyttimiin ( 102 )
 CCTV optiikat ( 7 )
 CCTV-kaapelointi ja virransyöttö ( 37 )
@@ -103,7 +103,7 @@ IP-kameratallentimet ( 4 )
 IP-sisäkamerat ( 1 )
 IP-ulkokamerat ( 17 )
 Kamerakotelot ja -tarvikkeet ( 37 )
-Lukitus ja kulunvalvonta ( 60 )
+Lukitus ja kulunvalvonta ( 59 )
 Palomuurit ja VPN ( 4 )
 SDI HD-kamerat ja -tallentimet ( 3 )
 Teollisuus-automaatio ( 20 )
@@ -136,81 +136,81 @@ WLAN-kaapelit ( 33 )
 WLAN-sovittimet ( 22 )
 WLAN-tukiasemat ( 4 )
 WLAN-ulkotukiasemat ( 6 )
-Näytetään tulokset 1–24 / 1976
+Näytetään tulokset 1–24 / 1974
 Lajittelu, oletustapa
 Lajittelu: ostetuin ensin
 Järjestä uusimman mukaan
 Lajittelu: halvin ensin
 Lajittelu: kallein ensin
-143,90 € veroton hinta 114,66 €
-Procet Industrial UltraPoE Surge Protector 4x 10/100/1000BaseT, -40…+85C, DIN
-PROCET PT-PR04G-DIN on teollisuuskäyttöön suunniteltu nelikanavainen PoE Ethernet -ylijännitesuoja, joka suojaa jopa neljä erillistä verkkokaapelia samanaikaisesti. PT-PR04G-DIN tukee 10/100/1000Base-T Ethernet-yhteyksiä ja on yhteensopiva kaikkien yleis
-14,90 € veroton hinta 11,87 €
-ZYsecurity 1ch Video Balloon UTP AHD/CVI/TVI (2x kit)
-Tuotekoodi:ZY-202EHD : Valmistajan koodi:ZY-202EHD : Tuotteen nimi:ZYsecurity 1ch Video Balloon UTP AHD/CVI/TVI (2x kit) : Tuoteryhmä:CCTV-kaapelointi : Valmistaja:ZYSECURITY Co. Ltd : Takuuaika:12 kk :
-15,90 € veroton hinta 12,67 €
-SC(APC)-SC(APC) SM 9/125 OS2 1m Duplex-kuitukaapeli LSZH
-DatoLink PCSASA2SM-01 on laadukas 1m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Kaapelin kummatkin SC liitinpäät ovat APC-hiottuja (vihreät liittimet). Kytkentäkaapeli s
+131,90 € veroton hinta 105,10 €
+HRUI 8×10/100/1000 (8x PoE+)+2xGE+2xSFP 110W 802.3af/at Switch
+HRUI HR-900-AFG-822NS on 12-porttinen Gigabit PoE-kytkin, joka tarjoaa 8x 10/100/1000BASE-T PoE Ethernet – kupariporttia, 2x 10/100/1000BASE-T Ethernet -kupariporttia sekä 2x 1000BASE-X SFP uplink -moduulipaikkaa. RJ45-portit tukevat automaattista nopeude
 34,90 € veroton hinta 27,81 €
-LVSUN USB Charger 5-port, 36W/7.2A Car-use, White
-LVSUN LS-5US-CAR on 5-porttinen USB-laturi ajoneuvoihin 36W virransyöttökapasiteetilla. Laitteen USB-portit toimivat itsenäisesti ja se pystyy lataamaan 4x älypuhelinta(1A) ja 1x Tablettia (2.4A) tai 3x Tablettia (2.4A) samanaikaisesti. Tuotepakkaus sisäl
-699,90 € veroton hinta 557,69 €
-Digi AnywhereUSB 2 Plus, USB over IP Remote USB 3.1 Hub with 2x type A USB
-Digi AnywhereUSB 2 Plus on 2-porttinen USB-over-IP palvelin, joka mahdollistaa USB-laitteiden kytkemisen mihin tahansa lähiverkkoon. AnywhereUSB-palvelimeen kytketyt USB-laitteet näkyvät tietokoneella, kuten paikallisesti kytketyt USB- laitteet. Näin USB-l
-119,90 € veroton hinta 95,54 €
-PLANET 1x RS-232/422/485 MM Fiber 100Base-FX MultiMode 2km SC
-PLANET ICS-102 on valokuituverkkoon (fiber) kytkettävä pienikokoinen sarjaporttipalvelin (Serial-over-IP) yhdellä RS-232/422/485-portilla. Laitteen sarjaportti voidaan kytkeäminkä hyvänsä sarjaliikennelaitteeseen tai-porttiin. PLANETin tietokoneeseen ase
-4,90 € veroton hinta 3,90 €
-USB Cable USB-A to USB Micro-B 1.0m Black
-LVSUN LS-USB-A-MICRO on laadukas USB-välikaapeli USB A – Micro-B liittimillä. Kaapelin avulla matkapuhelimet ja tabletit saadaan tietoliikenneyhdistettyä tietokoneisiin tailatauslaitteisiin. Kaapelia voidaan käyttää myös matkapuhelimen sekä tablet-laittei
-589,90 € veroton hinta 470,04 €
-EdgeCore Outdoor AP 802.11ac/n/a/g/b 2.4 + 5GHz PoE 3×3 MIMO
-EdgeCore EC-WO5210-L (ex 4ipnet OWL630) on vankkarakenteinen802.11ac WiFi tukiasema ulkokäyttöön 2.4G ja 5G radiolla. Tukiasemaa jota voidaan käyttää itsenäisesti tai osana 4ipnet/EdgeCore WiFi-ohjausyksiköiden kanssa rakennettavaa keskitetysti hallittava
-8,90 € veroton hinta 7,09 €
-Adapter SC-ST, Simplex
-Datolink DTL-ADA-SCST on Simplex-valokuitusovitin SC- ja ST-liittimillä valokuitujen yhteen kytkemiseen. Sovittimia käytetään mm. asennusrasioissa sekä kaapelien yhdistämisessä/jatkamisessa. Sovitin on varustettu suojatulpilla.
-2,90 € veroton hinta 2,31 €
-RJ-45 murtosuoja, Purppura / Purple
-SecTec RJ45C-P on RJ45-liittimen purppura muovinen taivutussuoja.
-530,90 € veroton hinta 423,03 €
-2” Mobile BT/USB/RS/Irda tulostin 48/55mm
-Seiko Instruments DPU-S245 on pienikokoinen ja kestävä lämpökirjoitin, joka soveltuu erinomaisesti matkakäyttöön jamuihin tilanteisiin, joissa tarvitaan helppokäyttöistä ja luotettavaa tulostinta. Laite on suunniteltu erityisesti mobiilikäyttöön, ja se on
-30,90 € veroton hinta 24,62 €
-Langaton 433M Magneettianturi Puiset ovet/ikkunat
-TUTA MC10 on langaton 433MHz-taajuudella toimiva magneettianturi puisille oville ja ikkunoille. Anturi toimii TUTA-B2 hälytinlaitteen lisäksi muissa 433MHz taajuutta käyttävien hälytinlaitteiden kanssa, kuten VideoVahti ja KingPigeon. Tuotepakkaus sisältä
-9,90 € veroton hinta 7,89 €
-WLAN Adapter Mini PCI 108M eXtended Range + Super G
-Atherros WLAN-piirisarjalla toteutettu mini PCI-kortti kannettaviin tietokoneisiin sekä sulautettuihin järjestelmiin. Tekniset tiedot: – 54/108M WLAN mini PCI Moduuli – 2.4GHz, IEEE 802.11g/b – Antenniliitin: 2x Ultra-Mini SMT-GSC – Salaus: WPA/WPA2, IEE
-107,90 € veroton hinta 85,98 €
-2G/4G 5-7dBi Omni Outdoor antenna 700-2700M Fiberclass
-Arronna D808114 on ulkotiloihin soveltuva ympärisäteilevä 2G/3G/LTE antenni 5-7dBi vahvistuksella. Tuotepakkauksessa tolppakiitystarvikkeet mukana. Tekniset tiedot: • Taajuusalue: 700-2700MHz • Vahvistus: – 700-900GHz: 5dBi – 1700-2700GHz: 7dBi • Suuntak
-131,90 € veroton hinta 105,10 €
-Sebury Fingerprint Access Control 1000x finger, 2000x EM card, Wiegand-26
-Sebury F007EM-II on itsenäisesti toimiva koodilukko, jossa on sisäänrakennettu sormenjälkitunnistus sekä EM- kortinlukija. Lukijassa myös Wiegand-26 tuki, joten se voidaan liittää myös muihin ohjaimiin lukijaksi. Ominaisuudet: • Metallirakenne, vandaalik
-53,90 € veroton hinta 42,95 €
-10G DAC SFP+ Cable 30AWG 3m
-DTL-DAC-30AWG-03 on 3m kuparitekniikalla toteutettu SFP+ välikaapeli, joka tarjoaa kustannustehokkaat 10Gbit/s yhteysnopeudet kytkimien, palvelimien, tallentimien (Ethernet) sekä Fiber Channel yhteyksiin. Käyttöympäristöt: • High capacity I/O in Storage
-16,90 € veroton hinta 13,47 €
-LC(UPC)-SC(APC) SM 9/125 OS2 2m Duplex-kuitukaapeli LSZH
-DatoLink PCLUSA2SM-02 on laadukas 2m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Kaapelin LC liitinpää on UPC-hiottu ja SC liitinpää APC- hiottu (vihreät liittimet). Kytk
-131,90 € veroton hinta 105,10 €
-Yealink EXP50 Phone Expansion Module Graphic Color LCD 272×480
-Yealink EXP50 on laajennusmoduuli puhelinmalleihin T56A/ T58A/VP59/MP56/MP58. Tekniset tiedot: • 4.3″ 272 x 480-pixel color screen • Color icons for rich visual experience • 20 physical keys on each page with dual-color LEDs • Three independent control k
-94,90 € veroton hinta 75,62 €
-Yealink Entry Level IP Phone, PoE 2x Accounts
-Yealink SIP-T21P-E2 on uusi päivitetty versio suositusta SIP-T20P puhelinmallista. T21P-E2 on edullinen ja helppo IP-puhelin, joka tuottaa HIFI-tasoista äänenlaatua tehokkaan äänenprosessoinnin, HD luurin, HD kaiuttimen ja HD kodekin (G.722) avulla. Omin
-43,90 € veroton hinta 34,98 €
-ZYsecurity Power Supply 12VDC/5A
-Zysecurity ZY-P500 on ulkoinen 12VDC virtalähde 5A virransyöttökapasiteetilla. Erillisten haaroituskaapelien avulla virtaa voidaan syöttää useammalle laitteelle samanaikaisesti.
-13,90 € veroton hinta 11,08 €
-Analoginen puhelinhälytin 95dB
-THINK YST-102 on analogiseen puhelinlinjaan tai GSM- yhdyskäytävän puhelinporttiin kytkettävä voimakasääninen soittohälytin. YST-102 on varustettu merkkivalolla ja kytkimellä, jolla voidaan valita äänenkorkeus (matala / korkea). Seinäkiinnitettävä hälytin
-3,90 € veroton hinta 3,11 €
-CAT5E U/UTP RJ45 0.5m GREY Patch Cable 24AWG
-Laadukas Cat 5e Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 5e-kaapeli soveltuu nopeisiin Fast Ethernet- sekä Gigabit-verkkoihin. RoHS-sertifioitu tuote on yksittäispakattu muovipussiin tuotekoodi- ja tuotetyyppimerkinnöillä. Kaikkien Microdata
+Din-Rail Power Supply 12VDC 5A 60W
+WEHO DR-60-12 on teollisuuskäyttöön suunniteltu DIN-kiskoon asennettava 12VDC virtalähde 60W tehonsyötöllä. Tekniset tiedot: • Ulostulojännite: 12VDC @ 5A, 60W – säädettävä +-10% • Sisääntulojännite: 88-264VAC tai 120-370VDC • Suojaukset: oikosulku / yli
+81,90 € veroton hinta 65,26 €
+LVSUN USB QC 4.0/3.0/PD 5-port, 110W 2x USB-C, 3x USB-A, Desk-mount, White
+LVSUN LS-PD110T-2C on 4-porttinen QC 3.0/4.0/PD USB- latausasema 110W virransyöttökapasiteetilla. Latausasema on varustettu kahdella USB-C sekä kolmella USB-A latausportilla. Tuotepakkaus sisältää keskusyksikön, verkkovirtajohdon (1.2m) sekä asennusohjeen
 143,90 € veroton hinta 114,66 €
-WAVLINK Halo Pulse AX3000 MESH 2-pack LAN: 3x 10/100/1000Base-T 300m2
-WAVLINK Halo Pulse WL-551X2 on WiFi 6-teknologiaan (AX3000) perustuva huippunopea langaton Mesh-tukiasemajärjestelmä kahdella tukiasemalla. MESH-kitin avulla saadaan helposti luotua kattava WiFi-verkko koti- ja yrityskäyttöön. Gigabitin Ethernet-porteill
-17,90 € veroton hinta 14,26 €
-LC(APC)-SC(APC) SM 9/125 OS2 1m Duplex-kuitukaapeli LSZH
-DatoLink PCLASA2SM-01 on laadukas 1m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, rei
+Sebury IP65 Access Control/Reader WiFi RFID/PIN, Mobile Apps, EM/HID
+Sebury sTouch WiFi W-w on monipuolinen itsenäinen kulunvalvontajärjestelmä ja RFID-kortinlukija, joka WiFi- yhteyden ansiosta mahdollistaa myös oven etäavaamisen eWeLink-mobiilisovelluksen kautta. Laite on toteutettu kestävällä IP65-luokitellulla alumiin
+53,90 € veroton hinta 42,95 €
+ZYsecurity AHD Outdoor Bullet 1080P IP66 DEMO 2.8-12mm, IR 40m, Sony, WDR, 3DNR, OSD
+DEMOKAPPALE VUODEN TAKUULLA ZYSECURITY ZY-VB9805ASC on Bullet-tyyppinen AHD-H ulkokamera. Vandaalisuojattu ja säänkestävä valvontakamera on varustettu 2.4M kuvakennolla, IR-yövaloilla sekä säädettävällä varifocal-optiikalla, jo
+30,90 € veroton hinta 24,62 €
+SmartLink SL-5ET 5x 10/100/1000 Switch unmanaged
+SmartLink SL-5ET on pienikokoinen ja tehokas 5-porttinen Gigabitin Ethernet kytkin MDI/MDIX-porteilla kaikkiin kodin- ja toimiston käyttöympäristöihin. Kytkin osaa hallita liikennettä ruuhkatilanteissa estäen pakettien katoamista, priorisoida tärkeää ver
+79,90 € veroton hinta 63,67 €
+Tuya Langaton WiFi kaksoispistorasia IP44, 16A Energy metering
+Tuya P04 on IP44 sääsuojattu etäohjattava WiFi- kaksoispistorasia, jolla pystytään etäohjaamaan sähkölaitteita sekä mittaamaan energiankulutusta. Laite kytkeytyy langattomasti kohteen WiFi-verkkoon ja siihen kytkettyjä sähkölaitteita voidaan etäisesti oh
+22,90 € veroton hinta 18,25 €
+OTI CCTV Camera Lens 12mm CS-kierteet
+OTI-1220 on 4mm polttovälin linssi CS-kierteillä analogisiin valvontakameroihin kuten PLANET-CAM-BX -runkokameramallit.
+46,90 € veroton hinta 37,37 €
+ReguLink PDU 12xIEC C13 Out 16A/230VAC 19” 1U 3m cable
+ReguLink RL-B-10-C13-12-S on PDU virranjakeluyksikkö 19″ räkkikaappiin 12x C13 ulostulolla, suojatulla virtakytkimellä sekä maadoituspisteellä. PDU-yksikön avulla saadaan syötettyä virta useammalle laitteelle. Tuotepakkaus sisältää 19″ asennusraudat sekä
+10,90 € veroton hinta 8,69 €
+BIAODA virtakaapeli C19-C20 50cm Musta 16A/250V
+BIAODA C19-C20-0.5M on maadoitettu laitekaapeli konesaleihin virranjakoyksikön ja UPS:in välille. Tuote on merkattu ja yksittäispakattu muovipussiin. Tekniset tiedot: • Liittimet: IEC 60320 C20 (suora), IEC 60320 C19 (suora) • Pituus: 0.5m • Väri: Musta
+61,90 € veroton hinta 49,32 €
+SFP-SFP Converter 2x 100/1000Base-X
+AOM-2200-EA on metallikoteloitu mediamuunnin kahdella 100/1000 SFP-moduulipaikalla, johon voidaan asentaa halutunlaiset valokuitumoduulit. Kahdella SFP-moduulipaikalla varustettu mediamuunnin soveltuu erinomaisen hyvin, kuten tarvitaan yhdistää eri kuitu
+10,90 € veroton hinta 8,69 €
+CAT5E U/UTP RJ45 7m WHITE Patch Cable 24AWG
+Laadukas Cat 5e Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 5e-kaapeli soveltuu nopeisiin Fast Ethernet- sekä Gigabit-verkkoihin. RoHS-sertifioitu tuote on yksittäispakattu muovipussiin tuotekoodi- ja tuotetyyppimerkinnöillä. Kaikkien Microdata
+94,90 € veroton hinta 75,62 €
+Procet PoE+ 802.3at Injector 30W, SFP
+Procet PT-PSE110G-S on 802.3at standardin mukainen High PoE (30W) injektori / mediamuunnin SFP-moduulipaikalla.PT-PSE110G-S on alaspäin yhteensopiva myös 802.3af PoE- laitteiden kanssa ja sen portit on suojattu jännitepiikkejä vastaan. Injektorin yleisim
+36,90 € veroton hinta 29,40 €
+CAT6A U/UTP RJ45 30m GREY Patch CableLatch Protection, 24AWG LSZH
+Laadukas CAT6A Ethernet-kytkentäkaapeli suojatulla (n:o 715)liittimellä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-Gigabit Ethernet- yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampi
+245,90 € veroton hinta 195,94 €
+1x 1000TX -1x SFP Converter, Industrial Managed, L3, IP-30, DIN, Modbus
+PLANET IGT-900-1T1S on hallittava industrial- tason mediamuunnin yhdellä 10/100/1000Base-T Ethernet- kupariportilla sekä yhdellä 100/1000/2500Base-X SFP- moduulipaikalla. Layer 3 reititysominaisuuksilla varustettu mediamuunnin on varustettu lisäksi monip
+53,90 € veroton hinta 42,95 €
+Li-ion Battery 3.7VDC 850mAh Z-325xBT
+Vara-akku ZEBEX Z-3250BT viivakoodinlukijaan.
+67,90 € veroton hinta 54,10 €
+Bike GPS, Water Proof
+HOLUX GPSport 260 on kompakti GPS-urheilumittari, joka tallentaa kuljetun reitin, nopeuden, matkan, ajan ja korkeuden sisäiseen muistiin. Laite toimii GPS-dataloggerinasekä monipuolisena ulkoilumittarina, joka näyttää reaaliaikaiset harjoitustiedot selkeä
+34,90 € veroton hinta 27,81 €
+LC/LC/SM 9/125 OS2 20m Duplex-kuitukaapeli Singlemode
+DatoLink PCLULU2SM-20 on laadukas 20m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit
+9,90 € veroton hinta 7,89 €
+TNC Male – SMA Female adapteri
+Arronna ADA-TNCRP-SMARPF on sovitinkappale TNC Male ja SMA Female liittimillä. Liittimet: • TNC-Male (Male pin) • SMA-Female (Female pin)
+744,90 € veroton hinta 593,55 €
+Gainwise 4G Door Intercom, 200x apartments PIN-code 384x, VoLTE
+Gainwise SS1808-12M-4G (vanha koodi: SS1808-12M-3G) on kehittynyt numeronäppäimellä varustettu 3G ovipuhelin. Kun ovipuhelimesta valitaan soittonumero, laite soittaa määriteltyyn puhelinnumeroon, jolloin keskusteluyhteys muodostuu ja ovi/portti voidaan et
+24,90 € veroton hinta 19,84 €
+SMA(M)-N(M) välikaapeli 3m, low-loss
+ARRONNA SMAM-NM-3M on ulkokäyttöön soveltuva 3m antennikaapeli SMA(M) ja N(M)-liittimillä. Kaapelin valmistuksessa on käytetty laadukkaita liittimiä sekä RG- 159/U kaapelia, joilla tehohävikki on saatu minimoitua. Tekniset tiedot: • Pituus: 3m • Kaapelin
+10,90 € veroton hinta 8,69 €
+CAT6A U/UTP Thin RJ45 5m RED Patch Cable Latch Protection 30AWG, LSZH
+AVEC 6A30RUUTPZ0500R on ohut ja notkea (U/UTP) valkoinen CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta piene
+20,90 € veroton hinta 16,65 €
+CAT6 U/UTP RJ45 10m RED Patch Cable, 24AWG LSZH
+Laadukas Cat 6 Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 6-kaapeli soveltuu nopeisiin Gigabit Ethernet-yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampiin yhteyksiin. RoHS-sertifioitu tuote on yksittäispakattu muo
+171,90 € veroton hinta 136,97 €
+Tseeu 4G Camera, 2M Low Power, IP65 IR 10m, Battery 5200mAh, UBox P2P
+Tseeu TS-SK4G on sisä- ja ulkotiloihin soveltuva vähävirtainen 4G-valvontakamera, jossa on sisäänrakennettu jättiakku sekä PIR-liiketunnistin. Kamerassa on korttipaikatSIM:lle sekä MicroSD muistikortille. Laite tukee Suomes

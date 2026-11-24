@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -14,7 +14,7 @@ Prázdný
 Doprava zdarma. Na vše!
 Vyberte si kategorii
 Žárovky
-(280)
+(284)
 Svítilny a čelovky
 (111)
 LED osvětlení
@@ -24,7 +24,7 @@ Reflektory
 Lampičky a drobné osvětlení
 (55)
 Vánoční osvětlení
-(259)
+(258)
 Meteostanice a budíky
 (39)
 Váhy
@@ -54,7 +54,7 @@ Instalační materiál
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
-(176)
+(180)
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart

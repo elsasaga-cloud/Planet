@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-24T12:40:24Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,40 +66,42 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-USB-pöytälaturi, 3x USB-A-portti + 1x USB-C-portti (PD), 72W
-Universal USB-laturi LogiLinkiltä MacBookin®, iPadin®, iPhonen® ja...
-35,00 €
-"Apukädet" suurennuslasilla
-Vapauta kätesi työntekoon "apukäsillä" Kätevä apuväline vaikka juotostöissä tai muissa...
-19,90 €
-Saatavilla 1 kpl
-Uniboot push-pull-kuitukytkentäkaapeli LC-LC OM4, 10 m
-Uusi uniboot push-pull -kytkentäkaapeli on täydellinen ratkaisu tiheästi...
-18,90 €
-Ethernetkaapeli Cat6 S/FTP harmaa 30m
-RJ45 ethernet, Cat 6 S/FTP, suojattu kaapeli, LSZH (halogeenivapaa) , kuparijohtimilla
-ISO/IEC 11801, EN50288...
-29,90 €
-Saatavilla 0 kpl
-Delock 5G LTE MIMO -antenni 2 x N jack 2.7 - 9.0 dBi suuntaava seinä- ja pylväsasennus ulkokäyttöön, valkoinen
-Tämä Delockin...
-285,00 €
-Kannettavan tietokoneen "noble lock" lukko numeroyhdistelmällä
-Kannettavien tietokoneiden Noble Lock yhdistelmälukko
-Noble-yhdistelmälukko...
-29,00 €
-Saatavilla 1 kpl
-Delock 10″ seinäkiinnitysteline 1 U
-Tätä Delockin telinettä voidaan käyttää 10":n paneelin seinäasennukseen, joka...
-18,90 €
-Saatavilla 2 kpl
-Audiokaapeli 3.5mm Stereo M/M 90° kulma, 0.75 m
-Laadukas Logilink audiokaapeli Väri: sininen...
-4,50 €
+Delock RJ45 ristiinkytkentä adapteri
+Adapterilla voit kytkeä esim. kaksi tietokonetta toisiinsa käyttämällä normaalia RJ45 verkkokaapelia.
+5,50 €
+Saatavilla 4 kpl
+Antennikaapeli ferriittisuojaus, 80 dB uros-naaras 2.5m
+Kaksinkertainen suojaus tarjoaa häiriöttömän kuvan Liitäntätyyppi Koaksiaaliuros...
+5,90 €
 Saatavilla 5 kpl
-Delock Lämpötila-anturikaapeli RJ45-liitin 1 m
-Tämä Delockin lämpötila-anturi mittaa luotettavasti ympäristön lämpötilaa...
-15,00 €
+Ethernetkaapeli Ultraflex, Cat.6A, S/FTP, valkoinen, 3,00 m
+Taipuisa Ethernetkaapeli Ultraflex, Cat.6A, S/FTP, valkoinen,
+Pituus...
+8,90 €
+Saatavilla 16 kpl
+Ethernetkaapeli Cat 5e U/UTP ethernet harmaa 50m
+Cat.5e-kytkentäkaapeli, suojaamaton
+U/UTP 26/7AWG
+Suojaamaton kierretty...
+25,00 €
+Delock näytönsuoja iPhone 16, karkaistusta lasista, anti-spy
+Tämä Delockin iPhone 16 -puhelimelle tarkoitettu näytönsuoja tarjoaa...
+9,00 €
+Saatavilla 1 kpl
+TV-seinäteline, 23–55", kallistus, kääntyvä, enint. 30 kg
+TV-seinäkiinnike, kallistus -15 ° / + 15 °, kääntyvä -90...
+28,90 €
+Saatavilla 1 kpl
+Riviliitin adapteri 8 pin 3.50mm - RJ45 uros
+RJ45 uros - riviliitin 8 pin 3.50mm Description
+This RJ45 to...
+8,00 €
+Navilock Multiband GNSS Galileo SMA Antenni monisuuntainen kattoasennus ulkokäyttöön
+Tässä Navilock-monikaista-antennissa on...
+75,00 €
+CoreParts Lenovo 50Wh Li-Pol 11.55V 4350mAh akku
+Lenovo yhteensopiva tarvikeakku. Takuu 1v. OEM osanumero: 02DL011, 02DL012, 02LD012, 31CP5/88/70, 5B10W13877, 5B10W13907, 5B10W13913, 5B10W13914, L18M4P73, L18M4P74, L18S3P71, SB10K97649, SB10K97650...
+66,00 €
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

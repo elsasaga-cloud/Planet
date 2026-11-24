@@ -1,6 +1,6 @@
-# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-23T10:56:18Z · HTTP 200
-2026-11-23	https://www.streakwave.com/
-2026-11-23	https://www.streakwave.com/contact
+# SC-2418 streakwave.com · sitemap · https://www.streakwave.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+2026-11-24	https://www.streakwave.com/
+2026-11-24	https://www.streakwave.com/contact
 2026-08-06	https://www.streakwave.com/promotions
 2026-11-19	https://www.streakwave.com/all-products
 2026-07-28	https://www.streakwave.com/ubiquiti-enterprise
@@ -132,6 +132,7 @@
 2026-09-02	https://www.streakwave.com/yealink
 2026-01-20	https://www.streakwave.com/yeastar
 2026-09-23	https://www.streakwave.com/zyxel
+2026-11-23	https://www.streakwave.com/plasma-cloud-pax3600-dual-band-wifi-7-ap-4xinternal-antennas
 2026-11-19	https://www.streakwave.com/16-port-gigabit-l2-lite-managed-poe-switch
 2026-11-18	https://www.streakwave.com/24-port-gigabit-l2-lite-managed-poe-switch
 2026-11-13	https://www.streakwave.com/clairé-lite-indoor-air-quality-monitor-white
@@ -193,5 +194,4 @@
 2026-10-08	https://www.streakwave.com/4x4-wifi-6-ap-5g-lan-smart-antenna-nebulaflex-pro-1-year
 2026-10-08	https://www.streakwave.com/2x2-wifi-6-ap-1g-lan-dual-optimized-antenna-nebulaflex-pro-1-year
 2026-10-08	https://www.streakwave.com/wifi-6-wall-plate-ap-poe-passthrough-nebulaflex-pro-1y
-2026-10-08	https://www.streakwave.com/wall-mount-arm-for-zyxel-aps
-2026-10-08	https://www.streakwave.com/45w-usb-c-pd-power-adapter-for-zyxel-ap
+2026-10-08	https://www.streakwave.com/wall-mo

@@ -1,15 +1,14 @@
-# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-945 grep.sg · home · https://www.grep.sg/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Grep Tech | AI Vision, Industrial IoT & Business Solutions Singapore-developed technology for practical operations +65 6340 1030 · [email protected]
 AI Vision ⌄ AI monitoring platform Platform overview Live Monitoring Virtual Patrol Behavior Analysis Face Detection
 Deploy and partner Incident Management Deployment Architecture Partner Program FAQ
-SMS & APIs ⌄ SMS platforms SMS Gateway GT Notify System HTTP SMS API SMS Webhook SMS OTP API
-Automation & help SMS to Email Email to SMS SNMP Trap to SMS Subscriber API SMS FAQ
+SMS & WhatsApp ⌄ Messaging platforms SMS Gateway WhatsApp Gateway SMS Docs & Support
 Industrial IoT ⌄ Connectivity Cellular Routers Industrial Modems Cellular RTU IoT Gateways
 Edge and field 4G GPS Trackers Remote I/O Modules NVIDIA Edge PCs All products
 Custom Software ⌄ Custom development Custom Software Overview
 Case studies Equipment Leasing Operations Multi-company HR System Service Operations ERP
 About & Resources ⌄ Company Profile Articles Downloads Contact
-Talk to us Menu ☰ AI Vision Live Monitoring Virtual Patrol Behavior Analysis Face Detection Incident Management Deployment Architecture Partner Program AI Vision FAQ SMS & APIs GT Notify System HTTP SMS API SMS FAQ Industrial IoT 4G GPS Trackers Custom Software Equipment Leasing Case Study Multi-company HR Case Study Service Operations Case Study About & Resources Articles Downloads Contact Talk to us
+Talk to us Menu ☰ AI Vision Live Monitoring Virtual Patrol Behavior Analysis Face Detection Incident Management Deployment Architecture Partner Program AI Vision FAQ SMS & WhatsApp SMS Gateway WhatsApp Gateway SMS Docs & Support Industrial IoT 4G GPS Trackers Custom Software Equipment Leasing Case Study Multi-company HR Case Study Service Operations Case Study About & Resources Articles Downloads Contact Talk to us
 GT-AiVision · AI-assisted security operations
 Let AI do the watching, so you can focus on responding.
 Turn compatible CCTV into AI-assisted live monitoring, virtual patrol and incident management. Spend less time watching screens and more time reviewing and responding.
@@ -30,6 +29,10 @@ Browse IoT products → ▦ Built around your workflow
 Business Solutions
 Tailor-made ERP, HRMS, notification and workflow systems that fit how your teams actually operate.
 View business solutions →
+GT-Notify / Business Messaging
+GT-Notify WhatsApp Gateway
+Use WhatsApp for one-to-one customer support, appointment reminders and operational alerts.
+Explore the WhatsApp Gateway
 Restricted zone Verified ·
 GT-AiVision
 Give every camera a clearer job.
@@ -63,14 +66,14 @@ Latest thinking
 Ideas for smarter operations
 All resources →
 Nov 2026
+Can Your Existing CCTV Support Virtual Patrol? A Retrofit Checklist
+A practical retrofit checklist for CCTV installers: choose the right views, verify the feed without interrupting recording, and test how the patrol report handles missing images.
+Nov 2026
 Preparing Security Teams for Remote Surveillance: From Training to Response
 A useful monitoring service needs people who can understand an alert, check the evidence and coordinate an appropriate response.
 Jul 2025
 How AI is Revolutionizing Traditional CCTV Surveillance
 For decades, CCTV systems have played a critical role in security—but they’ve largely remained passive. Cameras record 24/7, but unless someone is watching or reviewing footage, important events often go unnoticed. Traditional systems are reactive, not proactive. But that’s changing fast. Artificial Intelligence (AI) is transforming the landscape of video surveillance, making CCTV systems smarter, […]
-Jul 2025
-Why We’re All-In on AI, Edge Computing, and Video Analysis
-In recent years, we’ve witnessed a surge in artificial intelligence (AI) across nearly every industry—from chatbots to self-driving cars. It’s not just a trend. It’s a paradigm shift. And here at Grep Tech, we believe that companies who don’t embrace this AI revolution now will be left far, far behind. This is why we’re building […]
 Start with the problem
 Tell us what needs to work better.
 We’ll help identify a practical combination of AI, connected hardware and software.

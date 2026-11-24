@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -28,7 +28,7 @@ PT-500/G500 Series 50
 PT-7500 Series 48
 PT-G7728 Series 7
 PWR (Power Modules) Series 11
-RKS/RM-G4000 Series 39
+RKS-G4000 Series / RM-G4000 Modules 39
 TN-4000A/B Series 31
 TN-5500A Series 28
 TN-G4500 Series 4
@@ -81,7 +81,7 @@ PT-7728 Series 30
 PT-7828 Series 1
 PT-G7000 Series 0
 PT-G7509 Series 1
-RKS/RM-G4000 Series 0
+RKS-G4000 Series / RM-G4000 Modules 0
 XM-4000 Module Series 5
 Ethernet Embedded Modules 8
 Two-wire Ethernet Switches (SPE/APL) 2
@@ -535,5 +535,4 @@ DIN-Rail Power Supplies for 3-phase Systems 9
 DeviceNet Power Supply 2
 C-Series 0
 DC/DC Converter 12
-Power Supply with Integrated Decoupling Function 9
-DI
+Power Supply with Int

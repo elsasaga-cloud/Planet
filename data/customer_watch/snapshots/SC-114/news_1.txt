@@ -1,4 +1,4 @@
-# SC-114 Siklu Communication · news_1 · https://www.ceragon.com/blog · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SC-114 Siklu Communication · news_1 · https://www.ceragon.com/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
 Backhaul Forum
 Markets
 Mobile Operators
@@ -186,9 +186,9 @@ Private Networks (39)
 Public Safety (39)
 Smart Cities/Municipalities (28)
 Digital Transformation (27)
-Utilities (27)
 Offshore (26)
 Oil & Gas (26)
+Utilities (26)
 Mobile Operators (25)
 Critical Infrastructure (23)
 Siklu by Ceragon (11)

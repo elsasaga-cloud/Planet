@@ -1,11 +1,11 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · feed_auto · https://sundartechno.com/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+Tue, 24 Nov 2026 08:32:22 +0000	24VDC to 12VDC Power Conversion for a 15-Inch IP65 Industrial Touch Monitor	https://sundartechno.com/2026/11/24/24vdc-to-12vdc-15-inch-ip65-industrial-touch-monitor/
+Tue, 24 Nov 2026 08:19:51 +0000	SUBSTATION-LEVEL INTELLIGENCE: TURNING SCADA DATA INTO PREDICTIVE INSIGHTS	https://sundartechno.com/2026/11/24/substation-level-ai-intelligence/
+Tue, 24 Nov 2026 07:59:47 +0000	HART TO PROFIBUS PA CONVERTER WITH ex.ia BARRIERS AND RADAR SENSOR FOR PETROLIUM TANKS	https://sundartechno.com/2026/11/24/hart-to-profibus-pa-converter-radar-sensor-petroleum-tanks/
+Tue, 24 Nov 2026 07:13:01 +0000	STS 10.1-Inch Industrial Panel PC for Aircraft Cabin Pressurisation Test Trolleys	https://sundartechno.com/2026/11/24/industrial-panel-pc-cabin-pressurisation-test-trolleys/
+Tue, 24 Nov 2026 04:31:07 +0000	STS Industrial Panel PC for Tubular Reactors | Catalyst Testing and Process Development	https://sundartechno.com/2026/11/24/sts-industrial-panel-pc-tubular-reactors-catalyst-manufacturing/
 Thu, 19 Nov 2026 06:13:42 +0000	STS DEMONSTRATES BIDIRECTIONAL MQTT–IIoT COMMUNICATION	https://sundartechno.com/2026/11/19/bi-directional-mqtt-iiot-gateway/
 Thu, 19 Nov 2026 06:02:11 +0000	SMART PARCEL DIMENSIONING WITH STS 10.1″ FULL HD INDUSTRIAL PANEL PC	https://sundartechno.com/2026/11/19/smart-parcel-dimensioning-10-1-industrial-panel-pc/
 Thu, 19 Nov 2026 05:36:14 +0000	21.5-Inch Industrial Touchscreen for CNC Machine Retrofits	https://sundartechno.com/2026/11/19/21-5-inch-industrial-touch-display-cnc-retrofit/
 Wed, 18 Nov 2026 12:58:07 +0000	RUGGED COMPUTING FOR DISASTER RESPONSE	https://sundartechno.com/2026/11/18/rugged-computing-for-disaster-response/
 Wed, 18 Nov 2026 12:34:35 +0000	What happens between a passenger looking at a camera and an airport gate opening?	https://sundartechno.com/2026/11/18/sts-sbc-n305-3-5-inch-industrial-sbc/
-Tue, 17 Nov 2026 06:28:36 +0000	STS HIGH-REFRESH INDUSTRIAL DISPLAY FOR ROBOTIC AI PAINT-SURFACE INSPECTION	https://sundartechno.com/2026/11/17/robotic-ai-paint-surface-inspection-industrial-display/
-Tue, 17 Nov 2026 06:11:39 +0000	FANLESS POWER FOR EVERY DCS	https://sundartechno.com/2026/11/17/fanless-industrial-computer-dcs-pci-pcie/
-Tue, 17 Nov 2026 05:56:14 +0000	FANLESS COMPUTING FOR CHLORINE PLANTS	https://sundartechno.com/2026/11/17/fanless-industrial-computer-chlorine-plants/
-Tue, 17 Nov 2026 05:42:34 +0000	INDUSTRIAL KEPWARE SERVER – CONNECTING PLCs, METERS AND SENSORS TO SCADA, MES & CLOUD	https://sundartechno.com/2026/11/17/industrial-kepware-server-ptc-connectivity/
-Tue, 17 Nov 2026 05:16:44 +0000	STS RUGGED TABLETS FOR SMART POLICE PATROL	https://sundartechno.com/2026/11/17/sts-rugged-tablets-smart-police-patrol/
