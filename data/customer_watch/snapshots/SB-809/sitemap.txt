@@ -1,4 +1,4 @@
-# SB-809 econnet.it · sitemap · https://www.econnet.it/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-809 econnet.it · sitemap · https://www.econnet.it/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
 	https://www.econnet.it/
 	https://www.econnet.it/chi-siamo
 	https://www.econnet.it/prodotti
@@ -21,6 +21,7 @@
 	https://www.econnet.it/audioconferenza-ip.1.22.1341.sp.uw
 	https://www.econnet.it/videoconferenza-ip.1.26.475.sp.uw
 	https://www.econnet.it/doorphone-intercom.1.32.352.sp.uw
+	https://www.econnet.it/healthcare-hotel.1.22.1347.sp.uw
 	https://www.econnet.it/nas.1.27.73.sp.uw
 	https://www.econnet.it/hard-disk.1.26.392.sp.uw
 	https://www.econnet.it/videosorveglianza.1.22.253.sp.uw
@@ -201,5 +202,4 @@
 	https://www.econnet.it/licenza-standard.1.23.555.sp.uw
 	https://www.econnet.it/stormshield-endpoint-security.1.30.778.sp.uw
 	https://www.econnet.it/firewall-spare.1.30.556.sp.uw
-	https://www.econnet.it/co-term.1.22.586.sp.uw
-	https://www.econnet.it/uplift.1.22.587.sp.
+	https://www.econnet.it/co-term.1

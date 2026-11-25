@@ -1,4 +1,4 @@
-# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blog – Asit Online Store Skip to content Asit Online Store
 Innovation Delivered
 Registrati
@@ -125,6 +125,7 @@ Fujikura
 Hisense
 Huawei
 Humly
+Infortrend
 Imagicle
 Jabra
 JBF
@@ -235,7 +236,7 @@ Focus sui prodotti (213)
 Focus sulle applicazioni (137)
 In evidenza (8)
 News (344)
-Promo (104)
+Promo (105)
 Rassegna Stampa (13)
 Ultimi Articoli
 Riello UPS | Gamma Sentinel Pro2 9 Novembre 2026
@@ -483,5 +484,4 @@ Controllo Accessi Reader
 Videocitofoni
 Accessori Controllo Accessi
 Back
-A/V Soluzioni Video Commercial Display
-I
+A/V Soluzioni Video Commercia

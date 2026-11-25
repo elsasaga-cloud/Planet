@@ -1,4 +1,4 @@
-# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blog | Desecure Technology
 İçeriğe geç 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
 444 76 49
@@ -69,47 +69,47 @@ Blog
 Güvenlik teknolojileri, alarm izleme, video analiz ve enerji tesisi güvenliği üzerine saha diliyle yazılmış teknik yazılar.
 Yazılar
 Mevzuat ve rehber · 18 Kasım 2026
-7/24 tek nokta için kaç güvenlik görevlisi gerekir; 12 saat çalışma sınırı nedir?
+7/24 güvenlik noktasında kadro planlaması ve çalışma süresi sınırı
 Kesintisiz korunan tek bir nöbet noktası haftada 168 saat demektir. 4857 sayılı İş Kanununun 63. maddesindeki haftalık 45 saatle bölündüğünde sonuç 3,73 çıkar; izin, rapor ve eğitim günleri hiç sayılmadan dört görevli eder. Dört, hesabın alt sınırıdır; mevzuatta yazılı bir asgari sayı değildir. Yıllık izin ve devamsızlık eklendiğinde sonuç dördün üstüne çıkabilir.
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-Enerji santralinde özel güvenlik zorunlu mu: mevzuat ne diyor, izin nasıl alınır?
+Enerji santrallerinde özel güvenlik: mevzuat ve izin süreci
 5188 sayılı Özel Güvenlik Hizmetlerine Dair Kanunun metninde "enerji" ve "santral" kelimeleri geçmiyor. Kanun özel güvenliği bir izin olarak düzenliyor: özel güvenlik birimi kurmak ya da hizmeti bir şirkete gördürmek, metnin ifadesiyle "özel güvenlik komisyonunun kararı üzerine valinin iznine bağlıdır" (m.3). Enerji santralini adıyla sayan metin 1988 tarihli Sabotajlara Karşı Koruma Yönetmeliğidir. O metin bir koruma planından söz eder ve kapsama girecek kuruluşların tespitini bir komisyona bırakır.
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-Güvenlik firmasından teklifle birlikte hangi belgeler istenir; izin nasıl doğrulanır?
+Güvenlik hizmeti alımında belge ve izin kontrolü
 Güvenlik firmasından teklifle birlikte üç belgenin sureti istenebilir: İçişleri Bakanlığının verdiği faaliyet izin belgesi, izleme hizmeti varsa valiliğin verdiği alarm izleme merkezi yeterlilik belgesi ve özel güvenlik mali sorumluluk sigortası poliçesi. İlk ikisinin dayanağı 5188 sayılı Kanunun 5. maddesi, üçüncüsünün dayanağı 21. maddesidir. Faaliyet izni alan şirketlerin listesini Emniyet Genel Müdürlüğü kendi sitesinde yayımlıyor; şirket adı oradan kontrol edilebilir.
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-Sözleşme yenileme döneminde güvenlik hizmeti nasıl değerlendirilir?
+Sözleşme yenileme döneminde güvenlik hizmetini değerlendirme rehberi
 Güvenlik hizmeti, yenileme döneminde biten dönemin kayıtları üzerinden değerlendirilir. Bakılacak beş başlık var: olay kayıtları, nöbet sürekliliği, mülki idare denetimi (5188 sayılı Kanun m.6), sağlayıcının izin ve sigorta belgeleri (m.5, m.21), kamera kayıtlarına erişim. Bu liste bizim yöntem önerimizdir; alıntıladığımız maddeler değerlendirmenin nasıl yapılacağını anlatmaz.
 -> Yazıyı oku
 Teknik sözlük · 18 Kasım 2026
-Güvenlik standartları sözlüğü: EN 50518, BS 8418, CLC/TS 50131-9 ve AVS-01 nedir, kim yayımlar, Türkiye'de geçerli mi?
+Güvenlik standartları sözlüğü: EN 50518, BS 8418, CLC/TS 50131-9 ve AVS-01
 EN 50518 ve CLC/TS 50131-9 Avrupa belgeleridir: ilki alarm alma merkezlerinin asgari şartlarını belirleyen bir standart, ikincisi alarm doğrulama için öneriler sunan bir teknik şartnamedir. BS 8418'i Birleşik Krallık'ta BSI dedektörle tetiklenen kamera sistemleri için, AVS-01'i ABD'de The Monitoring Association alarm seviyeleri için yayımlar. Türkiye'de alarm izleme merkezini düzenleyen Uygulama Yönetmeliğinin 23. maddesi bu belgelerin hiçbirinin adını saymaz; başvuruda teknik teçhizat için bir taahhütname ister.
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-Uluslararası finansmanlı projede güvenlik için ne istenir: IFC ve EBRD ne der?
+Uluslararası finansmanlı projelerde IFC ve EBRD güvenlik gereklilikleri
 IFC Performans Standardı 4 (2012) ve EBRD'nin Çevresel ve Sosyal Gereklilik 4'ü (2024), güvenlik yükümlülüğünü güvenlik firmasına yazmaz. Muhatap, metinlerdeki adıyla "client"tır: IFC'nin tanımıyla, finanse edilen projeyi uygulayan ve işleten ya da finansmanı alan taraf. Bu yazı o tarafa kısaca yatırımcı diyor. Yatırımcı, güvenlik düzeninin saha içindekiler ve dışındakiler için doğurduğu riski değerlendirir, görevlilerin geçmişini araştırır, eğitimlerini sağlar, şikayet mekanizması kurar ve iddiaları inceler.
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-İş yerinde güvenlik kamerası: KVKK ne ister, kayıt ne kadar saklanır?
+İş yerinde güvenlik kamerası: KVKK yükümlülükleri ve kayıt saklama
 Kişisel Verileri Koruma Kurumunun 8 Haziran 2026 tarihli kamuoyu duyurusu, iş yerinde güvenlik kamerası için amacın baştan belirlenmesini, çalışanların bilgilendirilmesini ve kayıtlara yalnız yetkili kişilerin erişmesini ister. Saklama süresi için gün sayısı vermez; metindeki ifade "mümkün olan en kısa süre yeterli görülmeli, sistemde otomatik imha mekanizması bulunmalıdır" cümlesidir. Kameranın devam ve performans izleme için kullanılmasından kaçınılması gerektiğini de yazar. Duyurunun saydığı koşullar bunlarla sınırlı değildir; hepsi aşağıda, metnin kendi cümleleriyle duruyor.
 -> Yazıyı oku
 Enerji · 18 Kasım 2026
-Rüzgar santralinde ne korunur: giriş yolu, şalt sahası, türbin girişi?
+Rüzgar santralinde güvenlik: giriş yolu, şalt sahası ve türbin girişi
 Uluslararası Finans Kurumunun (IFC) rüzgar enerjisi kılavuzu, halkın erişimi başlığında üç yeri adıyla sayar: erişim yolu, şalt sahası ve kule merdiveni. Yola kapı, şalt sahasının çevresine tırmanmayı önleyici boyalı ve uyarı levhalı çit yazar; kule merdivenine erişimin engellenmesini ister. Sahanın tamamının ya da tek tek türbinlerin çitlenmesi koşula bağlı bir seçenektir (7 Ağustos 2015 tarihli kılavuz, par. 74-75) [1].
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-Enerji ve sanayi sahasında güvenlik mevzuatı: incelediğimiz metinlerde hangi kural nerede?
+Enerji ve sanayi sahasında güvenlik mevzuatı dizini
 Enerji ve sanayi sahasının güvenliğini tek başına düzenleyen bir metin bulamadık; kurallar birden çok metne dağılmış. Özel güvenlik izni 5188 sayılı Kanunda, alarm izleme merkezi Uygulama Yönetmeliğinde, iş sağlığı ve güvenliği 6331 sayılı Kanunda, kamera kaydı 6698 sayılı Kanunda ve Kurum duyurusunda, YEKA sahası yarışma şartnamesinde yazılı. Bu dizin incelediğimiz metinleri, maddeleri ve bakmadıklarımızı listeler.
 -> Yazıyı oku
 Enerji · 18 Kasım 2026
-YEKA sahasında güvenlik ne zaman planlanır? Tahsisten işletmeye takvim
+YEKA sahasında güvenlik planlaması: tahsisten işletmeye takvim
 YEKA şartnamesi güvenlik için ayrı bir tarih vermez; verdiği tarih iş programının tarihidir. YEKA GES-2026 ve YEKA RES-2026 şartnamelerinin 4.1 maddesine göre sözleşmeyi imzalayan şirket (şartnamedeki adıyla "Yarışmayı Kazanan"), imzadan sonraki 30 gün içinde iş programını Enerji İşleri Genel Müdürlüğüne sunar [1][2]. 2025 ihalelerinde ihale günü ile sözleşme imzası arasında 42 ve 38 gün geçti.
 -> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
-YEKA şartnamesi saha güvenliğini kime yüklüyor; 7.5 maddesi ne diyor, ne demiyor?
+YEKA projelerinde saha güvenliğinden kim sorumlu? Şartnamenin 7.5 maddesi
 YEKA GES-2026 ve YEKA RES-2026 şartnamelerinin 7.5 maddesi, can, mal ve çevre emniyetine yönelik her türlü güvenliğin sağlanmasını sözleşmeyi imzalayan şirketin sorumluluğuna bırakır. Şartname bu güvenliğin nasıl sağlanacağını tarif etmez: 12 Kasım 2026 itibarıyla incelediğimiz üç şartnamede (GES-2026, RES-2026, RES-2025) kamera, çit, özel güvenlik, güvenlik görevlisi ve bekçi kelimeleri geçmiyor.
 -> Yazıyı oku
 Enerji · 4 Ekim 2026
@@ -174,4 +174,4 @@ DVR (Digital Video Recorder), güvenlik kameralarından gelen görüntüyü diji
 -> Yazıyı oku
 Teknik sözlük · 20 Ağustos 2024
 NVR kayıt cihazı nedir ve IP kameralarla nasıl çalışır?
-NVR (Network Video Recorder), IP kameralardan gelen görüntüyü ağ üzerinden alıp diji
+NVR (Network Video Recorder), IP kameralardan gelen görüntüyü ağ üzerinden alıp dijital olarak kaydeden video kayıt cihazıdır. Analog sinyali dönüştüren DVR'den farkı, görüntünün kameradan kayda kadar dijital kalmasıdır. Bu yazı NVR'nin nasıl çalıştığını, büyük ve ço

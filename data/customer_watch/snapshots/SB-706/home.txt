@@ -1,4 +1,4 @@
-# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-706 eworldme.com · home · https://eworldme.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Industrial Automation & Data Communication Distributor | eWorld
 Easy World Automation L.L.C
 Partners 0
@@ -240,13 +240,13 @@ Leased Line / PSTN Modems 6
 Multidrop Modems 9
 Short Haul Modems 3
 Ethernet Switches 238
-Managed 213
+Managed 217
 POE 50
 Unmanaged 37
 Routers 117
 Broadband DSL Routers 9
 Layer 3 Switches 55
-Wireless Routers 54
+Wireless Routers 57
 Accessories 124
 Cables and Antennas 49
 Cables and Antennas for GSM Modems 9
@@ -262,7 +262,7 @@ Extenders 20
 Managed 14
 Point-to-Point 6
 Wireless 89
-Wireless Routers 54
+Wireless Routers 57
 WLAN 57
 BEIJER 0
 Cloud VPN gateway 4

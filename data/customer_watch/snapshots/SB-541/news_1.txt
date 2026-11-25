@@ -1,4 +1,4 @@
-# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-541 kbcnetworks.com · news_1 · https://kbcnetworks.com/news-events/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
 KBC Networks - BLOG
 PRODUCTS
 NETWORK SWITCHES
@@ -196,7 +196,7 @@ Other subject not listed
 Submit
 reCAPTCHA *
 This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Email
+Phone
 ×
 KBC Employee Registration
 Employee Portal Registration

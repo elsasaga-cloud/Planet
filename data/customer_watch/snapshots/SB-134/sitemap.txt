@@ -1,4 +1,4 @@
-# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-134 Kassaba Systems · sitemap · https://kassabasystems.com/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
 	https://www.kassabasystems.com/ir-kamera-5mpx-cs-25fc5m
 	https://www.kassabasystems.com/4mpx-wifi-kamera-s-mikrofon-i-cvetno-nostno-vizdane
 	https://www.kassabasystems.com/2fc-5mp-5mpx-ultra-hd-komplekt-za-videonablyudenie-na-doma-s-2-broya-5mpx-bulet-kameri-i-1-broi-ultra-hd-dvr
@@ -33,8 +33,8 @@
 	https://www.kassabasystems.com/trx-dcsp20sl-megapikselova-varifokalna-kamera-1080p
 	https://www.kassabasystems.com/ub-809ht-3m-4g
 	https://www.kassabasystems.com/4k-komplekt-za-videonablyudenie-s-8-broya-8mpx-vanshni-bulet-kameri-i-dvr-8AHD8FC
-	https://www.kassabasystems.com/dvoina-lovna-wifi-aov-solarna-kamera-UB-37HUNT-AOV-WF
 	https://www.kassabasystems.com/2AHD8FC-palen-komplekt-za-videonablyudenie-s-4-vanshni-bulet-kameri-i-hibriden-8-mp
+	https://www.kassabasystems.com/ub-dp37hunt-aov-wf-solarna-lovna-kamuflazhna-kamera-wifi-noshtno-vizhdane-mikrofon-govoritel
 	https://www.kassabasystems.com/chetvorna-wifi-kamera-s-mikrofon-i-proslediavane-na-dvijenie-HI-WF4CAM-S
 	https://www.kassabasystems.com/2br25dc-paket-ot-2br-6mpx-dvoini-wifi-ai-kameri-za-vanshen-montazh-trx-robot-25-dc
 	https://www.kassabasystems.com/2ip4b-poe-ip-tsifrov-komplekt-s-2br-poe-kameri-4mpx-dual-light-s-mikrofon-i-tsvetno-noshtno-vizhdane-4k-10-kanalen-nvr-i-poe-suich
@@ -127,7 +127,6 @@
 	https://www.kassabasystems.com/lovna-wifi-solarna-kamera-s-mikrofon-940nm-UB-17HUNT-3M-WF-940
 	https://www.kassabasystems.com/mini-wifi-kamera-na-baterii-ABR12
 	https://www.kassabasystems.com/ub-808ht-3m-4g-solarna-3mp-4g-kamera-s-pir-senzor-sim-karta-mikrofon-i-karta-pamet-do-128gb
-	https://www.kassabasystems.com/dvoina-aov-wifi-solarna-kamera-UB-38AOV10W-WF
 	https://www.kassabasystems.com/tsifrova-sistema-za-videonablyudenie-s-4-broya-5mpx-poe-ip-kameri-s-mikrofon-dual-light-ai-funktsii-10-kanalen-4k-nvr-i-suich-4dl3750
 	https://www.kassabasystems.com/ip-5mp-kamera-s-metalen-korpus-tsvetno-noshtno-video-zahranvane-po-poe-trx-50dfa-poe
 	https://www.kassabasystems.com/ip-kamera-lirdns400
@@ -140,4 +139,5 @@
 	https://www.kassabasystems.com/ip-kamera-trx-dcs13-a
 	https://www.kassabasystems.com/4robot25-3mp-wifi-bezzhichen-tsifrov-komplekt-s-4br-wifi-3mpx-upravlyaemi-vanshni-kameri-i-nvr-videorekorder-ultra-hd
 	https://www.kassabasystems.com/4dlf-5mpx-palen-komplekt-za-videonablyudenie-s-4-kameri-i-dvr
-	https://www.kassabasystems.com/2hik4kb-4-kanalen-komplekt-s-4br-ip-kupolni-kameri-4k-8mpx-dual-light-mikrofon-i-tsvetno-noshtno-vizhdane-nvr-ai-hikvi
+	https://www.kassabasystems.com/2hik4kb-4-kanalen-komplekt-s-4br-ip-kupolni-kameri-4k-8mpx-dual-light-mikrofon-i-tsvetno-noshtno-vizhdane-nvr-ai-hikvision-i-poe-suich
+	https://www.kassabasy

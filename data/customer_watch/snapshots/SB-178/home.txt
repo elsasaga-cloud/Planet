@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -25,7 +25,7 @@ Kontakt
 Kategorie
 Access Pointy (659)
 Akcesoria (440)
-Akcesoria GSM/LTE (379)
+Akcesoria GSM/LTE (378)
 Anteny (376)
 Automatyka i Przemysł (451)
 Części serwisowe (161)
@@ -41,7 +41,7 @@ Platformy WLAN (2)
 Radiolinie (85)
 Routery (185)
 Routery ADSL (5)
-Światłowody (1707)
+Światłowody (1706)
 Switche (682)
 Szafy rack 10/19 cali (501)
 Telewizja cyfrowa DVB-T (69)
@@ -291,42 +291,43 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Wisnetworks WIS-L5819S Sector Base Station
-257,07 zł z VAT
-719,55 zł
-209,00 zł netto
+Wisnetworks WIS-L5818S Sector Base Station
+367,77 zł z VAT
+575,64 zł
+299,00 zł netto
 szt
-Najniższa cena z 30 dni: 719,55 zł
-Tenda G103 Gigabit GPON Terminal SC/PC
-97,17 zł z VAT
-113,16 zł
-79,00 zł netto
+Najniższa cena z 30 dni: 575,64 zł
+Szafkowy zasilacz buforowy ZBF-R35D
+170,97 zł z VAT
+212,79 zł
+139,00 zł netto
 szt
-Najniższa cena z 30 dni: 113,16 zł
-Uchwyt kablowy KO12, na przewód okrągły ø 12 mm
-6,03 zł z VAT
-10,46 zł
-4,90 zł netto
+Najniższa cena z 30 dni: 212,79 zł
+TP-Link Deco M5, 2-pack
+576,87 zł z VAT
+612,98 zł
+469,00 zł netto
 szt
-Najniższa cena z 30 dni: 10,46 zł
-Teltonika RUTX14 router LTE12 (RUTX14000000)
-1 617,45 zł z VAT
-2 017,73 zł
-1 315,00 zł netto
+Najniższa cena z 30 dni: 612,98 zł
+WYPRZEDAŻ
+Uchwyt kablowy KO10, na przewód okrągły ø 10 mm
+4,92 zł z VAT
+9,84 zł
+4,00 zł netto
 szt
-Najniższa cena z 30 dni: 2 017,73 zł
-ZTE F623 GPON ONU 1GE+3FE+1POTS+WIFI+USB
-109,47 zł z VAT
-141,08 zł
-89,00 zł netto
+Najniższa cena z 30 dni: 9,84 zł
+Sektor Tornado Pro 18 SV
+129,15 zł z VAT
+221,40 zł
+105,00 zł netto
 szt
-Najniższa cena z 30 dni: 141,08 zł
-TornadoBox 18 dBi (mmcx)
-104,55 zł z VAT
-147,60 zł
-85,00 zł netto
+Najniższa cena z 30 dni: 221,40 zł
+Daszek Orno OR-Dom-RL-901DN/G
+55,35 zł z VAT
+61,49 zł
+45,00 zł netto
 szt
-Najniższa cena z 30 dni: 147,60 zł
+Najniższa cena z 30 dni: 61,49 zł
 Najnowsze propozycje
 NOWOŚĆ
 Obudowa hermetyczna słupowa 300x200x400 (HGF-30/20/40)
@@ -335,13 +336,13 @@ Obudowa hermetyczna słupowa 300x200x400 (HGF-30/20/40)
 szt
 NOWOŚĆ
 Teltonika ATC774 (ATC774-QMA50)
-467,51 zł z VAT
-380,09 zł netto
+469,63 zł z VAT
+381,81 zł netto
 szt
 NOWOŚĆ
 Teltonika FTC927 (FTC927BPPIL1)
-262,09 zł z VAT
-213,08 zł netto
+263,28 zł z VAT
+214,05 zł netto
 szt
 NOWOŚĆ
 TP-Link EAP603-Outdoor
@@ -350,8 +351,8 @@ TP-Link EAP603-Outdoor
 szt
 NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 891,03 zł z VAT
-6 415,47 zł netto
+7 929,95 zł z VAT
+6 447,11 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect Motion Sensor, 3-pack (USL-Motion-3)
@@ -361,9 +362,9 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Tenda CP6 obrotowa kamera do monitoringu domowego
-79,40 zł z VAT
-64,55 zł netto
+Cudy BU530
+20,75 zł z VAT
+16,87 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
@@ -383,4 +384,7 @@ PARTNER
 MikroTik
 Jesteśmy oficjalnym dystrybutorem firmy MikroTik.
 Posiadamy status:
-MikroTik
+MikroTik Value Added Distributor.
+Ostatnio oglądane
+Subskrypcja
+Chcesz otrzymywać 

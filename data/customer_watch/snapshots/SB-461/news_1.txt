@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -24,7 +24,7 @@ Reflektory
 Lampičky a drobné osvětlení
 (55)
 Vánoční osvětlení
-(258)
+(257)
 Meteostanice a budíky
 (39)
 Váhy
@@ -73,6 +73,10 @@ Rady & návody
 Recenze
 Píšeme, radíme, inspirujeme a testujeme
 Inspirace
+Noční světlo je praktický pomocník za pár korun. Jak si vybrat to správné?
+Publikováno 24. 11. 2026
+Známe to všichni. Noční cesta pro sklenici vody, kontrola dětí v pokojíčku nebo brzké zimní vstávání. Všude tma a vy nechcete rozsvítit velký lustr, abyste neprobudili zbytek rodiny. Přesně proto se hodí mít doma noční světlo.
+Inspirace
 Ventilátory pod radiátor: jak fungují a jak vám sníží náklady za energie
 Publikováno 27. 10. 2025
 V zimních měsících se doma snažíme mít příjemné teplo a zároveň neplatit za topení více, než je nutné. Klasické radiátory ale často nedokáží teplo rozvést do celé místnosti rovnoměrně. Teplý vzduch stoupá vzhůru a u podlahy zůstává chladněji. Vyřeší to ventilátor pod radiátor.
@@ -92,10 +96,6 @@ Inspirace
 EMOS GoSmart – chytrá domácnost pro každého
 Publikováno 10. 9. 2026
 Představte si chytrou domácnost jako stavebnici. Nemusíte hned měnit celou elektroinstalaci ani přesně vědět, jak má výsledný systém vypadat. Začnete jedním zařízením, vyzkoušíte si jeho možnosti a postupně přidáváte další. Právě v tom spočívá jedna z hlavních výhod systému EMOS GoSmart.
-Rady & návody
-Přehřátý buben, horká zásuvka, požár. Kde doma zbytečně riskujete s elektřinou?
-Publikováno 7. 9. 2026
-Problémy s elektřinou nevznikají jen v rozvaděči. Často začínají přímo v zásuvce nebo prodlužovacím kabelu, do kterého zapojíte přímotop, výkonné nářadí či zahradní techniku. Několik špatných návyků může způsobit přehřátí kontaktů a poškození izolace, aniž by jistič včas zareagoval. Podívejte se, kde možná doma zbytečně riskujete.
 Předchozí
 1
 2

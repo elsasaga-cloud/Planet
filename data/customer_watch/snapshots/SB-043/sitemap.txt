@@ -1,5 +1,5 @@
-# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
-2026-11-04	https://www.netontechnologies.com/
+# SB-043 Euro Technology · sitemap · https://www.netontechnologies.com/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-24	https://www.netontechnologies.com/
 2026-11-04	https://www.netontechnologies.com/contact-us
 2026-11-04	https://www.netontechnologies.com/about-us
 2026-11-04	https://www.netontechnologies.com/wildix
@@ -65,6 +65,6 @@
 2026-11-17	https://www.netontechnologies.com/cctv-planning-small-business-dubai
 2026-11-17	https://www.netontechnologies.com/office-wifi-planning-dubai
 2026-11-19	https://www.netontechnologies.com/cti-phone-crm-integration-uae
-2026-11-21	https://www.netontechnologies.com/case-studies
+2026-11-24	https://www.netontechnologies.com/case-studies
 2026-11-21	https://www.netontechnologies.com/case-studies/genesys-cloud-byoc-migration-uae
 2026-11-23	https://www.netontechnologies.com/is-voip-legal-uae-business

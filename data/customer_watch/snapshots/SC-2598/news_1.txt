@@ -1,4 +1,4 @@
-# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-2598 digital-watchdog.com · news_1 · https://digital-watchdog.com/dw-blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blogs
 Products
 DW Ai
@@ -381,6 +381,10 @@ Blogs
 2025
 2024
 2023
+11/24/2026
+The Watchdog Feast: A Thanksgiving Crossword
+Save a seat for the cameras. There’s a pie heist to solve.To our customers and partners: thank you for choosing Digital Watchdog and for the work you do with us all year. Here’s a little something for the Thanksgiving table: 12 DW clues, one bonus word, and a turkey with an eye on the pie.Open t [...]
+Posted by: Mark Espenschied in Promotional
 11/23/2026
 What Can Video Tell You After a Forklift Near Miss?
 An aisle view and an overhead view show different parts of the same factory crossing.
@@ -404,8 +408,4 @@ Purposeful views help connect an event from the branch entrance to the service a
 Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
 11/04/2026
 What Should Auto Dealerships Expect from Video Security?
-Follow vehicle handoffs with views that show both useful detail and the surrounding sequence.A vehicle can pass through several hands in a single dealership visit. It arrives at service reception, moves to a staging area, enters a bay and returns to the customer. If a question comes up later, [...]
-Posted by: Mark Espenschied in Educational, Technology, Thought Leadership, Vertical Markets
-11/02/2026
-What Should Restaurants Expect from Video Security?
-Thoughtful coverage helps restaurant teams understand an incident before, during and after it happens.The dinner rush is no time to discover that a useful camera view was blocked by a pickup shelf. A gues
+Follow vehicle handoffs with views that show both useful detail and the surrounding sequence.A vehicle can pass through several hands in a single dealership visit. It arrives at service reception, moves to a staging area, enters a bay and returns to the cust

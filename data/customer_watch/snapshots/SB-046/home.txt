@@ -1,4 +1,4 @@
-# SB-046 domoticalia.es · home · https://www.domoticalia.es/en/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-046 domoticalia.es · home · https://www.domoticalia.es/en/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Domoticalia: Home Automation Lighting, Heating, & Smart Home- Z-Wave, Zigbee, y SmartThings ...
 Sign in
 Contact us
@@ -306,10 +306,10 @@ AJAX Curtain Outdoor Jeweller motion detector: outdoor perimeter protection with
 Add to cart
 More
 In stock
-39,99 €
-SMLIGHT - SLZB-06 Adaptador Zigbee...
-SMLIGHT - the CC2652P POE Zigbee 3.0 USB Ethernet adapter compatible with Zigbee2mqtt and ZHA, for seamless automation.
-39,99 €
+49,99 €
+SMLIGHT - Coordinador Zigbee 3.0 PoE USB...
+SMLIGHT SLZB-06Mg24 is a Zigbee 3.0 coordinator designed to integrate your Zigbee 3.0 devices into your network via Ethernet/PoE, WiFi, or USB connections.
+49,99 €
 Add to cart
 More
 In stock
@@ -320,10 +320,10 @@ Human presence sensor with 24GHz mmWave radar technology, representing an evolut
 Add to cart
 More
 In stock
-49,99 €
-SMLIGHT - Coordinador Zigbee 3.0 PoE USB...
-SMLIGHT SLZB-06Mg24 is a Zigbee 3.0 coordinator designed to integrate your Zigbee 3.0 devices into your network via Ethernet/PoE, WiFi, or USB connections.
-49,99 €
+39,99 €
+SMLIGHT - SLZB-06 Adaptador Zigbee...
+SMLIGHT - the CC2652P POE Zigbee 3.0 USB Ethernet adapter compatible with Zigbee2mqtt and ZHA, for seamless automation.
+39,99 €
 Add to cart
 More
 In stock

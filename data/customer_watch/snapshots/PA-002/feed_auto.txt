@@ -1,4 +1,4 @@
-# PA-002 Cartronic Memory S.A.（Cartronic Group） · feed_auto · https://cartronic.es/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# PA-002 Cartronic Memory S.A.（Cartronic Group） · feed_auto · https://cartronic.es/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Thu, 19 Nov 2026 08:55:06 +0000	PLANET IMGS-5215-8UP4X: máxima potencia PoE++, conectividad Multigigabit y fibra 10G para entornos industriales	https://cartronic.es/switch-industrial-poe-planet-imgs-5215-8up4x/
 Wed, 11 Nov 2026 12:11:40 +0000	Cómo la monitorización ambiental ayuda a cumplir ISO 27001 y ENS en un CPD	https://cartronic.es/como-la-monitorizacion-ambiental-ayuda-a-cumplir-iso-27001-y-ens-en-un-cpd/
 Thu, 05 Nov 2026 09:56:05 +0000	Relojería sincronizada para entornos críticos: cuando cada segundo cuenta para la continuidad operativa	https://cartronic.es/relojeria-sincronizada-entornos-criticos/

@@ -1,4 +1,4 @@
-# XC-M168 Marshall Wolf Automation, Inc. · home · https://www.wolfautomation.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# XC-M168 Marshall Wolf Automation, Inc. · home · https://www.wolfautomation.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Industrial Controls Distributor | Marshall Wolf Automation
 Free Shipping For Online Orders Over $350* Learn More!
 About Us
@@ -237,14 +237,6 @@ Add to Cart
 $684.90
 Add to Cart
 Available Now!
-Dart Controls
-SA-STOK-WO
-5K Ohm Speed Pot Kit, 8.75" Leads, Knob, & Dial, Use When You Need an Input Device to Set Speed in VFD Applications, Ideal for Panel Mounting
-$36.00
-Add to Cart
-$36.00
-Add to Cart
-Available Now!
 Novus
 8103000002
 N1030-PR, 100-240VAC/DC
@@ -252,15 +244,6 @@ Temperature Controller, 1/16 DIN, 1 Relay + Pulse Out, 100-240VAC/DC, IP65, 48x4
 $65.00
 Add to Cart
 $65.00
-Add to Cart
-Available Now!
-Dart Controls
-15DVE
-DC Speed Control, NEMA 4 Enclosed
-DC Speed Control, NEMA 4 Enclosed, 120/240VAC Supply Voltage, 90/180VDC Motor Voltage, 1/50 to 1/4hp 120VAC/90VDC, 1/25 to 1/2hp 240VAC/180VDC, 3ADC Current
-$207.20
-Add to Cart
-$207.20
 Add to Cart
 Available Now!
 Leuze
@@ -334,6 +317,22 @@ $318.06
 Add to Cart
 $318.06
 Add to Cart
+Available Now!
+Invertek
+ODE-3-440300-3F4B
+Optidrive E3 Series
+VFD, 20hp, 30A, 380-480V, 3 Phase Input/Output, Keypad, Potentiometer, Disconnect Switch, EMC Filter, NEMA 4X, Outdoor IP66, General Purpose AC Drive, OPTIDRIVE E3 Series, Simple Setup with 14 Basic Parameters and Functions
+$2,390.42
+Add to Cart
+$2,390.42
+Add to Cart
+Patlite
+LR6-302W5BK-RYG
+Stack Light, Andon, Ø60mm, LED, 24VDC, Buzzer, Multi-Mount 1/2" NPT Socket and M30 External Threads, 5-Pin M12 Connector, Black Body, 3 Tier: Red, Amber and Green LEDs (Supports up to 3 LEDs and Buzzer), IP65
+$187.85
+Add to Cart
+$187.85
+Add to Cart
 Proudly independent and women-owned distributor since 1984. Learn more.
 Overstock Items Shop All Overstock
 Invertek
@@ -401,17 +400,17 @@ MTE
 DVSP0004E
 dV Sentry Series
 dV/dt Filter, Output Motor Protection for VFDs, 4A, 208-600VAC, 3 Phase, 60Hz, 0.75hp@208V, 1hp@240V, 2hp@480V, 3hp@600V, Open Panel Mount, Up to 1000ft Motor Leads, 9.1 x 6.7 x 7.7" (HWD)
-$674.90
+$637.52
 Add to Cart
-$674.90
+$637.52
 Add to Cart
 Autonics
 PRDL12-8DP2
 Item Updated - Price List
 Inductive Proximity Sensor, Ø12mm. Cylindrical, 3-Wire DC, Shielded, 12-24VDC, 8mm Sensing Distance, IP67, PRD Series
-$47.00
+$41.00
 Add to Cart
-$47.00
+$41.00
 Add to Cart
 Euchner
 8000220

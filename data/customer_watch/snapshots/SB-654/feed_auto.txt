@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-25T11:29:08Z · HTTP 200
+Wed, 25 Nov 2026 09:00:00 +0000	Robustel EG3120e: gateway de edge computing con eSIM, 4×RS-485 y Debian para modernizar instalaciones industriales	https://www.davantel.com/robustel-eg3120e-gateway-de-edge-computing-con-esim-4xrs-485-y-debian-para-modernizar-instalaciones-industriales
 Tue, 24 Nov 2026 09:00:00 +0000	RMS Teltonika: guía de gestión remota de routers	https://www.davantel.com/rms-teltonika
 Mon, 23 Nov 2026 15:29:29 +0000	Kyland SICOM3024P vs SICOM3024P-A: guía técnica y tabla comparativa	https://www.davantel.com/kyland-sicom3024p-vs-sicom3024p-a-guia-tecnica-y-tabla-comparativa
 Mon, 23 Nov 2026 09:00:00 +0000	Conectividad en estaciones de carga para VE: diagnóstico remoto y consideraciones de gateway para mantener los cargadores operativos	https://www.davantel.com/conectividad-en-estaciones-de-carga-para-ve-diagnostico-remoto-y-consideraciones-de-gateway-para-mantener-los-cargadores-operativos
@@ -54,5 +55,4 @@ Wed, 26 Aug 2026 08:00:00 +0000	Teltonika OXA: Gateway IoT Integrado para Integr
 Mon, 24 Aug 2026 08:00:00 +0000	Guía de Routers 5G Industriales: Construyendo Redes Resilientes y de Baja Latencia para 2026	https://www.davantel.com/guia-de-routers-5g-industriales-construyendo-redes-resilientes-y-de-baja-latencia-para-2026
 Fri, 21 Aug 2026 08:00:00 +0000	Edge Computing en Despliegues de Smart City: Gestión de la Conectividad, la Latencia y la Infraestructura Distribuida	https://www.davantel.com/edge-computing-en-despliegues-de-smart-city-gestion-de-la-conectividad-la-latencia-y-la-infraestructura-distribuida
 Wed, 19 Aug 2026 08:30:00 +0000	¿Qué es un router eSIM? eUICC, aprovisionamiento remoto de SIM y conectividad industrial IoT explicados	https://www.davantel.com/que-es-un-router-esim-euicc-aprovisionamiento-remoto-de-sim-y-conectividad-industrial-iot-explicados
-Mon, 17 Aug 2026 08:00:00 +0000	Más Allá de la Conectividad: Robustel EG5120 vs. EG5100 para Edge AI y Orquestación IoT	https://www.davantel.com/mas-alla-de-la-conectividad-robustel-eg5120-vs-eg5100-para-edge-ai-y-orquestacion-iot
-Fri, 14 Aug 2026 08:00:00 +0000	CARP (Common Address Redundancy Protocol): redundancia de alta disponibilidad en servidores de tiempo Elproma NTS-3000/4000/5000	https://www.davantel.com/carp-common-address-redundancy-protocol-redundancia-de-alta-disponibilidad-en-servido
+Mon, 17 Aug 2026 08:00:00 +0000	Más Allá de la Conectividad: Robustel EG5120 vs. EG5100 para Edge AI y Orquestación IoT	https://www.davantel.com/mas-alla-de-la-conectividad-robustel-eg5120-vs-eg5100-para-edge-ai-y-orq

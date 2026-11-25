@@ -1,4 +1,4 @@
-# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1023 dipol.pt · home · https://www.dipol.pt/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 IP CCTV, LAN, WLAN, TV, SAT TV, Antenas, Cabos - DIPOL
 Esse website utiliza cookies
 Usamos cookies , o que torna nossa loja fiável e adaptada a si. Os cookies permitem que combine o conteúdo e a promoção com seus interesses.
@@ -515,73 +515,74 @@ Conector SMA até 6 GHz para Tri-Lan 240/H-155 /angulado/
 €5.68
 €4.62 s/IVA
 Ver todos
-Código: E93170
+Código: A741026
 Ao carrinho
 Visualização
-Suporte Parede: Signal LPA49-466, ajustável e rotativo (37"-90")
-€61.71
-Preço mais baixo anterior: €61.71
-€59.24
-€48.16 s/IVA
-Código: L1410
+Antena TRANS-DATA 5G KPZ 8/9/8
+€137.94
+Preço mais baixo anterior: €137.94
+€131.04
+€106.54 s/IVA
+Código: A741027_10
 Ao carrinho
 Visualização
-SFP Transceiver: ULTIMODE SFP-023M 2xLC (duas fibras multimodo de até 2 km)
-€8.71
-Preço mais baixo anterior: €8.71
-€8.28
-€6.73 s/IVA
-Código: L1411
+Antena TRANS-DATA 5G KYZ 10/10 + cabo SMA de 10 m [698-960, 1710-2700, 3300-3800 MHz]
+€141.57
+Preço mais baixo anterior: €141.57
+€134.50
+€109.35 s/IVA
+Código: A741027_5
 Ao carrinho
 Visualização
-SFP Transceiver: ULTIMODE SFP-203M (duas fibras monomodo até 20 km)
-€8.71
-Preço mais baixo anterior: €8.71
-€8.28
-€6.73 s/IVA
-Código: L5124
+Antena TRANS-DATA 5G KYZ 10/10 + cabo de 5 m + SMA [698-960, 1710-2700, 3300-3800 MHz]
+€135.40
+Preço mais baixo anterior: €135.40
+€128.63
+€104.58 s/IVA
+Código: E1005_100
 Ao carrinho
 Visualização
-Caixa de Fibra Óptica: ULTIMODE MT-524 (19", 1U, bandeja para 24 emendas)
-€51.55
-Preço mais baixo anterior: €51.55
-€48.97
-€39.81 s/IVA
-Código: L5310
+Cabo Coaxial 75 Ohm TRISET 302 Eca classe A+ 1.02/4.6/7.0 110 dB [100 m]
+€59.16
+Preço mais baixo anterior: €55.90
+€57.39
+€46.66 s/IVA
+Código: E1005_250
 Ao carrinho
 Visualização
-Caixa de Distribuição de Fibra Ótica MINI ODF-DIN 2xSC Duplex
-€18.88
-Preço mais baixo anterior: €18.50
-€18.50
-€15.04 s/IVA
-Código: L5406
-Visualização
-Quadro de Distribuição de Fibra Óptica: P-PSP-G19-1U-6-SC (prateleira lateral)
-€57.35
-Preço mais baixo anterior: €57.35
-€55.05
-€44.76 s/IVA
-Código: M18967
+Cabo Coaxial 75 Ohm TRISET 302 Eca classe A+ 1.02/4.6/7.0 110 dB [250 m]
+€141.57
+Preço mais baixo anterior: €141.57
+€137.33
+€111.65 s/IVA
+Código: E1005_500
 Ao carrinho
 Visualização
-Switch PoE (extensor) Etrix E0-12 (1 x WE PoE 802.3at/Passivo, 2 x WY PoE 802.3at, 10/100Mbps)
-€17.79
-Preço mais baixo anterior: €16.70
-€16.90
-€13.74 s/IVA
-Código: M18968
+Cabo Coaxial 75 Ohm TRISET 302 Eca classe A+ 1.02/4.6/7.0 110 dB [500 m]
+€279.51
+Preço mais baixo anterior: €279.51
+€271.12
+€220.42 s/IVA
+Código: N7048
 Ao carrinho
 Visualização
-Switch PoE (extensor) Etrix E0-14 (1 x WE PoE 802.3at, 4 x WY PoE 802.3at, 10/100Mbps)
-€24.69
-Preço mais baixo anterior: €23.23
-€23.46
-€19.07 s/IVA
+Testador de cablagem de rede Signal NT-48
+€98.81
+Preço mais baixo anterior: €74.11
+€69.16
+€56.23 s/IVA
+Código: R68508
+Ao carrinho
+Visualização
+Multiswitch Signal MRP-508 (5-in/8-out, caminho de TV terrestre passivo)
+€50.10
+Preço mais baixo anterior: €50.10
+€47.59
+€38.69 s/IVA
 Ver todos
 Na última Revisão Semanal
 Papel de parede que gera eletricidade a partir da humidade do ar.
 Investigadores da Universidade de Binghamton, nos Estados Unidos, desenvolveram um papel de parede inovador capaz de converter a humidade do ar em eletricidade. Esta tecnologia utiliza pequenos Geradores Elétricos de Humidade (MEGs, na sigla em inglês), que absorvem moléculas de água do meio ambiente, provocando o movimento de iões e a criação de uma diferença de potencial elétrico. No futuro, esta nova solução poderá fornecer uma fonte de energia adicional para pequenos dispositivos eletrónico...
 Continuar a ler
 Que amplificador devo utilizar para antenas de TV combinadas?
-No caso das antenas de TV combinadas , que permitem a recepção de sinais nas bandas UHF e VHF, recomenda-se a utilização de amplificadores com controlo de ganho independente para ambas as gamas de frequência. Isto é particularmente importante, uma vez que o nível de sinal recebido por cada secção da antena pode variar significativamente. O
+No caso das antenas de TV combinadas , que permitem a recepção de sinais nas bandas UHF e VHF, recomenda-se a utilização de amplificadores com controlo de ganho independente para ambas as gamas de frequência. Isto é particularmente importante, uma vez que o nível de sinal recebido por cada secção da antena pode variar significativamente. O ajuste

@@ -1,4 +1,4 @@
-# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-550 reichelt.com · home · https://www.reichelt.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 notebooks, PC components, harddrives and electronic at reichelt
 Please choose your location:
 Austria
@@ -216,7 +216,7 @@ Italiano
 Español
 X
 Country:
-United States
+France
 Language:
 English
 Deutsch
@@ -271,7 +271,7 @@ Shopping Cart
 €0.00
 Shipping costs
 from
-€25.76
+€7.90
 Components
 Raspberry Pi Arduino
 Batteries, Power, Charger
@@ -298,15 +298,15 @@ Current edition
 Newsletter
 Subscribe now
 & benefit twice a week!
-129. 90
+129, 90
 *
-842. 90
+842, 90
 *
-99. 99
+100, 49
 *
-67. 90
+68,-
 *
-39. 90
+40, 04
 *
 Thema - Robo 2026-03
 Indoor-Projekte
@@ -319,14 +319,14 @@ more ►
 Special offers
 more ►
 Promotion & Topics
-Electromobility without compromise
-with NRGkicks intelligent and mobile charging solutions.
 Durable and energy-efficient solutions
 pneumatic and electric drive systems.
 The heart of every efficient NAS environment
 Specifically designed for 24/7 performance and reliability.
 Approved Reseller
 The compact all-rounder with countless application possibilities. From HD media players and multimedia PCs to home automation and a wide variety of DIY projects.
+Electromobility without compromise
+with NRGkicks intelligent and mobile charging solutions.
 EFB
 the leading network specialist for structured IT infrastructure.
 Small modules, big possibilities.
@@ -360,8 +360,8 @@ Mon - Thu:
 -
 Fri:
 -
-Tel.: 011 49 4422 955333
-Fax: 011 49 4422 955111
+Tel.: 00 49 4422 955363
+Fax: 00 49 4422 955212
 Email:
 info@reichelt.de
 Company address

@@ -1,4 +1,5 @@
-# SC-2106 Optimal Cable Services · youtube · https://www.youtube.com/user/AFLglobal · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-2106 Optimal Cable Services · youtube · https://www.youtube.com/user/AFLglobal · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-24T14:00:29+00:00	FlowScout® QUAD OLTS Certification Test Set - Testing | Test Tips	https://www.youtube.com/watch?v=3J64Qg92p78
 2026-11-23T14:00:02+00:00	Fujikura 100R Mass Fusion Splicer: Episode 10 | Maintenance Menu	https://www.youtube.com/watch?v=hC_Bl6kJ0mM
 2026-11-19T14:00:36+00:00	FlowScout® QUAD OLTS Certification Test Set - Referencing | Test Tips	https://www.youtube.com/watch?v=0PxxOFFcveE
 2026-11-18T14:00:03+00:00	Fujikura 100R Mass Fusion Splicer: Episode 9 | First-Splice Demonstration	https://www.youtube.com/watch?v=EwSYBCQ7-fk
@@ -13,4 +14,3 @@
 2026-10-29T13:00:01+00:00	AFL's New OPGW Wire Strander	https://www.youtube.com/watch?v=YbutwyQQZrk
 2026-10-28T13:00:06+00:00	Fujikura 100R Mass Fusion Splicer: Episode 3 | Power-Up & Navigation	https://www.youtube.com/watch?v=R7xx4sQttXY
 2026-10-27T13:00:38+00:00	AFL Classroom: Fujikura 100R Troubleshooting, Maintenance & Best Practices	https://www.youtube.com/watch?v=iqOYp0cjFNs
-2026-10-26T13:00:03+00:00	Fujikura 100R Mass Fusion Splicer: Episode 2 | Kit Contents & Workstation Setup	https://www.youtube.com/watch?v=xmOBoJFsCOg

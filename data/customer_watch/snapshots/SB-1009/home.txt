@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-23T10:56:18Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -19,27 +19,48 @@ MIKROTIK
 TELTONIKA
 MIMOSA
 EXTRALINK
+LAN cables and accessories LAN network cables
+Installation
+Copper LAN patch cords
+Cable pullers
+Tools and testers
+RJ45 plugs
+Fiber optics and accessories Fiber optic adapters
+Fiber optic accessories
+Fiber optic cables
+SFP modules
+Fiber optic splice closures
+Fiber optic tools
+Fiber optic patch cords
+Fiber optic patch panels
+Fiber optic pigtails
+Fiber optic boxes and cabinets
+Fiber optic fusion splicers
+Fiber optic splitters
+Server racks Rack accessories
+Plinths
+Rack power strips
+Rack cable organizers and blanking panels
+Patch panels
+Rack shelves
+Floor-standing server racks
+Wall-mounted server racks
+Rack fans
+Switches Non-PoE switches
+PoE switches
+Routers and Wi-Fi network cards
 Access points
-Rack cabinet accessories
 Wi-Fi / LTE antennas
-Network accessories
-LTE, 5G
-Cables and patch cords
-Sfp modules
-Media converters
-Olt and ont
-Enclosures, splices, boxes
-Cable pulling pilots
-Powerline
-Routers
 Radio lines
-Fiber optic welders and tools
-Rack cabinets
-Switches
-Uchwyty i akcesoria montażowe
-Voip
 Wi-Fi signal boosters
+LTE, 5G
+Olt and ont
+Media converters
+Powerline
+Voip
 Power supply
+Network accessories
+Brackets and masts
 Smart home
 AQARA
 SHELLY
@@ -337,8 +358,8 @@ Manufacturers
 Outhlet
 Previous
 Next
-Dedicated support for installers and service providers
-UniFi Enterprise Partner Program
+The promotion runs from Nov 27 to Nov 30.
+Don't miss out on the best deals!
 The latest networking solutions from MikroTik
 Ubiquiti UVC-G6-Turret-W
 Full area monitoring with no blind spots
@@ -361,14 +382,14 @@ Next
 New
 favorite
 favorite_border
-LTE, 5G MikroTik LHGGM&EG18-EA LTE Antenna + Modem, CAT18 LTE, 1x RJ45 1000Mb/s
-1,049.20 zł gross
+Gateways and hubs Shelly Wall Display X1i Black, Control Panel
+730.99 zł gross
 Add to basket
 New
 favorite
 favorite_border
-File servers Ubiquiti UNAS-Pro NAS Server, 2U, 7x HDD, 1x SFP+, 1x GbE RJ45
-2,613.18 zł gross
+Gateways and hubs
+730.99 zł gross
 Add to basket
 New
 favorite
@@ -409,20 +430,6 @@ Add to basket
 On sale
 Previous
 Next
--5%
-favorite
-favorite_border
-UPS ARMAC HOME 1000F LINE INTERACTIVE UPS, SCHUKO OUTPUT
-307.50 zł gross 324.63 zł gross
-Najniższa cena z 30 dni przed obniżką: 324.63 zł gross
-Add to basket
--32%
-favorite
-favorite_border
-Ip cameras Petcube Play 2 - Pet Monitoring Camera with Laser, WiFi, 1080p
-299.00 zł gross 440.00 zł gross
-Najniższa cena z 30 dni przed obniżką: 440.00 zł gross
-Add to basket
 -3%
 favorite
 favorite_border
@@ -444,26 +451,12 @@ RTV cables Extralink HDMI 2.1 Cable, 8K HDR 3m
 32.63 zł gross 33.64 zł gross
 Najniższa cena z 30 dni przed obniżką: 33.64 zł gross
 Add to basket
--42%
-favorite
-favorite_border
-Flashlights Extralink EFL-1031 Odin LED Flashlight, Built-in Battery, 10W, 400lm
-27.99 zł gross 47.99 zł gross
-Najniższa cena z 30 dni przed obniżką: 47.99 zł gross
-Add to basket
 -3%
 favorite
 favorite_border
 RTV cables HDMI 2.1 Extralink Cable, 8K HDR 1.5m
 23.50 zł gross 24.23 zł gross
 Najniższa cena z 30 dni przed obniżką: 24.23 zł gross
-Add to basket
--10%
-favorite
-favorite_border
-Cables and patch cords Extralink 1:8 PLC SC/APC Splitter, 2.0mm, 1.5m, G657A, ABS module, without connectors
-18.90 zł gross 20.90 zł gross
-Najniższa cena z 30 dni przed obniżką: 20.90 zł gross
 Add to basket
 Learn how to design and optimize UniFi Wi-Fi networks
 Certified UniFi UWA Training

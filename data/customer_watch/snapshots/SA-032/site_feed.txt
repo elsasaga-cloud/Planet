@@ -1,11 +1,11 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · site_feed · https://sundartechno.com/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+Wed, 25 Nov 2026 06:28:09 +0000	Transform Your Beverage Vending Machine into a Smart, Connected Solution	https://sundartechno.com/2026/11/25/beverage-vending-machine-pc/
+Wed, 25 Nov 2026 06:14:17 +0000	Protect Your Network with the STS Industrial Grade Fanless pfSense Firewall	https://sundartechno.com/2026/11/25/industrial-grade-pfsense-firewall-8-ports/
+Wed, 25 Nov 2026 05:53:17 +0000	Oil & Gas Wellhead Remote Monitoring Solution by Sundar Techno Solutions	https://sundartechno.com/2026/11/25/oil-gas-wellhead-remote-monitoring-solution/
+Wed, 25 Nov 2026 05:41:47 +0000	The Future of AI Data Centers Starts with Intelligent Liquid Cooling Monitoring!	https://sundartechno.com/2026/11/25/liquid-cooling-monitoring-monitoring-solution-ai-data-centers/
+Wed, 25 Nov 2026 05:26:23 +0000	USB Port Speeds from 480 Mbps to 80 Gbps | Embedded Computers from STS	https://sundartechno.com/2026/11/25/usb-port-speeds-chart-embedded-computers/
+Wed, 25 Nov 2026 05:12:33 +0000	HL7 Hospital Interface Computer	https://sundartechno.com/2026/11/25/hl7-hospital-interface-computer/
+Wed, 25 Nov 2026 04:58:25 +0000	STS Fanless Embedded Industrial Box Computer	https://sundartechno.com/2026/11/25/fanless-embedded-industrial-box-computer/
 Tue, 24 Nov 2026 08:32:22 +0000	24VDC to 12VDC Power Conversion for a 15-Inch IP65 Industrial Touch Monitor	https://sundartechno.com/2026/11/24/24vdc-to-12vdc-15-inch-ip65-industrial-touch-monitor/
 Tue, 24 Nov 2026 08:19:51 +0000	SUBSTATION-LEVEL INTELLIGENCE: TURNING SCADA DATA INTO PREDICTIVE INSIGHTS	https://sundartechno.com/2026/11/24/substation-level-ai-intelligence/
 Tue, 24 Nov 2026 07:59:47 +0000	HART TO PROFIBUS PA CONVERTER WITH ex.ia BARRIERS AND RADAR SENSOR FOR PETROLIUM TANKS	https://sundartechno.com/2026/11/24/hart-to-profibus-pa-converter-radar-sensor-petroleum-tanks/
-Tue, 24 Nov 2026 07:13:01 +0000	STS 10.1-Inch Industrial Panel PC for Aircraft Cabin Pressurisation Test Trolleys	https://sundartechno.com/2026/11/24/industrial-panel-pc-cabin-pressurisation-test-trolleys/
-Tue, 24 Nov 2026 04:31:07 +0000	STS Industrial Panel PC for Tubular Reactors | Catalyst Testing and Process Development	https://sundartechno.com/2026/11/24/sts-industrial-panel-pc-tubular-reactors-catalyst-manufacturing/
-Thu, 19 Nov 2026 06:13:42 +0000	STS DEMONSTRATES BIDIRECTIONAL MQTT–IIoT COMMUNICATION	https://sundartechno.com/2026/11/19/bi-directional-mqtt-iiot-gateway/
-Thu, 19 Nov 2026 06:02:11 +0000	SMART PARCEL DIMENSIONING WITH STS 10.1″ FULL HD INDUSTRIAL PANEL PC	https://sundartechno.com/2026/11/19/smart-parcel-dimensioning-10-1-industrial-panel-pc/
-Thu, 19 Nov 2026 05:36:14 +0000	21.5-Inch Industrial Touchscreen for CNC Machine Retrofits	https://sundartechno.com/2026/11/19/21-5-inch-industrial-touch-display-cnc-retrofit/
-Wed, 18 Nov 2026 12:58:07 +0000	RUGGED COMPUTING FOR DISASTER RESPONSE	https://sundartechno.com/2026/11/18/rugged-computing-for-disaster-response/
-Wed, 18 Nov 2026 12:34:35 +0000	What happens between a passenger looking at a camera and an airport gate opening?	https://sundartechno.com/2026/11/18/sts-sbc-n305-3-5-inch-industrial-sbc/

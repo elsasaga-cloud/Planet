@@ -1,4 +1,4 @@
-# SB-775 patton.com · news_2 · https://www.patton.com/press/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-775 patton.com · news_2 · https://www.patton.com/press/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Patton - Press Room
 Toggle navigation
 COMPANY
@@ -71,6 +71,7 @@ Fiber Rack & Enclosure Systems
 Fiber Repeaters & Wavelength Division Multiplexers (WDM)
 Waveguide RF Filters
 Power Supplies and Battery Systems
+Industrial Wireless Networking
 Media Transport
 Artel Racks & Chassis Infrastructure
 Video Over IP Transport
@@ -287,4 +288,4 @@ SmartLink M-ATA • 319-kbyte • JPEG • RGB
 SmartLink M-ATA • Top • 1340-kbyte • JPEG • RGB
 SmartLink M-ATA • 479-kbyte • JPEG • RGB
 SmartNode 4524 • Front/Rear • 1050-kbyte • JPEG • RGB
-SmartNode 4960 • Front/Rear • 671-kb
+Smart

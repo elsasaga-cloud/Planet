@@ -1,4 +1,4 @@
-# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
+# XC-M125 Electrobit OÜ · news_1 · https://www.electrobit.ee/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
 Electrobit OÜ - Tööstusautomaatika tooted ja tarkus
 Kasutame küpsiseid
 Kasutame vajalikke küpsiseid veebilehe toimimiseks ning analüüsi- ja reklaamiküpsiseid, et mõista veebilehe kasutamist ja pakkuda asjakohasemat sisu. Oma valikut saad hiljem igal ajal muuta.
@@ -153,7 +153,7 @@ Outlet
 0
 Automaatikablogi: Teooria, Praktika ja Uudised
 Andurid •
-10 min lugemine
+11 min lugemine
 LiDAR tootmisliini andurina – proovime järele!
 Kuidas kontrollida, et robot võttis kaasa täpselt ühe tolmufiltri, asetas selle õigesti pessa ja ükski serv ei jäänud püsti? Selleks ei ole alati vaja keerulist nägemissüsteemi. Mõnikord piisab ühest 2D LiDAR-skannerist, mis aitab kiiresti kontrollida, kas kõik on nii, nagu peab.
 Selles postituses näitame ühe praktilise näite abil, kuidas LiDAR-skannerit tootmisprotsessi kvaliteedikontrollis kasutada.

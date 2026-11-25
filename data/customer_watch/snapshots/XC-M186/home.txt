@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-24T12:40:24Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-25T11:29:08Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Menu
@@ -8,7 +8,6 @@ Our brands
 acre
 Addsecure
 Ajax
-Ajax Certified
 Akuvox
 Alarmtech
 Alpha
@@ -157,7 +156,6 @@ Yuasa
 Alarm panels
 acre
 Ajax
-Ajax Certified
 Dahua
 Hikvision
 Honeywell Security
@@ -179,7 +177,6 @@ RISCO
 Extensions
 acre
 Ajax
-Ajax Certified
 BANDIT
 Dahua
 Hikvision
@@ -192,7 +189,6 @@ RISCO
 Keypads
 acre
 Ajax
-Ajax Certified
 Dahua
 Hikvision
 Honeywell Security
@@ -204,7 +200,6 @@ RISCO
 Detection
 acre
 Ajax
-Ajax Certified
 Alarmtech
 Aritech
 Bosch Fire
@@ -230,7 +225,6 @@ UTC-Carrier
 Sirens/Flash units
 acre
 Ajax
-Ajax Certified
 Alarmtech
 Alpha
 ALTEC ATLS
@@ -249,7 +243,6 @@ Venitem
 Emergency push buttons
 acre
 Ajax
-Ajax Certified
 Alarmtech
 Aritech
 Bosch Intrusion Alarm by Radionix
@@ -261,7 +254,6 @@ Fog generators
 BANDIT
 Inim
 Junction boxes
-Ajax Certified
 Alarmtech
 KnightPlastic
 UTC-Carrier
@@ -269,7 +261,6 @@ Accessories
 acre
 Addsecure
 Ajax
-Ajax Certified
 Alarmtech
 ALTEC ATLS
 Aritech
@@ -344,7 +335,6 @@ Vivotek
 Western Digital
 Cameras
 Ajax
-Ajax Certified
 Akuvox
 Axis Communications
 Bysecur
@@ -382,7 +372,6 @@ TVT
 Vivotek
 NVR-DVR
 Ajax
-Ajax Certified
 Axis Communications
 Dahua
 Hanwha
@@ -872,7 +861,6 @@ Thermocable
 X-Sense
 Panels
 Ajax
-Ajax Certified
 Bosch Fire
 Honeywell Fire
 Inim
@@ -884,7 +872,6 @@ Notifier
 Interface modules
 Addsecure
 Ajax
-Ajax Certified
 Bosch Fire
 Inim
 Inim Addressable Fire
@@ -895,7 +882,6 @@ Notifier
 X-Sense
 Detection
 acre
-Ajax Certified
 Alpha
 Aritech
 Bosch Fire
@@ -928,7 +914,6 @@ Notifier
 STI
 Signallers
 Ajax
-Ajax Certified
 Alpha
 Bosch Fire
 Bysecur
@@ -963,7 +948,6 @@ Honeywell Fire
 Kidde
 Accessories
 Ajax
-Ajax Certified
 Bosch Fire
 Bysecur
 Fulleon
@@ -1038,7 +1022,6 @@ Wi-Tek
 Batteries
 acre
 Ajax
-Ajax Certified
 Alpha
 ALTEC ATLS
 Axis Communications
@@ -1235,24 +1218,6 @@ New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC
 VUPoint AI cameras in black
 Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
 SmartSD trainings
-2N CIP Certified Training
-24 November
-@ SmartSD Breda (NL)
-10 December
-@ SmartSD Merchtem (BE)
-12 January
-@ SmartSD Breda (NL)
-Akuvox Intercom Basics
-24 November
-@ SmartSD Lisses (FR)
-3 December
-@ SmartSD Portet-sur-garonne (FR)
-13 January
-@ SmartSD Breda (NL)
-1 February
-@ SmartSD Merchtem (BE)
-22 February
-@ SmartSD Merchtem (BE)
 acre Access Control Basics
 25 November
 @ SmartSD Merchtem (BE)
@@ -1301,12 +1266,19 @@ Dahua Basic Training & Hands-on
 @ SmartSD Breda (NL)
 10 December
 @ SmartSD Saint-herblain (FR)
+Akuvox Intercom Basics
+3 December
+@ SmartSD Portet-sur-garonne (FR)
+13 January
+@ SmartSD Breda (NL)
+1 February
+@ SmartSD Merchtem (BE)
+22 February
+@ SmartSD Merchtem (BE)
 Network Optix Nx Witness VMS
 4 December
 @ SmartSD Breda (NL)
 Bandit Fog Generators
-24 November
-@ SmartSD Merchtem (BE)
 4 December
 @ SmartSD Merchtem (BE)
 18 December
@@ -1315,6 +1287,11 @@ Ajax EN54 Hands-On Training
 8 December
 @ SmartSD Merchtem (BE)
 10 December
+@ SmartSD Breda (NL)
+2N CIP Certified Training
+10 December
+@ SmartSD Merchtem (BE)
+12 January
 @ SmartSD Breda (NL)
 Axis Webinars
 11 December
@@ -1358,4 +1335,14 @@ E info@smartsd.com
 France - T +33160914249
 E info@smartsd.fr
 Contact and Our stores
-Overview of
+Overview of our branches and contact form
+About SmartSD
+Management
+Jobs
+Terms of sale
+Netherlands - SmartSD BV (NL)
+BeLux - SmartSD NV/SA (NL)
+BeLux - SmartSD NV/SA (FR)
+France - SmartSD SARL (FR)
+Spain - SmartSD SL (ES)
+© 2026 SmartSD

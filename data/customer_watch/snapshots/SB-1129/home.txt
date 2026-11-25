@@ -1,4 +1,4 @@
-# SB-1129 redcorp.com · home · https://www.Redcorp.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1129 redcorp.com · home · https://www.Redcorp.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Redcorp - Our mission, Making IT buying simple
 Chat with us
 Call us +32 2 558 30 00
@@ -48,11 +48,23 @@ Your cart is empty !
 Update
 Validate
 Where applicable, all prices quoted on our website include Recupel, Bebat and Auvibel taxes.
-This website uses cookies
-We use cookies to personalise content, to analyse our traffic, keep your preferences and improve the site. We also share information about your use of the site with Google, our advertising and analytics partner to serve you relevant ads. We never sell or give your information to any other third parties. You consent to our cookies if you continue to use this website. You can find more information in our Privacy and Cookie Policies.
-Necessary
-Statistics & Marketing
-Ok
+We use cookies
+We use necessary cookies to make our website work. With your consent, we also use cookies to measure how our website is used and to show you relevant ads on other platforms. You can change your choice at any time via "Privacy Settings" at the bottom of every page. Cookie Policy
+Reject all
+Settings
+Accept all
+Cookie settings
+Necessary Always on
+Login, cart, payment, security and saving your cookie choice.
+Functional
+Live chat and product reviews.
+Statistics
+Anonymous visit statistics (Matomo, hosted in the EU, and Ahrefs) and page speed measurement.
+Marketing
+Newsletter form, YouTube videos, email marketing and advertising partner (LinkedIn).
+Reject all
+Save my choices
+Accept all
 Computing
 Smartphones & tablets
 Peripherals
@@ -72,6 +84,7 @@ Meet the team
 Show more
 Stay tuned for the latest products and our weekly promotions.
 Subscribe to our newsletter now
+The form is provided by our newsletter service Dotdigital, which sets cookies.
 What our customers say
 Merci à Thomas pour les agréables échanges.
 Problème avec le livreur, il a déposé les écrans sur le pas de la porte du la société, sans même sonné. Il pleuvait... Heureusement un collègue est rentré à ce moment là et à fait la remarque au chauf ...
@@ -121,4 +134,6 @@ Privacy Settings
 Sales Conditions
 NEWSLETTER
 Get our best promos, industry news and treats !
+Subscribe to our newsletter now
+The form is provided by our newsletter service Dotdigital, which sets cookies.
 Copyright © Redcorp 2026. All rights reserved.

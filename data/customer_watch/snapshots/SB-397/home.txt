@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,7 +25,7 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3986)
+Svi proizvodi (3987)
 Kablovi (467)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
@@ -510,9 +510,9 @@ Izdavanje opreme je do h
 NETIKS d.o.o. Bregalnička 9a
 11000 Beograd
 Kursna lista
-EUR = 119
-USD = 110
-odnos USD/EUR 0.924
+EUR = 126
+USD = 118
+odnos USD/EUR 0.937
 Dinar
 Euro
 US Dollar

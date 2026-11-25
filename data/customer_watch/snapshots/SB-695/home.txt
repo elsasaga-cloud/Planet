@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -423,56 +423,58 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Switch Ethernet Industrial Gerenciável 8 Portas Gigabit Rj45 + 2 Portas SFP - LRI-SWI-8G2SFPL2+
-R$ 1.458,00
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
+R$ 396,00
 R$
-1.414 , 26
+384 , 12
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-LRI-SWI-8G - Switch Ethernet Industrial não Gerenciável 8 Portas Gigabit RJ45, Trilho DIN
-R$ 499,00
+-50%
+Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 24V - LRI-PS6524
+R$ 255,00
+R$ 127,50
 R$
-484 , 03
+123 , 68
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
-R$ 990,00
+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Multimodo SC 2km - LRI-MC-1G1MM2
+R$ 375,00
 R$
-960 , 30
+363 , 75
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-I-7520 - Conversor Bi-direcional RS-232 para RS-485 com Isolação 3000Vcc ICP DAS
-R$ 725,82
+Switch Ethernet Industrial Gerenciável 16 Portas Gigabit Rj45 + 8 Portas SFP - LRI-SWI-16G8SFPL2+
+R$ 3.540,00
 R$
-704 , 05
+3.433 , 80
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
 Lançamentos
-MODBUS RTU Módulo de Saída de Relé TDO340
-R$ 985,28
+Módulo de Monitoramento IP Watchdog TCW122B-WD
+R$ 1.348,47
 R$
-955 , 72
+1.308 , 02
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+Detector de Vazamento de Água Modbus TSF400-4
+Sob consulta
+Saiba mais
+Pedir cotação
+Módulo de Entrada 60V TSA202-60
+Sob consulta
+Saiba mais
+Pedir cotação
 Sensor de Temperatura e Umidade IP54 TSH331
-Sob consulta
-Saiba mais
-Pedir cotação
-MODBUS CO2 e Sensor de Pressão TSM400-4-CP
-Sob consulta
-Saiba mais
-Pedir cotação
-Transdutor de Tensão CA/CC com Interface MODBUS RTU TSV300
 Sob consulta
 Saiba mais
 Pedir cotação
@@ -543,5 +545,5 @@ Sfera Labs
 Ebyte
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 1.378 secs - 24-11-2026  - node: commerce-web5-tiny-lw - store
+Load time: 1.511 secs - 25-11-2026  - node: commerce-web4-bot-lw - store
 ×

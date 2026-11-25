@@ -1,4 +1,11 @@
-# SC-3130 tvc.mx · youtube · https://www.youtube.com/@tvcenlineamx · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-3130 tvc.mx · youtube · https://www.youtube.com/@tvcenlineamx · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-24T17:42:17+00:00	EZTools de UNV: configura dispositivos y calcula almacenamiento	https://www.youtube.com/watch?v=iyl-eEgik-Y
+2026-11-24T17:16:21+00:00	EZStation de UNV: cómo administrar y configurar tus dispositivos	https://www.youtube.com/watch?v=ABS2pDSZhww
+2026-11-24T16:44:12+00:00	Cómo configurar el menú OSD de una cámara UNV	https://www.youtube.com/watch?v=y4BrxOyowQk
+2026-11-24T15:46:03+00:00	Cómo actualizar el software de un grabador Uniarch | UNV	https://www.youtube.com/watch?v=ufe8kbk4smo
+2026-11-24T15:45:59+00:00	UNBOXING KIT UNV	https://www.youtube.com/watch?v=ou2w2mASB6Q
+2026-11-24T15:36:32+00:00	UNV ya esta en TVCenLínea.com	https://www.youtube.com/watch?v=cGIxz-PAOPY
+2026-11-24T15:36:05+00:00	Puesta en marcha del kit Uniarch de 4 cámaras	https://www.youtube.com/watch?v=BNtzGQ76ipM
 2026-11-23T19:31:08+00:00	IMOU - Demostración de equipos demo Imou PoE	https://www.youtube.com/watch?v=dKlw1o4XwM8
 2026-11-23T18:58:27+00:00	Añadir Usuarios a Cámara IMOU por Código QR: Configuración y Accesos	https://www.youtube.com/watch?v=WJ1oVRO3Mpk
 2026-11-23T18:58:24+00:00	Configura la Detección Múltiple e Inteligencia Artificial en tu Cámara IMOU	https://www.youtube.com/watch?v=pZSZhlI2sZU
@@ -7,10 +14,3 @@
 2026-11-05T00:22:25+00:00	Interfaz IMOU Life y opciones de pantalla	https://www.youtube.com/watch?v=GJlfy295WZk
 2026-11-03T17:03:19+00:00	Fortalecemos la seguridad de tu portal	https://www.youtube.com/shorts/7Hq0DgdX86g
 2026-11-03T15:07:09+00:00	Verificación de identidad en tu cuenta TVC: guía paso a paso	https://www.youtube.com/shorts/9rxHn3jXbtU
-2026-10-30T17:56:13+00:00	Webinar Técnico LE4050M + Video Hub	https://www.youtube.com/watch?v=T6joe9li-hA
-2026-10-28T15:20:07+00:00	ZKBio Zlink: Cómo Registrar Empleados por Lotes con Excel	https://www.youtube.com/watch?v=DPT8FT7A3RA
-2026-10-23T23:31:06+00:00	Conoce los NVR IMOU y descubre todos los beneficios para tu instalación	https://www.youtube.com/shorts/BcMkUacHn8w
-2026-10-23T22:28:20+00:00	¿Ya conocías el Always On Recording de IMOU PoE Descubre este beneficio más de usar la tecnologí	https://www.youtube.com/shorts/wzrMCO6AViE
-2026-10-23T20:34:55+00:00	AURORA- Evidencia a todo color 24-7, sin luz cálida de por medio 😎#imou #tvcenlínea #videovigil	https://www.youtube.com/shorts/qmygE3PEapo
-2026-10-23T17:01:21+00:00	Con IMOU PoE obtén más 😎 ¡Descubre los beneficios!☝️	https://www.youtube.com/shorts/rNbaxQtKNJo
-2026-10-22T22:27:59+00:00	ZKBio Zlink: Cómo Registrar y Administrar Empleados en Persona	https://www.youtube.com/watch?v=7RE8pwIfNZs

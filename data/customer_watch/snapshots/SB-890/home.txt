@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-890 technopc.com.tr · home · https://technopc.com.tr/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Technopc
 Destek
 Teknik Destek Talep Formu
@@ -143,15 +143,15 @@ Technopc
 Gündem
 Eğitim, sağlık, savunma, perakende ve birçok sektöre özel bilişim çözümleri sunuyoruz. Uzman ekibimizle, her sektörün kendine özgü ihtiyaçlarını analiz ederek dijital dönüşüm süreçlerine rehberlik ediyoruz. Geliştirdiğimiz yenilikçi yazılım ve sistem çözümleriyle, kurumların verimliliğini artırıyor, süreçlerini optimize ediyor ve rekabet avantajı elde etmelerini sağlıyoruz.
 27 Ekim 2026
-Technopc’ten Kamu-BİB’de Yapay Zekâ Çözümleri
+Technopc’ten Kamu-BİB’de Yapay Zeka Çözümleri
 Devamını Oku
-Technopc’ten TETZ’de Yapay Zekâ Çözümleri
+Technopc’ten TETZ’de Yapay Zeka Eğitim Çözümleri
 29 Haziran 2026
 Devamını Oku
-SAHA Expo’da Technopc Standına Ziyaretler
+Technopc, SAHA Expo 2026’da Konuklarını Ağırladı
 10 Mayıs 2026
 Devamını Oku
-Technopc, SAHA Expo’da Teknolojilerini Tanıttı
+Technopc, SAHA Expo’da Yerli Donanımlarını Tanıttı
 10 Mayıs 2026
 Devamını Oku
 Technopc E-bülten
@@ -386,7 +386,9 @@ Technopc Tümleşik Araç Yönetim Sistemi AKS-200
 Endüstriyel Monitör Serisi
 Technopc Endüstriyel Monitör TPM Serisi
 Technopc Endüstriyel Monitör TPL Serisi
-Technopc Panel PC TPM1002
+Technopc Endüstriyel Monitör TPM1002
+Technopc Endüstriyel Monitör TPM1502
+Technopc Endüstriyel Monitör TPM2102
 Digital Signage Serisi
 Technopc OPS G5860S
 Technopc OPS PC TPOG12
@@ -397,6 +399,4 @@ Rugged El Terminali
 Technopc Rugged El Terminali TM-T04 Serisi
 Technopc Rugged El Terminali TM-T05 Serisi
 Technopc Endüstriyel Telefon RawPhone RP05NLA
-Technopc TM-T04 Genius Endüstriyel El Terminali
-Technopc TM-T04U20 Endüstriyel El Terminali
-Technopc Ul
+

@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,10 @@ Partner Stories
 Business Hacks
 Success Stories
 Loading...
-1806 result(s)
+1807 result(s)
+What Odoo 20 Means for Philippine Businesses
+Nov 24, 2026
+Business Hacks
 DL Wholesale Streamlines Wholesale Distribution with Odoo: Real-Time Inventory and Integrated Operations
 Nov 23, 2026
 Customer Reviews
@@ -202,10 +205,10 @@ Digital Cash Register Mandate 2028: What German Businesses Should Know
 Nov 20, 2026
 Odoo News
 How to Prepare Your E-Commerce Store for Black Friday
-Nov 19, 2026
+Nov 20, 2026
 Business Hacks
 How to Upgrade Odoo With Customizations Without Breaking Workflows
-Nov 19, 2026
+Nov 20, 2026
 Business Hacks
 What if you chose the Accounting app for your Odoo One App Free?
 Nov 19, 2026
@@ -214,14 +217,11 @@ Odoo and Namirial partner to secure electronic invoicing in France
 Nov 19, 2026
 Odoo News
 Odoo Africa and KPMG Nigeria partner to make premium ERP solutions accessible for mid-tier corporates
-Nov 18, 2026
+Nov 19, 2026
 Odoo News
 Odoo expands partnership with Salt Edge and is the first to go live with Bulk Payments
 Nov 17, 2026
 Odoo News
-More Tools or Better Systems?
-Nov 16, 2026
-Partner Stories
 1
 2
 3

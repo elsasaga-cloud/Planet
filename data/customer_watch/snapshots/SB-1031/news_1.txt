@@ -1,4 +1,4 @@
-# SB-1031 findcontrols.com · news_1 · https://ralakde.com/blogs/news · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1031 findcontrols.com · news_1 · https://ralakde.com/blogs/news · fetched 2026-11-25T11:29:08Z · HTTP 200
 News
 – Ralakde Automation
 Home
@@ -479,7 +479,7 @@ Weekly
 Fresh Content
 Categories
 All
-163
+165
 5G connectivity
 0
 ABB
@@ -527,7 +527,7 @@ HMI repair
 human centric automation
 0
 industrial automation
-5
+4
 industrial controllers
 0
 industrial displays
@@ -537,7 +537,7 @@ Industrial Electronics
 industrial electronics heat stress
 0
 industrial maintenance
-5
+4
 industrial sensors
 0
 industry 4.0
@@ -585,7 +585,7 @@ predictive maintenance
 pressure sensors
 0
 preventive planning
-1
+0
 proximity sensors
 0
 restart ready
@@ -608,6 +608,16 @@ Quick Links
 About Ralakde Contact Us Product Catalog
 Our Partners
 Featured Articles
+Featured Article
+2 min
+Udržení provozu kritické infrastruktury: Jak zvládat zastarávání automatizačních zařízení
+25/11/2026
+Read More
+Featured Article
+2 min
+Keeping Critical Infrastructure Running: Managing Ageing Automation Equipment
+25/11/2026
+Read More
 Featured Article
 2 min
 Zimní spolehlivost: Jak chránit průmyslovou elektroniku před chladem, vlhkostí a neočekávanými poruchami
@@ -855,18 +865,23 @@ industrial automation
 Proactive Spare Strategy Guide
 18/9/2025
 Read More
-Featured Article
-industrial automation
-2 min
-How Preventive Planning Extends Machine Life
-11/9/2025
-Read More
-Featured Article
-2 min
-Restart Checklist for Engineers: Prevent Downtime with Proper Preparation
-4/9/2025
-Read More
 Latest Articles
+Company News
+2 min
+Udržení provozu kritické infrastruktury: Jak zvládat zastarávání automatizačních zařízení
+25/11/2026
+Expansion
+Europe
+Operations
+Read More
+Company News
+2 min
+Keeping Critical Infrastructure Running: Managing Ageing Automation Equipment
+25/11/2026
+Expansion
+Europe
+Operations
+Read More
 Company News
 2 min
 Zimní spolehlivost: Jak chránit průmyslovou elektroniku před chladem, vlhkostí a neočekávanými poruchami
@@ -1252,22 +1267,6 @@ Expansion
 Europe
 Operations
 Read More
-Company News
-2 min
-How Preventive Planning Extends Machine Life
-11/9/2025
-Expansion
-Europe
-Operations
-Read More
-Company News
-2 min
-Restart Checklist for Engineers: Prevent Downtime with Proper Preparation
-4/9/2025
-Expansion
-Europe
-Operations
-Read More
 Load More Articles
 Stay Connected with Ralakde
 Don't miss out on the latest industry trends, company updates, and automation insights
@@ -1277,13 +1276,4 @@ sales@ralakde.com
 EMERGENCY
 BREAKDOWN? CALL: +44 1782
 982393
-Day Hours (8AM-6PM UK) • 24/7 Global
-Support
-Start Live Chat
-Services
-Emergency
-Repairs
-Parts
-Sourcing
-Technical
-Su
+Day Hours (8AM-6PM UK) • 24/7 Glo

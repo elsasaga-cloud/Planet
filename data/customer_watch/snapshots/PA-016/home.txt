@@ -1,4 +1,4 @@
-# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-24T12:40:24Z · HTTP 200
+# PA-016 VOIP24SKLEP.PL Sp. z o.o. · home · https://www.voip24sklep.pl · fetched 2026-11-25T11:29:08Z · HTTP 200
 Centrale telefoniczne voip, Telefony ip i Bramki - voip24sklep.pl - Sklep telekomunikacyjny
 Przejdź do głównej treści
 Darmowa dostawa już od 2000 zł netto
@@ -82,42 +82,42 @@ Projektory
 Monitory Wielkoformatowe
 Biznesowe
 Hotelowe
+Akcesoria
 Lampowe
 Laserowe
-Akcesoria
 Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
-Kamery PTZ Obrotowe
-Statywy
 Mikrofony
 Mediakonwertery
 Grabbery
-Uchwyty do projektorów
+Kamery PTZ Obrotowe
+Statywy
 Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
+Uchwyty do projektorów
 Uchwyty do monitorów
 HDMI
 USB
 USB A
 USB C
-Stałe
-Uchylne
 Na ramieniu
 Mobilne wózki
+Stałe
+Uchylne
 Zestawy głośnomówiące
 Telefony konferencyjne IP
-Dla edukacji
-Dla obiektów handlowych
 Dla hoteli i gastronomii
 Dla placówek medycznych
 Dla obiektów sportowych
+Dla edukacji
+Dla obiektów handlowych
+Akcesoria
 Stanowiskowe
 Powierzchniowe
-Akcesoria
 SŁUCHAWKI DO KOMUNIKACJI
 Wszystko z
 SŁUCHAWKI DO KOMUNIKACJI
@@ -130,25 +130,25 @@ Przewodowe
 Bezprzewodowe
 Jednouszne
 Dwuuszne
-Przewodowe
-Bezprzewodowe
 Jednouszne
 Dwuuszne
+Przewodowe
+Bezprzewodowe
+Adaptery
 Kable przyłączeniowe
 Gąbki
-Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
-Słuchawki
-Mikrofony
 Ładowarki
 Walizki/Torby Transportowe
 Higiena
-Słuchawki z radiotelefonem
-Słuchawki z bluetooth
+Słuchawki
+Mikrofony
 Słuchawki kablowe
 Akcesoria
+Słuchawki z radiotelefonem
+Słuchawki z bluetooth
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -174,10 +174,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
-Analogowe
-Cyfrowe
 Akcesoria
 Morskie
+Analogowe
+Cyfrowe
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -193,16 +193,16 @@ LICENCJE
 UNIFONY IP
 AKCESORIA
 Wróć do:
+Interkomy
 Przewodowe
 Bezprzewodowe
-Interkomy
-Elementy montażowe
-Ramki
 Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
+Elementy montażowe
+Ramki
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -239,22 +239,21 @@ Wkładki SFP
 Licencje
 Urządzenia
 Zestawy
-Licencje
+Compact
 Tower
 Rack
-Compact
 USB-A
 USB-C
 Lightning
-Drukarki Pos
 Drukarki etykiet
+Drukarki Pos
 Skanery kodów
+Akcesoria
 Jednostki główne
 Czujniki
-Akcesoria
+Dyski NAS
 NAS Desktop
 NAS Rack
-Dyski NAS
 Komputery MiniPC
 Zasilacze POE
 MONITORING IP
@@ -292,9 +291,9 @@ Panele krosowe
 Wtyki i gniazda sieciowe
 Okablowanie
 Szafy rack
+Wtyki
 Gniazda Keystone
 Łączniki kabli
-Wtyki
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -303,10 +302,9 @@ Patchcord
 Na m
 Box
 Patchcord
-Na m
+Akcesoria
 Stojące
 Wiszące
-Akcesoria
 Puszki
 Uchwyty
 Dyski
@@ -361,14 +359,14 @@ AUDIOKONFERENCJE
 GOTOWE ROZWIĄZANIA
 PĘTLE INDUKCYJNE
 Wróć do:
-Głośniki
-Wzmacniacze
-Miksery
 Matryce
 Mikrofony
 Systemy mikrofonowe
 Źródła dźwięku
 Akcesoria
+Głośniki
+Wzmacniacze
+Miksery
 Kamery szerokokątne
 Wideobary
 Wideoterminale
@@ -381,10 +379,10 @@ Bezprzewodowe
 Do średniej sali do 20 osób
 Do małej sali do 8 osób
 Do dużej sali pow. 20 osób
-Ekrany projekcyjne
 Systemy rezerwacji sal
 Bezprzewodowe prezentacje
 Telewizory
+Ekrany projekcyjne
 Projektory
 Monitory Wielkoformatowe
 Biznesowe
@@ -396,32 +394,33 @@ Bez dotyku
 Typu Digital Signage
 Dotykowe
 Komputery OPS
+Mediakonwertery
+Grabbery
 Kamery PTZ Obrotowe
 Statywy
 Mikrofony
-Mediakonwertery
-Grabbery
-Uchwyty do projektorów
-Kable
 Extendery
 Splittery HDMI
 Stacje dokujące
+Uchwyty do projektorów
+Kable
 Uchwyty do monitorów
-HDMI
-USB
 USB A
 USB C
+HDMI
+USB A
+Przedłużacze USB A
+Mobilne wózki
 Stałe
 Uchylne
 Na ramieniu
-Mobilne wózki
 Zestawy głośnomówiące
 Telefony konferencyjne IP
+Dla placówek medycznych
+Dla obiektów sportowych
 Dla edukacji
 Dla obiektów handlowych
 Dla hoteli i gastronomii
-Dla placówek medycznych
-Dla obiektów sportowych
 Stanowiskowe
 Powierzchniowe
 Akcesoria
@@ -445,22 +444,21 @@ Dwuuszne
 Przewodowe
 Bezprzewodowe
 Jednouszne
-Dwuuszne
 Kable przyłączeniowe
 Gąbki
 Adaptery
 Dla magazynów/sieci handlowych
 Typu Tour guide
 Akcesoria
+Walizki/Torby Transportowe
+Higiena
 Słuchawki
 Mikrofony
 Ładowarki
-Walizki/Torby Transportowe
-Higiena
+Akcesoria
 Słuchawki z radiotelefonem
 Słuchawki z bluetooth
 Słuchawki kablowe
-Akcesoria
 Panele akustyczne
 Budki akustyczne
 Ekrany akustyczne
@@ -492,10 +490,10 @@ Pokrowce
 Przewodowe
 Bezprzewodowe
 Słuchawki
+Morskie
 Analogowe
 Cyfrowe
 Akcesoria
-Morskie
 Telefon przewodowy i przewodowe słuchawki
 Telefon przewodowy i bezprzewodowe słuchawki
 Telefon bezprzewodowy i słuchawki
@@ -516,13 +514,13 @@ Wielorodzinne
 Przewodowe
 Bezprzewodowe
 Interkomy
-Elementy montażowe
-Ramki
-Moduły
 Daszki
 Karty i breloki
 Elektrozaczepy
 Przyciski wyjścia
+Elementy montażowe
+Ramki
+Moduły
 BRAMY VOIP
 Wszystko z
 BRAMY VOIP
@@ -552,9 +550,9 @@ MONITORING SERWEROWNI
 STORAGE/ARCHIWIZACJA
 AKCESORIA
 Wróć do:
+Na kartę SIM
 Bezprzewodowe
 Przewodowe
-Na kartę SIM
 Przemysłowe
 Zewnętrzne
 Wewnętrzne
@@ -622,13 +620,13 @@ Systemy alarmowe - przewodowe
 Systemy alarmowe - bezprzewodowe
 Systemy sygnalizacji pożarowej
 Gotowe zestawy alarmowe
-Panele krosowe
 Wtyki i gniazda sieciowe
+Panele krosowe
 Okablowanie
 Szafy rack
-Gniazda Keystone
-Łączniki kabli
-Wtyki
+Kategorii 5
+Kategorii 6
+Puste
 Kategorii 5
 Kategorii 6
 Kategorii 7
@@ -874,4 +872,4 @@ W tym blogu rozważamy korzyści wynikające z używania projektora w porównani
 Czytaj całość
 18-11-2024
 Rozwiązanie konferencyjne CA400 od Fanvila
-Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa si
+Po pandemii hybrydowy model pracy stał się bardzo popularnym modelem dla przedsiębiorstw, CA400 to taki zestaw sprzętu zaprojektowany specjalnie do małych i średnich sal konferencyjnych. Składa się z trzech

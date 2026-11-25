@@ -1,4 +1,6 @@
-# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-24T21:56:26+00:00	Provedores: o NOVO BOOM está nos serviços B2B #shorts	https://www.youtube.com/shorts/lb71Cfyp7ag
+2026-11-24T14:41:38+00:00	Wi-Fi Gerenciado com o PK-AP3000: Mais Conexão e Alcance para Pequenos Negócios #shorts	https://www.youtube.com/shorts/Q2iZh_Fiy4I
 2026-11-19T11:30:29+00:00	Redundância fácil de configurar e escalar com o PK600 #shorts	https://www.youtube.com/shorts/UsgcnWfKs6I
 2026-11-18T14:49:30+00:00	OLT Fiberlink 40001 de Uma Porta: A Solução de Baixo Custo para Redes Internas #shorts	https://www.youtube.com/shorts/KxHCQMFfjQM
 2026-11-18T11:09:21+00:00	TR-369 conecta sensores com privacidade #shorts	https://www.youtube.com/shorts/2qLkUhQsb_I
@@ -12,5 +14,3 @@
 2026-10-29T20:49:23+00:00	Por que as Operadoras Escolhem L2 para Reduzir Custos? #shorts	https://www.youtube.com/shorts/XxRhN2Xv-WA
 2026-10-29T20:30:06+00:00	Como entregar links dedicados com Switch EDD Parks	https://www.youtube.com/watch?v=n_MKUpOpdUI
 2026-10-29T20:26:49+00:00	Link Dedicado B2B: Switch L2 ou MPLS? #shorts	https://www.youtube.com/shorts/YNwqHTv_1Qc
-2026-10-27T15:54:27+00:00	PoE ou Power Over Fiber: Leve Câmeras a Até 500 Metros #shorts	https://www.youtube.com/shorts/PRh1nlyNMF4
-2026-10-26T20:19:28+00:00	Splitter Ativo: como unir redes ópticas GPON e elétricas #shorts	https://www.youtube.com/shorts/h6G9OKjhZzw

@@ -1,4 +1,10 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-25T11:28:06+00:00	Webinar - Le novità di Odoo 20: Studio	https://www.youtube.com/watch?v=pjjwBE-wzEE
+2026-11-25T10:21:47+00:00	Webinaire - Odoo 20 : Les nouveautés du CRM	https://www.youtube.com/watch?v=wgfuGZNrba4
+2026-11-24T17:18:25+00:00	Webinaire Odoo - Transformez votre site web en véritable générateur de prospects !	https://www.youtube.com/watch?v=RXo7aAalDQs
+2026-11-24T16:53:18+00:00	Odoo Deep Dive: Finanzbuchhaltung	https://www.youtube.com/watch?v=TH9rvH9D6F0
+2026-11-24T15:31:53+00:00	Odoo Deep Dive: Finanzbuchhaltung	https://www.youtube.com/watch?v=Nt6rO0sGSsE
+2026-11-24T15:05:49+00:00	Odoo Deep Dive: Finanzbuchhaltung	https://www.youtube.com/watch?v=zfoOJYbgPAw
 2026-11-24T11:17:52+00:00	Webinaire - Odoo 20 : Tout savoir sur les nouveautés du site web	https://www.youtube.com/watch?v=lJZuBz4OKaE
 2026-11-24T08:04:53+00:00	Webinaire - Odoo 20 - La nouvelle ère du payroll en Belgique	https://www.youtube.com/watch?v=rhfo8nmkDd0
 2026-11-23T13:39:04+00:00	Italian Tutorial: Chiedilo ai BA	https://www.youtube.com/watch?v=kG3esRHmcxc
@@ -8,9 +14,3 @@
 2026-11-20T14:30:29+00:00	Odoo Point of Sale: Android POS system device	https://www.youtube.com/watch?v=pSehp8HQYA0
 2026-11-20T12:24:17+00:00	Odoo Quick Tips - Save quotation sections as templates [Sales]	https://www.youtube.com/watch?v=3XdkroEM5sY
 2026-11-20T11:39:08+00:00	Italian Customer Success Story: 3M Solutions	https://www.youtube.com/watch?v=rgfHZdqu8KE
-2026-11-20T10:47:45+00:00	Webinaire - Fini les suppositions : identifiez vos meilleurs canaux marketing avec Odoo !	https://www.youtube.com/watch?v=95dTj4ZhCsk
-2026-11-19T22:47:48+00:00	Beyond the Books: AI Meets Odoo Accounting	https://www.youtube.com/watch?v=CSm_guuDFNU
-2026-11-19T21:09:27+00:00	Odoo Market Analysis for California	https://www.youtube.com/watch?v=UbTmikePhfc
-2026-11-19T16:43:24+00:00	Das Ende der Insellösungen Folge 7	https://www.youtube.com/watch?v=NQ47OO3uHlU
-2026-11-19T15:40:07+00:00	Webinar - How to successfully implement Odoo with an Odoo integration partner	https://www.youtube.com/watch?v=4BMkSDZsrXY
-2026-11-19T08:49:26+00:00	Industry Webinar - Property management & Real Estate	https://www.youtube.com/watch?v=g6x2Ieg6Mxg

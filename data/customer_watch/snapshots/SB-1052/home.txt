@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -40,6 +40,28 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+Industrial Power Supply 48V DC 240 W DN-PWR24048
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-PWR2404
+Ár:
+28.547 Ft + ÁFA
+(36.255 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Step Power Supply 5V DC, 2.4A, 12W DN-PWR-SST-125
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIGDNPWRSST125
+Ár:
+3.958 Ft + ÁFA
+(5.027 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Step Power Supply 12V DC, 1,25A, 15W DN-PWR-SST-1512
 ÚJDONSÁG!
 Villámnézet
@@ -117,28 +139,6 @@ Cikkszám: HDIG-DN-PWR1204
 db
 Kosárba
 Részletek
-Industrial Power Supply 48V DC 240 W DN-PWR24048
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-PWR2404
-Ár:
-28.547 Ft + ÁFA
-(36.255 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Step Power Supply 5V DC, 2.4A, 12W DN-PWR-SST-125
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIGDNPWRSST125
-Ár:
-3.958 Ft + ÁFA
-(5.027 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
 ÚJDONSÁG!
 Villámnézet
@@ -150,39 +150,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8+2-Port Gigabit Switch DN-651150
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651150
-Ár:
-59.314 Ft + ÁFA
-(75.329 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit Switch DN-651156
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651156
-Ár:
-85.484 Ft + ÁFA
-(108.565 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit PoE DN-651157
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651157
-Ár:
-99.034 Ft + ÁFA
-(125.773 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Industrial 4 port Gigabit PoE Switch DN-651135
 ÚJDONSÁG!
 Villámnézet
@@ -190,28 +157,6 @@ Cikkszám: HDIG-DN-651135
 Ár:
 41.879 Ft + ÁFA
 (53.186 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2-Port L2 Gigabit switch DN-651158
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651158
-Ár:
-135.783 Ft + ÁFA
-(172.444 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2-Port L2 Gigabit PoE DN-651159
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651159
-Ár:
-150.393 Ft + ÁFA
-(190.999 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -249,6 +194,72 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+Industrial 8+2-Port Gigabit Switch DN-651150
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651150
+Ár:
+59.314 Ft + ÁFA
+(75.329 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit Switch DN-651156
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651156
+Ár:
+85.484 Ft + ÁFA
+(108.565 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit PoE DN-651157
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651157
+Ár:
+99.034 Ft + ÁFA
+(125.773 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8 + 4 10G Gigabit PoE switch DN-651161
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651161
+Ár:
+161.135 Ft + ÁFA
+(204.641 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 16+2-Port L2 Gigabit switch DN-651158
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651158
+Ár:
+135.783 Ft + ÁFA
+(172.444 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 16+2-Port L2 Gigabit PoE DN-651159
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651159
+Ár:
+150.393 Ft + ÁFA
+(190.999 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial 16+2 port Gigabit Switch DN-651138
 ÚJDONSÁG!
 Villámnézet
@@ -271,17 +282,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8 + 4 10G Gigabit PoE switch DN-651161
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651161
-Ár:
-161.135 Ft + ÁFA
-(204.641 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Tooltest - 4p,6p,8p fogó + teszter
 ÚJDONSÁG!
 Villámnézet
@@ -290,6 +290,17 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
+db
+Kosárba
+Részletek
+8P8C Cat6a UTP toolless mod. dugó DN-93633
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K289543TD
+Ár:
+810 Ft + ÁFA
+(1.029 Ft)
+50 db raktáron
 db
 Kosárba
 Részletek
@@ -356,17 +367,6 @@ Cikkszám: HDIG-DN-97697
 4.380 Ft + ÁFA
 (5.563 Ft)
 Előrendelhető h
-db
-Kosárba
-Részletek
-8P8C Cat6a UTP toolless mod. dugó DN-93633
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: K289543TD
-Ár:
-810 Ft + ÁFA
-(1.029 Ft)
-50 db raktáron
 db
 Kosárba
 Részletek
@@ -488,7 +488,7 @@ Cikkszám: K1131043
 Ár:
 248 Ft + ÁFA
 (315 Ft)
-19435 m raktáron
+18435 m raktáron
 m
 Kosárba
 Részletek

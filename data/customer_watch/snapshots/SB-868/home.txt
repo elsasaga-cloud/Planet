@@ -1,4 +1,4 @@
-# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-868 fiberden.com · home · https://www.fiberden.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Fiberden
 Size Özel Fiyatlardan Yararlanmak İçin Bayimiz Olabilirsiniz!
 Siparişlerim/Kargo Takip
@@ -132,7 +132,7 @@ Yeni gelen ürünleri bu alanda görebilirsiniz.
 yeni
 V-SOL
 SİNGLE PON MİNİ GPON OLT (V-SOL V1600GS-R)
-8.320,00 TL KDV
+7.997,60 TL KDV
 % 0
 yeni
 fiberden
@@ -235,7 +235,7 @@ FİBER OPTİK HAVAİ (ÇELİK ASKI TELLİ) 1 CORE 1000 MT GRİ
 Yeni
 V-SOL
 SİNGLE PON MİNİ GPON OLT (V-SOL V1600GS-R)
-8.320,00 TL KDV
+7.997,60 TL KDV
 Tükendi
 % 0
 fiberden

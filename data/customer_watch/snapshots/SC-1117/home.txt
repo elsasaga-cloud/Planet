@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
 Productos
 0
@@ -170,52 +170,45 @@ Carrito
 Productos
 Noticias
 Ver todas
-Leopoldo · 13h · Audio e Intercom
+Adrián · 11h · Ubiquiti
+Todavía quedan lugares para el UDSS del 4 de diciembre
+La certificación UniFi Digital Sentinel Specialist que imparte Ubiquiti en Sucursal México Norte mantiene el registro abierto. Miguel Paz, Pre-Sales del fabricante, cubre UniFi Protect y UniFi Access en una sesión con equipos incluidos para las prácticas y para tus propias demos. Este curso con fabricante no se abre seguido y el cupo no es amplio.
+Aparta tu lugar para el 4 de diciembre
+Ruben · 13h · Drones
+Cuando cada segundo cuenta, dar indicaciones claras desde el aire lo cambia todo.
+El altavoz digital CZI MP130 Pro convierte tu dron en un centro de mando aéreo para emergencias, rescates y patrullaje. Mantén el control de la situación con beneficios reales en campo:
+• Tu mensaje llega claro dentro de vehículos o entre multitudes.
+• Refuerza tus operativos con señalización visual de largo alcance.
+• 130 dB y 700 m de alcance, con protección IP54 para operar a la intemperie.
+Conoce el altavoz MP130 Pro
+Nicolas · 14h · Videovigilancia
+180° de una sola cámara. Sin dos videos que revisar por separado.
+La DS-2CE72KF3TP-DLS es TurboHD 3K (3328 x 1504) con dos lentes de 2.8 mm que forman una sola imagen panorámica: ocupa un canal y un solo BNC. Dual Light de 40 m IR más 40 m de luz blanca, micrófono integrado, WDR 130 dB e IP67. 12 VCC y 8.9 W: pide fuente individual.
+Conoce la panorámica TurboHD de 180° 1
+Gregorio · 18h · Audio e Intercom
+En la última junta alguien habló desde el fondo y la cámara lo encontró sola.
+Nadie movió el control remoto. El A50-010 lleva triple cámara de 50 MP, 16 micrófonos y oye a 10 m; el A40-010, doble lente de 48 MP en 4K y 8 micrófonos a 6 m. Los dos con Android 13: Teams Rooms, Zoom o RingCentral sin PC en la sala. Ya disponibles en SYSCOM.
+Conoce la barra que encuentra al que habla 3
+Axel · 18h · Audio e Intercom
+La clase entera cabe en una pantalla.
+El IdeaHub Board 3 Pro escribe a 16 ms con IA: lo que el maestro traza se convierte en texto y se comparte al instante. Pantalla 4K con protección óptica antiluz azul, Wi-Fi 6 para proyectar sin cables, 6 micrófonos a 10 m y 4 altavoces de 30 W. En 65, 75 y 86 pulgadas.
+Conoce el pizarrón que se vuelve texto
+Leopoldo · 20h · Audio e Intercom
+Cuatro señales, un cable. Y el control viaja de regreso.
+El TP-580T manda HDMI 4K60, audio de 32 canales, RS-232 e IR por un solo par trenzado; el TP-580R los devuelve en el display. 40 m en 4K y 70 m en 1080p, HDCP 2.2 e I-EDIDPro para que no aparezca la pantalla negra. El RS-232 es bidireccional: apagas el proyector colgado sin subir la escalera.
+Conoce el par HDBaseT TP-580T + TP-580R
+Rafael · 20h · Redes
+Wi-Fi 6 en el backhaul: 1 Gbps y 33% más ancho de banda
+El ePMP Force 400C lleva 802.11ax al enlace troncal en 4.9–6.2 GHz, con hasta 1 Gbps y puerto SFP+. Conectorizado para elegir antena según la distancia. Más espectro útil por canal y menos interferencia en el mismo mástil.
+Conoce el Force 400C Wi-Fi 6
+Yohana · 21h · Audio e Intercom
+Mañana miércoles 25 de noviembre: curso presencial de audio comercial y residencial en SYSCOM Puebla
+Conoce nuestras soluciones de audio profesionales para proyectos comerciales y residenciales. De a y de a  (hora del centro).
+Conoce las soluciones de audio
+Leopoldo · 1d · Audio e Intercom
 El jueves, el AV de Kramer se ve funcionando. En Puebla.
 Floor Day Kramer en Sucursal Puebla, 26 de noviembre, de a . KDS en AVoIP y video wall, la línea completa de cables HDMI certificados y los equipos de demo montados para que los pruebes con las manos. Trae tu proyecto y lo armamos ahí mismo.
 Ve lo que Kramer lleva a Puebla
-Gregorio · 14h · Audio e Intercom
+Gregorio · 1d · Audio e Intercom
 Hay un sonido en cada junta que nadie admite hacer.
-El UH46 Mono de Yealink lo apaga: 3 micrófonos con cancelación de ruido por IA que borran teclados, ventiladores y al de la esquina masticando. Altavoz de 35 mm con EQ dinámico, 20 Hz a 20 kHz, plug-and-play USB-C con adaptador USB-A y luz de ocupado para que nadie te interrumpa. Ya disponible en SYSCOM.
-Conoce la diadema que silencia la oficina
-Daniel · 14h · Herramientas
-Ya lo conoces. Y ya está de vuelta en stock.
-El AEROJET360 de SILIMEX regresó a SYSCOM. Su válvula 360° permite aplicar aire comprimido en cualquier posición, sin residuos ni humedad: lentes de cámara, puertos de switch, ventiladores de servidor, UPS y paneles de control de acceso. Disparos cortos de un segundo a 15-20 cm, envase de 660 ml.
-el mejor removedor de polvo AEROJET360 de SILIMEX
-Cesar · 17h · Redes
-¿Listo para ver todo el poder de UniFi trabajando en tiempo real?
-Ven a conocer en vivo el poder de UniFi Full Stack: una sola plataforma para Redes, Videovigilancia y Control de Acceso funcionando en tiempo real.
-📍 San Luis Potosí: 24 de noviembre
-📍 Guadalajara: 26 de noviembre
-⏰ Horario: a.m. a p.m.
-Asiste en el horario que mejor te acomode. ¡Te esperamos!
-Conoce UniFi Full Stack
-Leopoldo · 18h · Audio e Intercom
-El techo de una tienda no perdona un altavoz que no cubre.
-El FreeSpace FS2CW reparte 150° de cobertura con un transductor de 57 mm y baja hasta 83 Hz. Transformador 70V/100V con niveles seleccionables para ajustar potencia por zona. Par en blanco, montaje en plafón.
-Conoce el altavoz que cubre 150°
-Ruben · 19h · Drones
-Impón presencia y asegura el perímetro desde el primer segundo.
-La luz de advertencia multicolor FL60 lleva la señalización táctica a otro nivel, adaptándose a tus operativos tanto en drones como en tierra. Equipa a tu corporación con ventajas reales en campo:
-• Máximo efecto disuasivo visible a cientos de metros.
-• Versatilidad total para montarla en tu dron o en tripié.
-• Operación ágil sin sacrificar el tiempo de vuelo.
-Conoce la luz táctica FL60CZI
-Adrián · 19h · Ubiquiti
-Ubiquiti certifica en CDMX: llega el UDSS, y lo imparte el fabricante
-El 4 de diciembre, Sucursal México Norte abre el UniFi Digital Sentinel Specialist (UDSS), curso de UniFi Protect y UniFi Access impartido por Miguel Paz, Pre-Sales de Ubiquiti. Cubre Site Manager, detecciones con IA, control de acceso y diseño de proyectos. Incluye equipos para prácticas y el cupo es limitado.
-Reserva tu lugar en el UDSS
-Adrian · 20h · Audio e Intercom
-Cuatro metros de sala. Cero puntos ciegos.
-La Jabra PanaCast 40 VBS entrega 180° en 4K con dos cámaras, seis micrófonos beamforming y Android 13 sobre MDEP: corre Teams Rooms o Zoom Rooms sin computadora en la sala. Incluye el Jabra Control IP por PoE.
-Conoce la barra que ve 180°
-Rafael · 22h · Redes
-600 Mbps reales en 5 GHz: el Force 300 no negocia capacidad
-Radio suscriptor 802.11ac Wave 2 con antena de 25 dBi, hasta 600+ Mbps y 10 km de alcance en 4910–5970 MHz. Construido para zonas de alta interferencia, con latencia baja y throughput sostenido. Cuando el enlace no puede caerse a media tarde.
-Conoce el ePMP Force 300
-Rafael · 22h
-Linknet360 opera el Wi-Fi del Estadio Olímpico Atahualpa, el Coliseo Rumiñahui, el Parque Bicentenario y la Plaza de Toros con la familia Grandstream GWN: picos de más de 2.500 usuarios simultáneos, VAR, CCTV y control de acceso sobre una sola red, y cero multas de los organizadores.
-Leer: Caso de éxito: Wi-Fi para 45.000 personas en los estadios de Quito con Grandstre
-Videos
-Ver todos
-¡Encontrar errores que ni el ojo huma
+El UH46 Mono de Yealink lo apaga: 3 micrófonos con cancelación de ruido por IA que borran teclados, ventiladores y al de la esquina masticando. Altavoz de 35 mm con EQ dinámico, 20 Hz a 20 kHz, plug-and-play USB-C con adaptador USB-A y luz de ocupado para que nadie te interrumpa. Y

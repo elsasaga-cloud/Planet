@@ -1,4 +1,4 @@
-# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-311 dipolnet.cz · home · https://www.dipolnet.cz/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Monitorování IP, LAN, WLAN, TV, SAT, Antény, Vodiče - DIPOL
 Přizpůsobíme se vám
 Používáme cookies , aby náš obchod fungoval spolehlivě a přizpůsobil se vám. Cookies nám umožňují přizpůsobit obsah a propagační akce vašim zájmům.
@@ -462,13 +462,13 @@ Kurzy
 Přihlaste se
 Zaregistrujte se
 Pomoc
-Signal Fire Welding Machines
-Signal Fire Welding Machines – which model is right for you?
-Which model is right for you?
-Dozvědět se více
 Signal Pro
 Multiswitche Signal Pro
 nová řada multiswitchů
+Dozvědět se více
+Signal Fire Welding Machines
+Signal Fire Welding Machines – which model is right for you?
+Which model is right for you?
 Dozvědět se více
 Doporučené produkty
 Nové produkty Novinky
@@ -516,69 +516,70 @@ Konektor SMA do 6 GHz pro Tri-Lan 240/H-155 /úhlová/
 123,17 Kč
 101,79 Kč bez DPH
 Zobrazit všechny
-Kód: E93170
+Kód: A741026
 Do košíku
 Náhled
-Nástěnný držák Signál LPA49-466, 37" - 90", nastavitelný, otočný
-1337,05 Kč
-Předchozí nejnižší cena: 1337,05 Kč
-1283,57 Kč
-1060,80 Kč bez DPH
-Kód: L1410
+Anténa TRANS-DATA 5G KPZ 8/9/8
+2988,70 Kč
+Předchozí nejnižší cena: 2988,70 Kč
+2839,27 Kč
+2346,50 Kč bez DPH
+Kód: A741027_10
 Do košíku
 Náhled
-Optický modul ULTIMODE SFP-023M 2xLC - dvě mnohovidová vlákna do 2 km
-188,76 Kč
-Předchozí nejnižší cena: 188,76 Kč
-179,32 Kč
-148,20 Kč bez DPH
-Kód: L1411
+TRANS-DATA 5G KYZ 10/10 anténa + 10 m kabel + SMA [698-960, 1710-2700, 3300-3800 MHz].
+3067,35 Kč
+Předchozí nejnižší cena: 3067,35 Kč
+2913,98 Kč
+2408,25 Kč bez DPH
+Kód: A741027_5
 Do košíku
 Náhled
-SFP Transceiver: ULTIMODE SFP-203M 2xLC (dvě jedno-módová vlákna do 20 km)
-188,76 Kč
-Předchozí nejnižší cena: 188,76 Kč
-179,32 Kč
-148,20 Kč bez DPH
-Kód: L5124
+TRANS-DATA 5G KYZ 10/10 anténa + 5 m kabel + SMA [698-960, 1710-2700, 3300-3800 MHz].
+2933,65 Kč
+Předchozí nejnižší cena: 2933,65 Kč
+2786,97 Kč
+2303,28 Kč bez DPH
+Kód: E1005_100
 Do košíku
 Náhled
-Vysouvací přepínač s podnosem 19” ULTIMODE MT-524 (1U, vyměnitelný přední panel, 1 podnos x 24 svorek)
-1116,83 Kč
-Předchozí nejnižší cena: 1116,83 Kč
-1060,99 Kč
-876,85 Kč bez DPH
-Kód: L5310
+Koaxiální kabel 75 ohm TRISET 302 Eca třída A+ 1,02/4,6/7,0 110 dB [100 m].
+1282,00 Kč
+Předchozí nejnižší cena: 1211,21 Kč
+1243,54 Kč
+1027,72 Kč bez DPH
+Kód: E1005_250
 Do košíku
 Náhled
-Spínací stanice MINI ODF-DIN s rozvaděčem 2xSC duplexní
-408,98 Kč
-Předchozí nejnižší cena: 400,80 Kč
-400,80 Kč
-331,24 Kč bez DPH
-Kód: L5406
-Náhled
-Police pro optické kabely do racku P-PSP-G19-1U-6-SC
-1242,67 Kč
-Předchozí nejnižší cena: 1242,67 Kč
-1192,96 Kč
-985,92 Kč bez DPH
-Kód: M18967
+Koaxiální kabel 75 ohm TRISET 302 Eca třída A+ 1,02/4,6/7,0 110 dB [250 m].
+3067,35 Kč
+Předchozí nejnižší cena: 3067,35 Kč
+2975,33 Kč
+2458,95 Kč bez DPH
+Kód: E1005_500
 Do košíku
 Náhled
-PoE switch (extender) Etrix E0-12 (1 x WE PoE 802.3at/Passive, 2 x WY PoE 802.3at, 10/100Mbps)
-385,39 Kč
-Předchozí nejnižší cena: 361,79 Kč
-366,12 Kč
-302,58 Kč bez DPH
-Kód: M18968
+Koaxiální kabel 75 ohm TRISET 302 Eca třída A+ 1,02/4,6/7,0 110 dB [500 m].
+6056,05 Kč
+Předchozí nejnižší cena: 6056,05 Kč
+5874,37 Kč
+4854,85 Kč bez DPH
+Kód: N7048
 Do košíku
 Náhled
-PoE switch (extender) Etrix E0-14 (1 x WE PoE 802.3at, 4 x WY PoE 802.3at, 10/100Mbps)
-534,82 Kč
-Předchozí nejnižší cena: 503,36 Kč
-508,08 Kč
-419,90 Kč bez DPH
+Tester Signal NT-48 pro síťové kabely
+2140,85 Kč
+Předchozí nejnižší cena: 1605,65 Kč
+1498,60 Kč
+1238,51 Kč bez DPH
+Kód: R68508
+Do košíku
+Náhled
+Signal Multiswitch MRP-508 (5/8, pasivní TV)
+1085,37 Kč
+Předchozí nejnižší cena: 1085,37 Kč
+1031,10 Kč
+852,15 Kč bez DPH
 Zobrazit všechny
 V posledním zpravodaji
 Tapeta, která vyrábí elektřinu z vlhkosti ve vzduchu.
@@ -590,4 +591,4 @@ Pokračovat ve čtení
 Je možné ovládat více než dvě brány v IP videotelefonním systému Hikvision pomocí jedné bránové stanice?
 Bránové stanice IP/2-Wire videotelefonního systému Hikvision mají v závislosti na modelu maximálně dva reléové výstupy určené k ovládání boční branky a vjezdové brány. K bránovým stanicím lze sice připojit přídavný řídicí modul DS-K2M061 G77253 přes sběrnici RS-485, tento modul však slouží k nahrazení druhého reléového výstupu v bránové stanici za účelem zvýšení bezpečnosti otevírání, nikoli k přidání dalšího výstupu. Řešením tohoto problému může být využití reléových výstupů na monitoru videot...
 Pokračovat ve čtení
-HiTools Delive
+HiTools Delivery – správa projektů a hesel zařízení

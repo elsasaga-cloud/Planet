@@ -1,4 +1,5 @@
-# SB-823 synchronet.net · feed_auto · https://synchronet.net/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-823 synchronet.net · feed_auto · https://synchronet.net/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+Tue, 24 Nov 2026 13:26:00 +0000	Is Your Small Business Ready for the Next Power Outage, Cyberattack or IT Failure? Building Operational Resilience in Western New York	https://synchronet.net/small-business-operational-resilience/
 Tue, 17 Nov 2026 13:20:00 +0000	Why Your Backup Strategy May Not Protect Your Erie, PA Business From Ransomware	https://synchronet.net/ransomware-protection-erie-pa/
 Fri, 16 Oct 2026 22:23:44 +0000	Microsoft 365 Isn’t a Backup Strategy: What Every Western New York Business Leader Should Know	https://synchronet.net/microsoft-365-backup-western-new-york/
 Thu, 01 Oct 2026 10:13:00 +0000	Top 5 Small Business IT Problems That Can Disrupt Your Western New York Business	https://synchronet.net/small-business-it-problems-disrupt-operations/
@@ -8,4 +9,3 @@ Thu, 10 Sep 2026 10:24:00 +0000	Why Live Video and Security Cameras Slow Down Yo
 Mon, 31 Aug 2026 13:03:18 +0000	What Should a Small Business Expect to Pay for Managed IT Services?	https://synchronet.net/managed-it-services-pricing-small-business/
 Fri, 17 Jul 2026 00:17:31 +0000	What IT Infrastructure Needs to Be in Your Business Continuity Plan	https://synchronet.net/it-infrastructure-business-continuity-plan/
 Wed, 01 Jul 2026 23:41:31 +0000	The Founding Fathers Needed an IT Department: From Valley Forge to Yorktown, Here’s What Modern IT Could Have Fixed	https://synchronet.net/founding-fathers-needed-an-it-department/
-Thu, 04 Jun 2026 20:06:45 +0000	The “Summer Friday” Security Checklist: Protecting Buffalo and WNY Businesses on the Go	https://synchronet.net/summer-friday-security-checklist-buffalo/

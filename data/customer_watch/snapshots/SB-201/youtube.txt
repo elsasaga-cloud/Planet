@@ -1,4 +1,5 @@
-# SB-201 Elsi · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCYELhx7-ypmlfXBfYA9ufIA · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-201 Elsi · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCYELhx7-ypmlfXBfYA9ufIA · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-25T07:59:20+00:00	UNV Smart Dual Light Technology	https://www.youtube.com/watch?v=T1Y4L27jzpw
 2026-11-23T16:11:26+00:00	5MP Active Deterrence Mini PTZ	https://www.youtube.com/watch?v=_463crYC7ds
 2026-10-06T07:14:51+00:00	40 Anni ELSI	https://www.youtube.com/shorts/Cbh9AqWyPEI
 2026-10-02T08:38:22+00:00	Antincendio EN54 Line, aggiornamento completo della sicurezza antincendio per ristoranti.	https://www.youtube.com/watch?v=Od4DTMUCxBM
@@ -13,4 +14,3 @@
 2025-12-03T11:28:08+00:00	Famiglia Wise-ISP - See Wonder at Night	https://www.youtube.com/watch?v=ZU2_d4A9Lko
 2025-10-09T09:43:13+00:00	Wave Pro Series video	https://www.youtube.com/watch?v=QtaUvTrSmHU
 2025-04-17T16:15:24+00:00	Huawei Education	https://www.youtube.com/watch?v=jdk26hccAl4
-2025-04-04T15:21:32+00:00	HUAWEI Semplifica la complessità!	https://www.youtube.com/watch?v=UcQJ0UIsllY

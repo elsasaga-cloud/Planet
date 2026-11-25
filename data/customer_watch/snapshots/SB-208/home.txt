@@ -1,4 +1,4 @@
-# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-208 delock.com · home · https://www.triosoft.fi/index.html · fetched 2026-11-25T11:29:08Z · HTTP 200
 Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa
 Omat tiedot
 Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti
@@ -66,42 +66,50 @@ Merkkiriippumaton tietotekniikkahuolto tietokonehuollossamme.
 Isosta valikoimasta tietotekniikan lisälaitteet, luotettavat ympäristöä säästävat tehdaskunnostetut uusiotietokoneet 2 ja 3 vuoden takuulla. Ethernetkaapelit sisä- ja ulkokäyttöön, PUR ja M12-kaapelit, audiokaapelit (Toslink, XLR, DIN, RCA jne.), tietotekniikka- ja audioadapterit sekä kiinnnitystuotteet kaapeleille, Delock ja Navilock gps- ja antennituotteet , Keystone- ja DIN-kiinnitystuotteet, RS232-kaapelit ja adapterit, Xerox Colotech+ erikoispaperit, Herma tarratetiketit ja tulostustarvikkeet. Tuotteiden nopeat toimitukset ja kilpailukykyiset hinnat. Valikoimastamme laadukkaat Delock, Logilink ja Equip-tuotteet.
 Kuinka voimme auttaa teitä? Jos ei löytynyt muualta, niin meiltä löytyy. Mikäli mielestänne jotain vielä olisi hyvä olla valikoimassamme, vinkatkaa palautelomakkeella .
 Lue yrityksestämme.. Lue tuotteistamme..
-Delock RJ45 ristiinkytkentä adapteri
-Adapterilla voit kytkeä esim. kaksi tietokonetta toisiinsa käyttämällä normaalia RJ45 verkkokaapelia.
-5,50 €
-Saatavilla 4 kpl
-Antennikaapeli ferriittisuojaus, 80 dB uros-naaras 2.5m
-Kaksinkertainen suojaus tarjoaa häiriöttömän kuvan Liitäntätyyppi Koaksiaaliuros...
-5,90 €
-Saatavilla 5 kpl
-Ethernetkaapeli Ultraflex, Cat.6A, S/FTP, valkoinen, 3,00 m
-Taipuisa Ethernetkaapeli Ultraflex, Cat.6A, S/FTP, valkoinen,
-Pituus...
-8,90 €
-Saatavilla 16 kpl
-Ethernetkaapeli Cat 5e U/UTP ethernet harmaa 50m
-Cat.5e-kytkentäkaapeli, suojaamaton
-U/UTP 26/7AWG
-Suojaamaton kierretty...
-25,00 €
-Delock näytönsuoja iPhone 16, karkaistusta lasista, anti-spy
-Tämä Delockin iPhone 16 -puhelimelle tarkoitettu näytönsuoja tarjoaa...
-9,00 €
+Delock Precision -ruuvimeisselisarja 130 osaa
+Tämä Delockin työkalusarja sisältää kattavan valikoiman ruuvimeisseliä. Kätevässä laatikossa...
+37,00 €
 Saatavilla 1 kpl
-TV-seinäteline, 23–55", kallistus, kääntyvä, enint. 30 kg
-TV-seinäkiinnike, kallistus -15 ° / + 15 °, kääntyvä -90...
-28,90 €
-Saatavilla 1 kpl
-Riviliitin adapteri 8 pin 3.50mm - RJ45 uros
-RJ45 uros - riviliitin 8 pin 3.50mm Description
-This RJ45 to...
-8,00 €
-Navilock Multiband GNSS Galileo SMA Antenni monisuuntainen kattoasennus ulkokäyttöön
-Tässä Navilock-monikaista-antennissa on...
-75,00 €
-CoreParts Lenovo 50Wh Li-Pol 11.55V 4350mAh akku
-Lenovo yhteensopiva tarvikeakku. Takuu 1v. OEM osanumero: 02DL011, 02DL012, 02LD012, 31CP5/88/70, 5B10W13877, 5B10W13907, 5B10W13913, 5B10W13914, L18M4P73, L18M4P74, L18S3P71, SB10K97649, SB10K97650...
-66,00 €
+Teltonika RUTX14 LTE CAT 12 Industrial reititin
+RUTX14 on valikoimamme nopein yhden modeemin LTE-reititin. 5 x Gigabit Ethernet...
+435,00 €
+Delock HDMI 8K EDID -emulaattori
+Tämä Delockin sovitin emuloi näyttöä siten, että signaalilähde ei sammuta signaalia tai...
+23,00 €
+Delock Extension Mini PCI Express / mSATA uros adapteri joustavalla kaapelilla 13 cm
+Tätä Delockin sovitinta voidaan käyttää mSATA- tai...
+29,90 €
+Dymo D1 12mmx7m musta.kirk. tarrakirj.teippi
+tarrakirjoitinteippi 45010/S0720500
+musta teksti kirkas pohja...
+23,00 €
+F Adapteri: F Plug > Coax Socket
+Liitäntä, tyyppi F uros
+Liitäntä 2, tyyppi Koaksiaalinen naaras (socket)
+Liitäntä, kotelon...
+1,50 €
+Saatavilla 10 kpl
+Kaapelinhallintarengas 80 x 80 mm 19" telineille, 2 kpl.
+Kaapelin reitityskannatin 80 x 80 mm
+Sivulle asennettavaksi...
+5,00 €
+Saatavilla 0 kpl
+HP 135X W1350X musta laserkasetti
+Kuvaus: HP 135X - Tuottoisa - musta - alkuperäinen - LaserJet - väriainekasetti
+Tuotto: Jopa...
+105,00 €
+-29 %
+Agfaphoto Brother LC900 4-pack
+Sisältää Brother LC900 yhteensopivat musta+keltainen+magenta+syaani mustepatruunat.
+Tulostusmäärä musta...
+24,90 €
+norm.
+35,00 €
+alennus
+29 %
+säästö
+10,10 €
+Saatavilla 3 kpl
 Triosoft kivijalkamyymälä
 Rautatienkatu 19
 33100 Tampere

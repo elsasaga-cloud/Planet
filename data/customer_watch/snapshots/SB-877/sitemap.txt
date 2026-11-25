@@ -1,5 +1,6 @@
-# SB-877 ltv-cctv.ru · sitemap · https://ltv-cctv.ru/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-877 ltv-cctv.ru · sitemap · https://ltv-cctv.ru/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
 	https://ltv-cctv.ru/
+	https://ltv-cctv.ru/all-brands-luis/
 	https://ltv-cctv.ru/links-page/
 	https://ltv-cctv.ru/contacts/
 	https://ltv-cctv.ru/links-page/ip-videonablyudenie/
@@ -183,4 +184,4 @@
 	https://ltv-cctv.ru/links-page/3-series/ltv-3s24g4c-mp/
 	https://ltv-cctv.ru/links-page/ip-videokameri/ltv-gicdm2-e402-v3/
 	https://ltv-cctv.ru/links-page/ip-5-series/ltv-5cns50-ru-korpusnaya-ip-videokamera/
-	https://ltv-cctv.ru/links-page/kronsh
+

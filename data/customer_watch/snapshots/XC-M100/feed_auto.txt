@@ -1,4 +1,5 @@
-# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-24T12:40:24Z · HTTP 200
+# XC-M100 Adeptor AS · feed_auto · https://www.adeptor.no/WebPages/produkt/rss.aspx · fetched 2026-11-25T11:29:08Z · HTTP 200
+25.11.2026 11:16:32	Hawke 501/421 (B) 3/4" NPT Alt. Seal NP	https://www.adeptor.no/hawke-international/501-421-as3-4nnp/hawke-501-421-b-3-4-npt-alt-dot--seal-np-exde-9-dot-5-15-dot-4
 19.11.2026 10:20:59	Chalmit Protecta IV LED 07 EM	https://www.adeptor.no/chalmit/pr4b-07l-le-l3/chalmit-protecta-iv-led-07-em-pr4b-07l-le-em-3h-lbe-m20
 17.11.2026 15:19:32	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2040-32/grs2000-ethernet-switch-grs2040-f0000-00000-a00-sffv9hhe2s99
 16.11.2026 12:52:01	Bobcat Rail switch 4xSFP, 20xRJ45	https://www.adeptor.no/hirschmann/brs50-00242q2qs-07/bobcat-rail-switch-4xsfp-20xrj45-brs50-00242q2q-stcy99hhseaxx-dot-x-dot-xx
@@ -87,5 +88,4 @@
 16.09.2026 15:55:35	Installed Option; 8 GHz Bandwidth	https://www.adeptor.no/tektronix/dpo718ax-7-bw-8000/installed-option-8-ghz-bandwidth-8-channels
 15.09.2026 13:00:41	GRS2000 Ethernet Switch	https://www.adeptor.no/hirschmann/grs2120-03/grs2000-ethernet-switch-grs2120-gf8f8-ff800-000-skkv9hhe2s99
 09.09.2026 14:39:53	Fluke-TC03A 9HZ infrarødt kamera iSee	https://www.adeptor.no/fluke/fluke-tc03a-9hz/fluke-tc03a-9hz-infrar%c3%b8dt-kamera-isee-jq2-9hz-384x288px-for-android-usb-c
-09.09.2026 12:28:31	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs20-12009999-06/hirschmann-bobcat-12xtx-brs20-12009999-ttcy99hhsesxx-dot-x-dot-xx
-09.09.2026 09:48:08	Fluke-ii01, iSee akustisk kamera	https://www.adeptor.no/fluke/fluke-ii01/fluke-ii01-isee-akustisk-kamera-for
+09.09.2026 12:28:31	Hirschmann BOBCAT 12xTX	https://www.adeptor.no/hirschmann/brs20-12009999-06/hirschmann-

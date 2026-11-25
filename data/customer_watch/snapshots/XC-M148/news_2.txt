@@ -1,4 +1,4 @@
-# XC-M148 Lakeland Engineering Equipment Company · news_2 · https://www.lakelandengineering.com/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
+# XC-M148 Lakeland Engineering Equipment Company · news_2 · https://www.lakelandengineering.com/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blog: Lakeland Engineering Equipment Co. - Lakeland Engineering
 Skip to content
 855-544-0321
@@ -43,6 +43,9 @@ Contact
 Lakeland Engineering Blogs
 Discover the latest in industrial automation, electrical controls, and power solutions with the Lakeland Engineering blog. Whether you’re troubleshooting complex systems, exploring new technologies, or optimizing your operations, our blog delivers expert insights tailored to your needs.
 From product spotlights and application tips to updates on industry-leading brands like Fluke, Yaskawa, ABB, Eaton, and PULS, each article is designed to help you make informed decisions and stay ahead in a fast-moving industry.
+What Keeps Your Thanksgiving Dinner Running? The Electrical Equipment Behind Food Production
+Thanksgiving dinner might look simple on the table, but there is a lot happening behind the scenes before that turkey, mashed potatoes, green beans, and pumpkin pie make it to your plate. Food and beverage manufacturers rely on electrical equipment and automation to keep production moving safely, efficiently, and consistently.
+Read More
 Lenze Variable Frequency Drives: How to Choose the Right Model for Your Application
 A Lenze variable frequency drive controls the speed and torque of an AC motor by adjusting output frequency and voltage. Lenze builds several drive families, and each one fits a different set of jobs. The right model comes down to five factors: motor power, supply voltage, mounting location, control performance,
 Read More
@@ -69,9 +72,6 @@ Most maintenance teams, plant engineers, and OEMs already know they need a varia
 Read More
 DENT Instruments SPBL-Series Revenue-Grade Split-Core Current Transformers
 Accurate energy measurement is essential for managing electricity costs, allocating utility expenses, and monitoring building performance. Whether a facility is tracking energy consumption across multiple tenants or evaluating the results of an energy conservation project, reliable data is critical to making informed decisions. Current transformers (CTs) play an important role
-Read More
-How to Perform a 30-Day Electrical Load Study with Power Meter Rentals
-When adding new equipment to an existing electrical system, one important question needs to be answered: Does the system have enough available capacity to handle the additional load? Whether you’re installing new machinery, expanding production, or upgrading facility equipment, understanding your electrical system’s existing demand can help you make informed
 Read More
 « Previous
 Page 1

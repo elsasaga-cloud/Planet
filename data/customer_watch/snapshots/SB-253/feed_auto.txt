@@ -1,4 +1,4 @@
-# SB-253 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-253 provision-isr.com · feed_auto · https://provision-isr.com/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Fri, 04 Sep 2026 07:51:32 +0000	YouTube	https://provision-isr.com/news/youtube/
 Mon, 16 Nov 2026 06:53:01 +0000	Multilingual Videos	https://provision-isr.com/news/multilingual-videos/
 Fri, 20 Nov 2026 08:33:30 +0000	Elite Partner Day Denmark	https://provision-isr.com/news/elite-partner-day-denmark/

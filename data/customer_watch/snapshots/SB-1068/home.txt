@@ -1,4 +1,4 @@
-# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Realizacja zamówień: 796 224 537
 Oferty i wyceny: 502 177 440 / 571 033 282 (pn–pt 8–16)
@@ -426,6 +426,32 @@ Nowości w ofercie
 Nowy
 Dostępne
 Produkty
+PILOT ATLO-D02RC ATLO
+ATLO
+ATLO-D02RC
+29,52 zł
+Dostawa:
+do poniedziałku, 30.11
+60 szt.
+Maksymalna dostępna ilość: 60 szt. Większą ilość możemy sprowadzić na zapytanie.
+Zasilanie: 2 x Bateria typ CR2016 - 3 V (w zestawie) ; Zakres częstotliwości: 433 MHz ; Zasięg działania w terenie otwartym: 30 m - 50 m ;
+Dodaj do koszyka
+Nowy
+Dostępne
+Produkty
+BATERIA ALKALICZNA BAT-AAA/EVERACTIVE*P10 1.5 V LR3 (AAA) everActive
+everActive
+BAT-AAA/EVERACTIVE*P10
+22,32 zł
+Dostawa:
+do poniedziałku, 30.11
+16 szt.
+Maksymalna dostępna ilość: 16 szt. Większą ilość możemy sprowadzić na zapytanie.
+W opakowaniu: 10 szt. Podana cena za opakowanie ; Napięcie znamionowe: 1.5 V ; Typ (rozmiar): LR3 (AAA) ;
+Dodaj do koszyka
+Nowy
+Dostępne
+Produkty
 NAROŻNIKI OCHRONNE POD OBEJMY KOMINOWE OK-NO*P8 DELTA Montage
 Delta MONTAGE
 OK-NO*P8
@@ -452,30 +478,4 @@ BEZPRZEWODOWA CZUJKA DYMU I TLENKU WĘGLA (CZADU) ATLO-SCD01-TUYA Wi-Fi, Tuya Sm
 ATLO
 ATLO-SCD01-TUYA
 152,86 zł
-Współpraca: Tuya Smart ; Detekcja: Tlenek węgla (CO), dym ; Pasmo częstotliwości: 2.4 GHz WiFi IEEE 802.11 b/g/n ; Dostęp z telefonu komórkowego: Możliwa obsługa przez sieć Wi-Fi za pomocą aplikacji mobilnej na systemy iOS, Android ; Zasilanie bateryjne: Wbudowana bateria (brak możliwości wymiany) ;
-Zobacz
-Nowy
-Dostępne
-Produkty
-OPASKA NA RĘKĘ Z TAGIEM RFID ATLO-GD06IC/RED ATLO
-ATLO
-ATLO-GD06IC/RED
-8,15 zł
-Dostawa:
-do poniedziałku, 30.11
-1 000 szt.
-Maksymalna dostępna ilość: 1 000 szt. Większą ilość możemy sprowadzić na zapytanie.
-Standard: 13.56 MHz S50 ; Kompatybilność: ISO/IEC 14443A ; Możliwość zapisu do pamięci wewnętrznej: 1 kB ; Kolor: Czerwony ;
-Dodaj do koszyka
-Nowy
-Dostępne
-Produkty
-OPASKA NA RĘKĘ Z TAGIEM RFID ATLO-GD06IC/ORANGE ATLO
-ATLO
-ATLO-GD06IC/ORANGE
-8,15 zł
-Dostawa:
-do poniedziałku, 30.11
-1 000 szt.
-Maksymalna dostępna ilość: 1 000 szt. Większą ilość możemy sprowadzić na zapytanie.
-Standard: 13.56 MHz S50 ; Kompatybilność: ISO/IEC 144
+Współpraca: Tuya Smart ; Detekcja: Tlenek węgla (CO), dym ; Pasmo częstotliwości: 2.4 GHz WiFi IEEE 802.11 b/g/n ; Dostęp z telefonu komórkowego: Możliwa obsługa przez sieć Wi-Fi za pomocą aplikacji mobilnej na systemy iOS, Android ; Zasilan

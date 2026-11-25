@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -26,37 +26,37 @@ Blog SYSCOM
 UPS Hikvision DS-UPS600-X: 600 VA para que el apagón no apague la operación
 El Hikvision DS-UPS600-X entrega 600 VA / 360 W con transferencia a batería en menos de 10 ms y 6 tomas NEMA 5-15R, cuatro de ellas respaldadas. Respaldo dimensionado para NVR, switches y equipos de red en instalaciones de videovigilancia.
 CM
-Cecilia Martinez · Hoy
+Cecilia Martinez · Ayer
 UPS Hikvision DS-UPS600-X: 600 VA para que el apagón no apague la operación
-Cecilia Martinez · Hoy
+Cecilia Martinez · Ayer
 videoconferencia Jabra
 Jabra PanaCast 40 VBS: 180° de visión y Android 13 para salas pequeñas
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · Hoy
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · Ayer
 Networking Wireless
 Caso de éxito: Wi-Fi para 45.000 personas en los estadios de Quito con Grandstream GWN
-RAFAEL CENICEROS MU&Ntilde;OZ · Hoy
+RAFAEL CENICEROS MU&Ntilde;OZ · Ayer
 BioStation 3 Max: rostro, huella, QR y tarjetas en una sola terminal de acceso
-Zaira Romero · hace 4 días
+Zaira Romero · hace 5 días
 ROKU SmartTV QLED 58 pulgadas: 4K UHD y Dolby Audio para espacios que exigen presencia
-Cecilia Martinez · hace 4 días
+Cecilia Martinez · hace 5 días
 Amplificador EPW240E de 240W: red, WiFi y Bluetooth para audio comercial
-Adan Corona · hace 5 días
+Adan Corona · hace 6 días
 LP1TVBOX: el set-top box Android TV 14 que lleva 4K y gestión remota a tu red IPTV
-Adan Corona · hace 5 días
+Adan Corona · hace 6 días
 NAS Synology DS925+: 4 bahías, doble 2.5GbE y DSM para centralizar datos críticos
-Adan Corona · hace 5 días
+Adan Corona · hace 6 días
 Networking TP-Link
 Omada SD-WAN: cómo conectar sucursales sin depender de MPLS
-Víctor Villarreal · hace 5 días
+Víctor Villarreal · hace 6 días
 Networking TP-Link
 Caso de éxito: cómo Margaritaville Island Reserve unificó su red con TP-Link Omada
-Víctor Villarreal · hace 5 días
+Víctor Villarreal · hace 6 días
 Energía Solar shelly
 Victron Energy + Shelly: cuando sobra sol, la casa lo aprovecha sola
-MARVIN IRAM BARRIO GARCIA · hace 6 días
+MARVIN IRAM BARRIO GARCIA · hace 1 semana
 Videovigilancia Sistemas de Seguridad
 El poder que tu VMS necesita ya está en stock: THINKP2U9, THINKP2U7, THINKP2U7V2 y THINKP3U5
-Alfonso Berumen · hace 6 días
+Alfonso Berumen · hace 1 semana
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

@@ -1,4 +1,4 @@
-# SB-647 arttelekom.com.tr · home · https://www.arttelekom.com.tr/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-647 arttelekom.com.tr · home · https://www.arttelekom.com.tr/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Art Telekom - Telefon, IP Santral, Tümleşik iletişim, Çağrı Merkezi, Güvenlik Sistemleri
 Anasayfa
 Kurumsal
@@ -7,30 +7,30 @@ Kurumsal
 Referanslarımız
 İnsan Kaynakları
 İletişim
-Telefon Santralları
-Art Telekom, haberleşme ihtiyaçları için doğru teknolojik çözümleri sunar....
-3S Vision IP Kamera Sistemleri
-Gözetim ve güvenlik amacı ile lokasyonların uzaktan izlenmesini sağlayan, gelişmiş network özelliklerine sahip kameralara size çözümler sunuyoruz...
-Fiber Optik Kablo Çözümleri
-Fiber Optik & Network Çözümleri; Fiber Optik Kablolama, Fiber Optik Fusion Sonlandırma çözümleri....
-Aastra BP Çağrı Merkezi Çözümleri
-Çağrı merkezi uygulamaları müşteri hizmetleri otomasyonu ses iletişim teknolojisi çözümleri....
-CCTV Kamera Görüntüleme Sistemleri
-Ev, ofis gibi en küçük kapasiteden, kamu ve özel sektör kurumlarının en yüksek kapasitedeki CCTV Kamera çözümleri sunuyoruz....
-İletişim Ağı Çözümleri
-Kurum ve Kuruluşlara özel iletişim ağları ile maliyet ve kullanıcı dosru çözümler üretiyoruz....
-Telefon Makinesi Çözümleri
-Kullanıcıların verimini arttırmak, maliyetleri azaltmak için Aastra IP telefonlar inceleyin....
 Tümleşik İletişim
 Tümleşik İletişim; ses, görüntü, konferans, durum bilgisi, anlık mesaj, sesli mesaj, faks, e-postaları tek kaynaktan yönetin....
-Video Konferans Çözümleri
-Video Konferans Sistemleri ile uzak coğrafyalardaki insanları, mesafeleri kat etmeden bir toplantı düzeniyle bir araya getiren çözümler sunuyoruz....
 Giriş Kontrol Sistemleri
 Parmak izi giriş sistemi, parmak izi ile açılan kapı, parmak izli kapı kilidi, geçiş kontrol sistemleri çözümleri....
+İletişim Ağı Çözümleri
+Kurum ve Kuruluşlara özel iletişim ağları ile maliyet ve kullanıcı dosru çözümler üretiyoruz....
+Video Konferans Çözümleri
+Video Konferans Sistemleri ile uzak coğrafyalardaki insanları, mesafeleri kat etmeden bir toplantı düzeniyle bir araya getiren çözümler sunuyoruz....
+Telefon Santralları
+Art Telekom, haberleşme ihtiyaçları için doğru teknolojik çözümleri sunar....
+Telefon Makinesi Çözümleri
+Kullanıcıların verimini arttırmak, maliyetleri azaltmak için Aastra IP telefonlar inceleyin....
+3S Vision IP Kamera Sistemleri
+Gözetim ve güvenlik amacı ile lokasyonların uzaktan izlenmesini sağlayan, gelişmiş network özelliklerine sahip kameralara size çözümler sunuyoruz...
+CCTV Kamera Görüntüleme Sistemleri
+Ev, ofis gibi en küçük kapasiteden, kamu ve özel sektör kurumlarının en yüksek kapasitedeki CCTV Kamera çözümleri sunuyoruz....
 FCT Çözümleri
 Orta ve büyük ölçekli firmalar, Abone merkezleri,
 Çağrı Merkezleri gibi GSM trafiği yoğun olan işletmeler
 için en doğru çözüm FCT....
+Fiber Optik Kablo Çözümleri
+Fiber Optik & Network Çözümleri; Fiber Optik Kablolama, Fiber Optik Fusion Sonlandırma çözümleri....
+Aastra BP Çağrı Merkezi Çözümleri
+Çağrı merkezi uygulamaları müşteri hizmetleri otomasyonu ses iletişim teknolojisi çözümleri....
 Bizden Haberler
 Kaçakçılık ve Organize Suçlarla Mücadele (KOM) Daire Başkanlığı’na Aastra MX-ONETM IP telefon sistemi kuruldu
 Aastra Blustar 8000i Video Konferans Çözümü
@@ -39,15 +39,15 @@ Aastra Türkiye İş Ortakları Toplantısı Düzenlendi
 Voxtron İletişim Merkezi İsviçre'deki Aastra laboratuarlarında Intelligate ürün yelpazesi ile yapıtığı kapsamlı entegrasyon testlerini başarıyla tamamladı.
 Santral Sitemleri
 Perakende Satış Fiyatları
-Telefon Santralları
-3S Vision IP Kamera Sistemleri
-Fiber Optik Kablo Çözümleri
-Aastra BP Çağrı Merkezi Çözümleri
-CCTV Kamera Görüntüleme Sistemleri
-İletişim Ağı Çözümleri
-Telefon Makinesi Çözümleri
 Tümleşik İletişim
+Giriş Kontrol Sistemleri
+İletişim Ağı Çözümleri
 Video Konferans Çözümleri
+Telefon Santralları
+Telefon Makinesi Çözümleri
+3S Vision IP Kamera Sistemleri
+CCTV Kamera Görüntüleme Sistemleri
+FCT Çözümleri
 Diğer Çözümlerimiz...
 3S Vision IP Kamera Sistemleri
 Speed Dome Kamera Sistemleri

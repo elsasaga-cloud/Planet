@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-25T11:29:08Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,13 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 68 içerik).
+Sektörden güncel haberler ve analizler ( 70 içerik).
+İnceleme AMD EPYC Venice SP7: Soket Başına 256 Çekirdek Geldi
+AMD'nin 6. nesil EPYC Venice SP7 sunucu işlemcileri, 256 çekirdek ve yeni bellek mimarisiyle performans rekorları kırdı.
+25 Kasım 2026
+Sektör Haberi HPE'nin Lux AI Kümesi TOP500'de 14. Sırada
+HPE ve AMD'nin ORNL için kurduğu Lux AI kümesi, 220.79 petaflops ile TOP500 listesinde 14. sırada yer aldı.
+25 Kasım 2026
 Ürün Lansmanı AMD ROCm 10.2 Çıktı: PyTorch ve Ryzen Desteği Genişledi
 AMD, ROCm 10.2.0'ı duyurdu: hipFile, vLLM ve PyTorch entegrasyonu, AITER desteği ve 18 yeni Ryzen işlemci.
 24 Kasım 2026
@@ -136,12 +142,6 @@ Hardware Unboxed, Radeon RX 9070 XT ile 7900 XTX'i 50'den fazla oyunda karşıla
 Marka Duyurusu Dell AI Factory, GTC Berlin'de Yeni Rack'lerle Büyüyor
 Dell, NVIDIA GTC Berlin'de Vera CPU ve Groq 3 LPU tabanlı yeni PowerEdge rack'leriyle AI Factory portföyünü genişletti.
 27 Ekim 2026
-İnceleme AMD FSR 4.1, RDNA 2 Kartlarda Test Edildi
-AMD'nin FSR 4.1 güncellemesi RDNA 2 ekran kartlarına geldi. Hardware Unboxed testlerinde performans ve görüntü kalitesi karşılaştırıldı.
-26 Ekim 2026
-Marka Duyurusu Intel, Crescent Island GPU D-Series'i tanıttı
-Intel, OCP Global Summit'te Crescent Island adını verdiği Xe3P tabanlı GPU D-Series'i duyurdu; 480GB belleğe kadar çıkıyor.
-26 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

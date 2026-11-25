@@ -1,4 +1,4 @@
-# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-25T11:29:08Z · HTTP 200
 Mon, 23 Nov 2026 20:22:39 +0000	CMP vs CMR Cable: Key Differences Explained	https://52networks.com/cmp-vs-cmr-cable/
 Thu, 19 Nov 2026 15:33:23 +0000	Plenum vs Riser Cable: What’s the Difference?	https://52networks.com/plenum-vs-riser-cable/
 Wed, 18 Nov 2026 18:13:41 +0000	Cat6A Plenum 1000ft Cost: What to Expect in 2026	https://52networks.com/cat6a-plenum-1000ft-cost/

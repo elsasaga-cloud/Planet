@@ -1,7 +1,10 @@
-# SB-086 TAILYN · intel_news_en · https://news.google.com/rss/search?q=%22Tailyn%20Technologies%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-24T12:40:24Z · HTTP 503
-Sorry... G o o g l e
-Sorry...
-We're sorry...
-... but your computer or network may be sending automated queries. To protect our users, we can't process your request right now.
-See Google Help for more information.
-Google Home
+# SB-086 TAILYN · intel_news_en · https://news.google.com/rss/search?q=%22Tailyn%20Technologies%22&hl=en-US&gl=US&ceid=US:en · fetched 2026-11-25T11:29:08Z · HTTP 200
+Mon, 01 Jan 2018 21:50:58 GMT	Tailyn Technologies, Inc. (5353.TWO) company profile and facts - Yahoo Finance - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BZzRDSkszWlZMWjlUY0ViVnZObnRhSk1xTEE3anVSTlVYVWZ5UDNxbmlZQUxzRFp5cUcwTl92LV9Bam9YRHRTLVU0MWNuakhTTW5BZDY1WEg3SDVsSGFzTl9B?oc=5
+Tue, 21 Sep 2021 14:49:27 GMT	5353 Stock Price and Chart — TPEX:5353 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTE41TlVIeE9ERTdDdGVLbGlRT0xicWtOemNwUEJ1MVhadnlaOEx4akkxQUxxZnczTGY3enk4UnppRXVfbUVucU9id0cxbXY2TU9QUjNOTy03eG1vZw?oc=5
+Sat, 21 Nov 2026 19:13:30 GMT	CastleNet Technology Inc. (8059.TWO) Seasonal returns chart - Yahoo Finance UK	https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1MUotS3V4QUgyeFNkV0I3SWVOV0ZldDN4SkozbWt4VDI3Tk9yZ2hfclZnTFlaOTF5NzN3Mnc0YmttMV9nWnlBT3k5LWttMnVpSkxXMGZtODIxT011WEE4OVVTM3pxeWM?oc=5
+Wed, 29 Oct 2025 22:58:47 GMT	7854 Stock Price and Chart — TPEX:7854 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJM0pxS3B0azBjcDdvVEgySWpaRmYzSERZaEJsR3RJM2RtZ1VJWF95NG9MTmEyMk5jeHhSSFZHUUc3aTVvX2RSV0MxWVRMRVF5OE5TTkNwSTJaQQ?oc=5
+Sat, 14 Nov 2026 19:41:35 GMT	Altasec Technology Corporation (7919.TWO) Analyst insights, Price targets and Recommendations - Yahoo Finance Australia	https://news.google.com/rss/articles/CBMibkFVX3lxTE1KUk1VdDg4THdFNDVjMTlDdGo4d1VjUGtZN0NZZl82U2ZJRVZGQ2o1OGkwR1hIbkNUOE5rMTZtSmpaZUNxUTdHa2Q3REs5XzA3anZ6cTVuMVdmMks4cmItekcwRDY4Q0hmcjBPQjVn?oc=5
+Sat, 05 Aug 2017 20:20:29 GMT	6152 Stock Price and Chart — TWSE:6152 - TradingView	https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wTXkyeldIYWJEVUpLMzJtMURYMjYxUkFYMENwaHZHVzEzRlFZaEVHTWNiSUZDWVhDb2NHRGtxX0lRdUtzQVV0N3h0cHZLN1ptNGFHRmlMeTZIdw?oc=5
+Sat, 21 Nov 2020 04:52:16 GMT	ZOOM Technologies, Inc. (ZTNO) stock price, news, quote and history - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhNmFyNzJwaFd5eTNrZmtrSlRuUEVJMzhpYnJlVGUxVFBBa1dyMVp2by1mWjJvdVItV29CQnRMQ1Jpc2xyT0tTVHJtemJMMXU0V2c?oc=5
+Tue, 11 Jul 2017 05:20:32 GMT	Netronix, Inc. (6143.TWO) company profile and facts - Yahoo Finance Singapore	https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlQ2N4RExtc2hjM1hhSjNaX05fUVRpX05iLS1nTVVXelUxRzlDQjR3ZWhQeXduRmgtZUw3SnlfUUVtMTRmWWtZX2JoLWtIc1VUbGM0N0lpQ1F0Q3UzMVlzX21n?oc=5
+Wed, 16 Aug 2017 12:30:43 GMT	Connection Technology Systems Inc. (3672.TWO) stock price, news, quote and history - Yahoo Finance Australia	https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxckpGcGtLU21mbWVzdzBYZEYxam5tZXhfaGREc1pRN28tcW5iWXFoUklOQTRDeE0xV18xbXhxZmswUmxTaEdONnpSRmVzYnN1N0QtbjNfRQ?oc=5

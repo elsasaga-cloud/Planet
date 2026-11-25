@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-890 technopc.com.tr · news_2 · https://technopc.com.tr/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Blog
 Destek
 Teknik Destek Talep Formu
@@ -72,7 +72,7 @@ Blog
 Anasayfa
 Blog
 Mini PC Nedir? Kurumsal Kullanım Avantajları ve 2026 Rehberi
-Mini PC seçimi için donanım, enerji tüketimi ve kurumsal kullanım rehberi.
+2026 Mini PC rehberi: kurumsal kullanım, donanım seçimi ve enerji hesabı.
 Devamını Oku
 Teknik Destek
 Telefon:
@@ -301,7 +301,9 @@ Technopc Tümleşik Araç Yönetim Sistemi AKS-200
 Endüstriyel Monitör Serisi
 Technopc Endüstriyel Monitör TPM Serisi
 Technopc Endüstriyel Monitör TPL Serisi
-Technopc Panel PC TPM1002
+Technopc Endüstriyel Monitör TPM1002
+Technopc Endüstriyel Monitör TPM1502
+Technopc Endüstriyel Monitör TPM2102
 Digital Signage Serisi
 Technopc OPS G5860S
 Technopc OPS PC TPOG12
@@ -419,6 +421,8 @@ Technopc Neuralzone İş İstasyonu
 AI Server
 AI GPU Server
 AI Workstation Notebook
+Technopc Technobook T1600T AI İş İstasyonu
+Technopc Technobook TS1500T AI İş İstasyonu
 AI Endüstriyel Ürünler
 Technopc AI Endüstriyel Notebook TPN14AW
 Technopc AI Endüstriyel PC TPCAI-50SB
@@ -485,10 +489,4 @@ Network Çözümleri
 Biyometrik Ürünler
 Medikal Çözümler Medikal İş İstasyonu
 Medikal Tablet
-Medikal AIO
-Medikal El Terminali
-Özel Sipariş Ürünleri Kurumsal Ürünler
-Endüstriyel Ürünler
-Yapay Zeka (AI) Donanım Çözümleri AI Workstation
-AI Server AI GPU Server
-AI Workstat
+Medik

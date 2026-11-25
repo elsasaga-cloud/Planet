@@ -1,4 +1,4 @@
-# SB-689 tiscontrol.com · home · https://www.tiscontrol.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-689 tiscontrol.com · home · https://www.tiscontrol.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Smart Home Automation | Hotel Automation System | TIS
 Products
 TIS Dehumidifier
@@ -30,6 +30,9 @@ Gateway
 Meters
 Gateways
 Other
+Off Grid Inverter
+Hybrid
+Battery LiFePo4
 Occupancy Sensor
 Zigbee BUS Converter
 Zigbee IR Emitter
@@ -165,6 +168,11 @@ Sirius Series
 Mars Series
 Current Sensor
 Water Level Sensor
+Single Phase Off Grid
+Low Voltage Hybrid
+High Voltage Hybrid
+Residential Battery
+Commercial Battery
 Solutions
 By Project Type
 Smart Cinema
@@ -414,6 +422,14 @@ TIS-A210
 Access Control
 Accessories
 RF Card Encoder
+Off Grid Inverter
+Single Phase Off Grid
+Hybrid
+Low Voltage Hybrid
+High Voltage Hybrid
+Battery LiFePo4
+Residential Battery
+Commercial Battery
 Solutions
 By Project Type
 Smart Cinema

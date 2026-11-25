@@ -1,4 +1,4 @@
-# SB-890 technopc.com.tr · sitemap · https://technopc.com.tr/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-890 technopc.com.tr · sitemap · https://technopc.com.tr/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
 	https://technopc.com.tr/
 	https://technopc.com.tr/hakkimizda/
 	https://technopc.com.tr/kurumsal-urunler/
@@ -44,11 +44,11 @@
 	https://technopc.com.tr/arge-merkezi/
 	https://technopc.com.tr/kisisel-verilerin-korunmasi/
 	https://technopc.com.tr/sertifikalar/
-	https://technopc.com.tr/technopc-iga-istanbul-havalimani/
-	https://technopc.com.tr/technopc-dt-cloud-is-birligi/
-	https://technopc.com.tr/technopc-innova-is-birligi-bulusmasi/
-	https://technopc.com.tr/technopc-tetz-stand-ziyaretleri/
-	https://technopc.com.tr/technopc-kamu-bilisim-zirvesi-yerli-teknoloji/
+	https://technopc.com.tr/igada-5000i-askin-technopc-cihazi/
+	https://technopc.com.tr/technopc-ve-dt-clouddan-yerli-bulut-is-birligi/
+	https://technopc.com.tr/technopc-ve-innovadan-is-birligi-bulusmasi/
+	https://technopc.com.tr/tetzde-technopc-standina-ust-duzey-ilgi/
+	https://technopc.com.tr/technopcden-kamuya-yerli-teknoloji/
 	https://technopc.com.tr/donanim-cozumleri/
 	https://technopc.com.tr/selcuk-ecza-deposu/
 	https://technopc.com.tr/garanti-bbva-arac-ici-guvenlik-cozumu/
@@ -231,5 +231,5 @@
 	https://technopc.com.tr/technopc-powerzone-is-istasyonu/
 	https://technopc.com.tr/technopc-epiczone-is-istasyonu/
 	https://technopc.com.tr/technopc-ai-server-srv-g-serisi/
-	https://technopc.com.tr/technopc-ai-endustriyel-pc-tpcai-50sb/
-	https://technopc.com.tr/technopc-ai-endustriyel-notebook-tpn1
+	https://technopc.com.tr/technopc-technobook-ts1500t-ai-is-istasyonu/
+	https://technopc.com.tr/technopc-

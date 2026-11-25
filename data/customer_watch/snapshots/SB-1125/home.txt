@@ -1,4 +1,4 @@
-# SB-1125 globall.ca · home · https://www.globall.ca/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1125 globall.ca · home · https://www.globall.ca/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Home
 Skip to content
 Home page
@@ -105,6 +105,12 @@ GDWB66093NB Indoor 9U Wall Cabinet Black
 Sale price $250.99
 Regular price $289.99
 In stock, 13 units
+Save $20.00
+Globall
+GDWB66063NB Indoor 6U Cabinet Pre Built Black
+Sale price $169.99
+Regular price $189.99
+In stock, 5 units
 E-Metrotel
 E-metrotel SIP PBX Galaxy Mini
 Sale price $9,999.00
@@ -117,12 +123,6 @@ Signamax
 PSI-6CMR-WH CAT6e 4pr/23 SOL 550MHZ CMR U/UTP CAT6E-4P-PVC White 1000 Ft Box
 Sale price $239.99
 Only 1 unit left
-Save $20.00
-Globall
-GDWB66063NB Indoor 6U Cabinet Pre Built Black
-Sale price $169.99
-Regular price $189.99
-In stock, 5 units
 Save $60.00
 Teltonika
 TSW100000010 L2 unmanaged switch TSW100 Teltonika

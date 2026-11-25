@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-25T11:29:08Z · HTTP 200
 Messen, Veranstaltungen, Tagungen, Vorträge - AMC
 Navigation überspringen
 Startseite
@@ -193,10 +193,13 @@ Facebook
 Messen und Veranstaltungen mit AMC-Beteiligung
 Hier finden Sie eine Übersicht der aktuellen und vergangenen Messen, Konferenzen und Veranstaltungen , auf denen AMC vertreten ist bzw. vertreten war.
 Unsere bevorstehenden Termine 2026
-24. – 26.11.2026 - SPS Nürnberg
+08.12.2026 - NI Tech Forum Düsseldorf
 Unsere bevorstehenden Termine 2027
 27. - 28.01.2027 - all about automation Berlin
+24. - 25.02.2027 - NI Days Germany
 02. - 03.03.2027 - all about automation Friedrichshafen
+06.03.2027 - Tag der offenen Tür DHSN Glauchau
+17. - 19.03.2027 - 23. AALE Fulda
 15. - 16.09.2027 - all about automation Chemnitz
 AMC auf der SPS 2026 in Nürnberg
 Vom 24. bis 26. November 2026 sind wir auf der SPS – Smart Production Solutions 2026 in Nürnberg vertreten.
@@ -225,4 +228,4 @@ Projektabschluss des RUBIN-Bündnisses DuSwaP in Chemnitz
 Als Konsortialpartner im RUBIN-Bündnis DuSwaP hat sich die AMC – Analytik & Messtechnik GmbH Chemnitz maßgeblich an der Prozessüberwachung für die Fertigung von Brennstoffzellen- und Elektrolyseur-Stacks beteiligt. Unser Schwerpunkt lag dabei auf einer umfassenden Datenerfassung auf Basis moderner IoT-Edge-Systeme entlang der Prozesskette.
 Am 9. Juni 2026 fand im Fraunhofer IWU in Chemnitz die Abschlussveranstaltung des dreijährigen Forschungs- und Entwicklungsprojekts statt. Im Rahmen der Veranstaltung präsentierten die Partner des Konsortiums ihre gemeinsamen Ergebnisse entlang der Stack-Prozesskette.
 Im Fokus standen skalierbare Technologien für eine qualitätsgesicherte und automatisierte Fertigung sowie Ansätze zur industriellen Skalierung von Fertigungs- und Prüfprozessen. Die Veranstaltung bot interessante Einblicke in die zentralen Projektergebnisse und Gelegenheit zum Austausch zwischen Industrie und Forschung.
-AMC stellte dabei die im Projekt entwickelten Lösungen zur Prozessüberwachung und Datenerfassung vor und zeigte, wie moderne IoT-Edge-Systeme zur trans
+AMC stellte dabei die im Proj

@@ -1,4 +1,4 @@
-# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-859 baburtech.com · home · https://www.baburtech.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Baburtech | Laptop Yedek Parça ve Bilgisayar Donanımı
 5000 TL ve üzeri siparişlerinizde kargo ücretsiz!
 ÜCRETSİZ TESLİMAT İMKANI
@@ -142,7 +142,6 @@ Modem
 Powerline Ürünleri
 Routerler
 Switch
-Ağ Ürünleri
 Barkod Ürünleri
 Geri Dön
 Barkod Ürünleri
@@ -156,7 +155,6 @@ Karekod Okuyucu
 Masaüstü Okuyucu
 Pos ve Slip Yazıcılar
 Teraziler
-Barkod Ürünleri
 Baskı Çözümleri
 Geri Dön
 Baskı Çözümleri
@@ -171,7 +169,6 @@ Renkli Laser Yazıcı
 Renksiz Laser Yazıcı
 Tarayıcı
 Yazıcı Aksesuar
-Baskı Çözümleri
 Bilgisayar Bileşenleri
 Geri Dön
 Bilgisayar Bileşenleri
@@ -186,7 +183,6 @@ Kablolar ve Adaptörler
 Kart Okuyucular
 Optik Sürücüler
 Soğutma /Overclock
-Bilgisayar Bileşenleri
 Çevre Birimleri
 Geri Dön
 Çevre Birimleri
@@ -202,7 +198,14 @@ Mouse Pad
 Oyun Aksesuar
 Usb Bellekler
 Web Kamerası
-Çevre Birimleri
+Güvenlik Ürünleri
+Geri Dön
+Güvenlik Ürünleri
+Aksesuar ve Sarf Malzemeler
+Araç İçi Kamera
+Güvenlik Monitörleri
+Kabinet
+Termal ve Solar Kameralar
 Güvenlik Ürünleri
 Geri Dön
 Güvenlik Ürünleri
@@ -217,14 +220,6 @@ Kayıt Cihazları
 Sarf Malzeme ve Aksesuarlar
 Switch / Adaptör
 Switch / Adaptör / AP
-Güvenlik Ürünleri
-Geri Dön
-Güvenlik Ürünleri
-Aksesuar ve Sarf Malzemeler
-Araç İçi Kamera
-Güvenlik Monitörleri
-Kabinet
-Termal ve Solar Kameralar
 KABLO, DÖNÜŞTÜRÜ, ÇEVİRİCİLER
 Geri Dön
 KABLO, DÖNÜŞTÜRÜ, ÇEVİRİCİLER
@@ -247,7 +242,6 @@ Firewall
 Sunucu Aksesuarları
 Sunucu Yazılımları
 Sunucular
-Kurumsal Ürünler
 Ofis & Tüketim Ürünleri
 Geri Dön
 Ofis & Tüketim Ürünleri
@@ -255,7 +249,6 @@ Filament
 Hesap Makineleri
 Yazıcı Kartuşları
 Yazıcı Tonerleri
-Ofis & Tüketim Ürünleri
 Telefonlar
 Geri Dön
 Telefonlar
@@ -263,7 +256,6 @@ Akıllı Saat
 Cep Telefonu
 Cep Telefonu Aksesuarları
 Taşınabilir Şarj Cihazları
-Telefonlar
 Tüketici Elektroniği
 Geri Dön
 Tüketici Elektroniği
@@ -303,42 +295,6 @@ Yazılımlar
 Antivirüs
 İşletim Sistemleri
 Ofis Uygulamaları
-Yazılımlar
-ANAKART
-Geri Dön
-ANAKART
-HUAWEI LAPTOP ANAKART
-LENOVO LAPTOP ANAKART
-Geri Dön
-LENOVO LAPTOP ANAKART
-Lenovo All-in-One (ideacentre) Anakart
-Lenovo Ibm Thinkpad Serisi Laptop Anakart
-Lenovo İdeapad Serisi Laptop Anakart
-Lenovo Yoga Serisi Laptop Anakart
-SONY VAİO LAPTOP ANAKART
-ASUS LAPTOP ANAKARTI
-ACER LAPTOP ANAKARTI
-Geri Dön
-ACER LAPTOP ANAKARTI
-Acer Masaüstü Anakart
-APPLE LAPTOP ANAKART
-ARÇELİK LAPTOP ANAKARTI
-BEKO LAPTOP ANAKART
-CASPER LAPTOP ANAKART
-DELL LAPTOP ANAKARTI
-EXPER LAPTOP ANAKART
-FUJİTSU LAPTOP ANAKART
-GRUNDİG LAPTOP ANAKART
-HP LAPTOP ANAKART
-Geri Dön
-HP LAPTOP ANAKART
-HP ALL IN ONE ANAKART
-LG LAPTOP ANAKART
-MONSTER LAPTOP ANAKART
-MSI LAPTOP ANAKART
-SAMSUNG LAPTOP ANAKART
-TOSHIBA LAPTOP ANAKART
-VESTEL LAPTOP ANAKART
 Laptop Adaptör ve Şarj Cihazı
 Geri Dön
 Laptop Adaptör ve Şarj Cihazı
@@ -364,6 +320,41 @@ Panasonic Toughbook Laptop Adaptör ve Şarj Aleti
 RETRO ŞARJ ALETİ (ADAPTÖR)
 SONY VAİO LAPTOP ADAPTÖR
 VERSATİLE NOTEBOOK ADAPTÖR
+Laptop Anakart
+Geri Dön
+Laptop Anakart
+Huawei Laptop Anakart
+Lenovo Laptop Anakart
+Geri Dön
+Lenovo Laptop Anakart
+Lenovo All-in-One (ideacentre) Anakart
+Lenovo IBM ThinkPad Serisi Laptop Anakart
+Lenovo İdeapad Serisi Laptop Anakart
+Lenovo Yoga Serisi Laptop Anakart
+SONY VAİO LAPTOP ANAKART
+Asus Laptop Anakart
+Acer Laptop Anakart
+Geri Dön
+Acer Laptop Anakart
+Acer Masaüstü Anakart
+APPLE LAPTOP ANAKART
+ARÇELİK LAPTOP ANAKARTI
+BEKO LAPTOP ANAKART
+CASPER LAPTOP ANAKART
+DELL LAPTOP ANAKARTI
+EXPER LAPTOP ANAKART
+FUJİTSU LAPTOP ANAKART
+GRUNDİG LAPTOP ANAKART
+HP LAPTOP ANAKART
+Geri Dön
+HP LAPTOP ANAKART
+HP ALL IN ONE ANAKART
+LG LAPTOP ANAKART
+MONSTER LAPTOP ANAKART
+MSI LAPTOP ANAKART
+SAMSUNG LAPTOP ANAKART
+TOSHIBA LAPTOP ANAKART
+VESTEL LAPTOP ANAKART
 KLAVYE
 Geri Dön
 KLAVYE
@@ -625,4 +616,8 @@ Fujitsu Siemens Laptop Ekran Data Kablosu
 LG Laptop Ekran Data Kablosu
 Samsung Laptop Ekran Data Kablosu
 Casper Laptop Ekran Data Kablosu
-Dell Laptop Ekr
+Dell Laptop Ekran Data Kablosu
+Toshiba Laptop Ekran Data Kablosu
+ASUS Laptop Ekran Data Kablosu
+Acer Laptop Ekran Data Kablosu
+Lenovo Laptop Ekran Dat

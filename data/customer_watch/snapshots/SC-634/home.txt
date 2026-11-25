@@ -1,4 +1,4 @@
-# SC-634 newtechindustries.com · home · https://www.newtechindustries.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-634 newtechindustries.com · home · https://www.newtechindustries.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Fiber Optic | Category 6 | Ships the Same Day | Florida Stock
 CLICK HERE to live text us for inventory questions or a quick quote
 ***** SOME PRODUCTS ARE NOW SUBJECT TO TARIFFS.*****
@@ -283,50 +283,50 @@ Fiber Optics
 Security
 Telephones
 New Products
-CyberPower CP850PFCLCD PFC Sinewave UPS 850VA 510W Mini Tower
-CP850PFCLCD
-$216.27
-CyberPower CP850PFCLCD PFC Sinewave UPS 850VA 510W Mini TowerThe CyberPower CP850PFCLCD is a desktop mini tower pure sine wave UPS rated at 850VA / 510W. It produces a pure sine wave on battery, so...
+Grandstream GWN7806P 48 Port Gigabit Layer 2 Plus Managed PoE Switch 6 SFP Plus
+GWN7806P
+$664.05
+A 48-port Layer 2+ managed PoE switch for larger deployments, with six SFP+ uplinks, stacking support and a full set of reliability features.Key features48 Gigabit PoE ports with smart power...
 Add to Cart
-CyberPower OR1500PFCRT2U PFC Sinewave UPS 1500VA 1050W 2U Rack Tower
-OR1500PFCRT2U
-$805.05
-CyberPower OR1500PFCRT2U PFC Sinewave UPS 1500VA 1050W 2U Rack TowerThe CyberPower OR1500PFCRT2U is a rack or tower pure sine wave UPS rated at 1500VA / 1050W, taking 2U of rack space. It produces a...
+Grandstream GWN7803PH PRO PRO 24 Port Gigabit Managed PoE Switch 400W 2 SFP Plus
+GWN7803PH-PRO
+$378.53
+The high-power PH-PRO version of the 24-port PRO switch raises the PoE budget to 400W, ideal when you are powering PTZ cameras or many Wi-Fi access points.Key features24 Gigabit PoE ports400W total...
 Add to Cart
-CyberPower PDU41021 Single Phase 100 to 120 VAC 15A Switched PDU 16 Outlet 1U
-PDU41021
-$809.33
-CyberPower PDU41021 Single Phase 100 to 120 VAC 15A Switched PDU 16 Outlet 1UThe CyberPower PDU41021 is a switched rack power distribution unit that brings neat, reliable power to the equipment in...
+Grandstream GWN7803PL PRO PRO 24 Port Gigabit Managed PoE Switch 250W 2 SFP Plus
+GWN7803PL-PRO
+$311.63
+The PL-PRO is the value 24-port model in Grandstream's PRO range: 24 Gigabit PoE ports with a 250W budget, two SFP+ uplinks and rack mounting.Key features24 Gigabit PoE ports with dynamic power...
 Add to Cart
-CyberPower RKBS15S2F8R Rackbar 10 Outlet Surge 3600 Joule
-RKBS15S2F8R
-$111.89
-CyberPower RKBS15S2F8R Rackbar 10 Outlet Surge 3600 JouleThe CyberPower RKBS15S2F8R surge protector guards rack mounted equipment against power spikes and surges.10 outlets3600 joules surge...
+Grandstream GWN7803P 24 Port Gigabit Layer 2 Plus Managed PoE Switch 4 SFP
+GWN7803P
+$331.20
+A 24-port Layer 2+ managed PoE switch for offices that need to power a full floor of phones, cameras and access points, with four SFP ports for fiber uplinks.Key features24 Gigabit PoE/PoE+ ports...
 Add to Cart
-CyberPower PR2000RTXL2UC Smart App Sinewave UPS 2000VA 2000W 2U Rack Tower
-PR2000RTXL2UC
-$1,998.17
-CyberPower PR2000RTXL2UC Smart App Sinewave UPS 2000VA 2000W 2U Rack TowerThe CyberPower PR2000RTXL2UC is a rack or tower pure sine wave UPS rated at 2000VA / 2000W, taking 2U of rack space. It...
+Grandstream GWN7711 8 Port Gigabit Lite Managed Switch Fanless
+GWN7711
+$27.73
+Get basic management at an unmanaged price. This fanless eight-port Gigabit switch offers loop detection, cable testing and cloud management.Key featuresEight Gigabit Ethernet portsLoop detection,...
 Add to Cart
-CyberPower RB12170X2A Replacement Battery Cartridge 2 x 12V 17Ah
-RB12170X2A
-$284.22
-CyberPower RB12170X2A Replacement Battery Cartridge 2 x 12V 17AhThe CyberPower RB12170X2A replacement battery cartridge restores the runtime of an aging UPS. It ships ready to install, which is...
+Grandstream GWN7706 48 Port Gigabit Unmanaged Switch
+GWN7706
+$269.20
+A high-density 48-port Gigabit unmanaged switch that connects a large number of wired devices with no setup.Key features48 Gigabit RJ45 portsSupports long cable connectionsAuto MDI/MDIX...
 Add to Cart
-CyberPower PR2200RT2UC Smart App Sinewave UPS 2200VA 2200W 2U Rack Tower
-PR2200RT2UC
-$1,844.47
-CyberPower PR2200RT2UC Smart App Sinewave UPS 2200VA 2200W 2U Rack TowerThe CyberPower PR2200RT2UC is a rack or tower pure sine wave UPS rated at 2200VA / 2200W, taking 2U of rack space. It produces...
+Grandstream GWN7802P PRO PRO 16 Port Gigabit Managed PoE Switch 2 SFP Plus
+GWN7802P-PRO
+$282.27
+A rack-mountable 16-port PoE switch from Grandstream's PRO line, with a 250W power budget and two SFP+ uplinks for a fast link back to the core.Key featuresSixteen Gigabit PoE ports with dynamic...
 Add to Cart
-CyberPower CP1500PFCRM1U PFC Sinewave UPS 1500VA 900W 1U Rackmount
-CP1500PFCRM1U
-$873.41
-CyberPower CP1500PFCRM1U PFC Sinewave UPS 1500VA 900W 1U RackmountThe CyberPower CP1500PFCRM1U is a rack pure sine wave UPS rated at 1500VA / 900W, taking 1U of rack space. It produces a pure sine...
+Grandstream GWN7703 24 Port Gigabit Unmanaged Switch
+GWN7703
+$94.63
+Twenty-four Gigabit ports in a straightforward unmanaged switch: a dependable way to wire up a full office or classroom.Key features24 Gigabit RJ45 portsSupports long cable connectionsAuto MDI/MDIX...
 Add to Cart
-CyberPower RBC43 CP Replacement Battery Cartridge
-RBC43-CP
-$483.40
-CyberPower RBC43 CP Replacement Battery CartridgeThe CyberPower RBC43-CP replacement battery cartridge restores the runtime of an aging UPS. It ships ready to install, which is quicker and safer than...
+Grandstream GWN7702 16 Port Gigabit Unmanaged Switch
+GWN7702
+$79.95
+A 16-port Gigabit unmanaged switch for growing offices, with support for long cable runs and no configuration required.Key featuresSixteen Gigabit RJ45 portsSupports long cable connectionsAuto...
 Add to Cart
 From our blog
 How to Install a Data Network: A Step-by-Step Guide

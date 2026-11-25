@@ -1,4 +1,4 @@
-# SB-887 stasanet.rs · sitemap · https://www.stasanet.rs/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-887 stasanet.rs · sitemap · https://www.stasanet.rs/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
 	https://www.stasanet.rs/o-nama
 	https://www.stasanet.rs/test-zakazivanja
 	https://www.stasanet.rs/dobrodosli-jablotron-futura

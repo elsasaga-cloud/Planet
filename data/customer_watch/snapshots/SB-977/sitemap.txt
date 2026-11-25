@@ -1,4 +1,4 @@
-# SB-977 eltrox.cz · sitemap · https://www.eltrox.cz/sitemap.xml · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-977 eltrox.cz · sitemap · https://www.eltrox.cz/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
 	https://www.eltrox.cz/znacka/2n/
 	https://www.eltrox.cz/znacka/2x3/
 	https://www.eltrox.cz/znacka/360/
@@ -189,6 +189,7 @@
 	https://www.eltrox.cz/znacka/elektrokabel/
 	https://www.eltrox.cz/znacka/elfon/
 	https://www.eltrox.cz/znacka/elko-bis/
+	https://www.eltrox.cz/znacka/elmark/
 	https://www.eltrox.cz/znacka/elmes-electronic/
 	https://www.eltrox.cz/znacka/elpar/
 	https://www.eltrox.cz/znacka/elpromet/
@@ -304,5 +305,4 @@
 	https://www.eltrox.cz/znacka/humanas/
 	https://www.eltrox.cz/znacka/hytera/
 	https://www.eltrox.cz/znacka/chiq/
-	https://www.eltrox.cz/znacka/choetech/
-	https://w
+	https://www

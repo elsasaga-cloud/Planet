@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,43 +41,41 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
-Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý, 24 pack
-1 092 Kč bez DPH
-1 321 Kč s DPH
-MEAN WELL DDR-240B-48 Měnič napětí DC/DC, 240W
-2 238 Kč bez DPH
-2 708 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(4mm), 8Mpx, 4mm, AcuSense
-Triton 19" nástěnný rám 6U/300
-1 340 Kč bez DPH
-1 621 Kč s DPH
-Ubiquiti UniFi patch kabel, 2m, Cat5e, modrý
-115 Kč bez DPH
-139 Kč s DPH
-NOYAFA NF-270 Ruční laserový dálkoměr do 70m
-303 Kč bez DPH
-366 Kč s DPH
-VAMI VMBF-51314 baterie, 16.08 kWh, LV
-37 893 Kč bez DPH
-45 850 Kč s DPH
-Hikvision DS-2FA1205-C8 Vícekanálový spínaný zdroj 12V/5A, 8x výstup
-Ubiquiti UX7, UniFi Express 7, 2 pack
-9 951 Kč bez DPH
-12 040 Kč s DPH
-Ubiquiti UniFi patch kabel, 0,4m, Cat5e, modrý, 50 pack
-2 375 Kč bez DPH
-2 874 Kč s DPH
-SanDisk Nintendo Switch Micro SDXC 128GB (GNCZN)
-1 105 Kč bez DPH
-1 338 Kč s DPH
-Ubiquiti UniFi patch kabel, 1m, Cat5e, černý
-92 Kč bez DPH
-111 Kč s DPH
-Hikvision IP mini dome hybrid kamera DS-2CD2543G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
-Triton 19" stojanový rack 37U/600x600 prosklené dveře, šedý
-10 920 Kč bez DPH
-13 213 Kč s DPH
+Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý, 10 pack
+1 059 Kč bez DPH
+1 282 Kč s DPH
+Cudy P2 ODU 5G NR SA/NSA Outdoor Unit
+7 108 Kč bez DPH
+8 600 Kč s DPH
+Hikvision IP bullet kamera DS-2CD2067G3-LI2UY/SL(4mm), 6Mpx, 4mm, ColorVu 3.0
+Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(2.8mm)(BLACK), 8Mpx, 2.8mm, AcuSense, Černá
+MEAN WELL DDR-60L-24 Step-down měnič napětí DC/DC, 60W
+743 Kč bez DPH
+899 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2023G2-LI2U(2.8mm), 2Mpx, 2.8mm, AcuSense
+Hikvision IP bullet hybrid kamera DS-2CD1643G2-LIZSU(2.8-12mm), 4Mpx, 2.8-12mm
+Ubiquiti UniFi Industrial DIN 8 Switch
+7 078 Kč bez DPH
+8 564 Kč s DPH
+TP-Link POE260R Omada 2.5G PoE+ Splitter
+332 Kč bez DPH
+402 Kč s DPH
+Conexpro sada 4 plastových vyvazovacích háčků do racku pro kabely 37 x 39mm, modrý
+69 Kč bez DPH
+83 Kč s DPH
+Triton 19" stojanový rack 42U/800x900 prosklené dveře, šedý
+16 230 Kč bez DPH
+19 638 Kč s DPH
+DEYE GE-F256-BC-A3 Bateriové uložiště, 256 kWh, HV
+892 780 Kč bez DPH
+1 080 264 Kč s DPH
+SanDisk Micro SDXC Extreme GO 64GB
+883 Kč bez DPH
+1 069 Kč s DPH
+Teltonika Security WLANP, Komunikační rozhraní s Wi-Fi4 a LAN pro P64
+1 394 Kč bez DPH
+1 687 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

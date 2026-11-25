@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-646 artsistem.com · home · https://www.artsistem.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Art Sistem · Türkiye'nin lider teknoloji dağıtıcısı
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -60,11 +60,11 @@ Stokta
 Yeni Geldi Msi MSI Pro H610M-S DDR4 Ii 3200MHZ 1XHDMI 1XM.2 USB Matx 1700P (12. / 13. ve 14. Nesil İşlemci Uyumlu)
 Stokta · Yeni eklendi
 Ürünü İncele
-Öne Çıkan Marka Ruijie
-254 ürün
-Ruijie Ürünleri
-Son Haber AMD ROCm 10.2 Çıktı: PyTorch ve Ryzen Desteği Genişledi
-24 Kasım 2026
+Öne Çıkan Marka Asus
+3.788 ürün
+Asus Ürünleri
+Son Haber AMD EPYC Venice SP7: Soket Başına 256 Çekirdek Geldi
+25 Kasım 2026
 Haberi Oku
 22 +
 Yıllık Deneyim
@@ -85,19 +85,19 @@ Art Sistem, Logitech iş ortaklığında 'Türkiye Genelinde En Yaygın Satan Ar
 30.000'i aşkın ürün; hepsi tek B2B portal üzerinden. Stok durumu, fiyat ve teknik dokümanlar bayi panelinden anlık.
 Tüm Kategoriler
 Bilgisayar Parçaları
-873 ürün
+874 ürün
 Güvenlik Ürünleri
-920 ürün
+919 ürün
 Ağ Ürünleri
 767 ürün
 Baskı Çözümleri
 90 ürün
 Barkod Ürünleri
-118 ürün
+117 ürün
 Enerji & UPS
-92 ürün
+90 ürün
 İşlemci & Anakart
-31 ürün
+32 ürün
 Yazılım & Bulut
 80 ürün
 Trend Ürünler
@@ -107,14 +107,14 @@ Seagate
 2 TB Seagate 3.5 SkyHawk SATA 5900RPM 256MB 7/24 Guvenlik ST2000VX017 (3 Yıl Resmi Dist Garantili)
 Seagate
 1 TB Seagate 3.5 SkyHawk SATA 5400RPM 256MB 7/24 Guvenlik ST1000VX013 (3 Yıl Resmi Dist Garantili)
+Seagate
+4 TB Seagate 3.5 SkyHawk SATA 5400RPM 256MB 7/24 Guvenlik ST4000VX016 (3 Yıl Resmi Dist Garantili)
 Tiwox
 Tiwox TP-7650 18.5" I7 5.NESİL 128GB NWME SSD 8GB DDR3 RAM 1366X768 Dokunmatik POS PC
 Seagate
-4 TB Seagate 3.5 SkyHawk SATA 5400RPM 256MB 7/24 Guvenlik ST4000VX016 (3 Yıl Resmi Dist Garantili)
-Seagate
 4 TB Seagate 2.5 Expansion STKM4000400 Taşınabilir Disk
-Tiwox
-Tiwox TP-7610 18.5" I7 10.NESİL(10710) 128GB NWME SSD 8GB DDR4 RAM 1366X768 Dokunmatik POS PC
+Hikvision
+Hikvision DS-2CD1643G2-LIZSU 4MP 2.8-12MM Motorize Lens 50 Metre Smart Hybrid Dahili Mikrofon IP Bullet Kamera
 2021 – 2026 Ödülleri
 Markalar Büyümeyi Ödüllendiriyor
 2021 'den bu yana 12 markadan 28 ödül. Tedarik gücümüzün üçüncü taraf onayı.
@@ -197,18 +197,18 @@ Güncel
 Haberler ve Duyurular
 Ödüller, etkinlikler ve sektörden güncel haberler.
 Tüm Haberler
+İnceleme
+25 Kasım 2026
+AMD EPYC Venice SP7: Soket Başına 256 Çekirdek Geldi
+AMD'nin 6. nesil EPYC Venice SP7 sunucu işlemcileri, 256 çekirdek ve yeni bellek mimarisiyle performans rekorları kırdı.
+Sektör Haberi
+25 Kasım 2026
+HPE'nin Lux AI Kümesi TOP500'de 14. Sırada
+HPE ve AMD'nin ORNL için kurduğu Lux AI kümesi, 220.79 petaflops ile TOP500 listesinde 14. sırada yer aldı.
 Ürün Lansmanı
 24 Kasım 2026
 AMD ROCm 10.2 Çıktı: PyTorch ve Ryzen Desteği Genişledi
 AMD, ROCm 10.2.0'ı duyurdu: hipFile, vLLM ve PyTorch entegrasyonu, AITER desteği ve 18 yeni Ryzen işlemci.
-Marka Duyurusu
-23 Kasım 2026
-Micron, G10'u Atlayıp G11 NAND'ı Duyurdu
-Micron, G9'dan sonra G10'u atlayarak G11 NAND'ı duyurdu; 400+ katman, 2 kat yoğunluk ve 512TB SSD vaadi 2027'de geliyor.
-İnceleme
-22 Kasım 2026
-Lenovo'dan Hibrit ThinkPad: T1g Gen 9'da RTX 5070
-Lenovo ThinkPad T1g Gen 9, iş sınıfı dayanıklılığı GeForce RTX 5070 ile birleştiriyor. StorageReview testlerinde dikkat çeken sonuçlar çıktı.
 5.000+ Bayinin Arasına Katılın
 Bayi başvurunuzu üç adımda tamamlayın — 48 saat içinde geri dönüş.
 Bayi Başvurusu Bayilik Evrakları

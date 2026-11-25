@@ -1,4 +1,7 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-25T11:29:08Z · HTTP 200
+2026-11-25T11:06:15+00:00	Tryb RealCOM w NPort 6000 G2: wirtualny port COM krok po kroku	https://www.youtube.com/watch?v=Vsq79BtyxtI
+2026-11-25T10:46:15+00:00	Serwery portów szeregowych: 3 luki bezpieczeństwa	https://www.youtube.com/shorts/ab1J0PxKcbg
+2026-11-25T09:18:02+00:00	Tryb momentowy serwonapędu: kiedy liczy się siła	https://www.youtube.com/shorts/ITyzuGTXGcA
 2026-11-24T10:15:24+00:00	Jak zabezpieczyć sieć OT krok po kroku bez przestojów produkcji?	https://www.youtube.com/watch?v=_hJjpfNR3TU
 2026-11-24T10:01:43+00:00	Lokalne AI bez chmury: NVIDIA DGX Spark	https://www.youtube.com/shorts/ovZEqXlria0
 2026-11-20T14:00:33+00:00	MGate 5119: konwersja DNP3 i Modbus TCP na IEC 61850 MMS	https://www.youtube.com/shorts/9V1jKlYjPj8
@@ -11,6 +14,3 @@
 2026-11-16T08:56:48+00:00	Dane z budynku bez wiercenia? Czujniki LoRaWAN	https://www.youtube.com/shorts/ubOTA90fcrQ
 2026-11-07T08:15:14+00:00	Sterowanie sekwencyjne serwonapędów Elmatic z tabelą pozycji	https://www.youtube.com/watch?v=MTb9sp19MJk
 2026-11-06T08:00:31+00:00	Falownik czy serwonapęd? Sterowanie prędkością serwa Elmatic	https://www.youtube.com/watch?v=XAU-xt6osEE
-2026-11-05T09:00:27+00:00	DASYLab: akwizycja i analiza danych pomiarowych bez programowania	https://www.youtube.com/watch?v=T-mcfpqH1Mo
-2026-11-05T07:30:05+00:00	Etykietowanie palet cobotem: etykieta w dowolnym miejscu	https://www.youtube.com/shorts/Kquk895fBjs
-2026-11-04T10:16:55+00:00	Pierwsze uruchomienie serwa Elmatic: podłączenie i test JOG	https://www.youtube.com/watch?v=ftsKRTgqmXA

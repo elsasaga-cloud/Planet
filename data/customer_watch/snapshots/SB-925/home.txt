@@ -1,80 +1,62 @@
-# SB-925 MIRAE SIGNAL CO.,LTD · home · http://miraesignal.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
-﻿﻿
-미래시그널
-Home
-제품소개
-스위치
-광통신자재
-무선브릿지
-다수공급자 계약
-설치사례
-고객지원
-공지사항
-다운로드
-문의하기
+# SB-925 MIRAE SIGNAL CO.,LTD · home · http://miraesignal.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+㈜미래시그널 — 산업용 네트워크 장비 전문기업
+제품
+솔루션
+지원
 회사소개
-인사말
-연혁
-사업영역
-채용안내
-오시는길
-CONTACT US
-팝업레이어 알림
-미래시그널
-네트워크 광 스위치, SFP 모듈, 광접속자제
-미래시그널
-무선브릿지, 메쉬, 무선랜엑세스포인트
-미래시그널
-IoT WiFi Module, LoRa Module
-/
-네트워크 광 스위치
-광통신자재
-무선랜 브릿지/AP
-IoT모듈
-미래시그널은
-유선/무선 네트워크 전문기업입니다.
-㈜미래시그널은 네트워크 광 스위치, SFP모듈, 광통신자제 등 유선통신 제품과 장거리 무선브릿지, 무선랜 엑세스포인트, 무선메쉬네트워크 등 무선통신 제품, 그리고 LoRa, 무선랜 모듈 등 IoT모듈을 전문 공급합니다.
-Contact
-㈜미래시그널에 문의사항이나 요구사항이 있으시면 언제든지 아래 폼으로 보내주시기 바랍니다.
-가능한 빨리 답변드리겠습니다. 감사합니다.
-보내기
-﻿
-PRODUCTS
-스위치
-산업용 스위치
-산업용 PoE 스위치
-이더넷 광 스위치
-PoE 광 스위치
-광 스위치
-보안기능스위치
-L3 스위치
-미디어 컨버터
-광통신자재
-SFP 모듈
-광접속함체
-광 점퍼코드
-Pig Tail
-무선브릿지
-무선브릿지(802.11AC)
-무선메쉬
-무선브릿지(802.11AN)
-무선랜 Access Point
-Accessory
-Data Link
-IoT
-네트워크 스위치
-무선랜 엑세스포인트
-COMPANY
-인사말
-연혁
-사업영역
-채용안내
-오시는길
-REFERENCE
-SUPPORT
-공지사항
-다운로드
-문의하기
-(주)미래시그널 | 우편번호 : 13510 | 주소 : 경기도 성남시 분당구 판교로 744 (야탑동, 분당테크노파크 C동 405호) | 전화 : 031-708-4017 | 팩스 : 031-708-4018
-사업자번호 : 142-81-31693 | 대표 : 심수만 | E-mail : sales@miraesignal.com
-Copyright 2018 MiraeSignal Co., Ltd. All Rights Reserved
+공지·소식
+⌕ ⌕
+메뉴 ×
+검색
+산업 현장의 유·무선 네트워크, 검증된 장비로 연결합니다
+산업용 PoE 스위치 · 광 스위치 · 장거리 무선 브릿지 · 미디어컨버터. 2010년부터 공공·산업 현장에 공급해 온 네트워크 인프라 전문기업.
+㈜미래시그널(MiraeSignal Co., Ltd.)은 산업용 Ethernet 스위치, PoE 스위치, L2/L3 관리형 네트워크 스위치, SFP 광모듈, 미디어컨버터, 장거리 무선 브릿지를 개발·공급하는 대한민국 네트워크 장비 전문기업입니다. 2010년 설립 이후 CCTV·ITS·지자체·공공기관·산업 현장에 PoE, ERPS, SFP/SFP+, SNMP, VLAN, IGMP 등 네트워크 솔루션을 제공하며, 보안기능확인서 취득 제품과 조달청 종합쇼핑몰 등록 제품을 보유하고 있습니다.
+제품 분류
+네트워크 스위치 — 산업용 PoE·바이패스 스위치와 랙형 관리형 스위치, 광 스위치.
+광통신 자재 — SFP 광모듈, 미디어컨버터, 광점퍼코드·피그테일
+무선 브릿지 — 5GHz 장거리 PTP/PTMP 브릿지와 2.4GHz 실외 AP
+다수공급자계약 — 조달청 다수공급자계약(MAS) 등록 모델
+주요 제품
+MV-IG804MN-2BP 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 2x2
+MV-IG804MN-4BP 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 4x4
+MV-IPG804MBTN-2BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 2x2
+MV-IPG804MBTN-4BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 4x4
+MV-IPG804MBTN 802.3bt PoE++ 산업용 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W)
+MV-IG804M2BP 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 2x2
+MV-IG804M4BP 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 4x4
+MV-IPG804MBT2BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 2x2
+MV-IPG804MBT4BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 4x4
+MV-IPG804M PoE+ 산업용 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
+MV-IPG804MBT 802.3bt PoE++ 산업용 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W)
+MV-IPG1602 비관리형 산업용 PoE 스위치 (DIN 레일형) — 16x RJ45 (10/100/1000) + 2x SFP (1000Base-X) · IEEE 802.3af/at · 44-57V DC
+MV-IPG802 비관리형 산업용 PoE 스위치 (DIN 레일형) — 8x RJ45 (10/100/1000) + 2x SFP (1000Base-X) · IEEE 802.3af/at · 44-57V DC
+MV-IPG8 비관리형 산업용 PoE 스위치 (DIN 레일형) — 8x RJ45 (10/100/1000) · IEEE 802.3af/at · 44-57V DC
+MV-IPG402 비관리형 산업용 PoE 스위치 (DIN 레일형) — 4x RJ45 (10/100/1000) + 2x SFP (1000Base-X) · IEEE 802.3af/at · 44-57V DC
+MV-G2404M 24포트 기가비트 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/2.5Gbps SFP 4슬롯
+MV-G4804MK 48포트 기가비트 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 48포트 + 1G/2.5Gbps SFP 4슬롯
+MS2000-24T 24포트 기가비트 L2 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/10G SFP+ 4슬롯
+MV-PG804M 8포트 PoE+ 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
+MV-PG2404M 24포트 PoE+ 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
+MS2000-24P 24포트 PoE+ 기가비트 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/10G SFP+ 4슬롯 · IEEE802.3af(PoE 15.4W) + IEEE802.3at(PoE+ 30W)
+MV-G8024CM SFP 16슬롯 광스위치 (1U 랙형) — 100M/1Gbps SFP 16슬롯 + 1G/2.5Gbps SFP 4슬롯 + GbE RJ45/SFP Combo 8포트
+MV-G8024CMK SFP 16슬롯 10G 광스위치 (1U 랙형) — 100M/1Gbps SFP 16슬롯 + 1G/2.5G/10Gbps SFP 4슬롯 + GbE RJ45/SFP Combo 8포트
+NK-SIPG804M 산업용 PoE+ 보안기능 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G SFP 4슬롯 · IEEE802.3af(PoE 15.4W) + IEEE802.3at(PoE+ 30W)
+산업별 솔루션
+공공 관제 CCTV — 관제센터와 도로·공원·하천 현장 카메라 사이의 PoE 전원·광 전송·무선 보조 구간 구성
+산업·플랜트 — 제어실·생산라인·외곽 유틸리티를 광 링과 산업용 스위치로 잇는 플랜트 네트워크 구성
+교통·도로 — 교차로 함체·터널·고속도로 ITS 장비를 광 링과 산업용 스위치로 연결하는 구성
+건설현장·산림 — 유선 포설이 어려운 건설현장·산불감시 지점을 5GHz 무선 브릿지와 PoE 장비로 구성
+스마트시티·지자체 — 스마트폴·방범 CCTV·공공 Wi-Fi·환경센서를 PoE 스위치와 광 백본으로 통합하는 도시 네트워크
+철도·지하철 — 역사·승강장·선로·터널 구간을 산업용 스위치와 광 링으로 연결하는 철도 통신 구성
+항만·해양 — 야드·크레인·부두 구간을 광 백본과 섹터형 무선 브릿지로 연결하는 항만·해양 구성
+에너지·전력 — 변전소·태양광·ESS 설비 정보를 광 링크와 산업용 스위치로 수집하는 에너지·전력 구성
+기술자료 · 지원 · 다운로드 · 문의
+경기도 성남시 분당구 판교로 744
+Tel. 031-708-4017
+제품
+네트워크 스위치 광통신 자재 무선 브릿지
+지원
+지원 홈 FAQ / Q&A 기술자료 다운로드 센터 공지·소식 문의
+회사
+회사소개 연혁 산업별 솔루션
+© MIRAE SIGNAL Co., Ltd. All rights reserved.

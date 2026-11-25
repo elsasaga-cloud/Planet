@@ -1,4 +1,4 @@
-# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-744 commandonetworks.com · telegram · https://t.me/s/commandonetworks · fetched 2026-11-25T11:29:08Z · HTTP 200
 COMMANDO Networks – Telegram
 COMMANDO Networks
 @commandonetworks
@@ -136,7 +136,7 @@ HIGHLIGHTS:
 • 2 × High-Gain 5dBi External Dual-Band Antennas
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-APO3000AX
-23 views
+24 views
 COMMANDO Networks
 AIRY-APO3000MAX
 COMMANDO AirY 3000Mbps, 2.5G 802.11ax, IP67, 360° WiFi 6 Outdoor Access Point
@@ -152,7 +152,7 @@ HIGHLIGHTS:
 • Hardware Watchdog for Automatic System Recovery
 • RF Power Adjustment, VLAN, WPA/WPA2/WPA3 Security, ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-APO3000MAX
-25 views
+27 views
 COMMANDO Networks
 AIRY-APO3600MB
 COMMANDO AirY 3600Mbps, 2.5G 802.11be, 360° WiFi 7 Outdoor Access Point
@@ -200,7 +200,7 @@ HIGHLIGHTS:
 • 12~48V Passive PoE and 12V DC Dual Power Input
 • IP65-Rated Outdoor Design with ESD & Surge Protection
 https://www.commandonetworks.com/wireless/AIRY-WB900-3K
-35 views
+36 views
 COMMANDO Networks
 AIRY-WB900-5K
 COMMANDO AirY 900Mbps, 5.8GHz, 15dBi, 802.11ac Wave 2, P2P/P2MP, 5KM Wireless Bridge
@@ -276,7 +276,7 @@ Partner Locator:
 https://www.commandonetworks.com/partners/partner_locator
 Catalog:
 https://www.commandonetworks.com/catalog
-72 views
+73 views
 COMMANDO Networks
 ENTERPRISE SWITCHES 🏁
 _COMMANDO Core/Backbone Fiber Routing Switches w/ 10G 40G & 100G — for high performance heavy duty networking._

@@ -1,4 +1,4 @@
-# SB-1054 luxritesecurity.com · home · https://www.luxritesecurity.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1054 luxritesecurity.com · home · https://www.luxritesecurity.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Luxrite Ltd - Trade CCTV Distributor
 Contact Us
 +44 1438 909168
@@ -8,8 +8,8 @@ New Account | Sign In | Wish List
 Home
 Products HD CCTV HD Cameras
 HD DVRs
-IP CCTV IP NVRs
-IP Cameras
+IP CCTV IP Cameras
+IP NVRs
 Networking Switches
 Wireless Bridges
 Access Points
@@ -50,6 +50,7 @@ Sounders
 Flame Detection
 VADs
 Fire Accessories
+Isolation Switches
 Accessories Brackets & Enclosures
 Baluns & Connectors
 Power Supply

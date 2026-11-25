@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,10 +40,10 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2749)
-Wszystkie 2749
+Urządzenia (2752)
+Wszystkie 2752
 Switche 1019
-Access Pointy 187
+Access Pointy 188
 Routery WiFi 391
 Routery zaawansowane 109
 Routery LTE/5G 221
@@ -51,7 +51,7 @@ Adaptery PowerLine 21
 Urządzenia klienckie CPE 78
 Radiolinie 80
 Kontrolery sieci 17
-Karty sieciowe 241
+Karty sieciowe 243
 Stacje bazowe ISP 88
 Dekodery IPTV 21
 Rozwiązania IoT 92
@@ -61,15 +61,15 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5119)
-Wszystkie 5119
+Światłowody (5122)
+Wszystkie 5122
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1029
-Patchcordy światłowodowe 1337
+Patchcordy światłowodowe 1339
 Pigtaile światłowodowe 118
 Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 383
 Adaptery światłowodowe 128
-Budowa sieci optotelekomunikacyjnej 368
+Budowa sieci optotelekomunikacyjnej 369
 Spawarki światłowodowe i akcesoria 50
 Urządzenia diagnostyczne 159
 Mediakonwertery 91
@@ -188,12 +188,12 @@ UniFi monitoring 114
 UniFi Door Access 53
 Unifi VoIP 0
 UniFi nowe integracje 7
-UniFi akcesoria 106
+UniFi akcesoria 107
 UISP systemy bezprzewodowe 60 GHz 6
 UISP systemy bezprzewodowe 64
 UISP rozwiązania światłowodowe 12
 UISP routery i switche 35
-UISP akcesoria 45
+UISP akcesoria 44
 Ubiquiti AmpliFi 0
 Konektory i kable koncentryczne (366)
 Wszystkie 366
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
+Hikvision DS-2CD2047G3-LI2UY/SL 2.8mm PL#PL kamera IP 4 MP ColorVu
+882.01 zł netto
+Do koszyka
+Hikvision DS-2CD2T83G2P-LISU/S(L)(RB) kamera IP panoramiczna 8 MP 180°
+1097.59 zł netto
+Do koszyka
+Hikvision DS-2CD2T43G2P-LISU/S(L)(RB) panoramiczna kamera IP 4 MP
+766.72 zł netto
+Do koszyka
+Patchcord światłowodowy SILVER LC/APC-SC/UPC G.652D DUPLEX 2M 3.0mm YELLOW LSZH
+19.78 zł netto
+Do koszyka
+Karta sieciowa Lanberg NC-2500-02 USB-C RJ-45 2,5 Gb/s
+35.26 zł netto
+Do koszyka
+Karta sieciowa Lanberg NC-2500-01 USB-A 3.2 na RJ45 2,5 Gb/s
+34.81 zł netto
+Do koszyka
 Lanberg AK-1100-S listwa uziemiająca do szaf RACK 19″
 34.51 zł netto
 Do koszyka
-Złączka redukcyjna do mikrorur 16 mm na 12/8 mm
-8.85 zł netto
-Do koszyka
-FS SFP-10G23-BX10 moduł optyczny SFP+ BiDi 10G 10 km kompatybilny z Cisco
-292.32 zł netto
-Do koszyka
-FS SFP-10G32-BX10 moduł SFP+ BiDi 10G 10 km LC kompatybilny z Cisco
-292.32 zł netto
-Do koszyka
-Zasilacz UPS CyberPower CP1200EIPFCRM2U zasilacz UPS rack 1200 VA 720 W
-1450 zł netto
-Do koszyka
-Zasilacz UPS CyberPower CP900EPFCLCD 900VA 540W
-971.7 zł netto
-Do koszyka
-Zasilacz PoE 48V 1A Gigabit POE-48-48W
-51.1 zł netto
-Do koszyka
-Patchcord światłowodowy SILVER LC/APC-LC/UPC G.652D DUPLEX 10M 2.0mm YELLOW LSZH
-33.75 zł netto
+Przełącznica kliencka światłowodowa FOB-A04C 4x SC Simplex
+43.37 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja

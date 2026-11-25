@@ -1,4 +1,4 @@
-# SB-823 synchronet.net · news_1 · https://synchronet.net/blog/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-823 synchronet.net · news_1 · https://synchronet.net/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 IT Support Blog - SynchroNet
 Skip to content
 716-677-2677
@@ -62,6 +62,11 @@ Phishing
 Ransomware Protection
 SynchroNet Updates
 Tech
+Is Your Small Business Ready for the Next Power Outage, Cyberattack or IT Failure? Building Operational Resilience in Western New York
+By SynchroNet Team
+|
+November 24, 2026
+When an unexpected disruption hits your business, the clock starts ticking. Whether it’s a small outage during a winter storm...
 Why Your Backup Strategy May Not Protect Your Erie, PA Business From Ransomware
 By SynchroNet Team
 |
@@ -102,11 +107,6 @@ By Jerry Sheehan
 |
 July 16, 2026
 For businesses across Western New York, disruptions rarely come with a warning. A lake-effect snowstorm, power outage, cyberattack or hardware...
-The Founding Fathers Needed an IT Department: From Valley Forge to Yorktown, Here’s What Modern IT Could Have Fixed
-By SynchroNet Team
-|
-July 1, 2026
-On July 4, we celebrate the 250th anniversary of the founding of our nation in 1776. While declaring independence was...
 1
 2
 3

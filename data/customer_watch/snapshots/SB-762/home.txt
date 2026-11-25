@@ -1,4 +1,4 @@
-# SB-762 groundcontrol.com · home · https://www.groundcontrol.com:443/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-762 groundcontrol.com · home · https://www.groundcontrol.com:443/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Satellite IoT & Tracking | Iridium & Viasat Airtime | Ground Control
 Skip to content
 About
@@ -137,12 +137,11 @@ Taking USVs Beyond Cellular Reach
 Oshen uses satellite IoT to keep compact USVs connected far offshore, gathering data for weather forecasting, marine research and wildlife monitoring.
 Find Out More
 Latest News
+RockBLOCK Plus vs Iridium Edge: choosing a rugged Iridium SBD terminal
+November 24, 2026
+RockBLOCK Plus and Iridium Edge both put Iridium SBD in a rugged, sealed box. Compare specs, cabling and airtime options to see which suits your project.
+Read More
 Satellite IoT in Transition: Key Shifts to Watch in 2027
 November 19, 2026
 Our 2026 survey of satellite IoT users shows every trend gaining ground, from security & resilience to NTN, mega constellations and AI. See what changed.
-Read More
-Satellite IoT for Metocean Early Warning Buoys
-November 18, 2026
-Data buoys are often first to detect tsunamis and severe storms. See how satellite IoT gets critical metocean data ashore fast, reliably and affordably.
-Read More
-Keeping Uncrewed S
+Rea

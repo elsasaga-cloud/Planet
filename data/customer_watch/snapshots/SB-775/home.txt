@@ -1,4 +1,4 @@
-# SB-775 patton.com · home · https://www.patton.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-775 patton.com · home · https://www.patton.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Patton Electronics | US Manufactured Network Equipment
 Toggle navigation
 COMPANY
@@ -71,6 +71,7 @@ Fiber Rack & Enclosure Systems
 Fiber Repeaters & Wavelength Division Multiplexers (WDM)
 Waveguide RF Filters
 Power Supplies and Battery Systems
+Industrial Wireless Networking
 Media Transport
 Artel Racks & Chassis Infrastructure
 Video Over IP Transport
@@ -218,6 +219,7 @@ Datacom Industrial Connectivity
 > Fiber Repeaters & Wavelength Division Multiplexers (WDM)
 > Waveguide RF Filters
 > Power Supplies and Battery Systems
+> Industrial Wireless Networking
 Media Transport
 > Artel Racks & Chassis Infrastructure
 > Video Over IP Transport

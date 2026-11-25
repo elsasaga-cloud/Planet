@@ -1,79 +1,44 @@
-# SB-566 PCG Bilgisayar LTD.STI. · home · https://pcgbilgisayar.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-566 PCG Bilgisayar LTD.STI. · home · https://pcgbilgisayar.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 PCG Bilgisayar | Gigabyte Enterprise Türkiye Distribütörü
-İçeriğe atla Türkiye Resmi Gigabyte Enterprise Distribütörü | NVIDIA Compute Partner
-ANA SAYFA
-ÜRÜNLER GIGABYTE ENTERPRISE ÇÖZÜMLERİ Gigabyte Sunucular GPU Sunucular
-HPC Sunucular
-EDGE Sunucular
-Storage Sunucular
-Gigabyte Anakartlar
-Gigabyte İş İstasyonları
-Gigabyte AI Mini PC Çözümleri
-Gigabyte Data Center Çözümleri
-NVIDIA ÇÖZÜMLERİ
-E-VIEW ÇÖZÜMLERİ E-View İş İstasyonları
-E-View Sunucular
-E-View Network & Firewall Çözümleri
-E-View Box & Mini PC’ler
-ENDÜSTRİYEL / AI ÇÖZÜMLER Endüstriyel Çözümler Endüstriyel Monitörler
-Endüstriyel Panel PC
-Endüstriyel Box PC
-Endüstriyel Grafik – MXM
-IO-AIoT/IoT Kartlar
-Edge AI Çözümleri
-Rugged Çözümler
-TERRAMASTER NAS
-MARKALAR
-BİLGİ MERKEZİ Yapay Zeka
-Veri Merkezi
+İçeriğe atla GIGABYTE Enterprise Türkiye Distribütörü · NVIDIA Compute Partner
++90 216 441 0 724 [email protected]
+Ana Sayfa
+Ürünler GIGABYTE
+NVIDIA
+E-View
+Endüstriyel & AI
+TerraMaster
+Kurumsal Hakkımızda
+Hizmetlerimiz
+Kalite Politikası
+KVKK Aydınlatma Metni
+Markalar
+Bilgi Merkezi Yapay Zeka
 Gigabyte Haberleri
-Teknoloji Makaleleri
 Ürün Duyuruları
-KURUMSAL HAKKIMIZDA
-HİZMETLERİMİZ
-KALİTE POLİTİKASI
-KVKK AYDINLATMA METNİ
-İLETİŞİM
-DESTEK DESTEK TALEBİ OLUŞTUR
-DESTEK TALEPLERİM
-ANA SAYFA
-ÜRÜNLER GIGABYTE ENTERPRISE ÇÖZÜMLERİ Gigabyte Sunucular GPU Sunucular
-HPC Sunucular
-EDGE Sunucular
-Storage Sunucular
-Gigabyte Anakartlar
-Gigabyte İş İstasyonları
-Gigabyte AI Mini PC Çözümleri
-Gigabyte Data Center Çözümleri
-NVIDIA ÇÖZÜMLERİ
-E-VIEW ÇÖZÜMLERİ E-View İş İstasyonları
-E-View Sunucular
-E-View Network & Firewall Çözümleri
-E-View Box & Mini PC’ler
-ENDÜSTRİYEL / AI ÇÖZÜMLER Endüstriyel Çözümler Endüstriyel Monitörler
-Endüstriyel Panel PC
-Endüstriyel Box PC
-Endüstriyel Grafik – MXM
-IO-AIoT/IoT Kartlar
-Edge AI Çözümleri
-Rugged Çözümler
-TERRAMASTER NAS
-MARKALAR
-BİLGİ MERKEZİ Yapay Zeka
+Teknoloji Makaleleri
 Veri Merkezi
+Destek
+İletişim
+Ana Sayfa
+Ürünler GIGABYTE
+NVIDIA
+E-View
+Endüstriyel & AI
+TerraMaster
+Kurumsal Hakkımızda
+Hizmetlerimiz
+Kalite Politikası
+KVKK Aydınlatma Metni
+Markalar
+Bilgi Merkezi Yapay Zeka
 Gigabyte Haberleri
-Teknoloji Makaleleri
 Ürün Duyuruları
-KURUMSAL HAKKIMIZDA
-HİZMETLERİMİZ
-KALİTE POLİTİKASI
-KVKK AYDINLATMA METNİ
-İLETİŞİM
-DESTEK DESTEK TALEBİ OLUŞTUR
-DESTEK TALEPLERİM
-Search
-Ürün Ara
-0546 292 0 PCG (724)
+Teknoloji Makaleleri
+Veri Merkezi
+Destek
+İletişim
+Teklif İste
 Kurumsal BT Çözümlerinde PCG Güvencesiyle
 PCG Bilgisayar ile donanım, yazılım ve network çözümlerinde kesintisiz hizmet
 Hizmetlerimizi Keşfet
@@ -105,12 +70,12 @@ Gigabyte W753-W50-AA01 İş İstasyonu
 Gigabyte W533-W30-AA01 İş İstasyonu
 Gigabyte W774-W90-AAF1 İş İstasyonu
 Gigabyte W773-H5D-AAF1 GPU İş İstasyonu
+NVIDIA ConnectX-6 Dx
 NVIDIA H200 GPU Kart
 NVIDIA RTX PRO 4500 Blackwell Server Edition GPU Kart
-NVIDIA RTX PRO 6000 Blackwell Server Edition GPU Kartı | PCG Bilgisayar
-NVIDIA RTX A6000 ADA
+NVIDIA RTX PRO 6000 Blackwell Server Edition GPU Kartı
+NVIDIA RTX 6000 Ada Generation
 NVIDIA RTX A6000 GPU
-NVIDIA RTX A5000 GPU
 HABERLER
 GIGABYTE AI TOP ATOM: Kişisel Yapay Zekâ Süper Bilgisayarı Dönemi Başlıyor
 Direct Liquid Cooling (DLC) Nedir? Veri Merkezlerinde Sıvı Soğutma Teknolojisi
@@ -124,16 +89,31 @@ Bülten Üyeliğimize Katılın
 Gelişmelerden Haberiniz Olsun
 Email
 Abone Olun
-BALTACI MEHMET PAŞA SOK. NO:4 MOMENT İSTANBUL B BLOK D:77 SOĞANLIK / KARTAL / İSTANBUL
-KURUMSAL
-HAKKIMIZDA
-HİZMETLERİMİZ
-KVKK AYDINLATMA METNİ
-KALİTE POLİTİKASI
-İNSAN KAYNAKLARI
-İLETİŞİM
-Pazartesi - Cuma :  -
-+90 216 441 0 PCG (724)
+Projeniz için doğru donanımı birlikte seçelim
+Sunucu, GPU, iş istasyonu ve endüstriyel çözümler için uzman ekibimize ulaşın.
+Teklif İste →
+1998'den bu yana kurumlara ve bayilere sunucu, iş istasyonu, GPU ve endüstriyel bilişim çözümleri sunuyoruz.
+GIGABYTE Enterprise Türkiye Distribütörü · NVIDIA Compute Partner
+Ürünler
+GIGABYTE Enterprise
+NVIDIA
+E-View
+Endüstriyel & AI
+TerraMaster NAS
+Tüm markalar
+Kurumsal
+Hakkımızda
+Hizmetlerimiz
+Kalite Politikası
+Kariyer
+Bilgi Merkezi
+İletişim
+Adres Baltacı Mehmet Paşa Sok. No:4
+Moment İstanbul B Blok D:77
+Soğanlık, 34880 Kartal / İstanbul
+Telefon +90 216 441 0 724
++90 546 292 0 724
+E-posta [email protected]
 [email protected]
-Facebook X-twitter Youtube Linkedin Instagram
-© 2026 PCG Bilgisayar | Tüm Hakları Saklıdır.
+Saat Pazartesi – Cuma,  –
+© 2026 PCG Bilgisayar Sist. Paz. San. ve Tic. Ltd. Şti. · Tüm hakları saklıdır. KVKK Aydınlatma Metni Gizlilik Politikası

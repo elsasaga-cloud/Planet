@@ -1,4 +1,4 @@
-# SB-043 Euro Technology · home · https://www.netontechnologies.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-043 Euro Technology · home · https://www.netontechnologies.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 IT Solutions & Business Phone Systems Dubai | NETON
 Home
 About Us
@@ -16,6 +16,7 @@ Cybersecurity
 Cloud Computing
 Audio & Video
 Products
+Case Studies
 Blog
 Clientele
 Testimonials
@@ -66,14 +67,6 @@ AUDIO & VIDEO
 NETON designs, installs and supports AV systems: meeting rooms with video conferencing, displays and digital signage, classroom technology and AV automation, planned around how each room is used.
 ASK FOR A QUOTE More About Audio Video
 We Work on Products
-Case Studies
-Real projects delivered by NETON in Dubai and across the UAE
-Case Study · Genesys
-Zero-Downtime Move to Genesys Cloud BYOC
-Genesys Edge support ends on 1 December 2026. See how NETON moved a UAE courier company to the cloud with zero downtime, and book your assessment before time runs out.
-Dubai, UAE
-Read the Case Study →
-View all case studies →
 Latest Articles
 Practical guides on business phone systems, Teams and IT in the UAE
 Telephony
@@ -106,7 +99,7 @@ Wildix vs Microsoft Teams Phone for UAE Businesses
 Wildix vs Microsoft Teams Phone for UAE businesses: how each gets e& or du numbers, what each needs, and which one to choose.
 16 Nov 2026 · 9 min read
 Read more →
-View all articles →
+View all articles → View Our Case Studies →
 Contact Us
 NETON Technologies LLC
 Dubai Office:
@@ -135,6 +128,7 @@ Terms and conditions
 Privacy Policy
 Contact Us
 Blog
+Case Studies
 Sangoma PBX
 Cybersecurity
 Copyright - 2026. All rights reserved. www.netontechnologies.com

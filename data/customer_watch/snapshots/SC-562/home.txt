@@ -1,4 +1,4 @@
-# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-562 balticnetworks.com · home · https://www.balticnetworks.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 MikroTik & Ubiquiti Network Equipment | Baltic Networks
 Skip to content
 MikroTik WiFi 7 Giveawy by Baltic Networks
@@ -376,6 +376,21 @@ $3,499.00
 | /
 The Ubiquiti UniFi Enterprise Campus 48 PoE Switch [ECS-48-PoE] is an enterprise-grade, Layer 3 Etherlighting™ PoE switch with (16) 2.5 GbE PoE+++,...
 View full details
+Ubiquiti airFiber 24GHz PtP 2Gbps+ Backhaul Radio (half link) (US Version) [AF-24HD-US]
+Original price
+$3,000.00
+-
+Original price
+$3,000.00
+Original price
+$3,000.00
+-
+$3,000.00
+Current price
+$3,000.00
+| /
+Half-link, need to purchase 2 units of this product to make a complete linkairFiber is revolutionary 24GHz Point-to-Point radio from Ubiquiti Netwo...
+View full details
 Ubiquiti UniFi Enterprise Audio/Video Fiber [EAV-Fiber]
 Original price
 $2,999.00
@@ -480,21 +495,6 @@ Current price
 $1,999.00
 | /
 The Ubiquiti UniFi E7 Audience Indoor Access Point (US) [E7-Audience-Indoor-US] is an enterprise-grade access point designed for high-density envir...
-View full details
-Ubiquiti UniFi Protect G4 PTZ High-Performance Pan-Tilt-Zoom 4K Camera [UVC-G4-PTZ]
-Original price
-$1,800.00
--
-Original price
-$1,800.00
-Original price
-$1,800.00
--
-$1,800.00
-Current price
-$1,800.00
-| /
-The Ubiquiti UniFi Protect G4 PTZ is a high-performance pan-tilt-zoom camera with 4K, 24 FPS video streaming, 22x optical zoom, and adaptive IR LED...
 View full details
 New Products
 Ubiquiti UniFi Glass Break Sensor [USL-GlassBreak]
@@ -604,4 +604,4 @@ Top
 Back to top
 Follow us
 Email Baltic Networks
-Find us
+Fin

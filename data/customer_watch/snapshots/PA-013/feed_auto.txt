@@ -1,4 +1,4 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-24T12:40:24Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-25T11:29:08Z · HTTP 200
 24.11.2026 12:11:23	EFB M6 Skruesett for Rack	https://www.leteng.no/efb-elektronik/691100hq/efb-m6-skruesett-for-rack-pose-med-50-sett
 24.11.2026 12:06:35	EFB Network Tool Set	https://www.leteng.no/efb-elektronik/39919-dot-1v2/efb-network-tool-set-rj11-rj12-rj45
 23.11.2026 15:59:17	Aten KVM-IP Switch 32-Port Cat5	https://www.leteng.no/aten/kn2132vb-ax-g/aten-kvm-ip-switch-32-port-cat5-1x-local-2x-ip-vm

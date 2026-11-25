@@ -1,4 +1,6 @@
-# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SC-382 securitywarehouse.co.za · feed_auto · https://securitywarehouse.co.za/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+Wed, 25 Nov 2026 07:07:36 +0000	We’ve Got You Covered! Complete Solution Design, Setup & Training!	https://securitywarehouse.co.za/blog/weve-got-you-covered-complete-solution-design-setup-training-3/
+Wed, 25 Nov 2026 07:00:52 +0000	Please Note our STOCK TAKE Trading Hours THIS SATURDAY	https://securitywarehouse.co.za/blog/please-note-our-stock-take-trading-hours-this-saturday/
 Wed, 18 Nov 2026 07:35:59 +0000	Early Bird Alert: Get 15% OFF Term 1 2027 Courses (Black Friday Deal)	https://securitywarehouse.co.za/blog/early-bird-alert-get-15-off-term-1-2027-courses-black-friday-deal/
 Wed, 18 Nov 2026 06:00:00 +0000	Please Note our STOCK TAKE Trading Hours	https://securitywarehouse.co.za/blog/please-note-our-stock-take-trading-hours/
 Wed, 11 Nov 2026 08:19:57 +0000	TOMORROW is the Mini Security Show at HQ	https://securitywarehouse.co.za/blog/tomorrow-is-the-mini-security-show-at-hq/
@@ -7,5 +9,3 @@ Wed, 28 Oct 2026 10:39:44 +0000	TWO WEEKS TO GO!! Mini Security Show at HQ	https
 Wed, 21 Oct 2026 07:58:48 +0000	Don’t Miss Our LAST Mini Security Show of 2026!	https://securitywarehouse.co.za/blog/dont-miss-our-last-mini-security-show-of-2026/
 Wed, 07 Oct 2026 06:14:34 +0000	Your Security Partner, Every Step of the Way	https://securitywarehouse.co.za/blog/unlock-the-world-of-extraordinary-services-8/
 Wed, 30 Sep 2026 06:13:52 +0000	SCW Trading Hours	https://securitywarehouse.co.za/blog/scw-trading-hours-8/
-Wed, 23 Sep 2026 11:46:54 +0000	Trading Hours Update	https://securitywarehouse.co.za/blog/trading-hours-update/
-Wed, 16 Sep 2026 07:00:00 +0000	You’re Invited to the SCW & Nemtek Client Day	https://securitywarehouse.co.za/blog/youre-invited-to-nemtek-client-day/

@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-24T12:40:24Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 50,68 TL
-€: 55,65 TL
+$: 50,70 TL
+€: 55,40 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -152,24 +152,15 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1155,47 TL
+1156,06 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1155,47 TL
+1156,06 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
-Harddisk Ailesi
-PC Harddiskler
-Notebook Harddiskleri
-SSD Hardiskler
-Harici Harddiskler
-Sas Harddiskler
-MSATA Hardisk
-Depolama Üniteleri
-Harddisk Aparatı
 Güvenlik Ürünleri
 AHD Kayıt Cihazı
 IP Kayıt Cihazı
@@ -192,78 +183,13 @@ Kamera Mikrofon
 CCTV Kablolar
 Metal Adaptörler
 Kamera Buat
+Alarm Ürünleri
 Turnike Geçiş Sistemleri
 Kablo Kanalı
 Kamera Setleri
 Solar Kamera Sistemleri
 Kablosuz Wifi Kameralar
-Network Ürünleri
-Modemler
-Access Pointler
-Wireless Adaptörleri
-Router
-Hub Switchler
-Kvm Switch
-Ethernet Kartı
-Fiber Aksesuar
-Rj45 Parçaları
-Network Kablosu
-Alarm Ürünleri
-Alarm Setleri
-Siren
-Manyetik Kontak
-Pır Dedektör
-Alarm Aksesuar
-Yangın Algılama
-Yangın Panelleri
-Yangın Dedektörleri
-Yangın Butonları
-Yangın Sirenleri
-Yangın Kablo
-Yangın Aküleri
-Sarf Malzemeler
-Notebook Soğutucu
-Notebook Yedek Parça
-Notebook Adaptör
-Ses Kabloları
-HDMI Aksesuarı
-Vga Kablo
-Power Ürünleri
-Scart Ürünleri
-USB Kablo Aks
-Çantalar Kılıflar
-Hdmı Kablolar
-Vga Kablo
-Kokusuz Küllük
-M2M Data Hattı
-Fan Soğutucular
-Yazıcı Şeritleri
-Kartuş Tonerler
-Kişisel Bilgisayarlar
-Notebooklar
-Masaüstü Pc
-All in One PC
-Tabletler
-Bilgisayar Bileşenleri
-İşlemciler
-Anakartlar
-Ekran Karttı
-Ram Bellek
-Optik Sürücüler
-Power Supply
-Bilgisayarı Kasası
-Monitörler
-Yazılım
-Oyuncu Mousları
-Mouse Pad
-Klavye
-Klavye Mouse Setleri
-Mikrofonlu Kulaklıklar
-Speakerlar
-Pc Kamera
-Ups Cihazı
-Yazıcı - Printer
-Tüketici Elektroniği
+Ses ve Görüntü
 Televizyonlar
 Projeksiyonlar
 Ses Sistemleri
@@ -286,7 +212,12 @@ Aydınlatma Ürünleri
 Hesap Makinesi
 Tabela Led Poster İç Ortam
 Tabela Led Poster Dış Ortam
-Diğer Ürünler
+Bilgisayar ve Ağ
+Notebooklar
+Masaüstü Pc
+All in One PC
+Tabletler
+Ev Aletleri ve Bakım
 Motosiklet Ürünleri
 Otomobil Ürünleri
 Anne ve Bebek
@@ -295,7 +226,67 @@ Kozmetik Ürünleri
 Kayan Yazı LED
 Oto Aksesuar
 Solar Enerji Sistemleri
-Harddisk Ailesi
+Telefon Aksesuarları
+Yangın Panelleri
+Yangın Dedektörleri
+Yangın Butonları
+Yangın Sirenleri
+Yangın Kablo
+Yangın Aküleri
+Oto ve Motosiklet
+Araç Kameraları
+Carplay ve Multimedya
+Kask Kulaklıkları ve İnterkomlar
+Aksiyon Kameraları
+Hediye ve Promosyon
+Modemler
+Access Pointler
+Wireless Adaptörleri
+Router
+Hub Switchler
+Kvm Switch
+Ethernet Kartı
+Fiber Aksesuar
+Rj45 Parçaları
+Network Kablosu
+Ev ve Mutfak
+Notebook Soğutucu
+Notebook Yedek Parça
+Notebook Adaptör
+Ses Kabloları
+HDMI Aksesuarı
+Vga Kablo
+Power Ürünleri
+Scart Ürünleri
+USB Kablo Aks
+Çantalar Kılıflar
+Hdmı Kablolar
+Vga Kablo
+Kokusuz Küllük
+M2M Data Hattı
+Fan Soğutucular
+Yazıcı Şeritleri
+Kartuş Tonerler
+Oyun ve Oyuncak
+İşlemciler
+Anakartlar
+Ekran Karttı
+Ram Bellek
+Optik Sürücüler
+Power Supply
+Bilgisayarı Kasası
+Monitörler
+Yazılım
+Oyuncu Mousları
+Mouse Pad
+Klavye
+Klavye Mouse Setleri
+Mikrofonlu Kulaklıklar
+Speakerlar
+Pc Kamera
+Ups Cihazı
+Yazıcı - Printer
+Hırdavat ve Kamp
 PC Harddiskler
 Notebook Harddiskleri
 SSD Hardiskler
@@ -304,6 +295,7 @@ Sas Harddiskler
 MSATA Hardisk
 Depolama Üniteleri
 Harddisk Aparatı
+Aydınlatma ve Elektrik
 Güvenlik Ürünleri
 AHD Kayıt Cihazı
 IP Kayıt Cihazı
@@ -326,78 +318,13 @@ Kamera Mikrofon
 CCTV Kablolar
 Metal Adaptörler
 Kamera Buat
+Alarm Ürünleri
 Turnike Geçiş Sistemleri
 Kablo Kanalı
 Kamera Setleri
 Solar Kamera Sistemleri
 Kablosuz Wifi Kameralar
-Network Ürünleri
-Modemler
-Access Pointler
-Wireless Adaptörleri
-Router
-Hub Switchler
-Kvm Switch
-Ethernet Kartı
-Fiber Aksesuar
-Rj45 Parçaları
-Network Kablosu
-Alarm Ürünleri
-Alarm Setleri
-Siren
-Manyetik Kontak
-Pır Dedektör
-Alarm Aksesuar
-Yangın Algılama
-Yangın Panelleri
-Yangın Dedektörleri
-Yangın Butonları
-Yangın Sirenleri
-Yangın Kablo
-Yangın Aküleri
-Sarf Malzemeler
-Notebook Soğutucu
-Notebook Yedek Parça
-Notebook Adaptör
-Ses Kabloları
-HDMI Aksesuarı
-Vga Kablo
-Power Ürünleri
-Scart Ürünleri
-USB Kablo Aks
-Çantalar Kılıflar
-Hdmı Kablolar
-Vga Kablo
-Kokusuz Küllük
-M2M Data Hattı
-Fan Soğutucular
-Yazıcı Şeritleri
-Kartuş Tonerler
-Kişisel Bilgisayarlar
-Notebooklar
-Masaüstü Pc
-All in One PC
-Tabletler
-Bilgisayar Bileşenleri
-İşlemciler
-Anakartlar
-Ekran Karttı
-Ram Bellek
-Optik Sürücüler
-Power Supply
-Bilgisayarı Kasası
-Monitörler
-Yazılım
-Oyuncu Mousları
-Mouse Pad
-Klavye
-Klavye Mouse Setleri
-Mikrofonlu Kulaklıklar
-Speakerlar
-Pc Kamera
-Ups Cihazı
-Yazıcı - Printer
-Tüketici Elektroniği
+Ses ve Görüntü
 Televizyonlar
 Projeksiyonlar
 Ses Sistemleri
@@ -420,7 +347,12 @@ Aydınlatma Ürünleri
 Hesap Makinesi
 Tabela Led Poster İç Ortam
 Tabela Led Poster Dış Ortam
-Diğer Ürünler
+Bilgisayar ve Ağ
+Notebooklar
+Masaüstü Pc
+All in One PC
+Tabletler
+Ev Aletleri ve Bakım
 Motosiklet Ürünleri
 Otomobil Ürünleri
 Anne ve Bebek
@@ -429,6 +361,76 @@ Kozmetik Ürünleri
 Kayan Yazı LED
 Oto Aksesuar
 Solar Enerji Sistemleri
+Telefon Aksesuarları
+Yangın Panelleri
+Yangın Dedektörleri
+Yangın Butonları
+Yangın Sirenleri
+Yangın Kablo
+Yangın Aküleri
+Oto ve Motosiklet
+Araç Kameraları
+Carplay ve Multimedya
+Kask Kulaklıkları ve İnterkomlar
+Aksiyon Kameraları
+Hediye ve Promosyon
+Modemler
+Access Pointler
+Wireless Adaptörleri
+Router
+Hub Switchler
+Kvm Switch
+Ethernet Kartı
+Fiber Aksesuar
+Rj45 Parçaları
+Network Kablosu
+Ev ve Mutfak
+Notebook Soğutucu
+Notebook Yedek Parça
+Notebook Adaptör
+Ses Kabloları
+HDMI Aksesuarı
+Vga Kablo
+Power Ürünleri
+Scart Ürünleri
+USB Kablo Aks
+Çantalar Kılıflar
+Hdmı Kablolar
+Vga Kablo
+Kokusuz Küllük
+M2M Data Hattı
+Fan Soğutucular
+Yazıcı Şeritleri
+Kartuş Tonerler
+Oyun ve Oyuncak
+İşlemciler
+Anakartlar
+Ekran Karttı
+Ram Bellek
+Optik Sürücüler
+Power Supply
+Bilgisayarı Kasası
+Monitörler
+Yazılım
+Oyuncu Mousları
+Mouse Pad
+Klavye
+Klavye Mouse Setleri
+Mikrofonlu Kulaklıklar
+Speakerlar
+Pc Kamera
+Ups Cihazı
+Yazıcı - Printer
+Hırdavat ve Kamp
+PC Harddiskler
+Notebook Harddiskleri
+SSD Hardiskler
+Harici Harddiskler
+Sas Harddiskler
+MSATA Hardisk
+Depolama Üniteleri
+Harddisk Aparatı
+Aydınlatma ve Elektrik
 Daha Fazla Kategori
 Fırsat Ürünleri
 %60
@@ -548,6 +550,7 @@ GV HD 2TB WD 3.5 PURPLE SATA3 5400RPM 64MB 7/24 GUVENLIK WD23PURZ (3 YIL RESMI D
 NB HD 500GB NOTEBOK SATA HARDDISK
 Son Gezilen Ürünler
 Yeni Gelen Ürünler
+Dahua DHI-LM27-U200PM 27 Inc Monitör
 DAHUA 32X64 P2.5 MM TEK TARAFLI DIS ORTAM LED TABELA
 OXPİ SPOX 001 MİNİ SARJLI ARAÇ SÜPÜRGE
 USB TAVAN GALAXİ LED AYDINLATMA
@@ -559,7 +562,6 @@ DAHUA 192X64 CM P3 DIŞ ORTAM POSTER LED
 DAHUA 176X64 CM P3 DIŞ ORTAM POSTER LED
 DAHUA 160X64 CM P3 DIŞ ORTAM POSTER LED
 DAHUA 192X96 CM P2.5 DIŞ ORTAM POSTER LED
-DAHUA 176X96 CM P2.5 DIŞ ORTAM POSTER LED
 Popüler Kategoriler
 PC Harddiskler
 42 Ürün
@@ -587,10 +589,10 @@ Speed Dome PTZ
 32 Ürün
 Hobi Oyuncak
 15 Ürün
+Tabletler
+10 Ürün
 Poe Switch
 17 Ürün
-AHD Dome Kamera
-11 Ürün
 POPÜLER KATEGORİLER
 PC Harddiskler
 Harici Harddiskler
@@ -605,8 +607,8 @@ IP Kayıt Cihazı
 Küçük Ev Aletleri
 Speed Dome PTZ
 Hobi Oyuncak
+Tabletler
 Poe Switch
-AHD Dome Kamera
 MÜŞTERİ HİZMETLERİ
 Gizlilik ve Güvenlik
 Mesafeli Satış Sözleşmesi
