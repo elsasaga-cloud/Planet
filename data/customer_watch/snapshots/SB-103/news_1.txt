@@ -1,4 +1,4 @@
-# SB-103 Grundig · news_1 · https://grundig-security.com/news/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-103 Grundig · news_1 · https://grundig-security.com/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 News and Events | GRUNDIG SECURITY - Professional Video Surveillance and CCTV Solutions
 Company
 Products
@@ -86,7 +86,7 @@ Privacy & Cookies
 Links
 Grundig.com
 ©2026 Abetechs GmbH (Grundig Security). All rights reserved. This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply.
-Top
+Yukarı
 Login
 Password
 * Required Fields.

@@ -1,4 +1,7 @@
-# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-26T11:08:06Z · HTTP 200
+Thu, 26 Nov 2026 05:10:11 +0000	Managed vs Unmanaged Network Switches: Which One Does Your Business Need?	https://52networks.com/managed-vs-unmanaged-network-switches-which-one-does-your-business-need/
+Thu, 26 Nov 2026 04:03:52 +0000	How to Build a Reliable Network Infrastructure for a Small Business	https://52networks.com/how-to-build-a-reliable-network-infrastructure-for-a-small-business-2/
+Wed, 25 Nov 2026 18:27:29 +0000	Ethernet Cable Fire Ratings Explained: CMP, CMR & More	https://52networks.com/ethernet-cable-fire-ratings/
 Mon, 23 Nov 2026 20:22:39 +0000	CMP vs CMR Cable: Key Differences Explained	https://52networks.com/cmp-vs-cmr-cable/
 Thu, 19 Nov 2026 15:33:23 +0000	Plenum vs Riser Cable: What’s the Difference?	https://52networks.com/plenum-vs-riser-cable/
 Wed, 18 Nov 2026 18:13:41 +0000	Cat6A Plenum 1000ft Cost: What to Expect in 2026	https://52networks.com/cat6a-plenum-1000ft-cost/
@@ -6,6 +9,3 @@ Sun, 15 Nov 2026 16:51:34 +0000	Cat6A vs Cat6 Plenum Price: Is the Upgrade Worth
 Thu, 12 Nov 2026 16:32:47 +0000	The Future of Network Cabling: Trends in Ethernet, CCTV, and Audio Systems	https://52networks.com/the-future-of-network-cabling-trends-in-ethernet-cctv-and-audio-systems/
 Thu, 05 Nov 2026 17:34:35 +0000	What Is a Network Rack? Complete Guide to Server & Network Racks	https://52networks.com/what-is-a-network-rack-complete-guide-to-server-network-racks/
 Thu, 05 Nov 2026 17:17:00 +0000	Patch Panel vs Network Switch: What Does Each One Do?	https://52networks.com/patch-panel-vs-network-switch-what-does-each-one-do/
-Thu, 29 Oct 2026 14:53:37 +0000	How to Build a Reliable Network Infrastructure for a Small Business	https://52networks.com/how-to-build-a-reliable-network-infrastructure-for-a-small-business/
-Thu, 29 Oct 2026 14:50:53 +0000	Complete Structured Cabling Guide for Small Businesses	https://52networks.com/complete-structured-cabling-guide-for-small-businesses/
-Wed, 21 Oct 2026 03:43:11 +0000	What Is PoE? A Complete Guide to Power over Ethernet	https://52networks.com/what-is-poe-a-complete-guide-to-power-over-ethernet/

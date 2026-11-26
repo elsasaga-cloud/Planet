@@ -1,4 +1,20 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+Thu, 26 Nov 2026 06:08:12 GMT	[공지] ipTIME 홈캠 보안 점검 권고 사항 조치 안내	https://iptime.com/notices/28033
+Thu, 26 Nov 2026 05:14:18 GMT	[ipTIME 카메라] 홈캠 보안 점검 권고 사항 조치, 안심하고 사용하세요	https://iptime.com/support/faq/28032
+Wed, 25 Nov 2026 04:30:16 GMT	[ipTIME 공유기] 시스템 로그 확인 방법과 자주 나오는 로그의 의미	https://iptime.com/support/faq/28031
+Wed, 25 Nov 2026 04:30:16 GMT	[Easy Mesh] 집 안에서 이동할 때 와이파이가 끊기거나 먼 곳에 연결될 때 (로밍)	https://iptime.com/support/faq/28030
+Wed, 25 Nov 2026 04:13:22 GMT	[ipTIME 공유기] DFS 채널과 채널 크기(160MHz) 설정	https://iptime.com/support/faq/28029
+Wed, 25 Nov 2026 03:09:13 GMT	[ipTIME 카메라] 홈캠 녹화 방식 비교 (microSD·클라우드·NAS·녹화기)	https://iptime.com/support/faq/28028
+Wed, 25 Nov 2026 02:55:00 GMT	[ipTIME 카메라] 인터넷이 끊겨도 홈캠이 녹화되나요?	https://iptime.com/support/faq/28027
+Wed, 25 Nov 2026 02:34:48 GMT	[ipTIME 공유기] 안테나가 부러졌을 때 수리와 구매 방법	https://iptime.com/support/faq/28026
+Wed, 25 Nov 2026 02:28:36 GMT	[ipTIME 공유기] USB 외장 하드 영상을 TV에서 보기 (미디어 서버)	https://iptime.com/support/faq/28025
+Wed, 25 Nov 2026 02:22:00 GMT	[ipTIME 공유기] VPN 사용에 적합한 공유기 선택 방법 (서버, 클라이언트, 지원 모델)	https://iptime.com/support/faq/28024
+Wed, 25 Nov 2026 02:08:00 GMT	[ipTIME 공유기] VPN(WireGuard·L2TP)이 연결되지 않을 때	https://iptime.com/support/faq/28023
+Wed, 25 Nov 2026 02:03:51 GMT	[ipTIME 공유기] 전원이 켜지지 않거나 LED가 모두 꺼졌을 때	https://iptime.com/support/faq/28022
+Wed, 25 Nov 2026 01:55:00 GMT	[ipTIME 공유기] 인터넷 전화(070)·POS·카드단말기가 안 되거나 끊길 때	https://iptime.com/support/faq/28021
+Wed, 25 Nov 2026 01:42:56 GMT	[ipTIME 공유기] 케이블 인터넷에 공유기를 새로 연결했는데 인터넷이 안 될 때	https://iptime.com/support/faq/28020
+Wed, 25 Nov 2026 01:42:56 GMT	[ipTIME 공유기] 유선 인터넷이 자주 끊길 때	https://iptime.com/support/faq/28019
+Wed, 25 Nov 2026 01:42:56 GMT	[ipTIME 공유기] 와이파이 이름(SSID)이 검색되지 않을 때	https://iptime.com/support/faq/28018
 Tue, 24 Nov 2026 04:50:52 GMT	2만 원대에 300만 화소·무료 클라우드까지…ipTIME, 가성비 홈캠 ‘C300E’ 출시	https://iptime.com/notices/28017
 Tue, 24 Nov 2026 01:58:31 GMT	ipTIME, 이지 메시(Easy Mesh) 지원 기가비트 4포트 유선 공유기 ‘ipTIME T6004’ 출시	https://iptime.com/notices/28016
 Tue, 24 Nov 2026 01:56:25 GMT	이에프엠네트웍스, N300급 보급형 와이파이 확장기 'ipTIME Extender-N300E' 출시	https://iptime.com/notices/28015
@@ -33,19 +49,3 @@ Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME NAS] 다른 NAS나 외장하드에서 ipTI
 Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME 공유기] 정전 뒤 인터넷이 안 될 때	https://iptime.com/support/faq/27985
 Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME 공유기] 이사할 때 공유기 옮기고 다시 연결하는 방법	https://iptime.com/support/faq/27984
 Fri, 20 Nov 2026 00:54:06 GMT	[ipTIME 카메라] 홈캠과 CCTV(녹화기) 중 무엇을 선택해야 하나요?	https://iptime.com/support/faq/27983
-Fri, 20 Nov 2026 00:49:19 GMT	[ipTIME 공유기] 인터넷 속도를 정확하게 측정하는 방법	https://iptime.com/support/faq/27982
-Thu, 19 Nov 2026 09:08:10 GMT	[ipTIME 공유기] 기가비트 공유기인데 WAN 포트가 100Mbps로 연결될 때	https://iptime.com/support/faq/27981
-Thu, 19 Nov 2026 09:05:21 GMT	[ipTIME 공유기] 허브(AP) 모드 공유기의 간이 NAS에서 ipDISK가 등록중으로 표시되고 외부 접속이 안 될 때	https://iptime.com/support/faq/27980
-Thu, 19 Nov 2026 08:53:25 GMT	[ipTIME Ring AP] 스마트폰으로 Ring AP 관리 화면에 접속하는 방법	https://iptime.com/support/faq/27978
-Thu, 19 Nov 2026 05:24:18 GMT	[ipTIME NAS] NAS에서 파일을 실수로 삭제했어요, 복구할 수 있을까요?	https://iptime.com/support/faq/27974
-Thu, 19 Nov 2026 01:13:55 GMT	[ipTIME 카메라] 홈캠 실시간 화면이 간헐적으로 오프라인으로 표시되거나 끊길 때	https://iptime.com/support/faq/27973
-Thu, 19 Nov 2026 01:09:03 GMT	[ipTIME 공유기] 기가인터넷인데 유선, 와이파이 속도가 100Mbps 정도만 나올 때	https://iptime.com/support/faq/27972
-Thu, 19 Nov 2026 01:07:24 GMT	[ipTIME 공유기] 인터넷 설정 정보에서 허브/AP 모드로 설정하는 방법 (펌웨어 15.29.0 이상)	https://iptime.com/support/faq/27971
-Thu, 19 Nov 2026 00:54:16 GMT	[ipTIME 공유기] 공유기 USB 외장 하드를 RaiDrive로 연결하기	https://iptime.com/support/faq/27970
-Thu, 19 Nov 2026 00:51:05 GMT	11월 20일(금) 기술지원 업무마감시간 임시변경 안내	https://iptime.com/notices/27969
-Wed, 18 Nov 2026 23:08:14 GMT	[ipTIME 공유기] HTTPS로 관리 화면 접속하기	https://iptime.com/support/faq/27966
-Wed, 18 Nov 2026 08:53:35 GMT	[ipTIME 공유기] 공유기 관리 화면에 접속하는 방법 (PC, 스마트폰, 앱)	https://iptime.com/support/faq/27961
-Wed, 18 Nov 2026 04:13:13 GMT	[ipTIME 공유기] 사용 환경별 장비 조합 추천 (가정, 사무실, 매장)	https://iptime.com/support/faq/27950
-Wed, 18 Nov 2026 01:13:32 GMT	[ipTIME 컨트롤러] USB 충전기 현행 모델 한눈에 보기	https://iptime.com/support/faq/27945
-Wed, 18 Nov 2026 01:13:32 GMT	[ipTIME 컨트롤러] USB-C 멀티 허브·USB 허브 현행 모델 한눈에 보기	https://iptime.com/support/faq/27944
-Wed, 18 Nov 2026 01:08:32 GMT	[ipTIME 공유기] 인터넷 요금제별 필요한 공유기 포트 속도	https://iptime.com/support/faq/27943

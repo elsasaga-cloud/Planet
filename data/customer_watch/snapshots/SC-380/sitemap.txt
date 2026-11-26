@@ -1,4 +1,4 @@
-# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
 	https://iptime.com/
 	https://iptime.com/products
 	https://iptime.com/notices
@@ -21,7 +21,7 @@
 	https://iptime.com/store/dealer
 	https://iptime.com/products?cat=all
 	https://iptime.com/products?cat=nas
-2026-11-24T04:44:19.157Z	https://iptime.com/products?cat=cam
+2026-11-26T06:02:33.961Z	https://iptime.com/products?cat=cam
 2026-11-13T02:27:29.136Z	https://iptime.com/products?cat=router_be
 2026-11-12T07:26:45.619Z	https://iptime.com/products?cat=router_ax
 2026-11-12T07:27:02.627Z	https://iptime.com/products?cat=router_ac
@@ -81,7 +81,7 @@
 2026-11-13T02:24:35.960Z	https://iptime.com/products/36
 2026-11-13T02:24:35.960Z	https://iptime.com/products/37
 2026-11-13T02:24:35.960Z	https://iptime.com/products/38
-2026-11-25T05:19:26.351Z	https://iptime.com/products/39
+2026-11-26T02:13:53.465Z	https://iptime.com/products/39
 2026-11-13T02:24:35.960Z	https://iptime.com/products/40
 2026-11-13T02:24:35.960Z	https://iptime.com/products/41
 2026-11-13T02:24:35.960Z	https://iptime.com/products/42
@@ -135,7 +135,7 @@
 2026-08-31T07:19:32.851Z	https://iptime.com/products/91
 2026-11-13T02:24:35.960Z	https://iptime.com/products/92
 2026-11-13T02:24:35.960Z	https://iptime.com/products/93
-2026-11-24T08:28:06.840Z	https://iptime.com/products/94
+2026-11-26T02:13:53.465Z	https://iptime.com/products/94
 2026-11-13T02:24:35.960Z	https://iptime.com/products/95
 2026-11-13T02:24:35.960Z	https://iptime.com/products/96
 2026-11-13T02:24:35.960Z	https://iptime.com/products/97
@@ -209,7 +209,7 @@
 2026-11-13T02:24:35.960Z	https://iptime.com/products/178
 2026-11-13T02:24:35.960Z	https://iptime.com/products/179
 2026-11-13T02:24:35.960Z	https://iptime.com/products/180
-2026-11-24T08:28:06.840Z	https://iptime.com/products/181
+2026-11-26T02:13:53.465Z	https://iptime.com/products/181
 2026-11-13T02:24:35.960Z	https://iptime.com/products/182
 2026-11-13T02:24:35.960Z	https://iptime.com/products/183
 2026-11-13T02:24:35.960Z	https://iptime.com/products/184

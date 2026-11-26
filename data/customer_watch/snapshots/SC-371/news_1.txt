@@ -1,4 +1,4 @@
-# SC-371 Visiotech · news_1 · https://www.visiotechsecurity.com/en/news · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-371 Visiotech · news_1 · https://www.visiotechsecurity.com/en/news · fetched 2026-11-26T11:08:06Z · HTTP 200
 Security Camera News
 Visiotech | Security Systems Supplier
 Products IP
@@ -317,7 +317,7 @@ Accessories Cards and Key Rings
 Readers and Stand-alone
 Push buttons
 Relay
-Power
+Power supply
 X-Security Readers
 Standalone
 Hysoon Standalone

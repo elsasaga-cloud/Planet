@@ -1,4 +1,4 @@
-# SB-1002 amplicon.com · sitemap · https://www.amplicon.com/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-1002 amplicon.com · sitemap · https://www.amplicon.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
 2026-11-18	https://www.amplicon.com/form/2027-planning/
 2026-10-22	https://www.amplicon.com/offers/keysight-hd304mso-3-upgrades/
 2026-10-15	https://www.amplicon.com/brands/keysight/waveform-function-generators/
@@ -7,7 +7,7 @@
 2026-10-16	https://www.amplicon.com/engineering-services/sub-assembly-build-integration/
 2026-10-15	https://www.amplicon.com/test/waveform-generators/
 2026-10-16	https://www.amplicon.com/engineering-services/custom-enclosure-manufacture-assembly/
-2026-10-21	https://www.amplicon.com/brands/keysight/digital-oscilloscopes/
+2026-11-24	https://www.amplicon.com/brands/keysight/digital-oscilloscopes/
 2026-10-19	https://www.amplicon.com/industries/manufacturing/
 2026-07-02	https://www.amplicon.com/projects/process-control-system-improves-production-line-visibility-reduces-product-waste/
 2026-06-04	https://www.amplicon.com/brands/cisco/ots-program/
@@ -40,7 +40,7 @@
 2025-02-05	https://www.amplicon.com/about/customer-feedback/sales-team-reviews/
 2025-10-30	https://www.amplicon.com/brands/beldenhirschmann/eagle40-firewalls/
 2026-10-23	https://www.amplicon.com/brands/beldenhirschmann/lemur-lite-switches/
-2026-09-22	https://www.amplicon.com/brands/keysight/hd3-oscilloscope/
+2026-11-24	https://www.amplicon.com/brands/keysight/hd3-oscilloscope/
 2024-09-05	https://www.amplicon.com/offers/keysight-hd3-free-memory-upgrade-offer/
 2024-08-14	https://www.amplicon.com/offers/impact-pi-100d-volume-discount-offer/
 2026-09-10	https://www.amplicon.com/product-range/embedded-computers/impact-pi-100d/

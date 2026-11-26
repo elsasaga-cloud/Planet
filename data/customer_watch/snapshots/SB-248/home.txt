@@ -1,4 +1,4 @@
-# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-248 nellyssecurity.com · home · https://nellyssecurity.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Nelly's Security | CCTV, Access Control, and Intrusion Alarms
 Skip to content
 855-340-9999 / 9AM - 5PM CST / Monday - Friday
@@ -318,20 +318,6 @@ Uniview
 UNV 8MP 4K UltraHD Weatherproof Vandal Dome IP Security Camera with a 2.8mm Fixed Lens and a Built-In Microphone (IPC328SR-ADF28KM-H)
 Regular price
 $579.00
-OwlView 4K Wise-ISP Turret IP Security Camera with a 2.8mm Fixed Lens (IPC3628SR-ADF28KM-WP)
-Translation missing: en.products.product.sku: SKU# 3865
-Vendor:
-Uniview
-OwlView 4K Wise-ISP Turret IP Security Camera with a 2.8mm Fixed Lens (IPC3628SR-ADF28KM-WP)
-Regular price
-$599.00
-Sale price
-$599.00
-Regular price
-$739.00
-Unit price
-/
-per
 L-Series 4K Ultra HD Weatherproof Active Deterrence 24/7 Color Turret IP Security Camera with a 2.8mm Fixed Lens and Built-in Mic and Speaker (L8T-DT)
 Translation missing: en.products.product.sku: SKU# 3926
 Vendor:
@@ -343,6 +329,20 @@ Sale price
 $209.99
 Regular price
 $219.99
+Unit price
+/
+per
+OwlView 4K Wise-ISP Turret IP Security Camera with a 2.8mm Fixed Lens (IPC3628SR-ADF28KM-WP)
+Translation missing: en.products.product.sku: SKU# 3865
+Vendor:
+Uniview
+OwlView 4K Wise-ISP Turret IP Security Camera with a 2.8mm Fixed Lens (IPC3628SR-ADF28KM-WP)
+Regular price
+$599.00
+Sale price
+$599.00
+Regular price
+$739.00
 Unit price
 /
 per
@@ -409,13 +409,6 @@ $279.00
 Unit price
 /
 per
-UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
-Translation missing: en.products.product.sku: SKU# 3399
-Vendor:
-Uniview
-UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
-Regular price
-$999.00
 L-Series 4K Wide Angle 226° FOV Panoramic NDAA Compliant Weatherproof Turret IP Security Camera with 24/7 Color, Active Deterrence, AI-Powered Smart Events, IR Lights, Built-in Mic (L8T-WIDE)
 Translation missing: en.products.product.sku: SKU# 3983
 Vendor:
@@ -430,6 +423,13 @@ $344.99
 Unit price
 /
 per
+UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
+Translation missing: en.products.product.sku: SKU# 3399
+Vendor:
+Uniview
+UNV 5MP NDAA-Compliant IP Fisheye Security Camera with 360° Field of View and a 1.4mm Fixed Lens (IPC815SB-ADF14K-I0)
+Regular price
+$999.00
 UNV 5MP LightHunter Weatherproof HD Turret TVI/AHD/CVI/CVBS Analog Security Camera with a 2.8mm Fixed Lens (UAC-T125-AF28M)
 Translation missing: en.products.product.sku: SKU# 3709
 Vendor:

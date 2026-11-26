@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-25T11:29:08Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-26T11:08:06Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Menu
@@ -285,11 +285,8 @@ Venitem
 Video
 Brands
 Ajax
-Aten
 Axis Communications
 Bysecur
-Cellhire IoT
-ComNet
 Dahua
 Davantis
 Dell
@@ -327,7 +324,6 @@ Seagate
 SeeEyes
 SEWOSY
 Tecnovideo
-Tele2 IoT
 TVT
 VDL Masten
 Veracity
@@ -607,13 +603,11 @@ Brands
 2N
 Akuvox
 Axis Communications
-Cellhire IoT
 Dahua
 Hanwha
 Hikvision
 Mobotix
 Paxton
-Tele2 IoT
 TVT
 Door stations
 2N
@@ -661,9 +655,7 @@ RISCO
 TVT
 Perimeter
 Brands
-Cellhire IoT
 Dahua
-Davantis
 Flir
 Foxstream
 Hanwha
@@ -672,7 +664,6 @@ IQsight
 Optex
 Politec
 Prodatec
-Tele2 IoT
 TVT
 Controllers
 GJD
@@ -696,7 +687,6 @@ Akuvox
 ASSA ABLOY
 Axis Communications
 Bysecur
-Cellhire IoT
 Dahua
 Eden Innovations
 elbaC - Alpha
@@ -717,7 +707,6 @@ SEWOSY
 Snelpas
 STid
 Tedee
-Tele2 IoT
 Vauban Systems
 Controllers
 acre
@@ -838,7 +827,6 @@ Alpha
 AlphaCable Fire
 Bosch Fire
 Bysecur
-Cellhire IoT
 Durán
 Eaton
 Fulleon
@@ -856,7 +844,6 @@ RWA
 Sensomag
 SEWOSY
 STI
-Tele2 IoT
 Thermocable
 X-Sense
 Panels
@@ -1218,11 +1205,6 @@ New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC
 VUPoint AI cameras in black
 Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
 SmartSD trainings
-acre Access Control Basics
-25 November
-@ SmartSD Merchtem (BE)
-10 December
-@ SmartSD Breda (NL)
 Ajax Hands-On Training
 26 November
 @ SmartSD Merchtem (BE)
@@ -1256,11 +1238,17 @@ Acre SPCevo
 @ SmartSD Saint-herblain (FR)
 20 January
 @ SmartSD Breda (NL)
+3 February
+@ SmartSD Merchtem (BE)
+9 March
+@ SmartSD Merchtem (BE)
 Hikvision HCSA-CCTV Certification Training
 2 December
 @ SmartSD Merchtem (BE)
 15 December
 @ SmartSD Breda (NL)
+27 January
+@ SmartSD Merchtem (BE)
 Dahua Basic Training & Hands-on
 3 December
 @ SmartSD Breda (NL)
@@ -1271,8 +1259,12 @@ Akuvox Intercom Basics
 @ SmartSD Portet-sur-garonne (FR)
 13 January
 @ SmartSD Breda (NL)
+28 January
+@ SmartSD Lisses (FR)
 1 February
 @ SmartSD Merchtem (BE)
+1 February
+@ SmartSD Saint-herblain (FR)
 22 February
 @ SmartSD Merchtem (BE)
 Network Optix Nx Witness VMS
@@ -1286,6 +1278,9 @@ Bandit Fog Generators
 Ajax EN54 Hands-On Training
 8 December
 @ SmartSD Merchtem (BE)
+10 December
+@ SmartSD Breda (NL)
+acre Access Control Basics
 10 December
 @ SmartSD Breda (NL)
 2N CIP Certified Training
@@ -1303,6 +1298,15 @@ Risco LightSYS+ Technical/Commercial Introduction & Expert Session
 @ SmartSD Breda (NL)
 Inim SmartLine
 17 December
+@ SmartSD Merchtem (BE)
+Stid Secard training
+19 January
+@ SmartSD Merchtem (BE)
+19 January
+@ SmartSD Merchtem (BE)
+1 March
+@ SmartSD Merchtem (BE)
+1 March
 @ SmartSD Merchtem (BE)
 Milestone Professional Plus
 22 January
@@ -1344,5 +1348,4 @@ Netherlands - SmartSD BV (NL)
 BeLux - SmartSD NV/SA (NL)
 BeLux - SmartSD NV/SA (FR)
 France - SmartSD SARL (FR)
-Spain - SmartSD SL (ES)
-© 2026 SmartSD
+Spain - Smart

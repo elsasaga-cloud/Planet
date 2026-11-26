@@ -1,4 +1,4 @@
-# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SA-020 bitstream.pl · feed_auto · https://bitstream.pl/rss/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Wed, 25 Nov 2026 10:15:55 +0100	Offset NTP – jak interpretować odchylenie czasu w sieci?	https://bitstream.pl/aktualnosci/offset-ntp-jak-interpretowac-odchylenie-czasu-w-sieci/
 Wed, 25 Nov 2026 10:07:46 +0100	Jak wykorzystać port mirroring w diagnostyce synchronizacji czasu w GPZ?	https://bitstream.pl/aktualnosci/jak-wykorzystac-port-mirroring-w-diagnostyce-synchronizacji-czasu-w-gpz/
 Sun, 01 Nov 2026 12:53:08 +0100	SNMP w monitoringu sieci. Jak działa i co pozwala wykryć?	https://bitstream.pl/aktualnosci/snmp-w-monitoringu-sieci-jak-dziala-i-co-pozwala-wykryc/

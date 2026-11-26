@@ -1,5 +1,6 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
+JUEVES DE HIK-MASTERS | Lanzamiento de Hik-Connect Versión 7 con AI HIKO — Únete aquí Ver más
 Productos
 0
 Noticias 0 Especiales
@@ -170,45 +171,46 @@ Carrito
 Productos
 Noticias
 Ver todas
-Adrián · 11h · Ubiquiti
+Gregorio · 10h · Audio e Intercom
+Se acabó el "¿me escuchan?" en la videollamada. Y de paso, el "¿quién está hablando?".
+SmartVision 40: barra todo-en-uno con doble lente de 48 MP, 4K, 8 micrófonos MEMS a 6 m y 20W estéreo. Para salas chicas y medianas.
+SmartVision 80: 4 lentes con zoom óptico 20x y 4 modos de seguimiento por IA. Para salas grandes.
+Ambas con seguimiento por IA y audio con supresión de ruido. Ya disponibles en SYSCOM.
+Descubre cuál va en tu sala
+Ruben · 12h · Drones
+La oscuridad ya no detiene tus operativos.
+El reflector con gimbal CZI GL10 V2, compatible con DJI Matrice 4T, lleva tus misiones nocturnas al siguiente nivel con iluminación inteligente y precisión táctica. Equipa tu aeronave con beneficios reales en campo:
+• Mantén iluminado tu objetivo de forma automática al desplazarte.
+• Guía a tu equipo en tierra con total exactitud en situaciones críticas.
+• Impón presencia y disuade amenazas en segundos con alertas visuales en rojo, azul y ámbar.
+Conoce el reflector GL10 V2
+Nicolas · 14h · Videovigilancia
+El DVR no se cambia cuando la cámara sube a 4K.
+El iDS-7208HUHI-M1/T graba 8 canales TurboHD hasta 4K (8 MP) y suma 8 canales IP: 16 en total. Pentahíbrido TVI/CVI/AHD/analógico/IP, H.265+, AcuSense en 4 canales para filtrar personas y vehículos, audio bidireccional por Coaxitron en todos los canales y 1 HDD de hasta 10 TB. Apagando los canales TurboHD se vuelve un NVR de 16 IP.
+Conoce el DVR pentahíbrido de 16 canales 1 1
+Leopoldo · 20h · Audio e Intercom
+El audio del display no necesita un cable de regreso.
+El EPC-EHB70ARC manda HDMI 4K60 hasta 70 m por Cat5e/6, con 18 Gbps de ancho de banda, y regresa el audio del display al amplificador por ARC. Suma IR y RS-232 bidireccionales, gestión EDID avanzada para que no aparezca la pantalla negra, HDCP 2.2, audio Dolby/DTS 5.1 y PoC en ambos sentidos.
+Conoce el extensor que regresa el audio
+Rafael · 20h · Redes
+Un enlace de 1 Gbps que llega armado hasta la torre
+El paquete Force 425 incluye dos radios y dos antenas integradas de 25 dBi: el enlace punto a punto completo, con hasta 1 Gbps en 4.9–6.2 GHz y 10 km de alcance. Se instala y se alinea sin comprar cada pieza por separado.
+Conoce el enlace Force 425
+Nicolas · 20h · Videovigilancia
+Un canal ve todo el patio. El otro se acerca a la cara.
+La DS-2SE4C415MWG-E/14 es TandemVu: PTZ de 4 MP con zoom óptico 15X (2.8-75 mm) más una cámara fija de 4 MP y 2.8 mm que nunca deja de mirar. IR 100 m y luz blanca 30 m, paneo 360°, 300 presets, dos micrófonos con bocina y luz estroboscópica. IP67, PoE+ y micro SD de 512 GB.
+Conoce la TandemVu de 15X
+Adrián · 1d · Ubiquiti
 Todavía quedan lugares para el UDSS del 4 de diciembre
 La certificación UniFi Digital Sentinel Specialist que imparte Ubiquiti en Sucursal México Norte mantiene el registro abierto. Miguel Paz, Pre-Sales del fabricante, cubre UniFi Protect y UniFi Access en una sesión con equipos incluidos para las prácticas y para tus propias demos. Este curso con fabricante no se abre seguido y el cupo no es amplio.
 Aparta tu lugar para el 4 de diciembre
-Ruben · 13h · Drones
+Ruben · 1d · Drones
 Cuando cada segundo cuenta, dar indicaciones claras desde el aire lo cambia todo.
 El altavoz digital CZI MP130 Pro convierte tu dron en un centro de mando aéreo para emergencias, rescates y patrullaje. Mantén el control de la situación con beneficios reales en campo:
 • Tu mensaje llega claro dentro de vehículos o entre multitudes.
 • Refuerza tus operativos con señalización visual de largo alcance.
 • 130 dB y 700 m de alcance, con protección IP54 para operar a la intemperie.
 Conoce el altavoz MP130 Pro
-Nicolas · 14h · Videovigilancia
+Nicolas · 1d · Videovigilancia
 180° de una sola cámara. Sin dos videos que revisar por separado.
-La DS-2CE72KF3TP-DLS es TurboHD 3K (3328 x 1504) con dos lentes de 2.8 mm que forman una sola imagen panorámica: ocupa un canal y un solo BNC. Dual Light de 40 m IR más 40 m de luz blanca, micrófono integrado, WDR 130 dB e IP67. 12 VCC y 8.9 W: pide fuente individual.
-Conoce la panorámica TurboHD de 180° 1
-Gregorio · 18h · Audio e Intercom
-En la última junta alguien habló desde el fondo y la cámara lo encontró sola.
-Nadie movió el control remoto. El A50-010 lleva triple cámara de 50 MP, 16 micrófonos y oye a 10 m; el A40-010, doble lente de 48 MP en 4K y 8 micrófonos a 6 m. Los dos con Android 13: Teams Rooms, Zoom o RingCentral sin PC en la sala. Ya disponibles en SYSCOM.
-Conoce la barra que encuentra al que habla 3
-Axel · 18h · Audio e Intercom
-La clase entera cabe en una pantalla.
-El IdeaHub Board 3 Pro escribe a 16 ms con IA: lo que el maestro traza se convierte en texto y se comparte al instante. Pantalla 4K con protección óptica antiluz azul, Wi-Fi 6 para proyectar sin cables, 6 micrófonos a 10 m y 4 altavoces de 30 W. En 65, 75 y 86 pulgadas.
-Conoce el pizarrón que se vuelve texto
-Leopoldo · 20h · Audio e Intercom
-Cuatro señales, un cable. Y el control viaja de regreso.
-El TP-580T manda HDMI 4K60, audio de 32 canales, RS-232 e IR por un solo par trenzado; el TP-580R los devuelve en el display. 40 m en 4K y 70 m en 1080p, HDCP 2.2 e I-EDIDPro para que no aparezca la pantalla negra. El RS-232 es bidireccional: apagas el proyector colgado sin subir la escalera.
-Conoce el par HDBaseT TP-580T + TP-580R
-Rafael · 20h · Redes
-Wi-Fi 6 en el backhaul: 1 Gbps y 33% más ancho de banda
-El ePMP Force 400C lleva 802.11ax al enlace troncal en 4.9–6.2 GHz, con hasta 1 Gbps y puerto SFP+. Conectorizado para elegir antena según la distancia. Más espectro útil por canal y menos interferencia en el mismo mástil.
-Conoce el Force 400C Wi-Fi 6
-Yohana · 21h · Audio e Intercom
-Mañana miércoles 25 de noviembre: curso presencial de audio comercial y residencial en SYSCOM Puebla
-Conoce nuestras soluciones de audio profesionales para proyectos comerciales y residenciales. De a y de a  (hora del centro).
-Conoce las soluciones de audio
-Leopoldo · 1d · Audio e Intercom
-El jueves, el AV de Kramer se ve funcionando. En Puebla.
-Floor Day Kramer en Sucursal Puebla, 26 de noviembre, de a . KDS en AVoIP y video wall, la línea completa de cables HDMI certificados y los equipos de demo montados para que los pruebes con las manos. Trae tu proyecto y lo armamos ahí mismo.
-Ve lo que Kramer lleva a Puebla
-Gregorio · 1d · Audio e Intercom
-Hay un sonido en cada junta que nadie admite hacer.
-El UH46 Mono de Yealink lo apaga: 3 micrófonos con cancelación de ruido por IA que borran teclados, ventiladores y al de la esquina masticando. Altavoz de 35 mm con EQ dinámico, 20 Hz a 20 kHz, plug-and-play USB-C con adaptador USB-A y luz de ocupado para que nadie te interrumpa. Y
+La DS-2CE72KF3TP-DLS es TurboHD 3K (3328 x 1504) con dos lentes de 2.8 mm que forman una sola imagen panorámica: ocupa un canal y un solo BNC. Dual Light de 40 m IR más 40 m de luz blanca

@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -71,6 +71,15 @@ Articles
 PR Archive
 What's New
 Customer Success
+More Capacity from the Spectrum You Already Have
+Could Your Existing Spectrum Deliver More? Discover how QORA's spectrum efficiency capabilities could help you increase network capacity, serve more subscribers, and make better use of available frequ...
+Deterministic Wireless
+Preamble Punctering
+PtMP
+QORA
+Wi-Fi 7
+Nov 25, 2026
+Articles
 Why Wi-Fi 7 Alone Isn't Enough Outdoors
 In Part 1 of The Road to QORA, we explored how Wi-Fi 7 opens new possibilities for fixed wireless access. But speed alone does not win long-term customer loyalty. For broadband operators, the real tes...
 Deterministic Wireless
@@ -87,7 +96,7 @@ Fixed Wireless Access
 PtMP
 QORA
 Wi-Fi 7
-Oct 29, 2026
+Oct 28, 2026
 Articles
 Cambium Networks Administration: FAQ for Partners & ISPs
 Who Bought Cambium Networks? Product Status for Partners and ISPs Last updated: October 21, 2026. We update this page as new public information becomes available. Cambium Networks went into administra...
@@ -162,7 +171,7 @@ Built-In AI Support: How RADWIN’s Chatbot Transforms the 2000E Setup Experienc
 Faster Deployments. Fewer Errors. Smarter Support, Directly Inside the Web UI. Deploying a wireless link shouldn’t require jumping between manuals, PDFs, and support tickets. Yet in real-world install...
 2000 E
 PtP
-Feb 26, 2026
+Feb 25, 2026
 What's New
 RADWIN and Aircom Global Team Up to Power Next-Gen Wireless Broadband in Tanzania and Uganda
 Strengthening wireless broadband connectivity for service providers and critical infrastructure across East Africa January 22, 2026 – RADWIN ( www.radwin.com ), a global leader in wireless broadband s...
@@ -173,12 +182,6 @@ PtMP
 PtP
 Jan 24, 2026
 PR Archive
-Introducing Dynamic Channel Switching (DCS) for RADWIN 2000E
-Stronger Control. Smarter Spectrum Use. Continuous Service Quality. RADWIN is excited to introduce powerful new capabilities for the RADWIN 2000E. This update brings Dynamic Channel Switching (DCS) an...
-2000 E
-PtP
-Jan 13, 2026
-What's New
 1
 2
 3
@@ -262,6 +265,7 @@ Technology
 10 Gbps
 Beamforming
 MMWave
+Preamble Punctering
 Wi-Fi 7
 Others
 Deterministic Wireless

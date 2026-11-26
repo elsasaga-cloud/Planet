@@ -1,4 +1,4 @@
-# PA-008 Aspectis Informatikai és Biztonságtechnikai Kft. · home · https://aspectis.hu/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# PA-008 Aspectis Informatikai és Biztonságtechnikai Kft. · home · https://aspectis.hu/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Főoldal
 Márkáink
 Megoldásaink
@@ -35,14 +35,14 @@ Események
 Díjmentes konzultáció
 Referenciák
 Legújabb termékeink
+AXIS M4348-PLR panorámakamera
 AXIS D2124-VE Radar
 SPS-A8016 - AI-alapú videó és valós idejű audio a Hanwha Vision új kamerájában
-Hanwha Ultraérzékeny VGA AI hőkamera-sorozat 16 mK alatti NETD értékkel
 További termékek
 Friss blogbejegyzések
-Biztonság kompromisszumok nélkül: 5 módszer, amellyel a 2N kezeli a kiberbiztonsági kockázatokat
-Megérkezett a Milestone XProtect 2026 R2
-Megújult Milestone Solution Designer
+Növeld a 2N IP Verso tartósságát
+A tűzfaltól a kerítésig: többrétegű megközelítés az adatközpontok biztonságában - Blog by Hanwha
+Új AXIS OS 13
 További bejegyzések
 Hírlevél feliratkozás
 Feliratkozás most

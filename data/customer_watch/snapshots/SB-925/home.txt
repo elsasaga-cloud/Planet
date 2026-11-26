@@ -1,11 +1,11 @@
-# SB-925 MIRAE SIGNAL CO.,LTD · home · http://miraesignal.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
-㈜미래시그널 — 산업용 네트워크 장비 전문기업
+# SB-925 MIRAE SIGNAL CO.,LTD · home · http://miraesignal.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+㈜미래시그널 — 네트워크 스위치·무선브릿지 전문기업
 제품
 솔루션
 지원
 회사소개
 공지·소식
-⌕ ⌕
+⌕
 메뉴 ×
 검색
 산업 현장의 유·무선 네트워크, 검증된 장비로 연결합니다
@@ -17,30 +17,38 @@
 무선 브릿지 — 5GHz 장거리 PTP/PTMP 브릿지와 2.4GHz 실외 AP
 다수공급자계약 — 조달청 다수공급자계약(MAS) 등록 모델
 주요 제품
+MV-IPG804MBT 802.3bt PoE++ 산업용 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W)
+MV-PG804M 8포트 PoE+ 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
+MV-G8024CMK SFP 16슬롯 10G 광스위치 (1U 랙형) — 100M/1Gbps SFP 16슬롯 + 1G/2.5G/10Gbps SFP 4슬롯 + GbE RJ45/SFP Combo 8포트
 MV-IG804MN-2BP 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 2x2
 MV-IG804MN-4BP 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 4x4
 MV-IPG804MBTN-2BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 2x2
 MV-IPG804MBTN-4BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 4x4
 MV-IPG804MBTN 802.3bt PoE++ 산업용 이더넷 광스위치 (1U 19인치 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W)
-MV-IG804M2BP 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 2x2
-MV-IG804M4BP 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · BYPASS 4x4
-MV-IPG804MBT2BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 2x2
-MV-IPG804MBT4BP 802.3bt PoE++ 산업용 바이패스 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W) · BYPASS 4x4
-MV-IPG804M PoE+ 산업용 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
-MV-IPG804MBT 802.3bt PoE++ 산업용 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3bt (PoE 90W)
-MV-IPG1602 비관리형 산업용 PoE 스위치 (DIN 레일형) — 16x RJ45 (10/100/1000) + 2x SFP (1000Base-X) · IEEE 802.3af/at · 44-57V DC
-MV-IPG802 비관리형 산업용 PoE 스위치 (DIN 레일형) — 8x RJ45 (10/100/1000) + 2x SFP (1000Base-X) · IEEE 802.3af/at · 44-57V DC
-MV-IPG8 비관리형 산업용 PoE 스위치 (DIN 레일형) — 8x RJ45 (10/100/1000) · IEEE 802.3af/at · 44-57V DC
-MV-IPG402 비관리형 산업용 PoE 스위치 (DIN 레일형) — 4x RJ45 (10/100/1000) + 2x SFP (1000Base-X) · IEEE 802.3af/at · 44-57V DC
-MV-G2404M 24포트 기가비트 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/2.5Gbps SFP 4슬롯
-MV-G4804MK 48포트 기가비트 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 48포트 + 1G/2.5Gbps SFP 4슬롯
-MS2000-24T 24포트 기가비트 L2 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/10G SFP+ 4슬롯
-MV-PG804M 8포트 PoE+ 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 8포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
-MV-PG2404M 24포트 PoE+ 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/2.5Gbps SFP 4슬롯 · IEEE802.3af(PoE 15.4W) / IEEE802.3at(PoE+ 30W)
-MS2000-24P 24포트 PoE+ 기가비트 이더넷 광스위치 (1U 랙형) — 10M/100M/1Gbps RJ45 24포트 + 1G/10G SFP+ 4슬롯 · IEEE802.3af(PoE 15.4W) + IEEE802.3at(PoE+ 30W)
-MV-G8024CM SFP 16슬롯 광스위치 (1U 랙형) — 100M/1Gbps SFP 16슬롯 + 1G/2.5Gbps SFP 4슬롯 + GbE RJ45/SFP Combo 8포트
-MV-G8024CMK SFP 16슬롯 10G 광스위치 (1U 랙형) — 100M/1Gbps SFP 16슬롯 + 1G/2.5G/10Gbps SFP 4슬롯 + GbE RJ45/SFP Combo 8포트
-NK-SIPG804M 산업용 PoE+ 보안기능 이더넷 광스위치 (DIN 레일형) — 10M/100M/1Gbps RJ45 8포트 + 1G SFP 4슬롯 · IEEE802.3af(PoE 15.4W) + IEEE802.3at(PoE+ 30W)
+M500AC-90 5GHz 18dBi 90도 섹터 무선 브릿지 — 5.250 ~ 5.850GHz · 18dBi 90도 섹터 안테나 · 90° 섹터 · 최대 600Mbps
+M500AC 5GHz 20dBi 단·중거리 무선 브릿지 — 5.250 ~ 5.850GHz · 20dBi · 5Km (360Mbps 실효) · 최대 600Mbps
+M500AC-15 5GHz 15dBi 단거리 무선 브릿지 — 5.250 ~ 5.850GHz · 15dBi · 2Km (360Mbps 실효) · 최대 600Mbps
+M500AC-N 5GHz N-Type 외장 안테나 무선 브릿지 — 5.250 ~ 5.850GHz · N-Type Connector 안테나 · N-Type 확장 안테나 · 최대 600Mbps
+M550AC 5GHz 20dBi 중·장거리 무선 브릿지 — 5.250 ~ 5.850GHz · 20dBi · 20Km 이상 · 최대 600Mbps
+M700AC 5GHz N-Type 확장 안테나 장거리 PTP 무선 브릿지 — 5.250 ~ 5.850GHz, 2.4GHz(설정전용) · N-Type Connector X 2 · N-Type 확장 안테나 · 최대 700Mbps
+M723AC 5GHz 23dBi 장거리 PTP 무선 브릿지 — 5.250 ~ 5.850GHz, 2.4GHz(설정전용) · 23dBi · 장거리 PTP · 최대 700Mbps
+M550AN 5GHz 18dBi 산업용 중·장거리 무선 브릿지 — 5.250 ~ 5.850GHz · 18dBi MIMO · 20Km (66Mbps 실효) · 최대 210Mbps
+IMC100-MS2 산업용 100M 미디어컨버터 — 멀티모드 · 1310nm · 2Km · SC · 9~36VDC
+IMC100-SL20 산업용 100M 미디어컨버터 — 싱글모드 · 1310nm · 20Km · SC · 9~36VDC
+IMC100-SL50 산업용 100M 미디어컨버터 — 싱글모드 · 1310nm · 60Km · SC · 9~36VDC
+IMC100-SWL20A 산업용 100M WDM 미디어컨버터 — 싱글모드 · 1550/1310nm · 20Km · SC · 9~36VDC · WDM
+IMC100-SWL20B 산업용 100M WDM 미디어컨버터 — 싱글모드 · 1310/1550nm · 20Km · SC · 9~36VDC · WDM
+MC1000-SFP 기가비트 미디어컨버터 (SFP 슬롯형) — 10/100/1000M RJ45 ↔ SFP 슬롯 · 5V 1A 어댑터
+MC1000-ISFP 기가비트 미디어컨버터 (SFP 슬롯형) — 10/100/1000M RJ45 ↔ SFP 슬롯 · AC 110 ~ 265V (전원내장형)
+MC1000-SFP-SFP 기가비트 SFP 미디어컨버터 (SFP ↔ SFP) — SFP ↔ SFP · 1G · 5V 1A
+MM500AC 5GHz 20dBi 장거리 무선 브릿지 (MAS 등록) — IEEE 802.11a/n/ac
+MM550AC 5GHz 20dBi 중·장거리 무선 브릿지 (MAS 등록) — IEEE 802.11a/n/ac
+MV-MIPG804MBT 802.3bt PoE++ 산업용 이더넷 광스위치 (DIN 레일형) (MAS 등록) — 1G Eth 8 Port / 2.5G SFP 4 Port / PoE Budget 240W / 산업용
+MV-MPG804M 8포트 PoE+ 이더넷 광스위치 (1U 랙형) (MAS 등록) — 1G Eth 8 Port / 2.5G SFP 4 Port / PoE Budget 180W
+MV-MPG2404M 24포트 PoE+ 이더넷 광스위치 (1U 랙형) (MAS 등록) — 1G Eth 24 Port / 2.5G SFP 4 Port / PoE Budget 400W
+MV-MG8024CM SFP 16슬롯 광스위치 (1U 랙형) (MAS 등록) — 1G Eth 8 Port (combo) / 1G SFP 24 Port / 2.5G SFP 4 Port
+MV-MG8024CMK SFP 16슬롯 10G 광스위치 (1U 랙형) (MAS 등록) — 1G Eth 8 Port (combo) / 2.5G SFP 24 Port / 10G SFP 4 Port
+SFP-MLCS20 1.25Gbps 싱글 SFP 광 트랜시버 (MAS 등록) — 1.25G, 싱글모드, 20km, 1310nm, LC, DDM
 산업별 솔루션
 공공 관제 CCTV — 관제센터와 도로·공원·하천 현장 카메라 사이의 PoE 전원·광 전송·무선 보조 구간 구성
 산업·플랜트 — 제어실·생산라인·외곽 유틸리티를 광 링과 산업용 스위치로 잇는 플랜트 네트워크 구성
@@ -58,5 +66,5 @@ Tel. 031-708-4017
 지원
 지원 홈 FAQ / Q&A 기술자료 다운로드 센터 공지·소식 문의
 회사
-회사소개 연혁 산업별 솔루션
+회사소개 연혁 오시는 길
 © MIRAE SIGNAL Co., Ltd. All rights reserved.

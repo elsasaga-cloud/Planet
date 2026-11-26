@@ -1,4 +1,4 @@
-# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-316 swl.co.nz · home · https://www.swl.co.nz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Home Page SWL
 Login
 Email Address
@@ -192,20 +192,20 @@ Activor Wireless
 Inovonics Wireless
 Sherlotronics Wireless
 Featured Products
-47891
-Wi-Tek Replacement Key for the WI-IOTBOX01/02/03 Range
+33401
+Provision-ISR DPAN2-340ADRN: 8MP 180°, 20m Hybrid, IP66, IK10, Active Deterrence
 POA
 More Info
-56955
-STP Replacement Protective Cover For 56953
+33667
+Provision-ISR Z8-37IPEN-4(LS): 4MP 37x PTZ DDA WDR Laser IR 800m IP67 6-222mm
 POA
 More Info
-58001
-ONETOP SH2500: Shear Lock For 90° Swing Doors, PTL, Monitored,12/ 24VDC 250Kg
+51240
+Watchman WM-ND4300-4K: 43" LED Monitor, TFT, Steel Case, VESA 400 x 400mm
 POA
 More Info
-48350
-Wi-Tek WI-CPE110-KIT V2:100Mbps PoE Ports, 2.4GHz, 1Km, 24V PoE, Bridge
+66131
+SWL i7 Rack, Intel i7-14700, 32GB Ram, 250Gb SSD, Win11 Pro, 4x HDD Quadro A400
 POA
 More Info
 Products

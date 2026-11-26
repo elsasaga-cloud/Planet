@@ -1,4 +1,4 @@
-# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SA-048 ekhalas.com · home · https://www.ekhalas.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Best online Shopping in Saudi Arabia, Riyadh KSA
 Archives
 November 2026
@@ -362,58 +362,36 @@ Accessories
 COMMSCOPE – Faceplate Kit, universal, two ports, British Standard style, shuttered, white
 ⃁ 20.25
 Copper
-COMMSCOPE – NETCONNECT RJ45 Patch Cord, category 6, U/UTP, LSZH, 1M , White
-⃁ 30.00
+Nexans Aginode LANmark-UTP CAT6A Patch Cord , LSZH 1m Orange
 Copper
-RAMCRO – Security & Amp; Sound (#22-8c BC CMR)
+RAMCRO – Security & Sound 3 Conductor 18 AWG BC Shielded CMR
+⃁ 1,100.00
 Copper
-DATWYLER – 1411153 Cat.6A Shielded RJ45 Keystone Module ? Toolless Termination
-⃁ 24.00
+CABCOMM – Category 6 Shielded Keystone Jack
+⃁ 14.04
 Copper
-RAMCRO – R1193 MOD-BUS Data Cable ? 1 Pair, 18 AWG, Shielded, PVC Jacket
-⃁ 960.00
+ExTell – CAT6 U/UTP 23AWG LSZH Network Cable, Lilac, 305M
+⃁ 1,230.00
 Copper
-HUBBELL – NEXTSPEED Cat6 UTP Patch Cord, RJ45 to RJ45, 24 AWG, Blue
+BUINE NETWORKS – 6A UTP Keystone Jack Toolless
+⃁ 4.89
 Copper
-COMMSCOPE – GigaSPEED X10D? 360GS10E Solid LSZH CAT6A Patch Cord, WHITE, 10 FT (3M)
-⃁ 109.14
-Copper
-LEVITON Atlas-X1 Shielded QuickPort Jack ? Cat 6A, Green
-⃁ 150.00
-Adaptors
-HOME BEST – 13A Adaptor
-⃁ 28.00
+COMMSCOPE – SYSTIMAX? 360? Evolve 24-Port Modular Patch Panel, 1U, Flat, Category 5e/6/6A
 Cabinet Accessories
-LEVITON – 41A10-HCM – Cat 5e 110-Style Horizontal Cord Manager with Legs
+CABCOMM Fixed Shelf for 1000mm Depth rack
 CCTV
-VIVOTEK – AO-004 M12(D Code 4-Pin Male) to RJ45 Cable (60cm)
-⃁ 45.00
+QND-6072R
+CCTV
+VIVOTEK – SD9368-EHL 2MP AI PTZ Camera
+⃁ 8,561.00
+CCTV
+VIVOTEK – AM-71B Waterproof Conduit Box
+⃁ 180.00
 Shop and SAVE BIG
 on hottest camera
 SAVE
 $80.000
 Top 20
-Cabinet Accessories
-CABCOMM Fixed Shelf for 1000mm Depth rack
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-CABCOMM – Fan For Wall Mounted cabinet
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-LEVITON – 492RU-HFO VERSI-DUCT® Horizontal Cable Manager – 2RU, 3″ × 3″, Front Only, Black
-⃁ 360.00
-Quick View
-Wishlist
-Add to cart
-Cabinet Accessories
-CABCOMM Fixed Shelf for 800mm Depth rack
-Quick View
-Wishlist
-Add to cart
 Cabinet Accessories
 CABCOMM – 19″ Fixed Shelf, 600mm Depth, Perforated Steel Design
 ⃁ 100.00
@@ -441,6 +419,30 @@ Add to cart
 Cabinet Accessories
 LEGRAND – 646520 Linkeo 19″ Management Panel – 1U, 2-Axis
 ⃁ 128.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+CABCOMM Sliding shelf For 800mm Rack
+⃁ 220.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+NORDEN – Single Fan 220V
+⃁ 42.00
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+HPE – AP-303H-MNTD Desk Mount Kit
+⃁ 151.58
+Quick View
+Wishlist
+Add to cart
+Cabinet Accessories
+LEGRAND – Patch Panel Cat6 24 Port UTP Unloaded
+⃁ 168.00
 Quick View
 Wishlist
 Add to cart
@@ -499,71 +501,63 @@ Wishlist
 Add to cart
 Top Selling Product
 CCTV
-QNO-6072R
-⃁ 634.00
+HCD-7010RA
+⃁ 498.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – SD9384-EHL 5MP AI PTZ Camera
-⃁ 9,075.00
+VIVOTEK – AT-CAB-002 Side-Mount Bracket for HLG Series Power Supply
+⃁ 270.00
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-71C Waterproof Junction Box
-⃁ 180.00
+VIVOTEK – AM-529 Mounting Adapter for Speed Dome
+⃁ 262.50
 Quick View
 Wishlist
 Add to cart
 CCTV
-VIVOTEK – AM-21P Easy Installation Wall Mount Bracket
-⃁ 817.50
+VIVOTEK – AM-11F J-shape Mounting Bracket for Enclosure
+⃁ 262.50
 Quick View
 Wishlist
 Add to cart
 CCTV
-CP PLUS – CP-URC-DC51PL3C 5MP IR Analog HD Dome Camera
+CP PLUS 8MP Network Bullet Camera – 40Mtr IR , SD card, WDR
+⃁ 480.00 Original price was: ⃁480.00. ⃁ 408.00 Current price is: ⃁408.00.
 Quick View
 Wishlist
 Add to cart
 CCTV
-XRN-810S
-⃁ 3,720.00
+VIVOTEK – CC9390-HV 8MP Compact Panoramic AI Camera
+⃁ 1,548.25
 Quick View
 Wishlist
 Add to cart
 On-Sale Product
 Equipment’s
-HUAWEI – 1*GE WAN 4*GE LAN (PoE+ 50W)
+Huawei – Optical Transceiver, eSFP ,GE, Single-mode Module(1310nm,10km,LC)
+⃁ 145.00
 Quick View
 Wishlist
 Add to cart
 Equipment’s
-Huawei – eKitEngine AP361 Access Point
-⃁ 400.00 Original price was: ⃁400.00. ⃁ 238.20 Current price is: ⃁238.20.
-Quick View
-Wishlist
-Add to cart
-Accessories
-Huawei – SFP+STACK-CU0M5 0.5m Dedicated Stack Cable
-⃁ 255.00
+Huawei – AC650-512AP Gigabit Ethernet Switch
+⃁ 2,581.25
 Quick View
 Wishlist
 Add to cart
 Equipment’s
-Huawei eKitEngine – AP771 Outdoor Wi-Fi 7 Access Point
+Huawei eKitEngine – QSFP-100G-CU2M High-Speed Stack Cable
+⃁ 765.00
 Quick View
 Wishlist
 Add to cart
 Equipment’s
-Huawei eKitEngine – AP572 Indoor Wi-Fi 7 Dual-Radio Access Point
-Quick View
-Wishlist
-Add to cart
-Equipment’s
-Huawei – L2+ (static route), 24*10/100/1000BASE-T ports
-⃁ 1,500.00
+Huawei – 10*GE ports, 2*10GE SFP+ ports, built-in 256 license
+⃁ 2,250.00
 Quick View
 Wishlist
 Add to cart

@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -35,15 +35,15 @@ Karty sieciowe (85)
 Komputery (152)
 Kontrolery sieciowe (31)
 Media konwertery (76)
-Monitoring (315)
+Monitoring (319)
 Okablowanie (698)
 Platformy WLAN (2)
 Radiolinie (85)
 Routery (185)
 Routery ADSL (5)
-Światłowody (1706)
+Światłowody (1707)
 Switche (682)
-Szafy rack 10/19 cali (501)
+Szafy rack 10/19 cali (503)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
 Zasilanie (832)
@@ -53,7 +53,7 @@ MikroTik (406)
 Solarix (140)
 Teltonika (400)
 Tenda (175)
-TP-Link (479)
+TP-Link (483)
 Ubiquiti (805)
 ♻️ Towary refurbished (2)
 Wybierz producenta
@@ -196,12 +196,12 @@ Tenda (222)
 Tinycontrol (71)
 Tonze (1)
 TotoLink (23)
-TP-Link (581)
+TP-Link (585)
 Tracer (11)
 Tracom (45)
 Trans-Data (16)
 TrendNet (3)
-TriBrer (5)
+TriBrer (6)
 Triset (4)
 TVIP (1)
 Ubiquiti (865)
@@ -291,43 +291,44 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Wisnetworks WIS-L5818S Sector Base Station
-367,77 zł z VAT
-575,64 zł
-299,00 zł netto
+MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ)
+6 765,00 zł z VAT
+7 544,36 zł
+5 500,00 zł netto
 szt
-Najniższa cena z 30 dni: 575,64 zł
-Szafkowy zasilacz buforowy ZBF-R35D
-170,97 zł z VAT
-212,79 zł
-139,00 zł netto
-szt
-Najniższa cena z 30 dni: 212,79 zł
-TP-Link Deco M5, 2-pack
-576,87 zł z VAT
-612,98 zł
-469,00 zł netto
-szt
-Najniższa cena z 30 dni: 612,98 zł
+Najniższa cena z 30 dni: 7 544,36 zł
 WYPRZEDAŻ
-Uchwyt kablowy KO10, na przewód okrągły ø 10 mm
-4,92 zł z VAT
-9,84 zł
-4,00 zł netto
+MikroTik CRS125-24G-1S-2HnD-IN - obudowa RACK 19"
+72,57 zł z VAT
+196,80 zł
+59,00 zł netto
 szt
-Najniższa cena z 30 dni: 9,84 zł
-Sektor Tornado Pro 18 SV
-129,15 zł z VAT
-221,40 zł
-105,00 zł netto
+Najniższa cena z 30 dni: 196,80 zł
+Wisnetworks WIS-L5820S Sector Base Station
+479,70 zł z VAT
+719,55 zł
+390,00 zł netto
 szt
-Najniższa cena z 30 dni: 221,40 zł
-Daszek Orno OR-Dom-RL-901DN/G
-55,35 zł z VAT
-61,49 zł
-45,00 zł netto
+Najniższa cena z 30 dni: 719,55 zł
+WYPRZEDAŻ
+Uchwyt kablowy KP10/10, na przewód płaski 10x10 mm
+2,34 zł z VAT
+8,61 zł
+1,90 zł netto
 szt
-Najniższa cena z 30 dni: 61,49 zł
+Najniższa cena z 30 dni: 8,61 zł
+PowerWalker VI 1000 ERT HID, LCD Rack 19" (powystawowy)
+1 094,70 zł z VAT
+1 094,70 zł
+890,00 zł netto
+szt
+Najniższa cena z 30 dni: 1 094,70 zł
+Pigtail U.FL - N/m (20 cm)
+8,49 zł z VAT
+18,91 zł
+6,90 zł netto
+szt
+Najniższa cena z 30 dni: 18,91 zł
 Najnowsze propozycje
 NOWOŚĆ
 Obudowa hermetyczna słupowa 300x200x400 (HGF-30/20/40)
@@ -350,14 +351,28 @@ TP-Link EAP603-Outdoor
 412,99 zł netto
 szt
 NOWOŚĆ
+TP-Link VIGI adapter VJB-300
+157,50 zł z VAT
+128,05 zł netto
+szt
+NOWOŚĆ
+TP-Link VIGI adapter VMB-350
+138,25 zł z VAT
+112,40 zł netto
+szt
+NOWOŚĆ
 Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
-7 929,95 zł z VAT
-6 447,11 zł netto
+7 939,67 zł z VAT
+6 455,02 zł netto
 szt
 NOWOŚĆ
 Ubiquiti UniFi Protect Motion Sensor, 3-pack (USL-Motion-3)
 649,55 zł z VAT
 528,09 zł netto
+szt
+Uchwyt kablowy 40x60 (uniwersalny)
+3,49 zł z VAT
+2,84 zł netto
 szt
 Porównywarka
 Wybierz produkty do porównania
@@ -372,19 +387,4 @@ Koszty przesyłki:
 DHL: od 13 PLN (netto)
 FedEx: od 14.90 PLN (netto)
 Paczkomat: od 14 PLN (netto)
-Poczta: zgodnie z cennikiem
-Zlokalizuj przesyłkę DHL
-Zlokalizuj przesyłkę FedEx
-Zlokalizuj przesyłkę InPost
-Zlokalizuj Paczkę Pocztową
-DHL
-FedEx
-Poczta Polska
-PARTNER
-MikroTik
-Jesteśmy oficjalnym dystrybutorem firmy MikroTik.
-Posiadamy status:
-MikroTik Value Added Distributor.
-Ostatnio oglądane
-Subskrypcja
-Chcesz otrzymywać 
+Poczta: zgodnie z cenni

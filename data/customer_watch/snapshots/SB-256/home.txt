@@ -1,4 +1,4 @@
-# SB-256 tvprzemyslowa.pl · home · https://uniforce.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-256 tvprzemyslowa.pl · home · https://uniforce.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Uniforce - Elektroniczne systemy zabezpieczeń i drony
 zł
 Język i waluta:
@@ -6,7 +6,7 @@ pl | zł
 Dostawa do:
 Polska
 Waluta zł
-EUR (1 zł = 0.224EUR)
+EUR (1 zł = 0.2232EUR)
 Zastosuj zmiany
 Zaloguj się Listy zakupowe 0
 Dodaj do nich produkty, które lubisz i chcesz kupić później.
@@ -78,6 +78,14 @@ Zaloguj się Zarejestruj się Sprawdź status zamówienia
 Uniforce
 Dostarczamy nowoczesne rozwiązania z zakresu elektronicznych i optoelektronicznych systemów zabezpieczeń, bezzałogowych systemów latających (UAV), analityki obrazu oraz taktycznych systemów wizyjnych.
 Aktualności
+2026-11-26
+Wieża do monitoringu, drony i systemy monitoringu na Security Expo 2026
+Już w przyszłym tygodniu będziemy na Warsaw Security Expo – specjalistycznych targach branży systemów zabezpieczeń i ochrony, organizowanych w Ptak Warsaw Expo, największym centrum targowym w Europie Środkowej.
+Czytaj więcej
+2026-11-25
+Reconeyez zmienia nazwę na VOSKER Enterprise
+Po przejęciu w 2025 roku firmy Reconeyez przez VOSKER, kanadyjskiego producenta mobilnych systemów nadzoru wideo, system Reconeyez zmienia nazwę na VOSKER Enterprise. W tym artykule piszemy o tym, co to oznacza dla obecnych użytkowników systemu.
+Czytaj więcej
 2026-10-13
 Ascend 26: nowe funkcje dla Skydio X10D i premiera F10 Lightrunner
 Pod koniec września odbyła się tegoroczna konferencja Skydio Ascend 26. Amerykański producent podsumował dotychczasowy rozwój platform Skydio X10/X10D i R10 oraz przedstawił kolejną odsłonę płatowca F10. Obecnie ma ona nie tylko nietypowy system startu i lądowania, ale także ciekawy, asymetryczny kształt.
@@ -93,14 +101,6 @@ Czytaj więcej
 2026-06-17
 Zapraszamy na Granice 2026
 Już w przyszłym tygodniu w Lublinie będzie okazja, by zapoznać się z wybranymi produktami z oferty Uniforce. Na Targach Ochrony Granic GRANICE 2026 zaprezentujemy m.in. drona Martlet NXT, charakteryzującego się wyjątkowo długim, ok. 2-godzinnym, czasem lotu.
-Czytaj więcej
-2026-04-20
-Uniforce na Polsecure 2026
-Polsecure to najważniejsza impreza targowa przeznaczona dla funkcjonariuszy i pracowników takich służb jak Policja, Państwowa Straż Pożarna czy Służba Ochrony Państwa. Nie może tam zabraknąć Uniforce, jako dostawcy bezzałogowych systemów powietrznych i zaawansowanych systemów obserwacji i monitoringu.
-Czytaj więcej
-2026-03-02
-Orqa FPV – europejska platforma dronowa gotowa na realia współczesnego pola walki
-Drony FPV, będące jeszcze niedawno domeną hobbystów, w następstwie wojny w Ukrainie stały się pełnoprawną klasą wojskowych systemów bezzałogowych. Obecnie trudno wyobrazić sobie armię, która nie dysponowałaby tego typu sprzętem lub nie prowadziła programu mającego na celu wdrożenie go.
 Czytaj więcej
 Kontakt
 Kariera

@@ -1,4 +1,5 @@
-# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+Thu, 26 Nov 2026 09:33:45 +0000	Physical AI & Robotics: The Future of Industrial Computing | Aironix Systems	https://aironix.co.il/articles/physical-ai-robotics-the-future-of-industrial-computing-aironix-systems/
 Mon, 23 Nov 2026 08:36:33 +0000	CTC Union: Building Reliable Networks for Demanding Environments	https://aironix.co.il/articles/aironix-x-ctc-union-building-reliable-networks-for-demanding-environments/
 Tue, 17 Nov 2026 11:22:00 +0000	NEW!!!! VECOW SPC-8000	https://aironix.co.il/articles/new-vecow-spc-8000-ultra-compact-fanless-computing-for-edge-ai-and-industrial-applications/
 Mon, 16 Nov 2026 13:49:58 +0000	MOXA EDS-4000/G4000 Series: Secure and Resilient Industrial Networking	https://aironix.co.il/articles/moxa-eds-4000-g4000-series-secure-and-resilient-industrial-networking/
@@ -8,4 +9,3 @@ Wed, 11 Nov 2026 08:13:42 +0000	AIRONIX AT THE 2026 WINMATE VIP FORUM | SOLIDIFY
 Tue, 10 Nov 2026 09:18:20 +0000	VECOW + AIRONIX – STRENGTHENING PARTNERSHIPS. SHAPING THE FUTURE.	https://aironix.co.il/articles/vecow-aironix-strengthening-partnerships-shaping-the-future/
 Sun, 08 Nov 2026 11:05:55 +0000	VECOW TGS-2000 – THE NEXT GENERATION OF EDGE AI IS HERE.	https://aironix.co.il/articles/vecow-tgs-2000-the-next-generation-of-edge-ai-is-here/
 Sun, 18 May 2025 13:30:39 +0000	ORing & AIRONIX – Industrial Networking That Lasts	https://aironix.co.il/articles/oring-aironix-industrial-networking-that-lasts/
-Sun, 27 Apr 2025 12:22:19 +0000	Arestech’s IP66/IP69K Panel PC’s	https://aironix.co.il/articles/arestechs-ip66-ip69k-panel-pc/

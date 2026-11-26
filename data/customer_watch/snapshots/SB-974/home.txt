@@ -1,4 +1,4 @@
-# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-974 b-plus.com · home · https://www.b-plus.com/de/home · fetched 2026-11-26T11:08:06Z · HTTP 200
 Die b-plus Gruppe ist Wegbereiter für neue Moblität seit 1996
 DE EN
 Suche
@@ -103,6 +103,8 @@ Classic ECU Development
 Validierung & Verifikation
 Mobile Automatisierung
 NEWS
+25.11.2026
+b-plus stellt neues b-ISOBUS IO Gateway Plus für Anbaugeräte ohne eigene Steuerung vor
 Erstellt von Christian Wolf
 |
 19.11.2026
@@ -113,10 +115,6 @@ Erstellt von Robert Pletz
 jbDATA erfolgreich abgeschlossen
 18.09.2026
 b-plus erneut als Bronze Sponsor beim AEF European Plugfest 2026
-Erstellt von Robert Pletz
-|
-31.08.2026
-CONiX Testfleet 3.10 mit neuem Recordings-Feature
 EVENTS
 Automotive Ethernet Congress
 Di 23.02.2027
@@ -143,12 +141,12 @@ Di 25.05.2027
 -
 Mi 26.05.2027
 Svenska Mässan, Göteborg
-Intelligent Vehicle Expo
+Automotive Testing Expo
 Mi 02.06.2027
 -
 Do 03.06.2027
 Messegelände, Stuttgart
-Automotive Testing Expo
+Intelligent Vehicle Expo
 Mi 02.06.2027
 -
 Do 03.06.2027

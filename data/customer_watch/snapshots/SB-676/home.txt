@@ -1,7 +1,7 @@
-# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-676 pctedarik.com · home · https://pctedarik.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Toptan Harddisk - Toptan Güvenlik Kamerası - Toptan Bilgisayar
-$: 50,70 TL
-€: 55,40 TL
+$: 50,72 TL
+€: 55,48 TL
 Bayi Giriş
 Bayimiz Olun
 İletişim
@@ -152,15 +152,24 @@ Bayi Girişi
 Bayimiz Olun
 Hakkımızda
 Bize Ulaşın
-1156,06 TL
+1156,42 TL
 1
 Hdmi Video Capture Type-C + Usb3.0 4K 30Hz Gri
 1 Adet x 22,80 $
 Toplam:
-1156,06 TL
+1156,42 TL
 SEPETİME GİT
 ALIŞVERİŞE BAŞLA
 TÜM ÜRÜNLER
+Harddisk Ailesi
+PC Harddiskler
+Notebook Harddiskleri
+SSD Hardiskler
+Harici Harddiskler
+Sas Harddiskler
+MSATA Hardisk
+Depolama Üniteleri
+Harddisk Aparatı
 Güvenlik Ürünleri
 AHD Kayıt Cihazı
 IP Kayıt Cihazı
@@ -172,7 +181,7 @@ Ip Dome Kamera
 Analog Kamera
 Speed Dome PTZ
 Bebek Kamerası
-Araç Dvr
+Araç Kamera Dvrları
 Server Kabinler
 Kabin Aksesuar
 Poe Switch
@@ -183,13 +192,78 @@ Kamera Mikrofon
 CCTV Kablolar
 Metal Adaptörler
 Kamera Buat
-Alarm Ürünleri
 Turnike Geçiş Sistemleri
 Kablo Kanalı
 Kamera Setleri
 Solar Kamera Sistemleri
 Kablosuz Wifi Kameralar
-Ses ve Görüntü
+Network Ürünleri
+Modemler
+Access Pointler
+Wireless Adaptörleri
+Router
+Hub Switchler
+Kvm Switch
+Ethernet Kartı
+Fiber Aksesuar
+Rj45 Parçaları
+Network Kablosu
+Alarm Ürünleri
+Alarm Setleri
+Siren
+Manyetik Kontak
+Pır Dedektörü
+Aksesuarlar
+Yangın Algılama
+Yangın Panelleri
+Yangın Dedektörleri
+Yangın Butonları
+Yangın Sirenleri
+Yangın Kablo
+Yangın Aküleri
+Sarf Malzemeler
+Notebook Soğutucu
+Notebook Yedek Parça
+Notebook Adaptör
+Ses Kabloları
+HDMI Aksesuarı
+Vga Kablo
+Power Ürünleri
+Scart Ürünleri
+USB Kablo Aks
+Çantalar Kılıflar
+Hdmı Kablolar
+Vga Kablo
+Kokusuz Küllük
+M2M Data Hattı
+Fan Soğutucular
+Yazıcı Şeritleri
+Kartuş Tonerler
+Kişisel Bilgisayarlar
+Notebooklar
+Masaüstü Pc
+All in One PC
+Tabletler
+Bilgisayar Bileşenleri
+İşlemciler
+Anakartlar
+Ekran Karttı
+Ram Bellek
+Optik Sürücüler
+Power Supply
+Bilgisayarı Kasası
+Monitörler
+Yazılım
+Oyuncu Mousları
+Mouse Pad
+Klavye
+Klavye Mouse Setleri
+Mikrofonlu Kulaklıklar
+Speakerlar
+Pc Kamera
+Ups Cihazı
+Yazıcı - Printer
+Tüketici Elektroniği
 Televizyonlar
 Projeksiyonlar
 Ses Sistemleri
@@ -212,12 +286,7 @@ Aydınlatma Ürünleri
 Hesap Makinesi
 Tabela Led Poster İç Ortam
 Tabela Led Poster Dış Ortam
-Bilgisayar ve Ağ
-Notebooklar
-Masaüstü Pc
-All in One PC
-Tabletler
-Ev Aletleri ve Bakım
+Diğer Ürünler
 Motosiklet Ürünleri
 Otomobil Ürünleri
 Anne ve Bebek
@@ -226,19 +295,43 @@ Kozmetik Ürünleri
 Kayan Yazı LED
 Oto Aksesuar
 Solar Enerji Sistemleri
-Telefon Aksesuarları
-Yangın Panelleri
-Yangın Dedektörleri
-Yangın Butonları
-Yangın Sirenleri
-Yangın Kablo
-Yangın Aküleri
-Oto ve Motosiklet
-Araç Kameraları
-Carplay ve Multimedya
-Kask Kulaklıkları ve İnterkomlar
-Aksiyon Kameraları
-Hediye ve Promosyon
+Harddisk Ailesi
+PC Harddiskler
+Notebook Harddiskleri
+SSD Hardiskler
+Harici Harddiskler
+Sas Harddiskler
+MSATA Hardisk
+Depolama Üniteleri
+Harddisk Aparatı
+Güvenlik Ürünleri
+AHD Kayıt Cihazı
+IP Kayıt Cihazı
+IP Kayıt Cihazı POE li
+AHD Bullet Kameralar
+AHD Dome Kamera
+IP Bullet Kamera
+Ip Dome Kamera
+Analog Kamera
+Speed Dome PTZ
+Bebek Kamerası
+Araç Kamera Dvrları
+Server Kabinler
+Kabin Aksesuar
+Poe Switch
+Poe Enjektörleri
+Kapı Zilleri
+Konnektörler
+Kamera Mikrofon
+CCTV Kablolar
+Metal Adaptörler
+Kamera Buat
+Turnike Geçiş Sistemleri
+Kablo Kanalı
+Kamera Setleri
+Solar Kamera Sistemleri
+Kablosuz Wifi Kameralar
+Network Ürünleri
 Modemler
 Access Pointler
 Wireless Adaptörleri
@@ -249,7 +342,20 @@ Ethernet Kartı
 Fiber Aksesuar
 Rj45 Parçaları
 Network Kablosu
-Ev ve Mutfak
+Alarm Ürünleri
+Alarm Setleri
+Siren
+Manyetik Kontak
+Pır Dedektörü
+Aksesuarlar
+Yangın Algılama
+Yangın Panelleri
+Yangın Dedektörleri
+Yangın Butonları
+Yangın Sirenleri
+Yangın Kablo
+Yangın Aküleri
+Sarf Malzemeler
 Notebook Soğutucu
 Notebook Yedek Parça
 Notebook Adaptör
@@ -267,7 +373,12 @@ M2M Data Hattı
 Fan Soğutucular
 Yazıcı Şeritleri
 Kartuş Tonerler
-Oyun ve Oyuncak
+Kişisel Bilgisayarlar
+Notebooklar
+Masaüstü Pc
+All in One PC
+Tabletler
+Bilgisayar Bileşenleri
 İşlemciler
 Anakartlar
 Ekran Karttı
@@ -286,45 +397,7 @@ Speakerlar
 Pc Kamera
 Ups Cihazı
 Yazıcı - Printer
-Hırdavat ve Kamp
-PC Harddiskler
-Notebook Harddiskleri
-SSD Hardiskler
-Harici Harddiskler
-Sas Harddiskler
-MSATA Hardisk
-Depolama Üniteleri
-Harddisk Aparatı
-Aydınlatma ve Elektrik
-Güvenlik Ürünleri
-AHD Kayıt Cihazı
-IP Kayıt Cihazı
-IP Kayıt Cihazı POE li
-AHD Bullet Kameralar
-AHD Dome Kamera
-IP Bullet Kamera
-Ip Dome Kamera
-Analog Kamera
-Speed Dome PTZ
-Bebek Kamerası
-Araç Dvr
-Server Kabinler
-Kabin Aksesuar
-Poe Switch
-Poe Enjektörleri
-Kapı Zilleri
-Konnektörler
-Kamera Mikrofon
-CCTV Kablolar
-Metal Adaptörler
-Kamera Buat
-Alarm Ürünleri
-Turnike Geçiş Sistemleri
-Kablo Kanalı
-Kamera Setleri
-Solar Kamera Sistemleri
-Kablosuz Wifi Kameralar
-Ses ve Görüntü
+Tüketici Elektroniği
 Televizyonlar
 Projeksiyonlar
 Ses Sistemleri
@@ -347,12 +420,7 @@ Aydınlatma Ürünleri
 Hesap Makinesi
 Tabela Led Poster İç Ortam
 Tabela Led Poster Dış Ortam
-Bilgisayar ve Ağ
-Notebooklar
-Masaüstü Pc
-All in One PC
-Tabletler
-Ev Aletleri ve Bakım
+Diğer Ürünler
 Motosiklet Ürünleri
 Otomobil Ürünleri
 Anne ve Bebek
@@ -361,76 +429,6 @@ Kozmetik Ürünleri
 Kayan Yazı LED
 Oto Aksesuar
 Solar Enerji Sistemleri
-Telefon Aksesuarları
-Yangın Panelleri
-Yangın Dedektörleri
-Yangın Butonları
-Yangın Sirenleri
-Yangın Kablo
-Yangın Aküleri
-Oto ve Motosiklet
-Araç Kameraları
-Carplay ve Multimedya
-Kask Kulaklıkları ve İnterkomlar
-Aksiyon Kameraları
-Hediye ve Promosyon
-Modemler
-Access Pointler
-Wireless Adaptörleri
-Router
-Hub Switchler
-Kvm Switch
-Ethernet Kartı
-Fiber Aksesuar
-Rj45 Parçaları
-Network Kablosu
-Ev ve Mutfak
-Notebook Soğutucu
-Notebook Yedek Parça
-Notebook Adaptör
-Ses Kabloları
-HDMI Aksesuarı
-Vga Kablo
-Power Ürünleri
-Scart Ürünleri
-USB Kablo Aks
-Çantalar Kılıflar
-Hdmı Kablolar
-Vga Kablo
-Kokusuz Küllük
-M2M Data Hattı
-Fan Soğutucular
-Yazıcı Şeritleri
-Kartuş Tonerler
-Oyun ve Oyuncak
-İşlemciler
-Anakartlar
-Ekran Karttı
-Ram Bellek
-Optik Sürücüler
-Power Supply
-Bilgisayarı Kasası
-Monitörler
-Yazılım
-Oyuncu Mousları
-Mouse Pad
-Klavye
-Klavye Mouse Setleri
-Mikrofonlu Kulaklıklar
-Speakerlar
-Pc Kamera
-Ups Cihazı
-Yazıcı - Printer
-Hırdavat ve Kamp
-PC Harddiskler
-Notebook Harddiskleri
-SSD Hardiskler
-Harici Harddiskler
-Sas Harddiskler
-MSATA Hardisk
-Depolama Üniteleri
-Harddisk Aparatı
-Aydınlatma ve Elektrik
 Daha Fazla Kategori
 Fırsat Ürünleri
 %60
@@ -456,6 +454,62 @@ AKUSTİK TELEFON TUTACAGI GRAMOFON
 İndirimli Ürünler
 Tümünü İncele
 %0
+BİX PS60K ŞARJ İSTASYONU
+1
+Sepete Ekle
+%0
+BİX EDGE1 AKSİYON KAMERASI
+1
+Sepete Ekle
+%0
+YILAN KAMERA 5 Metre
+20+
+Sepete Ekle
+%0
+OTOMATİK AEROSOL YANGIN SÖNDÜRME CİHAZI - YANGIN SÖNDÜRÜCÜ
+20+
+Sepete Ekle
+%0
+G13 PRO MİNİ RETRO DİJİTL KAMERA 1080P - ÇİFTLENSLİ DÖNER EKRAN
+5
+Sepete Ekle
+%0
+FRENZİ ŞARJLI SU TABANCASI
+20+
+Sepete Ekle
+%0
+FL-2055 4+2W Çift Renkli Panel
+20+
+Sepete Ekle
+%0
+FL-2057 17+6W Çift Renkli Panel
+20+
+Sepete Ekle
+%0
+12W YUVARLAK SIVA ÜSTÜ LED PANEL
+20+
+Sepete Ekle
+%0
+6W YUVARLAK SIVA ÜSTÜ LED PANEL
+20+
+Sepete Ekle
+%0
+YCL YMA-1030 1.5W MAT KROM SIVA ALTI KARE LED MERDİVEN ARMATÜRÜ
+20+
+Sepete Ekle
+%0
+YCL YMA-1020 1.5W MAT KROM SIVA ALTI KARE LED MERDİVEN ARMATÜRÜ
+20+
+Sepete Ekle
+%0
+FORLIFE FL-1837 5W DUBAI KRİSTAL CAM SPOT
+20+
+Sepete Ekle
+%0
+DAHUA 27" LM27-U200PM 1920x1080 HDMI/USB3.0 6GB/128GB ANDROID SMART MONITOR +WIFI +SPEAKER +PIVOT
+1
+Sepete Ekle
+%0
 Philips G314 Işıklı Kablolu Oyuncu Mouse
 5+
 Sepete Ekle
@@ -478,62 +532,6 @@ Sepete Ekle
 %0
 GECE LAMBASI KANGURU DOKUNMATİK
 20+
-Sepete Ekle
-%0
-O-KAM 3023 3MP WIFI PTZ KAMERA 3.5'' 23 PCS DUAL LİGHT LED
-20+
-Sepete Ekle
-%0
-O-KAM 6015 6MP Dual Lens Wifi PTZ Cameras, 3.5 inch Dual Screen Image, 15Pcs Leds Dual Light
-20+
-Sepete Ekle
-%0
-O-KAM 4047 4MP Dual Lens Wifi PTZ Cameras, 2.5 inch Dual Screen Image, 7Pcs Leds Dual Light
-20+
-Sepete Ekle
-%0
-Everest EWR-N501 300Mbps 2.4GHz 1*WAN+1*LAN+WPS Router+AP+Repeater Wifi Range Extender
-4
-Sepete Ekle
-%0
-GV ADP FUJIA - unitech 12V 2A ADAPTÖR 2 AMPER TEYP FİŞLİ PLASTİK
-20+
-Sepete Ekle
-%0
-O-KAM 3037 6MP WIFI PTZ KAMERA
-2
-Sepete Ekle
-%0
-Nood The Flasher 2.0 IPL Tüy Azaltma Epilasyon Cihazı - Beyaz
-20+
-Sepete Ekle
-%0
-HIKVISION DS-2CD1043G2-LIUF 4MP 2.8MM LENS IP BULLET KAMERA
-10+
-Sepete Ekle
-%0
-O-KAM 3014 6MP Dual Lens Wifi Kamera
-20+
-Sepete Ekle
-%0
-O-KAM 9090 4G Solar Camera 6MP Dual Lens Alert PTZ (KOLİ 12 ADET)
-0
-Sepete Ekle
-%0
-AIO PC Turbox TAx1525 i5 9400 16GB DDR4 256GB SSD 23.8" All In One Bilgisayar ( B250 )
-0
-Sepete Ekle
-%0
-WİRELESS POWERBANK PROMASYON 10.000MAH GP180
-20+
-Sepete Ekle
-%0
-Avenir Av-c231 Siyah 1080p Araç Içi 3 Kameralı Lcd Ekranlı Gece Görüşlü , G-sensör , Geri Görüş Kamera
-20+
-Sepete Ekle
-%0
-O-KAM 3920 4G Solar Camera 6MP Dual Lens Alert PTZ
-3
 Sepete Ekle
 Çok Satılanlar
 PC HD 500GB 3.5 HARDDİSK
@@ -579,20 +577,20 @@ Notebook Harddiskleri
 12 Ürün
 AHD Bullet Kameralar
 13 Ürün
-Solar Kamera Sistemleri
-6 Ürün
 IP Kayıt Cihazı
 16 Ürün
+Solar Kamera Sistemleri
+6 Ürün
 Küçük Ev Aletleri
 67 Ürün
 Speed Dome PTZ
 32 Ürün
 Hobi Oyuncak
 15 Ürün
-Tabletler
-10 Ürün
 Poe Switch
 17 Ürün
+Tabletler
+10 Ürün
 POPÜLER KATEGORİLER
 PC Harddiskler
 Harici Harddiskler
@@ -602,13 +600,13 @@ AHD Kayıt Cihazı
 Monitörler
 Notebook Harddiskleri
 AHD Bullet Kameralar
-Solar Kamera Sistemleri
 IP Kayıt Cihazı
+Solar Kamera Sistemleri
 Küçük Ev Aletleri
 Speed Dome PTZ
 Hobi Oyuncak
-Tabletler
 Poe Switch
+Tabletler
 MÜŞTERİ HİZMETLERİ
 Gizlilik ve Güvenlik
 Mesafeli Satış Sözleşmesi

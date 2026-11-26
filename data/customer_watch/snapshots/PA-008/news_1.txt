@@ -1,4 +1,4 @@
-# PA-008 Aspectis Informatikai és Biztonságtechnikai Kft. · news_1 · https://aspectis.hu/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
+# PA-008 Aspectis Informatikai és Biztonságtechnikai Kft. · news_1 · https://aspectis.hu/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
 Blog
 Márkáink
 Megoldásaink
@@ -25,21 +25,21 @@ Amennyiben tanácsra van szüksége, bátran vegye igénybe díjmentes konzultá
 Márkáink
 Szolgáltatásaink
 Blog
+Növeld a 2N IP Verso tartósságát
+2026. 11. 25.
+A 2N a 3 modulos 2N IP Verso 2.0 (és 2N IP Verso) készülékekhez tervezett új védőtetővel bővíti kiegészítő-portfólióját. Ezzel egy időben a gyártó a 2 modulos védőtetőt is további telepítési lehetőségekkel egészíti ki, hogy még nagyobb rugalmasságot biztosítson a projektekhez.
+A tűzfaltól a kerítésig: többrétegű megközelítés az adatközpontok biztonságában - Blog by Hanwha...
+2026. 11. 25.
+Az adatközpontok a digitális gazdaság legfontosabb nemzeti infrastruktúrái közé emelkednek. Ahogy a mesterséges intelligencia, a felhőalapú számítástechnika és a hálózatba kapcsolt szolgáltatások növelik a számítási kapacitás iránti igényt, minden eddiginél több adatot tárolunk.
+Új AXIS OS 13
+2026. 11. 25.
+Az AXIS OS 13 új szintre emeli a kiberbiztonságot és a rendszerintegrációt!
 Biztonság kompromisszumok nélkül: 5 módszer, amellyel a 2N kezeli a kiberbiztonsági kockázatokat...
 2026. 10. 29.
 A kiberbiztonság ma már minden fizikai biztonsági projekt elengedhetetlen részévé vált. Legyen szó egy lakópark kaputelefon-rendszerének tervezéséről, egy irodaház beléptetőrendszerének kezeléséről vagy a biztonsági technológia több helyszínen történő kiépítéséről, a piaci elvárások gyökeresen megváltoztak.
 Megérkezett a Milestone XProtect 2026 R2
 2026. 10. 29.
 A Milestone Systems bemutatta a Milestone XProtect 2026 R2 videómenedzsment-szoftverét (VMS), amely jelentős újításokat hoz a mindennapi biztonsági műveletek hatékonyságában és a nagyméretű rendszerek kezelésében.
-Megújult Milestone Solution Designer
-2026. 9. 28.
-A megfelelő videótechnológiai megoldás megtervezése jóval a telepítés előtt elkezdődik. A Milestone Solution Designer segít a felhasználóknak az infrastruktúra-követelmények ellenőrzésében, a rendszererőforrások megbecslésében, valamint a megbízható megoldástervek magabiztos elkészítésében.
-Megerősített integráció a 2N megoldásai és a Milestone XProtect rendszer között
-2026. 9. 28.
-A 2N és a Milestone integrációja egyesíti a beléptetőrendszert és a videófelügyeletet a Milestone XProtect szoftverben.
-Axis rendszámfelismerő megoldások
-2026. 9. 14.
-Az utóbbi időben a videó analitikák nagy része a kamerák erőforrásainak rohamos növekédésének köszönhetően átköltözött szerver oldalról magára a kamerákra. Az egyik legnépszerűbb alkalmazás a rendszámfelismerés, amely terén az Axis a megszokott magas minőségben kínál komplett megoldásokat!
 1
 2
 3

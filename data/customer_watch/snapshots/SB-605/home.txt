@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -49,7 +49,7 @@ Otevřeno do
 Chotěboř
 Otevřeno do
 Jevíčko
-Otevíráme za 15 minut
+Otevíráme za 35 minut
 Kladno
 Otevřeno do
 Kroměříž
@@ -90,7 +90,7 @@ Otevřeno do
 Velké Meziříčí
 Otevřeno do
 Vysoké Mýto
-Otevřeno do
+Otevíráme za 5 minut
 Zábřeh
 Otevřeno do
 Zastávka u Brna
@@ -135,8 +135,8 @@ Stropní interiérová svítidla
 Užitková svítidla interiérová
 Zápustná, vestavná interiérová svítidla
 Závěsná interiérová svítidla
-Ostatní interiérová svítidla
 Náhradní díly ke svítidlům
+Ostatní interiérová svítidla
 Kancelářská svítidla
 Downlight svítidla
 Přisazená/závěsná svítidla
@@ -170,8 +170,8 @@ Příslušenství k nouzovým svítidlům
 Průmyslová svítidla
 Do prostředí s nebezpečím výbuchu (Ex)
 LED průmyslová svítidla
-Žárovková svítidla
 Zářivková svítidla
+Žárovková svítidla
 Příslušenství a náhradní díly pro průmyslová svítidla
 Přenosná svítidla
 LED reflektory přenosné
@@ -199,10 +199,10 @@ Stožárové výzbroje
 Příslušenství a náhradní díly pro veřejné osvětlení
 Příslušenství a komponenty svítidel
 Ostatní příslušenství a komponenty svítidel
+Předřadníky
 Armatury a skla
 Kondenzátory
 Systémy řízení osvětlení
-Předřadníky
 Objímky a patice
 Další kategorie
 Tlumivky
@@ -220,9 +220,9 @@ Vánoční a dekorativní osvětlení
 Další kategorie
 LED pásky a příslušenství výprodej
 Lištový systém
-Reflektorová svítidla
 Kancelářská svítidla výprodej
 Průmyslová svítidla
+Reflektorová svítidla
 Nouzová svítidla
 Příslušenství a komponenty svítidel
 Lištový systém 3F vč. příslušenství
@@ -472,6 +472,11 @@ Chytré vytápění
 Chytré zabezpečení
 Centrální jednotky a startovací kity
 Příslušenství pro chytrou domácnost
+Chytrá domácnost SOMFY
+Chytrá domácnost
+Vrata a brány
+Ovladače a čidla
+Zabezpečení
 ABB-free@home
 PocketHOme
 Chytrá domácnost AQARA
@@ -487,12 +492,12 @@ Pohony vrat a bran
 Pro dvoukřídlá vrata
 Příslušenství k pohonům vrat
 Pro posuvná vrata
-Chytré zámky Nuki
-Chytré termostaty tado°
 Chytrá domácnost Sonoff
 Inteligentní ovládání
 Home Assistant
 Chytrá domácnost Homey
+Chytré zámky Nuki
+Chytré termostaty tado°
 iNELS Smart Home
 Chytrá domácnost Shelly
 Chytré jističe
@@ -580,9 +585,4 @@ Regulace tlaku - manostaty
 Regulace teploty - termostaty
 Regulace vlhkosti
 Čidla tlaku
-Další kategorie
-Čidla teploty
-Čidla vlhkosti
-Čidla kvality vzduchu
-Průtok a hladina
-Ostatní regul
+Další

@@ -1,4 +1,4 @@
-# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-1005 asit.it · news_1 · https://www.asit.it/blog/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Blog – Asit Online Store Skip to content Asit Online Store
 Innovation Delivered
 Registrati
@@ -392,6 +392,7 @@ Fujikura
 Hisense
 Humly
 Imagicle
+Infortrend
 Jabra
 JBF
 Leviton
@@ -413,7 +414,6 @@ Snom
 R&M
 watchguard
 Yealink
-Wyebot
 Huawei
 Copyright 2016 Asit SpA. P. Iva 06221270017 - Sede Via Goretta 90/F 10079 Mappano (TO) - Registro AEE IT22010000013576 - Capitale Sociale €250.000 interamente versato | Condizioni di vendita
 Cabling & Datacenter Sistemi di cablaggio strutturato Soluzioni in rame
@@ -484,4 +484,4 @@ Controllo Accessi Reader
 Videocitofoni
 Accessori Controllo Accessi
 Back
-A/V Soluzioni Video Commercia
+A/V Soluzioni Video Comme

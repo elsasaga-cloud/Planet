@@ -1,4 +1,4 @@
-# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-784 sklep-bcs.pl · home · https://www.sklep-bcs.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 BCS - telewizja przemysłowa, cctv, monitoring, kamery przemysłowe
 x
 Ładowanie ...
@@ -203,31 +203,33 @@ BCS-L-NVR3202-A-4KE(2) BCS Line rejestrator IP dwudyskowy 32 ...
 Do koszyka
 2 039,71 zł
 pokaż więcej
-BCS-MON7400B-S BCS Line wideomonitor głośnomówiący 7"
+BCS-B-SP08G02G BCS Basic switch PoE 10 portowy (8xPoE Gigabit,...
+453,00 zł
 Do koszyka
-1 519,00 zł
-BCS-B-NVR0801-8P(2.0) BCS Basic rejestrator 8 kanałowy IP PoE ...
+363,10 zł
+BCS-P-NVR0401-4KE-4P-III BCS Point sieciowy rejestrator 4 kanałowy ...
 Do koszyka
-694,00 zł
+731,00 zł
+BCS-UPS/IP4/E-S System zasilania buforowego PoE do 4 kamer i ...
+Do koszyka
+1 184,00 zł
 BCS-L-EIP12FSR3-AI1 BCS Line kamera kopułowa IP 2Mpx IR 30M
 Do koszyka
 906,00 zł
-BCS-L-TIP16FCR3L3 BCS Line kamera tubowa IP NightColor 6Mpx LED ...
-Do koszyka
-921,00 zł
-BCS-L-EIP16FCR3L3-AI kamera kopułowa IP 6Mpx NightColor mikrofon ...
-1 014,00 zł
-Do koszyka
-379,00 zł
 BCS-P-TIP28FCL3-Ai1 BCS Point kamera tubowa IP 8Mpx WDR LED 30m ...
 Do koszyka
 1 150,00 zł
-BCS-L-TIP14FCR3L3-AI1 BCS Line kamera tubowa IP NightColor 4Mpx ...
-1 511,00 zł
+BCS-PAN1320B-S BCS Line Jednorodzinny panel zewnętrzny TCP IP ...
+1 100,00 zł
 Do koszyka
-599,00 zł
-BCS-L-TIP14FCL5-Ai1 BCS Line kamera tubowa IP NightColor 4Mpx ...
-Zobacz warianty
+770,60 zł
+BCS-P-NVR0401-4KE-III BCS Point sieciowy rejestrator 4 kanałowy ...
+478,00 zł
+Do koszyka
+235,00 zł
+BCS-IP4/Z/E-S System zasilania do 5 kamer IP ze switchem PoE ...
+Do koszyka
+847,00 zł
 BCS-L-EIP14FSR3L3-AI BCS Line kamera kopułowa IP 4Mpx LED 30M ...
 904,00 zł
 Do koszyka
@@ -256,7 +258,7 @@ Do koszyka
 519,00 zł
 pokaż więcej
 Aktualności
-5 dni temu, 2026-11-20 Black Week 2026: Kod rabatowy -10% na cały monitoring
+6 dni temu, 2026-11-20 Black Week 2026: Kod rabatowy -10% na cały monitoring
 Łącz okazje i kupuj sprzęt BCS jeszcze taniej! W dniach 20–30.11.2026 r. odbierz rabat -10% na całe zamówienie od 1 zł. Użyj kodu BLACKWEEK2026 podczas finalizacji zakupów.
 Czytaj więcej
 wtorek, 19 maja 2026r. Jaka kamera do monitoringu w nocy sprawdzi się najlepiej? Test BCS NightColor

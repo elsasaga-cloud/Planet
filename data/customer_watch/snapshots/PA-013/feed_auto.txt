@@ -1,4 +1,5 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-25T11:29:08Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-26T11:08:06Z · HTTP 200
+25.11.2026 15:40:23	Apto Kabelhylle Sort, 90cm	https://www.leteng.no/apto-plus/3053-0000-9005/apto-kabelhylle-sort-90cm
 24.11.2026 12:11:23	EFB M6 Skruesett for Rack	https://www.leteng.no/efb-elektronik/691100hq/efb-m6-skruesett-for-rack-pose-med-50-sett
 24.11.2026 12:06:35	EFB Network Tool Set	https://www.leteng.no/efb-elektronik/39919-dot-1v2/efb-network-tool-set-rj11-rj12-rj45
 23.11.2026 15:59:17	Aten KVM-IP Switch 32-Port Cat5	https://www.leteng.no/aten/kn2132vb-ax-g/aten-kvm-ip-switch-32-port-cat5-1x-local-2x-ip-vm
@@ -98,4 +99,3 @@
 10.09.2026 15:08:52	Strømkabel C5 C14 - 1,0 m	https://www.leteng.no/act/ak5433/str%c3%b8mkabel-c5-c14-1-0-m-3x0-75mm-max-2-dot-5a-sort-mikke-mus
 10.09.2026 15:05:32	Strømkabel C5 C14 - 0,5 m	https://www.leteng.no/act/ak5218/str%c3%b8mkabel-c5-c14-0-5-m-3x0-75mm-max-2-dot-5a-sort-mikke-mus
 10.09.2026 15:00:36	Strømkabel C13 C14 - 3,0 m	https://www.leteng.no/act/ak5111/str%c3%b8mkabel-c13-c14-3-0-m-3x0-75mm-bl%c3%a5
-10.09.2026 14:58:03	Strømkabel C13 C14 - 1,8 m	https://www.leteng.no/act/ak5110/str%c3%b8mkabel-c13-c14-1-8-m-3x0-75mm-bl%c3%a5

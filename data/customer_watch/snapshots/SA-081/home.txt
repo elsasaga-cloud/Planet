@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,36 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
+Esaurito
+Armadi 800x800
+Armadio Rack a Pavimento 22U 800×800 Porta in Vetro RAL 9004 | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Patch Cord Cat 6
+4Net Patch Cord Cat 6 U/UTP 3 m LSZH verde | CP06UTP30V
+Esegui l'accesso per visualizzare i prezzi
++
+Armadi 600x1000
+Armadio Rack a Pavimento 42U 600×1000 Porta in Vetro RAL 9004 | 4Net
+Esegui l'accesso per visualizzare i prezzi
++
+Unmanaged
+Media Converter 10/100/1000T A 1000Lx (Sc, Sm) -60Km
+Esegui l'accesso per visualizzare i prezzi
++
+Kit Montaggio Rack
+Coppia Alette Per Montaggio Rack 19” Blu Scuro
+Esegui l'accesso per visualizzare i prezzi
++
+48V DC
+4Net 4N-PWR480-48: alimentatore industriale 48 V 480 W su guida DIN
+Esegui l'accesso per visualizzare i prezzi
++
 Passacavi, Pannelli ciechi e Barra di alimentazione
 Canalina Alimentazione 6 Prese + Interruttore Luminoso
 Esegui l'accesso per visualizzare i prezzi
 +
-Loose Armato Metallico MDPE OM4
-6 F.O. 50/125 Om4 Loose Armatura Metallica Esterno Clt Monotubo
-Esegui l'accesso per visualizzare i prezzi
-+
-Armadi con porta grigliata
-Armadio Rack a Parete 19″ 15U 600×450 Ventilato Porta Grigliata RAL 9004 | 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-1 GB
-PLANET MGB-TSA: SFP 1000BASE-BX WDM multimode 2 km TX1310/RX1550, -40~85 °C
-Esegui l'accesso per visualizzare i prezzi
-+
-L3
-PLANET IGS-6325-20T4C4X: switch industriale L3 20 Gigabit + 4 combo + 4 SFP+ 10G
-Esegui l'accesso per visualizzare i prezzi
-+
-Armadi 600x1000
-Armadio Rack a Pavimento 37U 600×1000 Porta Grigliata Alta Densità Doppia Anta | 4Net
-Esegui l'accesso per visualizzare i prezzi
-+
-Patch Cord Cat 6A
-4Net Patch Cord Cat 6A U/UTP 5 m LSZH grigio | CP6AUUTP50G
-Esegui l'accesso per visualizzare i prezzi
-+
-Loose Dielettrico MDPE OM3
-12 Fo 50/125 Om3 Loose Dielettrico Guaina Pe
+10 GB
+PLANET MTB-TLA20: SFP+ 10GBASE-BX single-mode 20 km TX1270/RX1330, -40~85 °C
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta

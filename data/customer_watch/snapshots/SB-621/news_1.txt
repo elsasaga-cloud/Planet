@@ -1,5 +1,6 @@
-# SB-621 lanshack.com · news_1 · https://www.lanshack.com/Resources/Articles · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-621 lanshack.com · news_1 · https://www.lanshack.com/Resources/Articles · fetched 2026-11-26T11:08:06Z · HTTP 200
 Articles
+CLOSED November 26th & 27th · Have a safe and happy Thanksgiving!
 Custom Cable Manufacturing in the USA Since 1997
 Home of
 ISO 9001:2015 Certified
@@ -615,6 +616,7 @@ Corning Pure - BABA Certified
 back
 Indoor Corning Pure - BABA Compliant
 back
+Multimode OM4 Corning® Pure Indoor Plenum Pre-Terminated Fiber Optic Assemblies
 Singlemode
 Tactical & Specialty Fiber Assemblies & Reels
 back
@@ -804,11 +806,4 @@ back
 12 Fiber Outdoor Flat Drop
 Outdoor Armored Assemblies
 back
-2 Fiber Outdoor Armored
-4 Fiber Outdoor Armored
-6 Fiber Outdoor Armored
-8 Fiber Outdoor Armored
-10 Fiber Outdoor Armored
-Outdoor IP68 Junction Boxes
-back
-1 Port
+2 Fiber Outdoo

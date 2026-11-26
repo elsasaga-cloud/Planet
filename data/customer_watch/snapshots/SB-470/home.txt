@@ -1,4 +1,4 @@
-# SB-470 asm.cz · home · https://www.asm.cz/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-470 asm.cz · home · https://www.asm.cz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 ASM 100MEGA Distribution spol. s r.o. - DODAVATEL PRO DATOVÉ A TELEKOMUNIKAČNÍ SÍTĚ
 Odesílám...
 Prosím čekejte...
@@ -53,7 +53,7 @@ Kontroléry (NMS)
 Univerzální
 Pouze Wi-Fi
 
-PoE (Napájení po Ethernetu)
+PoE (Napájení po ethernetu)
 PoE injektory
 PoE switche
 PoE splitery
@@ -213,6 +213,7 @@ Bezdrátové prvky
 Antény (2,4/ 5GHz)
 VF kabely metráž
 Konektory
+Montážní přísl.
 
 Koaxiální rozvody CCTV/TV
 
@@ -249,7 +250,7 @@ Příslušenství 10"
 
 Měřící přístroje
 
-Telefonní, Cat3-Cat5
+Telefonní, CAT3-CAT5
 Ohmické
 
 UTP/FTP/STP, Cat5-Cat7
@@ -274,6 +275,9 @@ Nářadí, kleště, nastřelovače
 
 Instalační materiál
 Montáž
+
+Ochranné pomůcky
+Rukavice
 
 Kamerové systémy
 
@@ -300,11 +304,21 @@ HDD
 Kamery pevné
 Kamery otočné
 
+PAL/960H (analog SD)
+
+Rekordéry DVR
+HDD
+
 4in1 (CVI/TVI/AHD/PAL)
 
 Rekordéry DVR
 HDD
 Kamery pevné
+
+HD-SDI, EX-SDI (digital HD)
+
+Rekordéry DVR
+HDD
 
 Dohledová centra a PTZ
 IP dekodéry a matice
@@ -419,6 +433,10 @@ Zámky
 Napájení
 Ostatní
 
+IP Cat5 (XtendLan)
+Dveřní stanice modulární
+Příslušenství
+
 IP Cat5 (Dahua)
 Bytové monitory
 Dveřní stanice IP
@@ -435,6 +453,9 @@ Moduly
 Zámky
 Napájení
 Ostatní
+
+IP Cat5 (ostatní)
+Příslušenství
 IP 2-drát - vila (Dahua)
 
 IP 2-drát - bytový dům (Dahua)
@@ -659,10 +680,6 @@ PoE splitery
 PoE extendery
 ePoE
 Přepěťové ochrany
-
-Fotovoltaika
-Ostrovní napájení
-Solární elektrárny
 Konvertory napětí
 Kabelové redukce
 
@@ -735,7 +752,7 @@ Monitory (VGA, HDMI, touch)
 Průmyslové počítače
 Mini PC
 
-Mini PC - Příslušenství
+Mini PC - prislusenstvi
 
 Software
 Windows 11 IoT 2024
@@ -770,92 +787,204 @@ LoRaWAN
 Tuya
 TinyControl
 Web Control
-Výprodej
-Odměny k objednávce
-Reklamace
-Založení reklamace
-Přehled reklamací
-Záruky (výrobní čísla)
-Reklamační řád
-Servisní střediska
-Dokumenty
-Objednávky
-Vykryté objednávky
-Nedodané zboží
-Položky objednávek
-Faktury
-Nezaplacené faktury
-Položky faktur
-Archiv faktur
-Dodací listy
-Nabídky
-Poptávky
-Technická podpora
-Řešení a technologie
-Školení
-Informace
-Kontaktovat podporu
-Bezpečnost
-Dvoufázové přihlašování
-Profil firmy
-Telefonní seznam
-Kontakty
-Ceník dopravy
-Převzetí zásilky
-Obchodní podmínky
-Ochrana osobních údajů
-Kreditní podmínky
-Elektroodpad
-Kariéra
-Přílohy k produktům
-Nové funkce
-Zápůjčky a montáže
-CZ
-CZ asm.cz
-SK asm.sk
-ICT distribuce pro montážní firmy a systémové integrátory.
-Jsme distributorem produktů pro datové sítě, kamerové a zabezpečovací systémy a dalších přidružených oborů jako fotovoltaika, embedded řešení. Poskytujeme odborná školení a další profesionální služby.
-Chci se registrovat
-Proč ASM?
-Již od roku 1991 si zakládáme na hlubokých znalostech v našem oboru.
-Nabízíme širokou škálu řešení ve sféře informačních, komunikačních a bezpečnostních technologií.
-Poradíme s nákupem, instalací v terénu, plánováním celého projektu, nebo se s vámi podělíme o nové trendy a dovednosti na školeních.
-Výhodné ceny
-Ihned po registraci
-Odborná školení
-Od profesionálů z oboru
-Podpora vždy a všude
-Online, na telefonu i osobně
-Půjčovna vybavení
-Osobně či s dopravou po ČR
-Rychlé dodávky
-Z vlastních skladů
-Naše specializace:
-Metalické a optické datové sítě
-Kamerové systémy
-Zabezpečovací systémy
-Videovrátné systémy
-Fotovoltaika
-Embedded řešení
-Přejít k registraci
-Výkonné Dell PC s NVIDIA GB10
-Úklid skladu Dahua
-Vánoční odměny Hikvision
-Na plný plyn s Dell
-Seagate s nádobím Fabini
-Odměnobraní s XtendLan
-Vymetáme sklady XtendLan
-Termální kamera Dahua
-Airlive se vyplatí
-Máme pro vás NIS2 řešení
-Spojte se s námi
-Jsme vám k dispozici při výběru vhodného produktu, jeho instalaci či konfiguraci.
-Pomůžeme vám s projektem, ať jste v jakékoli fázi realizace.
-Vyzkoušejte nás!
-+420 281 040 511
-[email protected]
-Naše produkty najdete všude
-Díky širokému sortimentu a nabídce podporujících služeb s námi můžete realizovat větší zakázky s jistotou úspěchu a vyšší konkurenceschopnosti.
-Naši partneři realizují projekty pro:
-Zažijte skutečně individuální přístup
-Jsme vždy připraveni 
+
+Ubiquiti
+UniFi Partner Program
+UniFi Cloud Gateway
+
+UniFi Wireless
+Wi-Fi 7
+Wi-Fi 6
+Wi-Fi 5
+Device Bridge
+Vnitřní
+Venkovní
+
+UniFi Network
+UniFi Cloud Gateway
+Cloud Key a Gateway
+WAN switche
+PoE switche
+Non-PoE switche
+Optické switche
+LTE/5G záloha
+Záložní napájecí systém
+
+UniFi Protect
+Správa UniFi Protect & NVR
+Bullet kamery
+Dome a Turret kamery
+360° a panoramatické kamery
+PTZ kamery
+Wi-Fi a kompaktní kamery
+Zvonky
+Smart senzory a speciální zařízení
+Ostatní
+
+UniFi SuperLink
+Brána
+Senzory
+
+UniFi Access
+Správa UniFi Access
+Huby a Sady (Starter Kit)
+Čtečky a Interkomy
+Ostatní
+UniFi Talk
+
+UniFi NAS
+NAS
+UniFi UPS
+UniFi Connect
+UniFi Play
+UniFi Mobile
+
+UISP Wireless 60 GHz
+PtMP spoje
+PtP spoje
+
+UISP Wireless 2.4/5GHz
+airMAX 5 GHz
+airMAX 2.4 GHz
+LTU
+airFiber/Wave 5 GHz
+Wi-Fi routery
+
+UISP Network
+Routery
+Switche
+Záložní zdroje
+
+UISP Fiber
+OLT
+ONU
+Ostatní
+
+Originální příslušenství
+PoE injektory a zdroje
+RJ-45 patche a kabely
+Optika a DAC
+Konvertory
+Držáky
+Rozvaděče
+Kryty a boxy
+Antény
+Přepěťová ochrana
+Ostatní příslušenství
+UI Care
+UI Support
+
+MikroTik
+Ethernet routery
+
+IoT
+CAT-M/NB
+LoRa
+Licence
+
+LTE/4G & 5G
+
+Indoor (vnitřní)
+5G
+LTE
+
+Outdoor (venkovní)
+5G
+LTE
+Příslušenství
+
+MiniPCI(e) & PCIe
+MiniPCI(e)
+PCIe
+
+Příslušenství
+Antény
+Držáky
+Ostatní
+PoE
+Promo
+Rozšíření
+Zdroje
+RouterBoard
+
+SFP/QSFP
+DAC kabely
+Media konvertory
+QSFP-DD (400 Gbps)
+QSFP28 (100 Gbps)
+SFP (1 Gbps)
+SFP+ (10 Gbps)
+SFP28 (25 Gbps)
+
+Switche
+Optické
+PoE
+Rack & Desktop
+Venkovní
+
+Venkovní spoje
+
+60 GHz
+AP/PtMP (L4)
+Klient/PtP (L3)
+Kompletní spoje
+
+AP/PtMP (L4)
+2,4 GHz
+5 GHz
+
+Klient/PtP (L3)
+Do 1 km
+Nad 1 km
+PoE out
+Wi-Fi Router & AP
+
+Planet
+
+Průmyslové & IoT prvky
+
+Switche
+Unmanaged
+L2
+L2/L4
+L2+
+L3
+EN50155 switche
+
+PoE switche
+PoE+ (802.3at)
+PoE++ (802.3bt)
+Konvertory
+Routery & Wi-Fi AP
+
+IoT
+Kontrolery
+IoT Brána & Server
+Senzory & Detektory
+EtherCAT
+Zdroje
+Příslušenství
+
+LAN & (PoE) switche
+
+Switche
+Unmanaged
+
+Managed
+L2
+L2/L4
+L2+
+L3
+PoE (PoE, PoE+, PoE++)
+
+Modulární šasi a moduly
+CS-6303R & CS-6306R
+IMS-6325-5
+Příslušenství
+
+Wi-Fi & LTE/4G/5G
+
+Access Point & Bridge
+Vnitřní
+Venkovní
+5G/

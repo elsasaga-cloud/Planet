@@ -1,4 +1,4 @@
-# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-656 100mega.cz · news_1 · https://www.100mega.cz/cs/static/portfolio · fetched 2026-11-26T11:08:06Z · HTTP 200
 100MEGA Distribution s.r.o.
 [email protected]
 (+420) 548 220 077
@@ -316,7 +316,7 @@ Grafické karty
 Stonet by Netis
 Síťové prvky aktivní
 STRONG
-Baterie, DVB technika, Kamery IP a CCTV, Periferie, Media Player, Síťové prvky aktivní, Síťové prvky ostatní, Tablet PC, Televize, TV tunery
+Baterie, DVB technika, Kamery IP a CCTV, Periferie, Media Player, Síťové prvky aktivní, Síťové prvky ostatní, Televize, TV tunery
 SUNNE
 Periferie, Televize
 SUNNY
@@ -350,4 +350,4 @@ Domácí elektro, Fotoaparáty, Fotoaparáty - příslušenství, Hodinky, Kabel
 UBIQUITI
 Dům a zahrada, Elektroinstalace, Fotovoltaika, HiFi, Kabely, Kamery IP a CCTV, Nabíječky, Periferie, Pevné disky, Přístupové systémy, Síťová úložiště (NAS), Síťové prvky aktivní, Síťové prvky optické, Síťové prvky ostatní, Síťové prvky pasivní, Služby, Telefony (IP, ISDN, analogové), Video intercom - IP, Záložní zdroje, Zdroje
 UMAX
-Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství
+Barebony, Domácí elektro, Dům a zahrada, Hodinky, Kamery IP a CCTV, Mobilní telefony - příslušenství, Notebooky

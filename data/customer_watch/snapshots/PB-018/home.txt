@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home · https://powerbizt.hu/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Főoldal - Biztonságtechnikai Nagykereskedelmi Áruház
 value && Livewire.dispatch('category:selected', { category_id: value }))"
 x-on:force:open.window="forceOpen = $event.detail.open"
@@ -223,6 +223,10 @@ Különböző márkájú kamerák, egy rögzítő! Hikvision + ONVIF bemutató
 Hozd ki a legtöbbet Hikvision kamerádból! ONVIF felhasználó létrehozása és aktiválása
 Legfrissebb cikkek
 Összes
+Paradox M széria – Legújabb fejlesztések
+A Paradox M széria hamarosan újabb eszközökkel bővül. Az X45 és X46 hibrid központok nagyobb rendszerkapacitást és fejlett bővítési lehetőségeket kínálnak, akár ipari környezetben is. Az újdonságok között a HD10 PoE kamera és az SR40M szirénacsalád is bemutatkozik, tovább bővítve az M rendszer alkalmazási lehetőségeit.
+Tovább
+2026. 11. 26.
 Optikai hálózatok – Mikor nem elegendő a hagyományos rézkábelezés?
 A hagyományos rézkábelezés nem minden esetben elegendő a nagyobb biztonságtechnikai rendszerek hálózati igényeinek kiszolgálására. Az optikai hálózatok nagy távolságokon is gyors és stabil adatátvitelt biztosítanak, de mikor érdemes ezt a megoldást választani? Cikkünkben bemutatjuk az optikai kábelezés előnyeit, korlátait és a tervezés legfontosabb szempontjait.
 Tovább
@@ -240,10 +244,6 @@ Kevesebb keresgélés, átláthatóbb parkolóüzemeltetés
 Egy forgalmas parkolóban nemcsak a férőhelyek száma számít, hanem az is, milyen gyorsan találják meg a járművezetők a szabad helyeket. A felesleges körözés növeli a forgalmat, rontja a parkolási élményt, és az üzemeltetést is megnehezítheti.
 Tovább
 2026. 11. 04.
-Grenton - Az okosotthon nem luxus többé
-A Grenton intelligens épületautomatizálási rendszere a kényelem, a biztonság és az energiahatékonyság ötvözésével kínál rugalmas megoldásokat a különböző felhasználási igényekre. 2026-ban a gyártó jelentős termékújdonságokkal bővíti kínálatát, köztük az új generációs CLU-300 hibrid központi egységgel, az Infibity Android kezelőpanellel, valamint korszerű I/O- és relémodulokkal. Az új eszközök tovább bővítik a rendszer vezérlési, integrációs és energiafelügyeleti lehetőségeit. Cikkünkben áttekintjük a Grenton rendszer működését, műszaki jellemzőit és a 2026-os fejlesztések legfontosabb előnyeit.
-Tovább
-2026. 10. 29.
 Elérhetőség
 Tájékoztatjuk Önöket, hogy a POWER Biztonságtechnikai Kft. nagykereskedés, így csak telepítőket és viszonteladókat áll módunkban kiszolgálni. Megértésüket köszönjük.
 info@powerbizt.hu

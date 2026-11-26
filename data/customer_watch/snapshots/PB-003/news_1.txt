@@ -1,4 +1,4 @@
-# PB-003 Konsorcjum FEN Sp. z o.o. · news_1 · https://fen.pl/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# PB-003 Konsorcjum FEN Sp. z o.o. · news_1 · https://fen.pl/blog/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Wiedza o IT dla partnerów i integratorów | FEN
 +48 61 66 90 700
 sales@fen.pl
@@ -55,9 +55,9 @@ Wiedza o IT, która inspiruje
 Dzielimy się praktyczną wiedzą z obszaru infrastruktury IT, bezpieczeństwa, sieci, storage i zasilania. Publikujemy artykuły techniczne, analizy i doświadczenia zespołu FEN, które wspierają partnerów i integratorów w podejmowaniu trafnych decyzji projektowych.
 Blog
 Najnowszy post
-Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?
-19 listopada 2026
-Jak skutecznie zabezpieczyć maszyny wirtualne w Proxmox VE? Porównujemy Proxmox Backup Server i Synology ActiveProtect pod kątem tworzenia kopii zapasowych, ochrony przed ransomware oraz odzyskiwania danych. Sprawdź, czym różnią się oba rozwiązania i które lepiej odpowiada potrzebom firmowej infrastruktury IT.
+Od ochrony punktowej do Cyber Defense – jak zbudować spójny system cyberbezpieczeństwa
+25 listopada 2026
+Coraz więcej narzędzi bezpieczeństwa nie przekłada się automatycznie na lepszą ochronę. Rafał Zieliński z FEN wyjaśnia, jak połączyć Endpoint, Firewall, XDR, Next-Gen SIEM i MDR w spójny system Cyber Defense i jakie miejsce zajmuje w nim Sophos Fusion.
 Czytaj dalej
 Najnowsze posty
 Wszystkie
@@ -74,14 +74,16 @@ Serwis FEN
 Urządzenia sieciowe
 Wirtualizacja
 Zasilanie awaryjne
+Od ochrony punktowej do Cyber Defense – jak zbudować spójny system cyberbezpieczeństwa
 Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?
 Synology DVA7400: lokalna analityka AI w systemie monitoringu
-Zanim ransomware uderzy, ktoś najpierw próbuje wyłączyć ochronę
+Sophos rozszerza portfolio o Workspace Protection, aby zabezpieczyć pracę hybrydową i zarządzać wykorzystaniem AI przez pracowników
 Akcesoria do Mac mini z Orico
 Trendy cyberbezpieczeństwa na 2026 rok: krytyczny punkt przed nadejściem nowych zagrożeń
 Firmy handlowe na celowniku cyberprzestępców. Co druga płaci okup za odzyskanie danych
-Szkła ochronne Belkin – profesjonalna ochrona ekranu smartfona
 Popularne wpisy
+1/3 wykrywanych incydentów w małych firmach to ransomware – analiza Sophos
+17 kwietnia 2025
 Nowa generacja przełączników PLANET dla inteligentnego transportu
 3 kwietnia 2025
 Ruijie Reyee RG-RAP6262 – Wydajny i Wytrzymały Punkt Dostępowy Wi-Fi 6
@@ -92,11 +94,12 @@ Wi-Fi 7 – Nowa era szybkiej i stabilnej sieci w urządzeniach Cudy
 28 marca 2025
 Migruj do Windows 11 z NComputing
 21 marca 2025
-Ruijie Networks – Lider w Nowoczesnych Rozwiązaniach Sieciowych
-18 marca 2025
 Storage
 Popularne wpisy
 Odkryj więcej
+Od ochrony punktowej do Cyber Defense – jak zbudować spójny system cyberbezpieczeństwa
+25 listopada 2026
+Coraz więcej narzędzi bezpieczeństwa nie przekłada się automatycznie na lepszą ochronę. Rafał Zieliński z FEN wyjaśnia, jak połączyć Endpoint, Firewall, XDR, Next-Gen SIEM i MDR w spójny system Cyber Defense i jakie miejsce zajmuje w nim Sophos Fusion.
 Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?
 19 listopada 2026
 Jak skutecznie zabezpieczyć maszyny wirtualne w Proxmox VE? Porównujemy Proxmox Backup Server i Synology ActiveProtect pod kątem tworzenia kopii zapasowych, ochrony przed ransomware oraz odzyskiwania danych. Sprawdź, czym różnią się oba rozwiązania i które lepiej odpowiada potrzebom firmowej infrastruktury IT.
@@ -106,18 +109,15 @@ Przy kilkudziesięciu kamerach odnalezienie jednego zdarzenia może wymagać prz
 Zanim ransomware uderzy, ktoś najpierw próbuje wyłączyć ochronę
 18 sierpnia 2026
 W tym wpisie zbieram swoje przemyślenia na temat mechanizmu, który odpowiada w Sophos Endpoint Protection właśnie za tę odporność – Tamper Protection – oraz opisuję udokumentowany przypadek, w którym ten mechanizm okazał się różnicą między opanowanym incydentem a katastrofą.
-Duży krok w kompatybilności kamer w systemach monitoringu
-16 marca 2026
-Modernizacja systemu monitoringu nie zawsze oznacza konieczność wymiany kamer. Dzięki rosnącej kompatybilności urządzeń z platformą Synology Surveillance Station możliwe jest rozwijanie infrastruktury bezpieczeństwa przy zachowaniu istniejących instalacji. W artykule wyjaśniamy, jak zwiększona obsługa kamer wpływa na modernizację systemów monitoringu i zarządzanie nimi w wielu lokalizacjach.
 Surveillance
 Systemy najlepszego monitoringu
+Od ochrony punktowej do Cyber Defense – jak zbudować spójny system cyberbezpieczeństwa
 Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?
 Synology DVA7400: lokalna analityka AI w systemie monitoringu
-Zanim ransomware uderzy, ktoś najpierw próbuje wyłączyć ochronę
+Kryzys kadr w cyberbezpieczeństwie – wypalenie zawodowe może kosztować firmy tysiące dolarów.
 Qi2 25W – szybkie, uniwersalne i certyfikowane ładowanie bezprzewodowe
 Od prokrastynacji po brak narzędzi– jak firmy otwierają drzwi cyberprzestępcom?
 Raport Sophos 2025: ransomware uderza w dane i morale IT
-Co to jest MAPT (MAC Address Pass-Through)?
 Specjalizujemy się w nowoczesnych rozwiązaniach teleinformatycznych, zarówno tych standardowych,
 jak i szytych na miarę. Każdy Twój projekt wesprzemy opieką dedykowanego account managera, certyfikowanych inżynierów, szkoleniami czy prezentacjami u klientów.
 Strona główna

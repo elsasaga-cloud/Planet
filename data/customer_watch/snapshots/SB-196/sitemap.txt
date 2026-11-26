@@ -1,5 +1,5 @@
-# SB-196 extradigital.eu · sitemap · https://www.extradigital.eu/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
-2026-11-24T09:00:00+03:00	https://www.extradigital.eu/
+# SB-196 extradigital.eu · sitemap · https://www.extradigital.eu/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+2026-11-25T09:00:00+03:00	https://www.extradigital.eu/
 2026-11-20T09:00:00+03:00	https://www.extradigital.eu/smartphone-accessories
 2025-10-23T09:00:00+03:00	https://www.extradigital.eu/smartphone-accessories/tempered-glass-screen-protectors
 2024-11-18T09:00:00+03:00	https://www.extradigital.eu/smartphone-accessories/tempered-glass-screen-protectors/apple-screen-protector

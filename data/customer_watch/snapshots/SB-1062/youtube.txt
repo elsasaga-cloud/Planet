@@ -1,4 +1,9 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-26T11:08:06Z · HTTP 200
+2026-11-26T10:59:45+00:00	Odoo Insider Tech Q&A Session	https://www.youtube.com/watch?v=GzgioUylG4s
+2026-11-26T08:25:40+00:00	Odoo Insider - Live Q&A - Last 2026 session with Antoine🕺🏻	https://www.youtube.com/watch?v=-FItVtcI4ss
+2026-11-26T07:49:00+00:00	Odoo Insider - Regular Live Q&A with Richard	https://www.youtube.com/watch?v=SPvMmMbWag0
+2026-11-26T04:56:54+00:00	Mastering Project & Timesheet Management	https://www.youtube.com/watch?v=a_jQr1z6MNU
+2026-11-25T17:36:00+00:00	Webinaire - Odoo 20 - Les innovations de l'IA	https://www.youtube.com/watch?v=HCbWGSDaCtI
 2026-11-25T11:28:06+00:00	Webinar - Le novità di Odoo 20: Studio	https://www.youtube.com/watch?v=pjjwBE-wzEE
 2026-11-25T10:21:47+00:00	Webinaire - Odoo 20 : Les nouveautés du CRM	https://www.youtube.com/watch?v=wgfuGZNrba4
 2026-11-24T17:18:25+00:00	Webinaire Odoo - Transformez votre site web en véritable générateur de prospects !	https://www.youtube.com/watch?v=RXo7aAalDQs
@@ -9,8 +14,3 @@
 2026-11-24T08:04:53+00:00	Webinaire - Odoo 20 - La nouvelle ère du payroll en Belgique	https://www.youtube.com/watch?v=rhfo8nmkDd0
 2026-11-23T13:39:04+00:00	Italian Tutorial: Chiedilo ai BA	https://www.youtube.com/watch?v=kG3esRHmcxc
 2026-11-23T09:07:44+00:00	Odoo Insider - Questions-Réponses en français avec Louis	https://www.youtube.com/watch?v=LQwEoDraRZI
-2026-11-23T08:28:50+00:00	Working at Odoo: Careers, Teams & Life in Our Belgian Offices	https://www.youtube.com/watch?v=Bn7ZgsZ_SX4
-2026-11-21T00:00:19+00:00	From Silos to One Source of Truth: How KUCHT Gained Real-Time Visibility with Odoo	https://www.youtube.com/watch?v=N5TSIUYH0W4
-2026-11-20T14:30:29+00:00	Odoo Point of Sale: Android POS system device	https://www.youtube.com/watch?v=pSehp8HQYA0
-2026-11-20T12:24:17+00:00	Odoo Quick Tips - Save quotation sections as templates [Sales]	https://www.youtube.com/watch?v=3XdkroEM5sY
-2026-11-20T11:39:08+00:00	Italian Customer Success Story: 3M Solutions	https://www.youtube.com/watch?v=rgfHZdqu8KE

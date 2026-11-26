@@ -1,5 +1,5 @@
-# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
-2026-11-25	https://www.expressalarm.cz/
+# SC-783 expressalarm.cz · sitemap · https://www.expressalarm.cz/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+2026-11-26	https://www.expressalarm.cz/
 2026-03-03	https://www.expressalarm.cz/dokument/12-internal34/
 2025-05-23	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-internal/
 2025-05-09	https://www.expressalarm.cz/dokument/2n-produktove-skoleni-prihlaska/
@@ -93,7 +93,7 @@
 2022-01-04	https://www.expressalarm.cz/dokument/logo/
 2022-01-06	https://www.expressalarm.cz/dokument/logo_2/
 2022-11-04	https://www.expressalarm.cz/dokument/mall_akce/
-2025-02-25	https://www.expressalarm.cz/dokument/moes/
+2026-11-25	https://www.expressalarm.cz/dokument/moes/
 2021-04-09	https://www.expressalarm.cz/dokument/motion_detection/
 2025-04-10	https://www.expressalarm.cz/dokument/motokary-trinec-prihlaska/
 2025-09-10	https://www.expressalarm.cz/dokument/motokary-trinec/
@@ -148,7 +148,7 @@
 2026-08-21	https://www.expressalarm.cz/dokument/roadshow-hikvision-brno/
 2026-09-17	https://www.expressalarm.cz/dokument/roadshow-hikvision-hradec/
 2026-08-21	https://www.expressalarm.cz/dokument/roadshow-hikvision-ostrava/
-2026-08-21	https://www.expressalarm.cz/dokument/roadshow-hikvision-praha/
+2026-11-25	https://www.expressalarm.cz/dokument/roadshow-hikvision-praha/
 2026-01-16	https://www.expressalarm.cz/dokument/roadshow-hradec-kralove/
 2026-01-28	https://www.expressalarm.cz/dokument/roadshow-hradec-kralove2/
 2026-08-19	https://www.expressalarm.cz/dokument/roadshow-liberec/

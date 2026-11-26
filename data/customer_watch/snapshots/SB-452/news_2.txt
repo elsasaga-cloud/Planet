@@ -1,4 +1,4 @@
-# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-452 espuk.com · news_2 · https://espuk.com/news-page?type=news · fetched 2026-11-26T11:08:06Z · HTTP 200
 ESP | Latest News
 Scolmore Group Sites
 Click
@@ -134,12 +134,12 @@ No events found.
 Scolmore Group
 ESP
 Ovia
+Technical/Quality
 IT
 External Sales
 Accounts
 Procurement
 Operations - Warehouse
-Technical/Quality
 Project Management Office
 View vacancy's with other Scolmore Group companies or departments
 Prev
@@ -152,6 +152,8 @@ to
 of
 11
 results
+Design Support Engineer
+Find out more
 IT Helpdesk Technician
 Find out more
 Network Systems Engineer
@@ -165,8 +167,6 @@ Find out more
 Group Key Accounts & Specification Manager - South West & South Wales
 Find out more
 Operations Manager
-Find out more
-Technical Support Engineer
 Find out more
 Group Specification Manager - London
 Find out more

@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,82 +75,82 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-Ubiquiti UACC-Cable-Patch-1M-BL-10, UniFi patch kabel, 1m, modrý, 10-pack
-Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-783 Kč bez DPH
-947 Kč s DPH
+Huawei eKitOptiX FS600D, GPON ONT Gateway, Wi-Fi 6
+Optická GPON ONT brána s dvoupásmovou Wi-Fi 6 pro připojení domácnosti či firmy. Konektor SC/APC, čtyři gigabitové LAN porty a pásma 2,4 a 5 GHz s celkovou teoretickou rychlostí až 2,98 Gb/s. Součástí je adaptér 12 V / 1 A.
+658 Kč bez DPH
+796 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Ubiquiti UACC-Cable-Patch-0.4M-BL-24, UniFi patch kabel, 0.4m, modrý, 24-pack
-Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-1 188 Kč bez DPH
-1 437 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-MHPower konektor MC4 s integrovaným pojistkovým pouzdrem, pojistka 32 A
-Solární pojistkový konektor MC4 pro jištění fotovoltaických DC obvodů do 1000 V. Integrované pouzdro obsahuje pojistku 32 A o rozměru 10 × 38 mm. Zapojuje se přímo do solárního vedení, krytí IP67 platí při správně provedeném spojení.
-130 Kč bez DPH
-157 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UACC-Cable-Patch-0.4M-W-24, UniFi patch kabel, 0.4m, bílý, 24-pack
-Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-1 188 Kč bez DPH
-1 437 Kč s DPH
+TP-Link Fusion G+, Omada gateway
+Moderní řešení pro firemní i náročné síťové prostředí spojuje funkce routeru a kontroleru do jediného zařízení, které umožňuje pohodlnou správu celé infrastruktury bez licenčních poplatků. Díky 5 portům 1G a 2.5G RJ45 poskytuje dostatek výkonu pro rychlé
+3 818 Kč bez DPH
+4 620 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UACC-Cable-Patch-2M-W-24, UniFi patch kabel, 2m, bílý, 24-pack
-Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-2 158 Kč bez DPH
-2 611 Kč s DPH
+Ubiquiti UACC-WP-TH, Univerzální přetíratelná kabelová průchodka, 2-pack
+Přetíratelná nástěnná kabelová průchodka pro čisté zakončení kabeláže. Kryt z polykarbonátu a oceli o rozměrech 82 × 112 × 3,2 mm se hodí ke krabicím 2? × 4?, 86 × 86 mm i kulatým 60 mm. Balení 2 kusů.
+336 Kč bez DPH
+407 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+SOLARFAM AST-H6 Sodium-Ion autobaterie 12V 45Ah Start-Stop
+Sodíko-iontová startovací autobaterie 12 V / 45 Ah pro vozidla se systémem Start-Stop. Startovací proud CCA 850 A, rozměry 278 × 175 × 190 mm. Technologie Na-ion odolává hlubokému vybití; nabíjení při 0 až +60 °C.
+3 900 Kč bez DPH
+4 719 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UVC-G6-Dome-W, UniFi Video Camera G6 Dome, bílá
-Dome IP kamera s rozlišením 8 Mpx, infračerveným přísvitem do 30 m a napájením přes PoE. Krytí IP66 pro vnitřní i venkovní instalaci, správa v UniFi Protect a AI rozpoznávání obličejů i registračních značek vozidel přímo v kameře.
-6 835 Kč bez DPH
-8 270 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Solární panel Victron Energy 30Wp/12V Mono
-Monokrystalický solární panel 30 Wp pro menší 12V fotovoltaické systémy. Konstrukce s 36 články, eloxovaným hliníkovým rámem a tvrzeným sklem; bypass diody omezují pokles výkonu při zastínění. Rozměry 380 × 450 × 25 mm.
-638 Kč bez DPH
-772 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UACC-Cable-Patch-0.2M-W, UniFi patch kabel, 0.2m, bílý
+Ubiquiti UACC-Cable-Patch-0.2M-W-24, UniFi patch kabel, 0.2m, bílý, 24-pack
 Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-54 Kč bez DPH
-65 Kč s DPH
+1 054 Kč bez DPH
+1 275 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UACC-Cable-Patch-1M-BK-10, UniFi patch kabel, 1m, černý, 10-pack
-Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-783 Kč bez DPH
-947 Kč s DPH
+TINKO bateriový článek 18650, Li-Ion 3,7 V, 3500 mAh
+Nabíjecí Li-Ion článek 18650 s napětím 3,7 V a kapacitou 3500 mAh pro akupacky, elektrokola, svítilny a powerbanky. Rozměry 18 × 65 mm, vybíjecí proud 10 A trvale a až 20 A krátkodobě.
+160 Kč bez DPH
+194 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy LT300 Bezdrátový 4G LTE router, N300
-4G LTE router s nano SIM slotem, stahováním až 150 Mb/s a odesíláním až 50 Mb/s. Wi-Fi 2,4 GHz dosahuje až 300 Mb/s. Má 1× LAN a 1× LAN/WAN 10/100 Mb/s, VPN klienta OpenVPN a WireGuard a správu přes aplikaci.
-743 Kč bez DPH
-899 Kč s DPH
+MikroTik HS-55DLC80D, SFP optický modul, Single-Mode, 80km, 2.5G, 1550nm
+Průmyslový optický SFP modul pro single-mode vlákno přenáší data rychlostí 1 nebo 2,5 Gb/s až na 80 km při 1550 nm. Dvojici LC konektorů s broušením UPC doplňuje diagnostika DDM sledující optický výkon, napětí, teplotu a proud laseru.
+641 Kč bez DPH
+776 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+Ubiquiti UACC-Cable-Patch-0.2M-BL-50, UniFi patch kabel, 0.2m, modrý, 50-pack
+Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
+2 136 Kč bez DPH
+2 585 Kč s DPH
+Novinka
+Porovnat
+skladem
+Přidat do košíku
+MikroTik IAQM-THC2V-G, CLAIRÉ Lite monitor kvality vzduchu, šedý
+Šedý monitor kvality vnitřního vzduchu s měřením CO2, VOC, teploty a vlhkosti. CO2 senzor pracuje v rozsahu 400–2000 ppm. Barevný 2” displej s automatickým jasem, Matter přes Thread a Bluetooth pro párování. Napájení USB-C či 5 V DC.
+1 540 Kč bez DPH
+1 863 Kč s DPH
+Novinka
+Porovnat
+Není skladem
+Přidat do košíku
+Huawei OptiXstar EG8041X6-10, GPON ONT Gateway, WiFi 6
+Optická GPON ONT brána s dvoupásmovou Wi-Fi 6 pro optické internetové připojení. Čtyři gigabitové LAN porty, rychlost Wi-Fi až 2402 Mb/s v pásmu 5 GHz a 574 Mb/s v pásmu 2,4 GHz. Napájecí adaptér 12 V / 1 A.
+952 Kč bez DPH
+1 152 Kč s DPH
 Novinka
 Porovnat
 skladem
@@ -295,4 +295,9 @@ K provozování našeho webu využíváme takzvané cookies. Cookies jsou soubor
 Pouze nutné cookies
 Povolit výběr
 Povolit všechny cookies
-Nutné Preferenční Statistické Marketingov
+Nutné Preferenční Statistické Marketingové Neklasifikované
+Zobrazit detaily
+1
+Kontaktujte nás!
+491 041 044
+info@abctech.cz

@@ -1,4 +1,4 @@
-# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-092 spacetronik.pl · home · https://spacetronik.pl/en/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Spacetronik.pl - Official Brand Store | Electronics & Technology.
 Ergoline Smartline
 Log in
@@ -12,10 +12,10 @@ de
 en
 cs
 sk
-Prices in zł (1 € = 4.3913zł)
+Prices in zł (1 € = 4.3906zł)
 €
-Kč (1 € = 24.4641Kč)
-$ (1 € = 1.1051$)
+Kč (1 € = 24.4465Kč)
+$ (1 € = 1.1085$)
 Country of collecting the order Austria
 Belgium
 Bułgaria
@@ -83,9 +83,9 @@ KVM Switches
 HDMI Grabbers
 Audio Extractors
 Audio Signal Converters
-Multimedia and Peripherals Monitors
+Multimedia and Peripherals Headsets
+Monitors
 Portable Monitors
-Słuchawki z mikrofonem
 Projection screens
 Magnetic Boards
 Projection Sets
@@ -363,4 +363,4 @@ How to care for footwear in autumn and winter? A practical guide to care and sto
 2026-09-25
 How to Create a Warm Atmosphere at Home? Perfect Lighting for Autumn [RULES]
 2026-09-18
-Lamps at home for autumn: How to create 
+Lamps at home for autumn: How to create a cozy atmosph

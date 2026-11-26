@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -373,6 +373,20 @@ Anterior
 Siguiente
 Mercasat distribuidor de productos de seguridad y telecomunicaciones
 Novedades
+RG-ANT30-D2
+Antena WiFi direccional exterior doble banda IP55 Ruijie Cybrey
+Ruijie Cybrey
+Antena direccional dual-banda exterior
+2,4 GHz: 12 dBi · 5 GHz: 15 dBi
+Haces 40°/20° en horizontal y vertical
+Doble puerto RP-SMA, polarización V+H
+IP55 · montaje en pared y mástil
+Precio
+559,34 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
 ADS-110DL-48N-1
 Fuente de alimentación para NVR 53V CC, 1,8A
 Fuente de Alimentación Dahua
@@ -466,20 +480,6 @@ Desvío de llamadas a tmóviles
 Compatible con Alexa y Google Home
 Precio
 859,10 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-1521
-Kit videoportero 2 hilos con monitor táctil de 7" para 1 vivienda
-Kit de videoportero Fermax
-WAY para 1 vivienda
-Monitor táctil de 7”
-Placa exterior con visera
-Instalación mediante 2 hilos
-Cámara en color con visión nocturna
-Precio
-568,70 €
 
 Añadir al carrito
 Nuevo

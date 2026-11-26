@@ -1,4 +1,4 @@
-# SC-1220 starelec.fi · home · https://starelec.fi/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-1220 starelec.fi · home · https://starelec.fi/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Sähkökomponentit netistä - Starelec.fi
 Tervetuloa uudistettuun verkkokauppaan! Voit kirjautua sisään samoilla tunnuksilla kuin ennen.
 Soita meille
@@ -49,18 +49,17 @@ Hallitse mittauksia vaivatta Bluetooth-yhteydellä varustetuilla Uni-T:n mittare
 Uusimmat tuotteet
 Tee löytöjä uutuuksissa
 Katso kaikki
-Geti
-Digitaalinen True-RMS yleismittari GETI GM50G, 1000 V / 20 A, K-termoelementti
-SKU: GM50G Tilattavissa, toimitusaika-arvio 4-10 päivää
-19,39 € ALV. 25.5%
+BNC-liittinadapteri 75ohm naaras/naaras (B7071A1-ND3G-75)
+SKU: BNC-SS-AMPH Tilattavissa, toimitusaika-arvio 2-5 arkipäivää
+5,37 € ALV. 25.5%
 Suositut brändit
 Tuotemerkit
 Viikon suosituimmat
 Eniten ostetut tuotteet
 Katso kaikki
-DC-runkoliitin mutterikiinnitys 2,1mm/5,5mm
-SKU: DC-2.1S (1-4 arkipäivässä)
-0,95 € ALV. 25.5%
+Vastuslajitelma 0,25W 1500kpl
+SKU: K-RES4 (1-4 arkipäivässä)
+13,24 € ALV. 25.5%
 Elektroniikkakomponentit ja tarvikkeet Starelec verkkokaupasta
 Starelec on suomalainen elektroniikan verkkokauppa, josta löydät laajan valikoiman komponentteja, työkaluja ja tarvikkeita elektroniikka- ja automaatioprojekteihin. Valikoima kattaa tuhansia tuotteita niin harrastajille, opiskelijoille kuin ammattilaisillekin. Starelec Oy on vuodesta 1984 toiminut elektroniikan, sähkötekniikan ja automaation erikoisliike, joka tarjoaa kilpailukykyiset hinnat, laajan varastovalikoiman sekä asiantuntevaa palvelua. Verkkokaupan lisäksi noutomyymälä sijaitsee Vaasassa.
 Laaja valikoima elektroniikkakomponentteja

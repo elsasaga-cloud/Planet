@@ -1,4 +1,4 @@
-# SC-490 hattelandtechnology.com · news_2 · https://www.hattelandtechnology.com/news · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-490 hattelandtechnology.com · news_2 · https://www.hattelandtechnology.com/news · fetched 2026-11-26T11:08:06Z · HTTP 200
 Newsroom | Hatteland Technology
 Skip to content
 Close
@@ -150,7 +150,7 @@ Industrial computing
 Industrial networking
 Marine & offshore
 Moxa
-Naval & Defense
+Naval & Defence
 News
 Press Release
 US Product News
@@ -167,7 +167,7 @@ Industrial computing
 Industrial networking
 Marine & offshore
 Moxa
-Naval & Defense
+Naval & Defence
 News
 Press Release
 US Product News

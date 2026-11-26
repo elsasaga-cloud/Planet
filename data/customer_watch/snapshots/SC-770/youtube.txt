@@ -1,4 +1,7 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-26T11:08:06Z · HTTP 200
+2026-11-26T11:02:33+00:00	Prąd rozruchowy zasilacza LED: skąd się bierze?	https://www.youtube.com/shorts/RfWk8ueWSLE
+2026-11-26T08:30:32+00:00	Jak zabezpieczyć sieć OT farmy fotowoltaicznej i magazynu energii?	https://www.youtube.com/watch?v=p-NlYYYEgkA
+2026-11-26T07:15:07+00:00	Serwo zamiast falownika: stabilne niskie obroty	https://www.youtube.com/shorts/-zcVjuMklvU
 2026-11-25T11:06:15+00:00	Tryb RealCOM w NPort 6000 G2: wirtualny port COM krok po kroku	https://www.youtube.com/watch?v=Vsq79BtyxtI
 2026-11-25T10:46:15+00:00	Serwery portów szeregowych: 3 luki bezpieczeństwa	https://www.youtube.com/shorts/ab1J0PxKcbg
 2026-11-25T09:18:02+00:00	Tryb momentowy serwonapędu: kiedy liczy się siła	https://www.youtube.com/shorts/ITyzuGTXGcA
@@ -11,6 +14,3 @@
 2026-11-19T14:56:04+00:00	Modernizacja oczyszczalni: 7 mln zł zamiast 15 mln	https://www.youtube.com/shorts/VmIBl0Iaaws
 2026-11-18T11:34:18+00:00	Bezpiecznik wybija przy włączaniu LED? Test ogranicznika MEAN WELL ICL	https://www.youtube.com/watch?v=-90qm0VODas
 2026-11-16T09:09:52+00:00	Pierwsze uruchomienie NPort 6000 G2 krok po kroku	https://www.youtube.com/watch?v=WgWSm4f9dkw
-2026-11-16T08:56:48+00:00	Dane z budynku bez wiercenia? Czujniki LoRaWAN	https://www.youtube.com/shorts/ubOTA90fcrQ
-2026-11-07T08:15:14+00:00	Sterowanie sekwencyjne serwonapędów Elmatic z tabelą pozycji	https://www.youtube.com/watch?v=MTb9sp19MJk
-2026-11-06T08:00:31+00:00	Falownik czy serwonapęd? Sterowanie prędkością serwa Elmatic	https://www.youtube.com/watch?v=XAU-xt6osEE

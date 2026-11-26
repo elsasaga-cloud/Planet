@@ -1,4 +1,4 @@
-# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Informática industrial, IA y automatización | QNV
 Saltar al contenido
 Buscar por:
@@ -130,26 +130,6 @@ ROS 2
 Robots Autónomos
 PRODUCTOS DESTACADOS
 Vista Rápida
-Industria 4.0/IoT/Cloud
-MXE-100i
-Gateway para M2M basado en equipo embedded fanless
-×
-Solicitar oferta para
-MXE-100i
-Nombre y apellidos
-Empresa
-Correo electrónico
-Teléfono de contacto
-Ciudad
-Código postal
-Consulta
-Acepto que mis datos sean utilizados por QNV,S.L. para el envío puntual de comunicaciones informativas.
-En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, accepto que QNV S.L. trate mis datos conforme a la Política de Privacidad .
-Send me a copy
-Enviar
-¡Gracias!
-Solicitar oferta
-Vista Rápida
 Comunicaciones Industriales
 EPS-9905 + EPS-6000
 Chasis EtherCAT con acoplador de bus Ethercat EPS-6000
@@ -170,12 +150,12 @@ Enviar
 ¡Gracias!
 Solicitar oferta
 Vista Rápida
-Comunicaciones Industriales
-Talos-3012
-Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
+Industria 4.0/IoT/Cloud
+MXE-100i
+Gateway para M2M basado en equipo embedded fanless
 ×
 Solicitar oferta para
-Talos-3012
+MXE-100i
 Nombre y apellidos
 Empresa
 Correo electrónico
@@ -196,6 +176,26 @@ SmartCam basada en procesador Intel Atom Quad-Core E3845 a1.9GHz, con 4MP, 60fps
 ×
 Solicitar oferta para
 NEON-1040
+Nombre y apellidos
+Empresa
+Correo electrónico
+Teléfono de contacto
+Ciudad
+Código postal
+Consulta
+Acepto que mis datos sean utilizados por QNV,S.L. para el envío puntual de comunicaciones informativas.
+En cumplimiento al Reglamento (UE) 2016/679 del Parlamento Europeo de Protección de las Personas Físicas, accepto que QNV S.L. trate mis datos conforme a la Política de Privacidad .
+Send me a copy
+Enviar
+¡Gracias!
+Solicitar oferta
+Vista Rápida
+Comunicaciones Industriales
+Talos-3012
+Controlador EtherCAT Master basado en procesador Intel Atom E3845 a 1.9GHz
+×
+Solicitar oferta para
+Talos-3012
 Nombre y apellidos
 Empresa
 Correo electrónico

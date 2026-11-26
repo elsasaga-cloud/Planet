@@ -1,4 +1,5 @@
-# SB-761 getscw.com · youtube · https://www.youtube.com/c/SCWcameras · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-761 getscw.com · youtube · https://www.youtube.com/c/SCWcameras · fetched 2026-11-26T11:08:06Z · HTTP 200
+2026-11-26T01:15:36+00:00	PTZ Auto Guard: Stop Your Camera From Facing the Wrong Way	https://www.youtube.com/shorts/h4KuZwapDO4
 2026-11-17T16:45:10+00:00	After-Hours Motion Alerts: Detect People and Vehicles	https://www.youtube.com/shorts/2hDNfxHDw48
 2026-11-13T17:45:11+00:00	Why PTZ Camera Auto Tracking Loses People	https://www.youtube.com/shorts/r59ZWklx-nk
 2026-11-11T16:54:21+00:00	Who Should Manage Your Security Camera System? Team Roles Explained	https://www.youtube.com/watch?v=nAcKf10CkZE
@@ -13,4 +14,3 @@
 2026-08-19T19:00:14+00:00	Cloud vs. On-Premise Access Control: What’s the Difference?	https://www.youtube.com/shorts/MQeUu-oaNvw
 2026-08-12T16:27:36+00:00	Viewstation Mobile: TraceSearch	https://www.youtube.com/watch?v=dLCfuqtKws8
 2026-08-12T16:27:33+00:00	Viewstation Mobile: People, Vehicle and Color Search	https://www.youtube.com/watch?v=bFZXZ9b2ZyU
-2026-08-12T16:27:29+00:00	Viewstation Mobile Tutorials: General Navigation / UI	https://www.youtube.com/watch?v=oD7KP07kTFA

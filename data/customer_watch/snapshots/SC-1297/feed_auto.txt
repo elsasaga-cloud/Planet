@@ -1,4 +1,4 @@
-# SC-1297 winncom.com · feed_auto · https://www.winncom.com/feed · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-1297 winncom.com · feed_auto · https://www.winncom.com/feed · fetched 2026-11-26T11:08:06Z · HTTP 200
 Fri, 30 Oct 2026 15:47:41 +0000	Cambium Questions? Join Winncom & Ceragon for Answers!	https://www.winncom.com/online-videos-webinars/cambium-questions-join-winncom-ceragon-for-answers
 Wed, 28 Oct 2026 15:27:17 +0000	Proxim's fixed wireless portfolio for WISPs, enterprise, video security, and smart city	https://www.winncom.com/online-videos-webinars/proxims-fixed-wireless-portfolio-for-wisps-enterprise-video-security-and-smart-city
 Thu, 13 Aug 2026 19:45:43 +0000	A Deep dive into Reducing Churn Diagnosing Subscriber Experience with Actionable Insights	https://www.winncom.com/online-videos-webinars/a-deep-dive-into-reducing-churn-diagnosing-subscriber-experience-with-actionable-insights

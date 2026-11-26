@@ -1,4 +1,4 @@
-# SB-124 telconet.net · news_1 · https://telconet.net/noticias · fetched 2026-11-15T09:38:35Z · HTTP 200
+# SB-124 telconet.net · news_1 · https://telconet.net/noticias · fetched 2026-11-26T11:08:06Z · HTTP 200
 Noticias | Telconet Latam
 Saltar al contenido
 Nosotros
@@ -56,10 +56,10 @@ Noticias
 Lanzamientos, eventos, reconocimientos y proyectos que conectan Ecuador y Latinoamérica.
 Premios y reconocimientos 13 de noviembre de 2026 Carnival Submarine Networks hace historia en Londres: CSN-1 es elegido “Project of the Year” en los Global Connectivity Awards 2026
 El sistema de cable submarino CSN-1 fue galardonado en Londres con el premio “Project of the Year – Subsea, Terrestrial, Satellite and/or Wireless”, el máximo…
+Comunicados oficiales 17 de noviembre de 2026 La integridad no es negociable: nuestro compromiso con la ética y el cumplimiento
+En el Grupo Empresarial Telconet, la ética, la integridad y el cumplimiento de la ley son principios irrenunciables que deben regir todas nuestras decisiones, relaciones…
 Eventos 7 de octubre de 2026 Telconet Latam participa en el Guayaquil Business Summit 2026 y se suma a la visión de un Gran Guayaquil integrado
 El Ing. Tomislav Topic, CEO de Telconet Latam, participó en el conversatorio “Potenciación de la Economía del Gran Guayaquil”, espacio que reunió a cerca de 300…
-Casa adentro 1 de octubre de 2026 Telconet Latam destaca en el ranking de las 500 Mayores Empresas del Ecuador de revista Vistazo
-La compañía se ubica en el puesto 66 del ranking general, alcanza la cuarta posición entre las empresas de telecomunicaciones y figura entre las compañías que más…
 Todos los años
 2026
 2025
@@ -78,7 +78,9 @@ Septiembre
 Octubre
 Noviembre
 Diciembre
-Todas 101 Comunicados oficiales 27 Eventos 16 Premios y reconocimientos 28 Responsabilidad social 8 Telcoinnova 13 Casa adentro 9 101 noticias
+Todas 102 Comunicados oficiales 28 Eventos 16 Premios y reconocimientos 28 Responsabilidad social 8 Telcoinnova 13 Casa adentro 9 102 noticias
+Comunicados oficiales 17 de noviembre de 2026 La integridad no es negociable: nuestro compromiso con la ética y el cumplimiento
+En el Grupo Empresarial Telconet, la ética, la integridad y el cumplimiento de la ley son principios irrenunciables que deben regir todas nuestras decisiones, relaciones…
 Premios y reconocimientos 13 de noviembre de 2026 Carnival Submarine Networks hace historia en Londres: CSN-1 es elegido “Project of the Year” en los Global Connectivity Awards 2026
 El sistema de cable submarino CSN-1 fue galardonado en Londres con el premio “Project of the Year – Subsea, Terrestrial, Satellite and/or Wireless”, el máximo…
 Eventos 7 de octubre de 2026 Telconet Latam participa en el Guayaquil Business Summit 2026 y se suma a la visión de un Gran Guayaquil integrado
@@ -134,7 +136,4 @@ Telconet Latam desarrolló una jornada de capacitación en ISO 31000 – Gestió
 Comunicados oficiales 24 de febrero de 2026 Comunicado oficial del Grupo Telconet sobre declaraciones públicas
 Ante las declaraciones públicas realizadas por el señor Jan Topic en relación al Ministerio del Interior, al Ministro Reimberg y otros asuntos de carácter político, el…
 Comunicados oficiales 16 de febrero de 2026 Comunicado: los operadores de centros de datos no acceden a la información de sus clientes
-La infraestructura digital es un componente crítico para la seguridad, la competitividad y el desarrollo de un país.
-Comunicados oficiales 16 de febrero de 2026 Comunicado: el servicio de cámaras de Segura EP nunca se ha apagado
-COMUNICADO OFICIAL
-Premios y reconocimientos 13 de febrero de 2026 Telconet Latam obtiene la máxi
+La infraestructura dig

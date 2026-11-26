@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,41 +41,48 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Ubiquiti UniFi patch kabel, 2m, Cat5e, bílý, 10 pack
-1 059 Kč bez DPH
-1 282 Kč s DPH
-Cudy P2 ODU 5G NR SA/NSA Outdoor Unit
-7 108 Kč bez DPH
-8 600 Kč s DPH
-Hikvision IP bullet kamera DS-2CD2067G3-LI2UY/SL(4mm), 6Mpx, 4mm, ColorVu 3.0
-Hikvision IP turret hybrid kamera DS-2CD2383G2-LI2U(2.8mm)(BLACK), 8Mpx, 2.8mm, AcuSense, Černá
-MEAN WELL DDR-60L-24 Step-down měnič napětí DC/DC, 60W
-743 Kč bez DPH
-899 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2023G2-LI2U(2.8mm), 2Mpx, 2.8mm, AcuSense
-Hikvision IP bullet hybrid kamera DS-2CD1643G2-LIZSU(2.8-12mm), 4Mpx, 2.8-12mm
-Ubiquiti UniFi Industrial DIN 8 Switch
-7 078 Kč bez DPH
-8 564 Kč s DPH
-TP-Link POE260R Omada 2.5G PoE+ Splitter
-332 Kč bez DPH
-402 Kč s DPH
-Conexpro sada 4 plastových vyvazovacích háčků do racku pro kabely 37 x 39mm, modrý
-69 Kč bez DPH
-83 Kč s DPH
-Triton 19" stojanový rack 42U/800x900 prosklené dveře, šedý
-16 230 Kč bez DPH
-19 638 Kč s DPH
-DEYE GE-F256-BC-A3 Bateriové uložiště, 256 kWh, HV
-892 780 Kč bez DPH
-1 080 264 Kč s DPH
-SanDisk Micro SDXC Extreme GO 64GB
-883 Kč bez DPH
-1 069 Kč s DPH
-Teltonika Security WLANP, Komunikační rozhraní s Wi-Fi4 a LAN pro P64
-1 394 Kč bez DPH
-1 687 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD2083G2-LI2U(2.8mm), 8Mpx, 2.8mm, AcuSense
+Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
+1 482 Kč bez DPH
+1 793 Kč s DPH
+Triton 19" stojanový rack 18U/600x1000 prosklené dveře, šedý
+9 558 Kč bez DPH
+11 565 Kč s DPH
+Ubiquiti Single-Mode optický 1/10G SFP+ modul, 1310nm, 10km
+1 083 Kč bez DPH
+1 310 Kč s DPH
+Triton 19" stojanový rack 45U/600x900 prosklené dveře, šedý
+14 430 Kč bez DPH
+17 460 Kč s DPH
+Triton 19" stojanový rack 47U/600x1000 prosklené dveře, šedý
+15 840 Kč bez DPH
+19 166 Kč s DPH
+Synology HDD HAT5320-20T, 3.5", 20TB, SATA
+24 381 Kč bez DPH
+29 501 Kč s DPH
+SanDisk Micro SDXC Ultra 64GB + SD adaptér
+598 Kč bez DPH
+724 Kč s DPH
+Cudy IR02, Průmyslový 4G LTE Wi-Fi Router, RS-232/RS-485 a I/O
+2 909 Kč bez DPH
+3 520 Kč s DPH
+Teltonika Security BP2VA, Bezdrátový vnitřní PIR detektor pohybu
+995 Kč bez DPH
+1 204 Kč s DPH
+Triton 19" stojanový rack 47U/800x800 prosklené dveře, šedý
+15 570 Kč bez DPH
+18 840 Kč s DPH
+SanDisk Micro SDXC Ultra GO 256GB
+1 568 Kč bez DPH
+1 898 Kč s DPH
+Ubiquiti Externí přísvit pro G6 180 kameru, černý
+2 928 Kč bez DPH
+3 543 Kč s DPH
+DEYE měnič 4 kW, 3 fázový, G06
+10 588 Kč bez DPH
+12 812 Kč s DPH
+Samsung 9100 PRO NVMe SSD, M.2, 8TB
+46 611 Kč bez DPH
+56 399 Kč s DPH
 Aktuality
 Kritická chyba ve firmware Teltonika
 30.10.2026

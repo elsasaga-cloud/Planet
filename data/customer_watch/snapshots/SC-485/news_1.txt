@@ -1,4 +1,4 @@
-# SC-485 fxc.jp · news_1 · https://www.fxc.jp/news/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-485 fxc.jp · news_1 · https://www.fxc.jp/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 ニュース
 / ニュース /
 カタログ /
@@ -158,6 +158,10 @@ English
 ニュース
 新着情報一覧
 すべて サポート ファームウェア イベント リリース お知らせ ソリューション
+2026/11/26/ お知らせ
+LoadBalancer BLOG 更新のお知らせ
+2026/11/26/ お知らせ
+年末年始の休業日並びに製品出荷日のお知らせ
 2026/11/19/ お知らせ
 FXC Engineer Blog 更新のお知らせ
 2026/11/18/ ファームウェア
@@ -556,6 +560,4 @@ LoadMaster OS（LMOS）のセキュリティの脆弱性に対応したパッチ
 2024/05/13/ イベント
 SunTelphone ICT Business Selection 2024出展のお知らせ
 2024/05/09/ イベント
-【5月29日開催オンラインセミナー】Interop2024開催直前！FXCブースご紹介セミナー
-2024/04/26/ ファームウェア
-LightEdgeXchange®3000シリーズ「LEX3930-00」ファームウェア 1
+【5月29日開催オンラインセミナー】Interop2024開催直

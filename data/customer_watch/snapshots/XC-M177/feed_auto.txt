@@ -1,4 +1,4 @@
-# XC-M177 Distec Ltd · feed_auto · https://www.distec.co.uk/feed/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# XC-M177 Distec Ltd · feed_auto · https://www.distec.co.uk/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Mon, 23 Nov 2026 15:23:16 +0000	Multi-Screen Digital Signage with the AOPEN Chromebox Commercial 5	https://www.distec.co.uk/multi-screen-digital-signage-with-the-aopen-chromebox-commercial-5/
 Mon, 23 Nov 2026 14:48:22 +0000	Commercial ChromeOS Devices: Introducing the AOPEN Chromebox Mini 3	https://www.distec.co.uk/commercial-chromeos-devices-introducing-the-aopen-chromebox-mini-3/
 Thu, 22 Oct 2026 10:01:02 +0000	Reliable Digital Signage: How to Reduce Downtime and Costly Callbacks	https://www.distec.co.uk/reliable-digital-signage-how-to-reduce-downtime-and-costly-callbacks/

@@ -1,4 +1,4 @@
-# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-416 abcv.pl · home · https://abcv.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 ABC VISION - SYSTEMY ZABEZPIECZEŃ ALARMY MONITORING IP TELEWIZJA PRZEMYSŁOWA CCTV
 Przejdź do głównej treści
 polski
@@ -317,14 +317,14 @@ Moduły kontroli dostępu
 Moduły radiowe
 Moduły rozszerzeń
 Moduły specjalne
-Centrale alarmowe
-Akcesoria
 Zestawy alarmowe
 Czujki ruchu
 Klawiatury LCD
 Moduły
 Czujki pozostałe
 Płyty główne
+Centrale alarmowe
+Akcesoria
 Centrale alarmowe
 Manipulatory
 Moduły i ekspandery
@@ -587,9 +587,9 @@ Przejścia i łączniki JACK
 Przejścia i łączniki F
 Przejścia i łączniki IEC
 Pozostałe
-Gniazda pozostałe
 Antenowe
 Gniazda BNC
 Gniazda CINCH (RCA)
 Gniazda koncentryczne IEC
-Gniaz
+Gniazda JACK
+Gniazda RJ

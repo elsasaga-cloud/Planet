@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-26T11:08:06Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,13 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 70 içerik).
+Sektörden güncel haberler ve analizler ( 72 içerik).
+Ürün Lansmanı Sandisk'ten 112 katmanlı NAND ile yeni e.MMC çözümü
+Sandisk, 112 katmanlı TLC NAND tabanlı iNAND CL EM181 e.MMC çözümünü tanıttı. IoT ve gömülü sistemlere uzun ömürlü depolama sunuyor.
+26 Kasım 2026
+Ürün Lansmanı Seagate'ten Yeni Kurumsal SSD: Nytro 4350
+Seagate Nytro 4350 NVMe SSD'yi duyurdu. 7.68 TB'a kadar kapasite, 6.800 MB/s okuma hızı sunan sürücü kurumsal sistemlere yönelik.
+26 Kasım 2026
 İnceleme AMD EPYC Venice SP7: Soket Başına 256 Çekirdek Geldi
 AMD'nin 6. nesil EPYC Venice SP7 sunucu işlemcileri, 256 çekirdek ve yeni bellek mimarisiyle performans rekorları kırdı.
 25 Kasım 2026
@@ -135,12 +141,6 @@ Dell, AI Data Platform'u semantik katman, cuDF GPU hızlandırma ve 500 kiracıl
 27 Ekim 2026
 Duyuru duyuru Sektörde Fark Yaratan Başarımızla Ödüle Layık Görüldük
 Art Sistem, Logitech iş ortaklığında 'Türkiye Genelinde En Yaygın Satan Ara Dağıtıcı' ödülüne layık görüldü. 50+ ürün çeşidiyle gurur verici başarı.
-27 Ekim 2026
-İnceleme RX 9070 XT, 50+ Oyunda 7900 XTX'i Nasıl Geçti?
-Hardware Unboxed, Radeon RX 9070 XT ile 7900 XTX'i 50'den fazla oyunda karşılaştırdı. İşte öne çıkan sonuçlar.
-27 Ekim 2026
-Marka Duyurusu Dell AI Factory, GTC Berlin'de Yeni Rack'lerle Büyüyor
-Dell, NVIDIA GTC Berlin'de Vera CPU ve Groq 3 LPU tabanlı yeni PowerEdge rack'leriyle AI Factory portföyünü genişletti.
 27 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp

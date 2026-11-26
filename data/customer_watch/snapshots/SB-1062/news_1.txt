@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -185,7 +185,10 @@ Partner Stories
 Business Hacks
 Success Stories
 Loading...
-1807 result(s)
+1809 result(s)
+Odoo Signs Strategic Partnership MOU with Hitachi Solutions Create in Japan
+Nov 25, 2026
+Odoo News
 What Odoo 20 Means for Philippine Businesses
 Nov 24, 2026
 Business Hacks
@@ -205,10 +208,10 @@ Digital Cash Register Mandate 2028: What German Businesses Should Know
 Nov 20, 2026
 Odoo News
 How to Prepare Your E-Commerce Store for Black Friday
-Nov 20, 2026
+Nov 19, 2026
 Business Hacks
 How to Upgrade Odoo With Customizations Without Breaking Workflows
-Nov 20, 2026
+Nov 19, 2026
 Business Hacks
 What if you chose the Accounting app for your Odoo One App Free?
 Nov 19, 2026
@@ -217,10 +220,7 @@ Odoo and Namirial partner to secure electronic invoicing in France
 Nov 19, 2026
 Odoo News
 Odoo Africa and KPMG Nigeria partner to make premium ERP solutions accessible for mid-tier corporates
-Nov 19, 2026
-Odoo News
-Odoo expands partnership with Salt Edge and is the first to go live with Bulk Payments
-Nov 17, 2026
+Nov 18, 2026
 Odoo News
 1
 2
@@ -601,6 +601,7 @@ Mid-sized Organisation (50-249)
 Small Organisation (10-49)
 Others
 Accounting
+admin
 AI
 Australian SMB
 Award
@@ -664,7 +665,7 @@ Podcast
 Blog
 Customers
 Legal • Privacy
-Security • Trust Center
+Security
 English
 الْعَرَبيّة
 Català

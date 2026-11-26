@@ -1,15 +1,7 @@
-# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-230 adin.it · sitemap · https://adin.it/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
 	https://adin.it/
 	https://adin.it/it/prodotti/
 	https://adin.it/it/k-new-2/
-	https://adin.it/it/telecamere-k-plus-dome/
-	https://adin.it/it/telecamere-k-plus-dome/kpic6a5sf028h/
-	https://adin.it/it/telecamere-k-plus-dome/kpic6a2lf028w/
-	https://adin.it/it/telecamere-k-plus-dome/kpic6c4sf028h/
-	https://adin.it/it/telecamere-k-plus-dome/kpic7a5sm05h/
-	https://adin.it/it/telecamere-k-plus-dome/kpic7b4lm04/
-	https://adin.it/it/telecamere-k-plus-dome/kpic6a2lf028v2/
-	https://adin.it/it/telecamere-k-plus-dome/kpic6a4lf028hv240/
 	https://adin.it/it/yingjiao/
 	https://adin.it/it/soluzioni-termiche/
 	https://adin.it/it/thermal/
@@ -19,6 +11,11 @@
 	https://adin.it/it/uniview-linea-ptz/
 	https://adin.it/it/switch-poe-e-accessori/
 	https://adin.it/it/monitor-anrecson/
+	https://adin.it/it/monitor-metallici-pro/
+	https://adin.it/it/monitor-metallici-pro/anrlcms5001/
+	https://adin.it/it/monitor-metallici-pro/anrlcms5501/
+	https://adin.it/it/monitor-metallici-pro/anrlcms3201/
+	https://adin.it/it/monitor-metallici-pro/anrlcms4301/
 	https://adin.it/it/videowall-anrecson/
 	https://adin.it/it/digital-signage/
 	https://adin.it/it/alimentatori-tvcc/
@@ -196,4 +193,6 @@
 2026-11-09	https://adin.it/it/monitor-4k-pro/anrlcms55014k/
 2026-11-09	https://adin.it/en/monitor-4k-pro/anrlcms55014k/
 2026-11-03	https://adin.it/it/switch-ethernet-da-rack/aivuswi24g10p/
-2026-
+2026-11-03	https://adin.it/en/switch-ethernet-da-rack/aivuswi24g10p/
+2019-10-24	https://adin.it/it/telecamere-ip-eyeball/unvipc3614lr3pf28d/
+2019-10-24	https://adin.it/en/telecamere-ip-eyeball/u

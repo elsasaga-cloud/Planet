@@ -1,4 +1,5 @@
-# SB-084 AD-NET TECHNOLOGY CO., LTD. · youtube · https://www.youtube.com/user/sellerofsmiles · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-084 AD-NET TECHNOLOGY CO., LTD. · youtube · https://www.youtube.com/user/sellerofsmiles · fetched 2026-11-26T11:08:06Z · HTTP 200
+2026-11-26T08:28:05+00:00	Gigabit Fiber Switch, 4 RJ45 + 2 SFP Slots: Setup, Link Test & LED Guide | ADnet AN-UM-SMC-24-AS	https://www.youtube.com/watch?v=XIRVnUJ8icA
 2026-10-14T06:08:06+00:00	2.5G/1G PoE++ Injector 90W 802.3bt, DIN Rail/Wall Mount, Live PoE Load Indicator | Real Camera Test	https://www.youtube.com/watch?v=ZV2IKHlI-X8
 2026-09-20T10:40:40+00:00	RS-232/RS-422/RS-485 to Ethernet | Mini DIN-Rail Modbus RTU to TCP + Temperature Sensor Demo	https://www.youtube.com/watch?v=ACwCpsSUIdQ
 2026-09-11T13:06:08+00:00	【実機テスト】RJ45×2ポート ギガビット光メディアコンバーター｜1000BASE-SX・LCマルチモード850nm・550m・SFP交換式	https://www.youtube.com/watch?v=jzgD7P55ol8
@@ -13,4 +14,3 @@
 2026-07-19T08:29:01+00:00	48V PoE Switch to 24V Passive PoE Camera Adapter Male-Female RJ45 | 802.3af/at Converter for AirCam	https://www.youtube.com/watch?v=7WGGQGaNQ4k
 2026-07-10T12:59:23+00:00	StarTech MCMGBSCMM055 850nm Compatibility Test with AD-net AN-UMG-MM-AS-850J SC MM Media Converters	https://www.youtube.com/watch?v=MS_TqWv7RZQ
 2026-07-06T03:24:12+00:00	ADnet Mini PoE Extender: Expand 1 Slave Port to Run 2 PoE Cameras + 1 PoE Light with No Local Power	https://www.youtube.com/watch?v=W3AEvNINkn0
-2026-06-19T06:08:06+00:00	Outdoor Waterproof RJ45 PoE Surge Protector: 10kV IP67 Test, Camera + Switch & Connector Setup Guide	https://www.youtube.com/watch?v=wbh8OoW9PU4

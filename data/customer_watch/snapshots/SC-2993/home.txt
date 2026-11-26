@@ -1,4 +1,4 @@
-# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-2993 cablesnmore.com · home · https://cablesnmore.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Cables N More
 Create Account
 Log in
@@ -344,15 +344,15 @@ Bestsellers
 M6 Cage Nuts and Mounting Screws for Racks - 25 pack
 M6 Cage Nuts and Screws from Networx® allow for easy conversion of square mounting holes found in some racks and cabinets into round holes for standard screws.
 $6.80
+Surface Mount Box with CAT6 110 Punch Down Terminals -Dual RJ45 - 8 Conductor
+Networx® Surface Mount Boxes come in a variety of styles including our 110 style punch down Surface Mount Boxes.
+$3.21
 USB A Male to C Male - 3 FT, 480Mbps
 Networx® USB Type C Cables combine style, quality, performance and value to give a great deal on a great USB cable.
 $2.94
 Gigabit Fiber Media Converter - UTP to 1000Base-LX - ST Singlemode, 20km, 1310nm
 This Fiber Transceiver / Media Converter is designed to convert data signal between 10/100/1000Base-T and 1000Base-LX Gigabit Ethernet. Maximum transmission distance 20 kilometers over duplex singlemode fiber (9/125 micron) @ 1310nm. Duplex ST Connector.
 $73.18
-6u Vertical Wall Mount Bracket - Black
-Our 6u Vertical Wall Mount Bracket - Black are a convenient way to accomplish your rack mounting needs while you save space without bulky full sized racks. Designed for all 19 inch patch panel equipment.
-$57.09
 Modular Adapter Kit - DB9 Female to RJ45 - Black
 These Networx® Modular Adapter Kit - DB9 Female to RJ45 - Black are unwired and are used to convert a DB connector to a modular Female connector.
 $1.96

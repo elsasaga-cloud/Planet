@@ -1,4 +1,4 @@
-# SB-256 tvprzemyslowa.pl · news_1 · https://uniforce.pl/news-pol.phtml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-256 tvprzemyslowa.pl · news_1 · https://uniforce.pl/news-pol.phtml · fetched 2026-11-26T11:08:06Z · HTTP 200
 Uniforce - Aktualności - Elektroniczne systemy zabezpieczeń i drony
 zł
 Język i waluta:
@@ -80,6 +80,14 @@ Konto
 Ustawienia
 Zaloguj się Zarejestruj się Sprawdź status zamówienia
 Aktualności
+2026-11-26
+Wieża do monitoringu, drony i systemy monitoringu na Security Expo 2026
+Już w przyszłym tygodniu będziemy na Warsaw Security Expo – specjalistycznych targach branży systemów zabezpieczeń i ochrony, organizowanych w Ptak Warsaw Expo, największym centrum targowym w Europie Środkowej.
+Czytaj więcej
+2026-11-25
+Reconeyez zmienia nazwę na VOSKER Enterprise
+Po przejęciu w 2025 roku firmy Reconeyez przez VOSKER, kanadyjskiego producenta mobilnych systemów nadzoru wideo, system Reconeyez zmienia nazwę na VOSKER Enterprise. W tym artykule piszemy o tym, co to oznacza dla obecnych użytkowników systemu.
+Czytaj więcej
 2026-10-13
 Ascend 26: nowe funkcje dla Skydio X10D i premiera F10 Lightrunner
 Pod koniec września odbyła się tegoroczna konferencja Skydio Ascend 26. Amerykański producent podsumował dotychczasowy rozwój platform Skydio X10/X10D i R10 oraz przedstawił kolejną odsłonę płatowca F10. Obecnie ma ona nie tylko nietypowy system startu i lądowania, ale także ciekawy, asymetryczny kształt.
@@ -111,14 +119,6 @@ Czytaj więcej
 2025-11-26
 Na Security Expo 2025 pokażemy drony, wieżę do monitoringu i systemy optoelektroniczne
 Już w przyszłym tygodniu wybrane produkty z naszej oferty będzie można zobaczyć na żywo na warszawskich targach Security Expo. Pokażemy m.in. nowości w naszej ofercie, czyli drony Orqa i mobilny zestaw ochrony perymetrycznej Sentinel.
-Czytaj więcej
-2025-11-03
-Uniforce na Future Land Forces 2025
-W tym tygodniu będziemy prezentować nasze technologie BSP na Future Land Forces, międzynarodowej konferencji poświęconej rozwojowi sił lądowych. Wydarzenie skupia przedstawicieli wojska, ekspertów w dziedzinie obronności i dostawców sprzętu wykorzystywanego na współczesnym polu walki.
-Czytaj więcej
-2025-09-19
-Nowe drony na Skydio Ascend '25: producent prezentuje Skydio R10 i Skydio F10
-W środę wieczorem odbyła się coroczna konferencja Skydio Ascend. Amerykański producent dronów zdradził plany dalszego rozwoju platformy Skydio X10/X10D, zaprosił przedstawicieli służb mundurowych, administracji i przemysłu, aby podzielili się swoimi doświadczeniami ze Skydio X10, ale przede wszystkim - zaprezentował nowe drony, Skydio R10 i Skydio F10.
 Czytaj więcej
 1
 2

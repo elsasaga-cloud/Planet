@@ -1,4 +1,4 @@
-# SB-062 Aarya ITES Pvt. Ltd. · home · https://www.a-ites.com/ · fetched 2026-11-25T11:29:08Z · HTTP 500
+# SB-062 Aarya ITES Pvt. Ltd. · home · https://www.a-ites.com/ · fetched 2026-11-26T11:08:06Z · HTTP 500
 Requirements Not Met
 Your PHP installation appears to be missing the MySQL extension which is required by WordPress.
 Please check that the mysqli PHP extension is installed and enabled.

@@ -1,4 +1,4 @@
-# SB-027 VoIPDistri · home · https://voipdistri.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-027 VoIPDistri · home · https://voipdistri.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Voice over IP Online Distribution (VoIP Shop) - VoIP Telefonie im Onl
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -326,19 +326,19 @@ Grandstream GS-POE60W-MG PoE Injector (IEEE 802.3 af/at/bt) / PoE++ 60 Watt
 Sofort verfügbar
 Lieferzeit: 3 - 4 Werktage
 Neu
-Akubela B25LN AC Controller-Indoor
-112,42 € *
-(Netto
-94,47 €)
-Sofort verfügbar
-Lieferzeit: 2 - 3 Werktage
-Neu
 Fanvil W626W robustes WLAN-IP-Telefon (weiß)
 204,85 € *
 (Netto
 172,14 €)
 Sofort verfügbar
 Lieferzeit: 10 - 11 Werktage
+Neu
+Akubela B25LN AC Controller-Indoor
+112,42 € *
+(Netto
+94,47 €)
+Sofort verfügbar
+Lieferzeit: 2 - 3 Werktage
 Neu
 Grandstream GXV3450 IP-Videotelefon (Android)
 378,23 € *
@@ -347,17 +347,12 @@ Grandstream GXV3450 IP-Videotelefon (Android)
 Sofort verfügbar
 Lieferzeit: 3 - 4 Werktage
 Neu
-Fanvil i62-2 Retrofit 2-Draht SIP Video Gegensprechanlage (1 Taste)
-Preis auf Anfrage
-Zum Artikel
-Sofort verfügbar
-Neu
-Fanvil PA1 Paging Gateway
-Preis auf Anfrage
-Zum Artikel
-Sofort verfügbar
-Neu
 Fanvil i554W-2 Retrofit Tür-Innendisplay (2-Draht)
+Preis auf Anfrage
+Zum Artikel
+Sofort verfügbar
+Neu
+Fanvil i62-2 Retrofit 2-Draht SIP Video Gegensprechanlage (1 Taste)
 Preis auf Anfrage
 Zum Artikel
 Sofort verfügbar
@@ -434,14 +429,17 @@ VoIPdistri.com - Voice over IP Distribution Company
 Kommentare zum Artikel Teltonika RUT360 stellt eine erweiterten LTE Router des Bestsellers RUT240 vor und ergänzt mit den TSW110 Industrial Ethernet-Switch das Produktportfolio
 Teltonika RUT360 stellt eine erweiterten LTE Router des Bestsellers RUT240 vor und ergänzt mit den TSW110 Industrial Ethernet-Switch das Produktportfolio
 Die Teltonika Mobilfunk LTE Router bietet erhebliche Preisvorteile mit vergleichbaren Wettbewerbsprodukten um Maschinen und industrielle Prozesse miteinander mit weltweit verfügbaren, öffentlichen Mobilfunknetze zu vernetzen.
-Wasserdichte Außendose IP66, Aufputzgehäuse mit integriertem Keystone Trägerrahmen, Deckel abschließbar mit handelsüblichen Vorhängeschloss
-Absolut Spitzenprodukt,die Dichtungen funktionieren da ich die Dose mit einem Gartenschlauch getestet habe, somit...
-Markus H.
-Fanvil i52W Indoor Monitor klingelt ständig weiter, Dank des technischen Kundenservice wurde das Problem gelöst, vielen Dank an den Voipdistri Support!
-Moin aus dem Norden!
-vielen Dank für die schnelle Lieferung, gut verpackt, günstiger Preis, was will man mehr......
-Rainer K.
+Qualität hat sein Preis - SAT>IP TV-Tuner/Server
+Der SAT>IP Tuner macht einen sehr guten Eindruck und ist hochwertig verarbeitet! Zuvor hatte ich elgato netstream...
+Tobi
+Telekom Deutschland LAN cloud PBX durch ein Yealink T46G / T48G erweitern
+Ich gebe in den Autoprovisioning Einstellung des Telefons alle Daten ein (gemäß DTAG Anleitung und auch identisch zu...
+Christian B.
+VoIP-Telefonie via SAT Internet kombiniert hinter FritzBox
+Für unser Ferienhaus in Italien kam nur eine VoIP-Telefonie über einen Satelittenanbieter in Frage. Leider hat uns...
+Rainer Mo.
+ALCATEL IP901G funktioniert tadelos am Deutsche-Telefon.de Clound-Anlagenanschluß
+Wir nutzen den Service der Firma „Deutsche Telefon Standard AG“ (https://www.deutsche-telefon.de/). Leider...
+Jörg H.
 Türsprechanlage mit viel Comfort
-Akuvox E11R (Aufputz) bietet viel Comfort und ist bei vorhandenem Lan Anschluss, ohne Probleme mit einer Fritzbox...
-Annette G
-Sendtek PES822 - G.hn HomeGrid Koexistenz mit ADSL und VDSL
+Akuvox E11R (Aufputz) bietet viel Comfort 

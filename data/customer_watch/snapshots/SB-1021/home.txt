@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -40,9 +40,9 @@ Wyniki wyszukiwania:
 Kategorie
 Nowości
 Promocje
-Urządzenia (2752)
-Wszystkie 2752
-Switche 1019
+Urządzenia (2754)
+Wszystkie 2754
+Switche 1021
 Access Pointy 188
 Routery WiFi 391
 Routery zaawansowane 109
@@ -61,8 +61,8 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5122)
-Wszystkie 5122
+Światłowody (5124)
+Wszystkie 5124
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1029
 Patchcordy światłowodowe 1339
@@ -71,9 +71,9 @@ Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 383
 Adaptery światłowodowe 128
 Budowa sieci optotelekomunikacyjnej 369
 Spawarki światłowodowe i akcesoria 50
-Urządzenia diagnostyczne 159
+Urządzenia diagnostyczne 160
 Mediakonwertery 91
-Mufy światłowodowe 215
+Mufy światłowodowe 216
 Multipatchcordy 50
 Narzędzia światłowodowe 128
 Osłonki spawów 19
@@ -87,14 +87,14 @@ GPON/GEPON 173
 CWDM Mux/Demux 9
 Szybkozłączki, spawy mechaniczne, złącza światłowodowe 62
 Stojaki kablowe 16
-Monitoring (2612)
-Wszystkie 2612
+Monitoring (2611)
+Wszystkie 2611
 Systemy IP 999
 Systemy HD-TVI 115
 Systemy hybrydowe 242
 Zestawy do monitoringu 11
 Switche POE 146
-Zasilanie CCTV 314
+Zasilanie CCTV 313
 Dyski twarde do CCTV 21
 Zabezpieczenia CCTV 237
 Obudowy i puszki CCTV 115
@@ -121,12 +121,12 @@ System 45x45 40
 Kable sterownicze i alarmowe YTDY 9
 Ograniczniki przepięć LAN 21
 Kable telefoniczne 23
-Zasilanie (2300)
-Wszystkie 2300
+Zasilanie (2305)
+Wszystkie 2305
 Zasilacze UPS 374
 Zasilacze PoE 91
-Zasilacze buforowe 227
-Zasilacze impulsowe 559
+Zasilacze buforowe 226
+Zasilacze impulsowe 565
 Adaptery POE 53
 Akumulatory 106
 Przetwornice napięcia 158
@@ -278,29 +278,29 @@ Produkty archiwalne (557)
 Wszystkie 557
 Czołowi producenci
 Nowości
-Hikvision DS-2CD2047G3-LI2UY/SL 2.8mm PL#PL kamera IP 4 MP ColorVu
-882.01 zł netto
+Kamera IP Hikvision DS-2CD2687G3-LIZSY(2.8-12mm)/O-STD/BLACK 8 MP
+1931.52 zł netto
 Do koszyka
-Hikvision DS-2CD2T83G2P-LISU/S(L)(RB) kamera IP panoramiczna 8 MP 180°
-1097.59 zł netto
+Kamera IP panoramiczna Hikvision DS-2CD2387G3P-LIS2UY/SL(180°)/BLACK 8 MP
+1370.88 zł netto
 Do koszyka
-Hikvision DS-2CD2T43G2P-LISU/S(L)(RB) panoramiczna kamera IP 4 MP
-766.72 zł netto
+Kamera IP panoramiczna Hikvision DS-2CD2387G3P-LIS2UY/SL(180°) 8 MP
+1320.91 zł netto
 Do koszyka
-Patchcord światłowodowy SILVER LC/APC-SC/UPC G.652D DUPLEX 2M 3.0mm YELLOW LSZH
-19.78 zł netto
+Kamera IP panoramiczna Hikvision DS-2CD23127G3P-LIS2UY/SL(180°) 12 MP
+1406.76 zł netto
 Do koszyka
-Karta sieciowa Lanberg NC-2500-02 USB-C RJ-45 2,5 Gb/s
-35.26 zł netto
+Hikvision DS-2CD2187G3-LIS2UY(2.8mm) kamera IP kopułowa 8 MP ColorVu
+1282.33 zł netto
 Do koszyka
-Karta sieciowa Lanberg NC-2500-01 USB-A 3.2 na RJ45 2,5 Gb/s
-34.81 zł netto
+MEAN WELL APV-25-12 zasilacz LED 12 V 2,1 A 25,2 W
+39.62 zł netto
 Do koszyka
-Lanberg AK-1100-S listwa uziemiająca do szaf RACK 19″
-34.51 zł netto
+MEAN WELL APV-25-5 zasilacz LED 5 V 3,5 A 17,5 W
+39.62 zł netto
 Do koszyka
-Przełącznica kliencka światłowodowa FOB-A04C 4x SC Simplex
-43.37 zł netto
+MEAN WELL APV-16-24 zasilacz LED 24 V 16,08 W
+24.77 zł netto
 Do koszyka
 Projektowanie,
 budowa i integracja
@@ -311,6 +311,10 @@ telekomunikacyjne.
 Rzetelna firma
 LeaseLink
 Aktualności
+Inwentaryzacja magazynu (27–30.11) – zmiana harmonogramu wysyłek
+2026-11-25
+Szanowni Klienci,
+w związku z planowaną inwentaryzacją magazynu informujemy o tymczasowych zmianach w harmonogramie wy
 Spawarka światłowodowa Signal Fire AI-8C + skrzynka + zestaw narzędzi
 2019-10-02
 Spawarka światłowodowa Signal Fire AI-8C + skrzynka + zestaw narzędzi
@@ -327,9 +331,6 @@ Nowości w ofercie
 2019-07-17
 Media konwerter CBF 4x 10/100/1000Base-TX + 1 x GE SFP Port
 Media konwerter CBF-224-SFP. Urządzenie posiada 4 porty
-D-Link DGS-3130 - nowa seria przełączników zarządzalnych L3 Lite
-2019-05-09
-Chcielibyśmy Państwu przedstawić nową serię przełączników zarządzalnych firmy D-Link - DGS-3130. Seria ta jest na
 Testy, raporty
 Ubiquiti Unifi Cloudkeys, Gateways i Cloud Gateways - jakie są różnice?
 2024-09-16
@@ -354,6 +355,10 @@ Nie masz konta?
 Założenie konta zajmie Ci tylko chwilę.
 Stwórz nowe konto
 Aktualności
+Inwentaryzacja magazynu (27–30.11) – zmiana harmonogramu wysyłek
+2026-11-25
+Szanowni Klienci,
+w związku z planowaną inwentaryzacją magazynu informujemy o tymczasowych zmianach w harmonogramie wy
 Spawarka światłowodowa Signal Fire AI-8C + skrzynka + zestaw narzędzi
 2019-10-02
 Spawarka światłowodowa Signal Fire AI-8C + skrzynka + zestaw narzędzi
@@ -370,9 +375,6 @@ Nowości w ofercie
 2019-07-17
 Media konwerter CBF 4x 10/100/1000Base-TX + 1 x GE SFP Port
 Media konwerter CBF-224-SFP. Urządzenie posiada 4 porty
-D-Link DGS-3130 - nowa seria przełączników zarządzalnych L3 Lite
-2019-05-09
-Chcielibyśmy Państwu przedstawić nową serię przełączników zarządzalnych firmy D-Link - DGS-3130. Seria ta jest na
 Baza wiedzy, raporty
 Ubiquiti Unifi Cloudkeys, Gateways i Cloud Gateways - jakie są różnice?
 2024-09-16

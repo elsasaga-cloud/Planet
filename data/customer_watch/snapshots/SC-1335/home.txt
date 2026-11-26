@@ -1,4 +1,4 @@
-# SC-1335 discomp.cz · home · https://www.discomp.cz/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-1335 discomp.cz · home · https://www.discomp.cz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 The operation of our website www.discomp.cz we use so-called cookies. Cookies are files used to customize site content to measure its performance and generally to ensure your maximum satisfaction. By using this site, you agree with the way the cookie treat.
 OK
@@ -6,71 +6,71 @@ Discomp | dodáváme síťové prvky a bezdrátové řešení pro firmy
 New products
 Best selling
 Reduced price
-Ubiquiti UACC-PSU-12V-150W, Power module, 150W
-102.05 EUR excl. VAT
-Teltonika PR328EUB, 1G passive PoE injector, 24V, 30W
-14.37 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-0.2M-BL-24, UniFi patch cable, 0.2m, blue, 24-pack
-41.02 EUR excl. VAT
-MikroTik IAQM-THC2V-W, CLAIRÉ Lite air quality monitor, white
-60.79 EUR excl. VAT
-Ubiquiti USL-Entry-3, UniFi Protect magnetic door contact, 3-pack
-83.09 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-0.4M-BK-24, UniFi patch cable, 0.4m, black, 24-pack
-46.30 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-1M-BK, UniFi patch cable, 1m, black
-3.36 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-0.2M-BL-50, UniFi patch cable, 0.2m, blue, 50-pack
-83.09 EUR excl. VAT
+MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax
+239.57 EUR excl. VAT
 Ubiquiti UACC-Cable-Patch-2M-BL-10, UniFi patch cable, 2m, blue, 10-pack
-38.93 EUR excl. VAT
-MikroTik XS+31LC20D, SFP28 optical module, Single-Mode, 20km, 25G, 1310nm
-101.31 EUR excl. VAT
-Ubiquiti UACC-LR-Endpoint, Outdoor long-range PoE endpoint
-84.16 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-8M-W, UniFi patch cable, 8m, white
-7.98 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-8M-BK, UniFi patch cable, 8m, black
-7.98 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-1M-BK-24, UniFi patch cable, 1m, black, 24-pack
-72.57 EUR excl. VAT
-Ubiquiti UACC-UTS, Universal table stand
-25.71 EUR excl. VAT
+39.00 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-0.4M-BK-50, UniFi patch cable, 0.4m, black, 50-pack
+88.56 EUR excl. VAT
+Huawei IdeaHub B3 Base, Interactive display, 75"
+2 563.13 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-0.4M-W, UniFi patch cable, 0.4m, white
+2.33 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-1M-W-10, UniFi patch cable, 1m, white, 10-pack
+30.57 EUR excl. VAT
+Huawei Aura10, Dual-Band Wi-Fi 7 router
+138.00 EUR excl. VAT
 Ubiquiti UACC-Cable-Patch-0.2M-W, UniFi patch cable, 0.2m, white
-2.09 EUR excl. VAT
-Ubiquiti UACC-Cable-Patch-1M-BL-24, UniFi patch cable, 1m, blue, 24-pack
-72.57 EUR excl. VAT
+2.13 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-12M-BL, UniFi patch cable, 12m, blue
+15.27 EUR excl. VAT
+Huawei IdeaHub B3 Base, Interactive display, 98"
+5 366.48 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-3M-W-10, UniFi patch cable, 3m, white, 10-pack
+47.43 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-5M-BK, UniFi patch cable, 5m, black
+6.22 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-3M-BK-10, UniFi patch cable, 3m, black, 10-pack
+47.43 EUR excl. VAT
+Ubiquiti UACC-Cable-Patch-5M-W, UniFi patch cable, 5m, white
+6.22 EUR excl. VAT
+Teltonika PR1DCA70, Outdoor 5G/Wi-Fi/GPS antenna
+203.52 EUR excl. VAT
+Ubiquiti UACC-OM-MM-1G-D-I, SFP optical module, Multi-Mode, 550m, 1G, 850nm
+12.65 EUR excl. VAT
+Huawei OPS W022 D, Computer module for IdeaHub, 16GB RAM
+2 272.97 EUR excl. VAT
 Show next news
-Huawei OptiXstar EG8041X6-10, GPON ONT Gateway, WiFi 6
-35.28 EUR excl. VAT
-Masterlan conector UTP RJ45, Cat.5e, 8p8c, wire, golded
-0.18 EUR excl. VAT
+Solarix connector RJ45 CAT6A a CAT7 STP 8p8c shielded for wire
+1.03 EUR excl. VAT
 Masterlan conector UTP RJ45, Cat.6, 8p8c, cable, golded, pleated
 0.19 EUR excl. VAT
+Huawei eKitOptiX FG736, Edge ONT & Dual-Band Wi-Fi 7 router
+39.86 EUR excl. VAT
+TP-Link Tapo C320WS - Outdoor WiFi Camera, 4MP, 3.18mm
+45.88 EUR excl. VAT
+TP-Link Tapo C560WS - Outdoor Pan/Tilt Security Wi-Fi Camera
+82.42 EUR excl. VAT
+Ubiquiti UACC-PoE+-2.5G - 2.5Gbit PoE injector 48V/0,65A (30W), white
+15.80 EUR excl. VAT
+Ubiquiti Universal antenna holder for all NanoStation and LocoStation
+5.36 EUR excl. VAT
+MikroTik RB924i-2nD-BT5&BG77, KNOT - IoT Gateway
+71.05 EUR excl. VAT
+Teltonika RUT200, Industrial 4G Wi-Fi 4 router
+124.58 EUR excl. VAT
+TP-Link EX141 AX1500 Dual-Band Wi-Fi 6 Router
+36.46 EUR excl. VAT
+Solarix universal EASY connector RJ45 CAT5E UTP 8p8c, pass-through
+0.23 EUR excl. VAT
+Ubiquiti U-Cable-Patch-2M-RJ45-BK, UniFi Ethernet Patch Cable, 2m, Cat6, black
+2.95 EUR excl. VAT
+Teltonika Surface Mounting Kit
+2.62 EUR excl. VAT
 Masterlan splice sleeve 2.2 x 60mm, 1mm steel rod
 0.12 EUR excl. VAT
-TP-Link Kasa KE100 - Smart thermostatic radiator valve
-36.27 EUR excl. VAT
-Ubiquiti UniFi switch USW-Ultra-60W
-134.18 EUR excl. VAT
-Ubiquiti UniFi Switch Flex Mini 2.5G
-48.26 EUR excl. VAT
 Ubiquiti NanoStation 5AC Loco, Loco5AC
-43.02 EUR excl. VAT
-Huawei eKitOptiX FS600D, GPON ONT Gateway, Wi-Fi 6
-27.83 EUR excl. VAT
-Masterlan patch cable UTP, Cat5e, 1m, brown
-0.56 EUR excl. VAT
-Ubiquiti UniFi Switch USW-Flex-Mini
-26.32 EUR excl. VAT
-Ubiquiti LBE-5AC-Gen2 - LiteBeam 5AC Generation 2
-59.23 EUR excl. VAT
-TP-Link Archer AX23 Wireless Wi-Fi 6 Router
-50.63 EUR excl. VAT
-Ubiquiti UACC-DAC-SFP10-3M, DAC cable, 10 Gbps, 3m
-16.82 EUR excl. VAT
-MikroTik LtAP-2HnD&R11e-LTE7, LtAP LTE7 kit
-119.57 EUR excl. VAT
+43.09 EUR excl. VAT
 Sale out
 Unpacked and used
 News
@@ -116,10 +116,10 @@ MikroTik
 WiFi Routers
 60GHz PtP and PtMP
 UniFi UAP
-19" Data cabinets
-CnPilot
-AirMAX AC
-Antennas with TwistPort
+PoE Switches
+Active PoE
+IP NVR Recorders
+Tools
 About shopping General Terms and Conditions - businessman
 General Terms and Conditions - consumer
 Shipping and payment
@@ -141,7 +141,7 @@ Download center
 CZK
 EUR
 USD
-0) $('#whisper-box').slideDown(0);" onblur="if (!window.__cfRLUnblockHandlers) return false; whisperClose(0);$('#frqsrchword-box').delay(0).slideUp(0);" value="" title="Search" placeholder="e.g. uap, switch, router" data-cf-modified-588b29ff5a1b4b4d03faa2a5-="" />
+0) $('#whisper-box').slideDown(0);" onblur="if (!window.__cfRLUnblockHandlers) return false; whisperClose(0);$('#frqsrchword-box').delay(0).slideUp(0);" value="" title="Search" placeholder="e.g. uap, switch, router" data-cf-modified-71a026280d4e2604ce77c610-="" />
 0
 Cart
 0
@@ -230,5 +230,4 @@ Cameras, security IP cameras Bullet , Dome , Turret , Cube , Speed dome (PTZ) , 
 IP NVR Recorders 4 cameras , 8 cameras , 16 cameras , 32 cameras , 64 cameras , 128 Cameras , 256 Cameras , UniFi Video
 IP camera sets
 Analog Cameras, DVR recorders Analog cameras , DVR - Recording ,
-LCD monitor HDMI, Displayport cables
-Mounting boxes and brackets Mounting boxes , Wallmount , Mast boxes , Ceiling 
+LCD monitor HDMI, Displayport c

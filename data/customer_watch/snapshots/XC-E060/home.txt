@@ -1,4 +1,4 @@
-# XC-E060 Delta Computer Products GmbH · home · https://deltacomputer.de/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# XC-E060 Delta Computer Products GmbH · home · https://deltacomputer.de/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Startseite | DELTA Computer Products GmbH
 The store will not work correctly when cookies are disabled.
 Um Ihnen die Funktionen unseres Online-Shops uneingeschränkt anbieten zu können setzen wir Cookies ein.
@@ -116,6 +116,12 @@ Die Anforderungen an die 19'' Serverschränke werden immer höher und komplexer.
 Stromverteilereinheit
 Mit Hilfe zusätzlicher Hardware, wie zum Beispiel einer PDU (Power Distribution Unit) oder einer USV (unterbrechungsfreie Stromversorgung) können Sie sich Ihre Rack-Umgebung perfekt konfigurieren. Sowohl die Überwachung als auch die Absicherung bieten einen großen Komfort.
 Blog Neueste Beiträge
+KI-Infrastruktur im eigenen Haus für den Mittelstand
+2026-11-25
+DELTA liefert und installiert NVIDIA DGX-Systeme und Inferenzserver. Mittelständische Unternehmen betreiben damit KI auf eigenen Daten im eigenen Rechenzentrum.AusgangslageViele Unternehmen wollen KI mit Konstruktionsdaten, Kundendaten oder Patientendaten nutzen. Diese Daten dürfen das Haus oft ...
+IDM trainiert medizinische KI auf NVIDIA DGX B300
+2026-11-25
+Die IDM gGmbH entwickelt medizinische KI aus Hamburg für Kliniken und Praxen. Die gemeinnützige Tochter des Universitätsklinikums Hamburg-Eppendorf (UKE) trainiert ihre Modelle auf zwei NVIDIA DGX B300, die DELTA geliefert hat.AusgangslageArztbriefe, Befunde und Verlaufsnotizen kosten ...
 NVIDIA-AI-Enterprise
 2026-06-02
 NVIDIA · Enterprise-Software-PlattformNVIDIA AI EnterpriseDie validierte Software-Plattform, die produktive KI vom Prototyp bis in den Betrieb trägt. Über 100 Frameworks, vortrainierte Modelle und Microservices wie NIM, NeMo und Riva, mit Enterprise-Support und identischem Betrieb ...
@@ -125,12 +131,6 @@ Premiere · 21. Mai 2026 · GlindeVera Rubin PremiereWie wir die nächste NVIDIA
 NVIDIA Vera Rubin
 2026-05-04
 NVIDIA Vera RubinSieben Chips. Eine AI‑Fabrik. Eine neue Generation.Mit der Vera Rubin Plattform tritt NVIDIA in das Zeitalter der agentischen KI ein. Sieben neu entwickelte Chips, flüssigkeitsgekühlt im Rack, integriert auf der dritten MGX‑Generation: 3,6 EFLOPS NVFP4‑Inferenz ...
-NVIDIA DGX Station
-2026-04-28
-NVIDIA DGX StationFrontier-KI vom Schreibtisch.Mit dem GB300 Grace Blackwell Ultra Desktop Superchip bringt NVIDIA Rechenzentrums-Leistung auf den Schreibtisch: 748 GB kohärenter Speicher, 20 PFLOPS FP4 und Modelle bis rund eine Billion Parameter, lokal und DSGVO-konform an einer ...
-NVIDIA DGX GB300 NVL72
-2026-04-10
-Der DGX GB300 NVL72 verbindet 36 Grace-CPUs und 72 Blackwell Ultra GPUs in einem vollständig flüssigkeitsgekühlten Rack. Die Rack-Lösung ist speziell für das Zeitalter des KI-Reasonings konzipiert. In einer NVLink-Domäne mit 72 Grafikprozessoren, die als einzelner riesiger Grafikprozessor ...
 Alle Inhalte
 Gesamten Blog anzeigen
 Blog durchsuchen
@@ -267,6 +267,12 @@ Die Anforderungen an die 19'' Serverschränke werden immer höher und komplexer.
 Stromverteilereinheit
 Mit Hilfe zusätzlicher Hardware, wie zum Beispiel einer PDU (Power Distribution Unit) oder einer USV (unterbrechungsfreie Stromversorgung) können Sie sich Ihre Rack-Umgebung perfekt konfigurieren. Sowohl die Überwachung als auch die Absicherung bieten einen großen Komfort.
 Blog Neueste Beiträge
+KI-Infrastruktur im eigenen Haus für den Mittelstand
+2026-11-25
+DELTA liefert und installiert NVIDIA DGX-Systeme und Inferenzserver. Mittelständische Unternehmen betreiben damit KI auf eigenen Daten im eigenen Rechenzentrum.AusgangslageViele Unternehmen wollen KI mit Konstruktionsdaten, Kundendaten oder Patientendaten nutzen. Diese Daten dürfen das Haus oft ...
+IDM trainiert medizinische KI auf NVIDIA DGX B300
+2026-11-25
+Die IDM gGmbH entwickelt medizinische KI aus Hamburg für Kliniken und Praxen. Die gemeinnützige Tochter des Universitätsklinikums Hamburg-Eppendorf (UKE) trainiert ihre Modelle auf zwei NVIDIA DGX B300, die DELTA geliefert hat.AusgangslageArztbriefe, Befunde und Verlaufsnotizen kosten ...
 NVIDIA-AI-Enterprise
 2026-06-02
 NVIDIA · Enterprise-Software-PlattformNVIDIA AI EnterpriseDie validierte Software-Plattform, die produktive KI vom Prototyp bis in den Betrieb trägt. Über 100 Frameworks, vortrainierte Modelle und Microservices wie NIM, NeMo und Riva, mit Enterprise-Support und identischem Betrieb ...
@@ -276,12 +282,6 @@ Premiere · 21. Mai 2026 · GlindeVera Rubin PremiereWie wir die nächste NVIDIA
 NVIDIA Vera Rubin
 2026-05-04
 NVIDIA Vera RubinSieben Chips. Eine AI‑Fabrik. Eine neue Generation.Mit der Vera Rubin Plattform tritt NVIDIA in das Zeitalter der agentischen KI ein. Sieben neu entwickelte Chips, flüssigkeitsgekühlt im Rack, integriert auf der dritten MGX‑Generation: 3,6 EFLOPS NVFP4‑Inferenz ...
-NVIDIA DGX Station
-2026-04-28
-NVIDIA DGX StationFrontier-KI vom Schreibtisch.Mit dem GB300 Grace Blackwell Ultra Desktop Superchip bringt NVIDIA Rechenzentrums-Leistung auf den Schreibtisch: 748 GB kohärenter Speicher, 20 PFLOPS FP4 und Modelle bis rund eine Billion Parameter, lokal und DSGVO-konform an einer ...
-NVIDIA DGX GB300 NVL72
-2026-04-10
-Der DGX GB300 NVL72 verbindet 36 Grace-CPUs und 72 Blackwell Ultra GPUs in einem vollständig flüssigkeitsgekühlten Rack. Die Rack-Lösung ist speziell für das Zeitalter des KI-Reasonings konzipiert. In einer NVLink-Domäne mit 72 Grafikprozessoren, die als einzelner riesiger Grafikprozessor ...
 Alle Inhalte
 Gesamten Blog anzeigen
 Blog durchsuchen
@@ -316,7 +316,7 @@ Your browser does not support the video tag.
 Wir liefern die Rechenleistung für Systeme der Zukunft
 Skalierbare Systeme. Maßgeschneidert.
 Sie wissen schon genau, was sie brauchen? Dann geht's hier direkt zum Konfigurator.
-D23z-M4-ZT-8xGPU Ab 39.627,55 €
+D23z-M4-ZT-8xGPU Ab 39.428,78 €
 AMD Dual EPYC Hochleistungs-Server:
 4HE Rack-Chassis (luftgekühlt)
 redundante 4x 3200W Netzteile
@@ -327,7 +327,7 @@ bis zu 8x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slots (FHHL)
 bis zu 2x PCI-E 5.0 x8 Slots (FHHL)
 bis zu 8x GPU/MIC (max. 600 Watt TDP)
-D22x-M4-SP-8xGPU Ab 30.388,09 €
+D22x-M4-SP-8xGPU Ab 30.235,65 €
 Intel Dual Xeon Hochleistungs-Server:
 4HE Rack-Chassis (luftgekühlt)
 redundante 4x 3000W Netzteile
@@ -338,7 +338,7 @@ redundante 4x 3000W Netzteile
 bis zu 8x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slots (FHHL)
 bis zu 8x GPU/MIC (max. 600 Watt TDP) inkl. NVLink Bridge Support
-D22x-M2-SP-4xGPU Ab 22.566,75 €
+D22x-M2-SP-4xGPU Ab 22.453,54 €
 Intel Dual Xeon Hochleistungs-Server:
 2HE Rack-Chassis (luftgekühlt)
 redundante 2x 2700W Netzteile
@@ -349,7 +349,7 @@ bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
 bis zu 1x PCI-E 5.0 x16 Slot (OCP)
 bis zu 4x GPU/MIC (max. 400 Watt TDP)
-D22z-M2-ZG-4xGPU Ab 31.101,36 €
+D22z-M2-ZG-4xGPU Ab 30.945,33 €
 AMD Dual EPYC Hochleistungs-Server:
 2HE Rack-Chassis (luftgekühlt)
 redundante 2x 2700W Netzteile
@@ -360,7 +360,7 @@ bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
 bis zu 1x PCI-E 5.0 x16 Slot (OCP)
 bis zu 4x GPU/MIC (max. 400 Watt TDP)
-D12z-M2-ZT-4xGPU Ab 17.321,95 €
+D12z-M2-ZT-4xGPU Ab 17.235,05 €
 AMD EPYC Hochleistungs-Server:
 2HE Rack-Chassis (luftgekühlt)
 redundante 2x 2700W Netzteile
@@ -371,9 +371,5 @@ bis zu 4x PCI-E 5.0 x16 Slots (FHFL)
 bis zu 1x PCI-E 5.0 x16 Slot (FHHL)
 bis zu 1x PCI-E 5.0 x4 Slot (OCP)
 bis zu 4x GPU/MIC (max. 400 Watt TDP)
-D12z-M1-ZT Ab 15.604,77 €
-AMD EPYC Hochleistungs-Server:
-1HE Rack-Chassis (luftgekühlt)
-redundante 2x 1300W Netzteile
-12x 2.5" HotSwap für SATA/SAS/NVMe( Gen5 )
-1x AMD EPYC™ 9005 (max. 400 Watt 
+D12z-M1-ZT Ab 15.526,49 €
+AMD EPYC Hochleistungs-S

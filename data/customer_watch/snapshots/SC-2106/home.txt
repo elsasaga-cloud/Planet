@@ -1,4 +1,4 @@
-# SC-2106 Optimal Cable Services · home · https://www.aflglobal.com/en/au · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-2106 Optimal Cable Services · home · https://www.aflglobal.com/en/au · fetched 2026-11-26T11:08:06Z · HTTP 200
 AFL | Fibre Optic Cable, Splicers & Solutions - Australia
 Solutions
 Products
@@ -17,12 +17,13 @@ Learn how we are driving responsible growth and creating meaningful long-term va
 Download the Report
 AFL’s Corporate Responsibility Efforts
 Loading component...
+FlexScan® FS300 Quad and HDR OTDR
+The FlexScan® FS300-HDR series brings OTDR testing to new levels with higher dynamic ranges, faster test times and ease of use for all levels of experience. AFL's FlexScan FS300 series includes both a combined single-mode/multimode test set and a high dynamic range single-mode test set. Both are feature-rich solutions for detecting, identifying, locating, and resolving optical network issues.
+Learn More
+Loading component...
 News Room
 Press Releases
 Blogs
-CAREERS Start Your Path at AFL Career
-AFL’s success over the past 30+ years is due to the commitment of our greatest asset—our associates. We hire and train talented individuals, investing in them to ensure their success as they embark on a career path with AFL. As competition is fierce, we understand the importance of offering a total package that exceeds that of our competition. Continue reading to fully grasp what sets AFL apart.
-SEE JOB LISTING
 Loading component...
 © Copyright 2026 AFL. All Rights Reserved | Privacy Policy | Sitemap
 SOLUTIONS
@@ -36,7 +37,11 @@ Service Provider
 LEARN MORE
 Hyperscale
 LEARN MORE
-Loading component...
+FlowScout® MPO OLTS Test Set
+Overhead Optical Distribution Frame
+Long Span ADSS Fibre Optic Cable
+Mid Span ADSS Fibre OpticCable
+Short Span ADSS Fibre Optic Cable
 SERVICES
 FTTx Solutions
 LEARN MORE
@@ -44,6 +49,9 @@ Fusion Splicers
 LEARN MORE
 Corporate Capabilities Brochure
 DOWNLOAD
+CAREERS Start Your Path at AFL Career
+AFL’s success over the past 30+ years is due to the commitment of our greatest asset—our associates. We hire and train talented individuals, investing in them to ensure their success as they embark on a career path with AFL. As competition is fierce, we understand the importance of offering a total package that exceeds that of our competition. Continue reading to fully grasp what sets AFL apart.
+SEE JOB LISTING
 SOLUTIONS
 Service Provider
 Enterprise
@@ -77,11 +85,3 @@ Locations
 Connect with us:
 Give us a call:
 +1 (800) 235-3423
-FlexScan® FS300 Quad and HDR OTDR
-The FlexScan® FS300-HDR series brings OTDR testing to new levels with higher dynamic ranges, faster test times and ease of use for all levels of experience. AFL's FlexScan FS300 series includes both a combined single-mode/multimode test set and a high dynamic range single-mode test set. Both are feature-rich solutions for detecting, identifying, locating, and resolving optical network issues.
-Learn More
-FlowScout® MPO OLTS Test Set
-Overhead Optical Distribution Frame
-Long Span ADSS Fibre Optic Cable
-Mid Span ADSS Fibre OpticCable
-Short Span ADSS Fibre Optic Cable

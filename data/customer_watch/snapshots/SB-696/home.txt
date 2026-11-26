@@ -1,4 +1,4 @@
-# SB-696 aironix.co.il · home · https://aironix.co.il/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-696 aironix.co.il · home · https://aironix.co.il/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Home - Aironix Systems
 Skip to main content
 Aironix Systems
@@ -89,19 +89,19 @@ At Aironix, innovation drives everything we do. We continuously pursue ambitious
 Customer Service
 Aironix combines personalized attention with deep technical expertise. Our hands-on approach ensures direct access to our team, responsive support, and tailored solutions built around each customer's unique needs.
 our latest products
-ASMB-830
-Proce or: Support AMD EPYC™ 7002 and 7003 Serie proce or , SP3 (LGA4094) ocket
-CPU
+RSB-3710
+Proce or: Rockchip RK3399 ARM Dual-Core Cortex-A72 and Quad-Core Cortex-A53, up to 18GHz
 Read more
-ASMB-831
-Proce or: Support AMD EPYC™ 9004 (Genoa) and 9005 (Turin) Serie proce or , SP5 ocket
+RSB-3720
+Proce or: NXP iMX 8M Plu Dual-Core or Quad-Core ARM® Cortex®-A53, up to 18GHz
+Memory:
 Read more
-ASMB-807
-Proce or: Support Intel® Xeon® W-3500/2500 and W-3400/2400 erie proce or , LGA4677
+PCE-5033
+Proce or: Support 12th, 13th, and 14th Gen Intel® Core™ i9/i7/i5/i3 and Pentium®
 Read more
-ASMB-817
-Proce or: Support 4th and 5th Gen Intel® Xeon® Scalable proce or , LGA4677
-Chip et:
+PCE-4132
+Proce or: Support 10th Gen Intel® Xeon® W and Core™ i9/i7/i5/i3 proce or
+Socket:
 Read more
 All Products
 Partners
@@ -110,11 +110,11 @@ Diagnostic testing is performed on integrated products and test reports issued.
 Previous
 Next
 Our Blog
+Physical AI & Robotics: The Future of Industrial Computing | Aironix Systems
+Physical AI & Robotics: Powering the Next Industrial Revolution The evolution of intelligent machines, the rise of Edge AI, and the critical role of industrial computing infrastructure. An outlook toward 2031. Artificial Intelligence is entering a new phase of technological
+Read More »
 CTC Union: Building Reliable Networks for Demanding Environments
 Building Reliable Networks for Demanding Environments Industrial networks are the backbone of modern automation, infrastructure and connected systems. From factory floors and transportation networks to power substations and intelligent surveillance, reliable communication between devices is essential for safe, efficient
-Read More »
-NEW!!!! VECOW SPC-8000
-VECOW SPC-8000: Efficient embedded computing. Industrial connectivity. Compact design. As intelligent systems continue to evolve, more processing is moving closer to the source of data. Industrial automation, machine vision, smart infrastructure, and AI-enabled applications increasingly require compact computing platforms capable
 Read More »
 More Acticles
 About

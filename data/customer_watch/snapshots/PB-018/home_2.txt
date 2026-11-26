@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · home_2 · https://techson.hu/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Főoldal - Techson
 0 || parent > 0"
 x-transition:enter-start="-translate-x-full xl:translate-x-0"
@@ -50,7 +50,7 @@ $refs.input.focus();
 >
 {
 if (!value) {
-window.livewire.find('P4cUsKpN25G08A9h6l01').call('resetSearch')
+window.livewire.find('b240ALdkG8vGucYSfcvk').call('resetSearch')
 }
 $dispatch('force:toggle', { toggle });
 })"
@@ -216,12 +216,14 @@ Iroda és Bemutatóterem
 Településvédelem
 Magas kockázatú publikus helyek
 Ipar és Gyár
+Vendéglátás
 Összes
 Iroda és Bemutatóterem
 Élelmiszergyártás és Agráripar
 Településvédelem
 Magas kockázatú publikus helyek
 Ipar és Gyár
+Vendéglátás
 Lexus márkakereskedés és szerviz
 A Reálszisztéma Kft. telephelyeit a Techson biztosítja.
 Toyota autószalon
@@ -242,6 +244,8 @@ BMW Budapest Motors
 A BMW Budapest Motors modern autószalonja és szervizközpontja kiemelt figyelmet fordít a prémium ügyfélélményre és a biztonságra. A létesítmény megbízható működését és vagyonvédelmét a Techson professzionális biztonságtechnikai...
 Belgian Brasserie Henri
 A budapesti Belgian Brasserie Henri belga söröző a belga sörkultúra és gasztronómia világát hozza el Magyarországra. A vendéglátóhely biztonságáról Techson kamerák gondoskodnak, támogatva a mindennapi működés biztonságát és a vagy
+Pater Marcus Apátsági Pub
+A Budai Vár lábánál található Pater Marcus Apátsági Pub az apátsági sörök széles választékával, belga és magyar gasztronómiai különlegességekkel várja vendégeit. A vendéglátóhelyen Techson kamerákat alkalmaznak, amelyek ...
 Összes referencia
 {
 if(!open) video = null
@@ -337,10 +341,4 @@ Elérhetőség
 Impresszum
 Adatvédelem
 A weboldal sütiket (cookiet) használ az alapvető működés, valamint a jobb felhasználói élmény elérése érdekében.
-Az oldal használatával elfogadja a sütikkel kapcsolatos irányelveket valamint az adatvédelmi tájékoztatóban foglaltakat. Süti tájékoztató
-Elfogadom
-{
-window.scrollY > 250 ? visible = true : visible = false;
-}"
-x-on:scroll.window="() => {
-let bottom = document.body.clientHeight - window.scrollY - 
+Az oldal használatával 

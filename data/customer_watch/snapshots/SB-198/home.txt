@@ -1,4 +1,4 @@
-# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-198 katalita.lt · home · https://www.katalita.lt/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 Nauji produktai - Katalita.lt
 0
 Turite klausimų? Tel: +370 603 03213 ,
@@ -347,6 +347,9 @@ TELTONIKA ENERGY, UAB
 TELTONIKA TELEMATICS, UAB
 Your browser does not support the video tag.
 Nauji produktai
+2026-11-25
+MIKROTIK Compact Heavy-duty LTE Access Point LtAP LTE12 ax ( LtAP-2HnD&R11e-LTE7)
+3x Gigabit LAN ports (802.3af/at PoE in) | 2.4 GHz 802.11b/g/n/ax dual-chain and 5 GHz 802.11a/n/ac/ax triple-chain | Multiple powering options (DC jack, PoE-IN, 2-pin terminal) | 1x MiniPCI-e slot | 2x Nano SIM slots | 1x USB 2.0 port type A | Built in GPS | IP54 | Router OS (Licence level 4)
 2026-11-20
 TP-LINK Outdoor Dual Lens Pan/Tilt Security Camera Tapo C575D (TapoC575D)
 4K Dual Lens Camera (3840 × 2160) | 170° Ultra-Wide View | Infrared and Full Color Night Vision (up to 30 m (98 ft)) | 1x LAN port | WiFi IEEE 802.11b/g/n/ac/ax | PoE/DC Power Supply | Person/Pet/Vehicle Detection and Notifications | Smart Motion Tracking | Two-way Audio| Up to 512 GB on a microSD card | IP66 | Google Assistant, Amazon Alexa,Samsung Smartthings
@@ -384,8 +387,4 @@ TP-LINK BE12000 Ceiling Mount Tri-Band Wi-Fi 7 Access Point EAP787 (EU) (EAP787)
 TP-LINK AX5400 Ceiling Mount WiFi 6 Access Point (EAP673)
 1x 2.5 Gigabit LAN port (supports IEEE802.3at PoE) | Antennas: 2.4 GHz: 2× 4 dBi and 5 GHz: 4× 5 dBi | Wi-Fi 6 | Wireless Standards: IEEE 802.11ax/ac/n/g/b/a | Simultaneous 574 Mbps on 2.4GHz and 4804 Mbps on 5GHz totals 5378 Mbps Wi-Fi speeds | Free Omada App, Centralized Management, Cloud Access
 2026-10-29
-MIKROTIK IoT Gateway KNOT HL9 (L14G-2ax-BT5-HL9&EG800Q)
-HaLow 915 MHz | CAT1 bis LTE modem | NanoSIM/eSIM | Wi-Fi 6 2.4 GHz wireless (802.11b/g/n/ax) | Bluetooth (V5.1) | Gigabit Ethernet | PoE-In (af/at) & surge protection | Multi- GNSS GPS | IP66 | Router OS (Licence level 4)
-2026-10-29
-MIKROTIK IoT combo 617-5925 MHz antenna for both LTE and LoRa® frequencies (LGO-LTE-W)
-Indoor/Outdoor
+MIK

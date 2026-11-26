@@ -1,4 +1,4 @@
-# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SA-036 svn-video.ru · sitemap · https://svn-video.ru/index.php?route=extension/feed/yandex_sitemap · fetched 2026-11-26T11:08:06Z · HTTP 200
 	https://svn-video.ru/wi-fi-oborudovanie/kabel-utp-4pr-24awg-cat5e-305m
 	https://svn-video.ru/konnektery-razemy/soedinitel-rca-papa--rca-papa-
 	https://svn-video.ru/index.php?route=product/product&product_id=672
@@ -33,7 +33,6 @@
 	https://svn-video.ru/ip-camery/svn-as30ip3cm
 	https://svn-video.ru/ip-camery/svn-as30ip6s
 	https://svn-video.ru/ip-camery/kupolnye/svn-as30ip8cm
-	https://svn-video.ru/ip-camery/svn-as30ip8s
 	https://svn-video.ru/ahd-camery/svn-bq40htc200s
 	https://svn-video.ru/ip-camery/svn-bq50ip6s
 	https://svn-video.ru/ahd-camery/svn-cd20htc200f
@@ -49,7 +48,9 @@
 	https://svn-video.ru/ahd-camery/kupolnaya-kamera-ahd-svn-hv20htc200sfc-2-8mm-2mp
 	https://svn-video.ru/ip-camery/svn-khjsl200
 	https://svn-video.ru/ip-camery/svn-nb25ip3cm
+	https://svn-video.ru/ip-camery/svn-nb25ip5cm
 	https://svn-video.ru/ahd-camery/svn-pl20htc200f
+	https://svn-video.ru/ip-camery/svn-pl25ip3cm
 	https://svn-video.ru/ip-camery/kupolnye/svn-pl25ip5s
 	https://svn-video.ru/ip-camery/kupolnye/svn-pl25ip8cm
 	https://svn-video.ru/ip-camery/svn-pl25ip8s
@@ -227,5 +228,4 @@
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/sonyhit521
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500bqaf3
 	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-500sbc3
-	https://svn-video.ru/gotovye-komplekty-videonablyudeniya/yantar-800mbaf3
-	https://s
+	https://svn-video.ru/gotovye-komplek

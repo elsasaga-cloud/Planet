@@ -1,4 +1,4 @@
-# SB-1054 luxritesecurity.com · news_1 · https://www.luxritesecurity.com/blog/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-1054 luxritesecurity.com · news_1 · https://www.luxritesecurity.com/blog/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 News
 Contact Us
 +44 1438 909168
@@ -92,6 +92,11 @@ Martyns Law is new UK legislation expected in Spring 2027, introducing new sec
 Discover what the legislation means for businesses and how Luxrite supports security installers with professional CCTV, lockdown systems, emergency notification solutions and dedicated technical support.
 Posted in News
 Read more...
+CCTV Selection & Positioning Guide: Which Camera Should You Install (and Where)?
+26 October 2026
+Choosing the right CCTV camera comes down to matching the environment and distance to the correct camera housing and mounting height. Standard Turret and Bullet cameras installed at ~3m serve as the primary solution for perimeter monitoring and AI analytics, while Motorised Lens and DUO Panoramic cameras offer targeted zooming for narrow passages and 180° coverage for wide spaces. High-risk, accessible areas call for Vandal-Resistant Domes, whereas large sites benefit from elevated PTZs with intelligent alarm tracking and dynamic Mini PTZs. Finally, variable-range ANPR units require distance-based height tuning, and Video Doorbells protect immediate entryways at head height.
+Posted in News
+Read more...
 Understanding SPRO Security Cameras: Economy, Active Deterrent Lite & Pro Explained
 16 September 2026
 Unlike generic competitor cameras that flood the entire area with light whenever any motion is detected within their field of view, SPRO cameras use precise boundary-based triggers to ensure light and sound are activated only when a real threat is detected.
@@ -132,16 +137,12 @@ The Future of Signaling: Why the Texecom SmartCom Pro is a Game-Changer for UK I
 As the UK security industry hurtles toward the PSTN switch-off, the search for a reliable, flexible, and "all-IP" compliant communicator has intensified. While many universal communicators offer basic signalling, the new Texecom SmartCom Pro range aims to provide something more: a professional-grade, future-proof bridge for both Texecom and third-party systems.
 Posted in News
 Read more...
-SPRO 2-Wire 2MP Intercom Kit: The Professional Choice for Seamless Retrofits Reliable, Scalable, and Designed for Simple Installation.
-25 February 2026 | Admin
-Upgrading an old audio-only intercom shouldn't mean ripping up floorboards or running new Cat5e cables throughout a property. For installers looking to bring modern video security to existing buildings, the SPRO 2-Wire Intercom Kit (DHVDPKIT04-S) is the ultimate problem-solver. It delivers high-definition video and remote control using the two wires already in the wall.
-Posted in News
-Read more...
 Next Page
-Page 1 of 4 (38 Posts)
+Page 1 of 4 (39 Posts)
 News Archives
 All Results
 November 2026
+October 2026
 September 2026
 August 2026
 July 2026
@@ -173,6 +174,8 @@ December 2021
 Recent Posts
 16/11/2026
 Martyns Law: Is Your Business Prepared?
+26/10/2026
+CCTV Selection & Positioning Guide: Which Camera Should You Install (and Where)?
 16/09/2026
 Understanding SPRO Security Cameras: Economy, Active Deterrent Lite & Pro Explained
 20/08/2026
@@ -198,8 +201,6 @@ SPRO 4MP Wi-Fi 6 Video Doorbell Kit: The Installers Choice for Smarter Front D
 Effortless CCTV Network Separation with Ruijie Reyee
 06/03/2025
 What Are PIDS (Perimeter Intrusion Detection Systems)?
-13/12/2024
-RG-EST310 V2 - The Solution for Modern Surveillance Demands
 Home
 About us
 Request a Trade Account

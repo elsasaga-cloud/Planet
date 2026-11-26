@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
 2026-11-19T02:03:31+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
 2026-11-19T02:04:28+00:00	https://www.xlrsecurity.com/hdd-calculator/
@@ -35,6 +35,10 @@
 2025-04-17T19:27:42+00:00	https://www.xlrsecurity.com/warehouses-factories/
 2023-03-17T18:33:16+00:00	https://www.xlrsecurity.com/alarm-intrusion/
 2023-02-01T22:26:43+00:00	https://www.xlrsecurity.com/access-control/
+2026-11-25T21:26:00+00:00	https://www.xlrsecurity.com/product/ed-525b-wb/
+2026-11-25T21:26:00+00:00	https://www.xlrsecurity.com/product/ed-r1/
+2026-11-25T17:10:30+00:00	https://www.xlrsecurity.com/product/ec-t4f28m-dl/
+2026-11-24T22:25:20+00:00	https://www.xlrsecurity.com/product/ipc3624sr-adf28km-wp-bk/
 2026-11-24T22:21:32+00:00	https://www.xlrsecurity.com/product/unv-kit-301-p8-6t4dl-2tb/
 2026-11-24T22:21:08+00:00	https://www.xlrsecurity.com/product/unv-kit-301-p4-4t4dl-1tb/
 2026-11-24T22:04:03+00:00	https://www.xlrsecurity.com/product/pn-fs-e7002-2p-60/
@@ -49,7 +53,6 @@
 2026-11-20T19:25:22+00:00	https://www.xlrsecurity.com/product/ae-tr-jb07-in/
 2026-11-20T14:19:20+00:00	https://www.xlrsecurity.com/product/nvr508-64e-im/
 2026-11-20T14:09:42+00:00	https://www.xlrsecurity.com/product/nvr508-64e-r-iq/
-2026-11-20T13:25:21+00:00	https://www.xlrsecurity.com/product/ec-t4f28m-dl/
 2026-11-19T22:25:29+00:00	https://www.xlrsecurity.com/product/pn-pse101hn/
 2026-11-19T21:28:29+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky8tb/
 2026-11-19T21:28:28+00:00	https://www.xlrsecurity.com/product/hdd-wd-pur8tb/
@@ -152,7 +155,4 @@
 2026-10-16T15:20:50+00:00	https://www.xlrsecurity.com/product/nvr502-16b/
 2026-10-16T15:20:50+00:00	https://www.xlrsecurity.com/product/nvr502-08b-p8-iq/
 2026-10-16T15:09:02+00:00	https://www.xlrsecurity.com/product/ipc3634sr4-adzk-h/
-2026-10-15T20:25:34+00:00	https://www.xlrsecurity.com/product/hdd-wd-pur2tb/
-2026-10-14T19:36:31+00:00	https://www.xlrsecurity.com/product/nvr504-32e-iq/
-2026-10-14T16:25:41+00:00	https://www.xlrsecurity.com/product/pn-pse101h/
-2026-10-14T16:25:41+00:00	ht
+2026-10-15T20:25:34+00:00	

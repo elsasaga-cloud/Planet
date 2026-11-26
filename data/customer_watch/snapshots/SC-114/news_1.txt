@@ -1,4 +1,4 @@
-# SC-114 Siklu Communication · news_1 · https://www.ceragon.com/blog · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SC-114 Siklu Communication · news_1 · https://www.ceragon.com/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
 Backhaul Forum
 Markets
 Mobile Operators
@@ -176,12 +176,12 @@ Millimeter Wave
 STAY UPDATED
 BY TOPIC
 Topic
-5G/LTE (238)
 ISPs/WISPs (238)
-Wireless Backhaul (168)
+5G/LTE (237)
+Wireless Backhaul (167)
 Product/Technology (100)
 Network Management & Services (52)
-Millimeter Wave (50)
+Millimeter Wave (49)
 Private Networks (39)
 Public Safety (39)
 Smart Cities/Municipalities (28)
@@ -199,6 +199,13 @@ Multiband (3)
 Microwave (2)
 Cybersecurity & Encryption (1)
 Featured Post (1)
+The Network You Leave Behind: Rethinking the Legacy of Utility Modernization
+Digital Transformation
+Smart Cities/Municipalities
+The Network You Leave Behind: Rethinking the Legacy of Utility Modernization
+November 24, 2026
+Digital Transformation
+Smart Cities/Municipalities
 Planning Ahead for 5G Advanced & 6G Mobile Backhaul
 Microwave
 Millimeter Wave
@@ -229,13 +236,6 @@ Mobile Operators
 Product/Technology
 Smart Cities/Municipalities
 Wireless Backhaul
-The Network You Leave Behind: Rethinking the Legacy of Utility Modernization
-Digital Transformation
-Smart Cities/Municipalities
-The Network You Leave Behind: Rethinking the Legacy of Utility Modernization
-September 24, 2026
-Digital Transformation
-Smart Cities/Municipalities
 Building Resilient Utility Networks: Smart Grids to Ops
 Digital Transformation
 Smart Cities/Municipalities

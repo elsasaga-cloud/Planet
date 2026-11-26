@@ -1,4 +1,4 @@
-# SB-331 retelem-dz.com · home · https://retelem-dz.com/ · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-331 retelem-dz.com · home · https://retelem-dz.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
 RETELEM | Infrastructures numériques critiques
 Aller au contenu
 EPE RETELEM SPA · Entreprise publique économique
@@ -229,9 +229,12 @@ Radio DMR ETSI TS 102 361 Interfaces radio et systèmes DMR.
 Continuité ISO 22301 Organisation de la continuité et préparation de la reprise.
 Implantation nationale
 Une réponse locale, coordonnée à l’échelle nationale
-Quatorze agences mobilisent des compétences de proximité et une connaissance concrète des contraintes du terrain.
+Notre Direction Générale à Alger et quatorze agences mobilisent des compétences de proximité et une connaissance concrète des contraintes du terrain.
 Blida Oran Tizi Ouzou Béjaïa Guelma Constantine Hassi Messaoud Jijel Skikda Sétif Annaba Médéa Ouargla Chlef
-14 agences Présence nationale
+DG à Alger + 14 agences Tous les sites Vue Algérie
+Le fond de carte est momentanément indisponible. Les sites restent consultables.
+Sélectionnez un site ou un repère pour explorer la carte.
+Positions indicatives par ville · GeoNames ( CC BY 4.0 ).
 Écosystème technologique
 Des technologies reconnues, intégrées selon le besoin
 HUAWEI CISCO FORTINET DELL NUTANIX VEEAM LEGRAND VMWARE SCHNEIDER MOTOROLA

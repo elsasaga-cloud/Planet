@@ -1,6 +1,6 @@
-# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-25T11:29:08Z · HTTP 200
+# SB-622 market-telecom.kz · sitemap · https://market-telecom.kz/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
 	https://market-telecom.kz/
-2026-11-23	https://market-telecom.kz/blog
+2026-11-25	https://market-telecom.kz/blog
 2026-11-09	https://market-telecom.kz/services
 2026-11-09	https://market-telecom.kz/products
 2026-11-09	https://market-telecom.kz/about_shop
@@ -8,7 +8,7 @@
 2026-11-09	https://market-telecom.kz/brands
 2026-11-09	https://market-telecom.kz/oplata
 2026-11-09	https://market-telecom.kz/contact
-2026-11-09	https://market-telecom.kz/asterisk
+2026-11-26	https://market-telecom.kz/asterisk
 2026-11-19	https://market-telecom.kz/office_ats
 2026-11-09	https://market-telecom.kz/virtual-ats
 2026-11-23	https://market-telecom.kz/ivr
@@ -121,7 +121,7 @@
 2026-02-05	https://market-telecom.kz/blog/video-lte
 2026-01-29	https://market-telecom.kz/blog/sfp-optic
 2026-01-23	https://market-telecom.kz/blog/videoarchive
-2026-09-26	https://market-telecom.kz/blog/server-cabinet
+2026-11-25	https://market-telecom.kz/blog/server-cabinet
 2026-01-17	https://market-telecom.kz/blog/wizcolor
 2026-10-06	https://market-telecom.kz/blog/ups-runtime
 2026-01-12	https://market-telecom.kz/blog/trubl-wifi
@@ -134,7 +134,7 @@
 2025-12-22	https://market-telecom.kz/blog/jabra-callcenter
 2025-12-19	https://market-telecom.kz/blog/correct-ups-video
 2026-10-20	https://market-telecom.kz/blog/over100m
-2026-09-28	https://market-telecom.kz/blog/voip-office
+2026-11-25	https://market-telecom.kz/blog/voip-office
 2026-03-24	https://market-telecom.kz/blog/wifi-cafe
 2026-11-12	https://market-telecom.kz/blog/office-skud
 2026-10-06	https://market-telecom.kz/blog/power-ups
