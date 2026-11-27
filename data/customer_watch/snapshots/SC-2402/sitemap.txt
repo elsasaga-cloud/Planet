@@ -1,7 +1,7 @@
-# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-2402 sisegusa.com · sitemap · https://www.sisegusa.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 2024-10-02	https://www.sisegusa.com/catalogo
 2026-07-27	https://www.sisegusa.com/contactus
-2026-11-23	https://www.sisegusa.com/home
+2026-11-26	https://www.sisegusa.com/home
 2026-07-20	https://www.sisegusa.com/quienes-somos
 2025-12-05	https://www.sisegusa.com/quieres-ser-nuestro-distribuidor
 2026-09-15	https://www.sisegusa.com/radios-hytera
@@ -80,8 +80,8 @@
 	https://www.sisegusa.com/shop/hw-ap661-access-point-wifi-6-alta-densidad-de-techo-ax6600-huawei-10068
 	https://www.sisegusa.com/shop/hw-ap266-access-point-wifi-6-de-pared-ax3000-huawei-10062
 	https://www.sisegusa.com/shop/hw-ap361-access-point-wifi-6-de-techo-ax1800-huawei-10063
-	https://www.sisegusa.com/shop/hw-ap362e-access-point-wifi-6-de-techo-ax3000-huawei-10065
 	https://www.sisegusa.com/shop/hw-ap362h-access-point-wifi-6-de-techo-ax3000-huawei-10464
+	https://www.sisegusa.com/shop/hw-ap362e-access-point-wifi-6-de-techo-ax3000-huawei-10065
 	https://www.sisegusa.com/shop/hw-ap761-access-point-wifi-6-exterior-ax1800-huawei-10070
 	https://www.sisegusa.com/shop/hw-ap673-access-point-wifi-7-alta-densidad-de-techo-13-66gbps-doble-banda-huawei-10466
 	https://www.sisegusa.com/shop/hw-ap371-access-point-wifi-7-de-techo-3-57gbps-doble-banda-huawei-10465

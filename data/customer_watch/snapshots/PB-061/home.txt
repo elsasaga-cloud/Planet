@@ -1,12 +1,12 @@
-# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# PB-061 Elctron E-commerce Partners Sp. z o.o.（CTR / ctr.pl） · home · https://ctr.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 CTR — sklep internetowy z monitoringiem CCTV: kamery IP, rejestratory, alarmy
 Pn–Pt – · +48 504 500 007 info@ctr.pl
 O nas Pomoc i FAQ
 Sklep
 Szukaj Zaloguj Ulubione Porównaj 0 Koszyk
 Wszystkie kategorie
-▾ Monitoring IP 5024 › Monitoring IP
-Zobacz całą kategorię (5024) →
+▾ Monitoring IP 5023 › Monitoring IP
+Zobacz całą kategorię (5023) →
 Kamery IP 3132 Kamery IP zewnętrzne 2658
 Kamery IP PTZ 483
 Kamery samochodowe 70
@@ -14,10 +14,10 @@ Kamery IP fisheye 75
 Kamery IP mini/ukryte 140
 Kamery IP wewnętrzne 727
 Kamery IP wandaloodporne 1032
-Rejestratory NVR 1252 AI 236
+Rejestratory NVR 1251 AI 236
 PoE: tak 273
 Kanały: 4 116
-Kanały: 8 159
+Kanały: 8 158
 Kanały: 16 202
 Switche PoE / Sieć 437 Typ: niezarządzalny 141
 Typ: przemysłowe 78
@@ -49,10 +49,10 @@ Kamery analogowe (4w1 / AHD / TVI / CVI) 652 Kamery analogowe zewnętrzne 598
 Kamery analogowe wewnętrzne 79
 Kamery analogowe PTZ 47
 Rejestratory DVR/XVR 362 Hybryda: analog+IP 186
-Ilość kanałów: 16-kanałowy 106
-Ilość kanałów: 32-kanałowy 30
-Ilość kanałów: 4-kanałowy 87
-Ilość kanałów: 8-kanałowy 76
+Ilość kanałów: 16-kanałowy 107
+Ilość kanałów: 32-kanałowy 32
+Ilość kanałów: 4-kanałowy 89
+Ilość kanałów: 8-kanałowy 79
 Polecane Kamery IP Zestawy gotowe
 Alarmy 625 › Alarmy
 Zobacz całą kategorię (625) →
@@ -104,8 +104,8 @@ Przyciski wyjścia 21
 Zamki i zwory 51
 Akcesoria SKD 254
 Polecane Kamery IP Zestawy gotowe
-Akcesoria 2763 › Akcesoria
-Zobacz całą kategorię (2763) →
+Akcesoria 2738 › Akcesoria
+Zobacz całą kategorię (2738) →
 Dyski do monitoringu 210 Dyski HDD CCTV 51
 Dyski HDD do NVR/DVR 119
 Dyski do NAS / archiwizacji 72
@@ -124,26 +124,26 @@ Zasilacze buforowe 91
 Zasilacze na szynę DIN 53
 UPS / zasilanie awaryjne 36
 Ochrona przepięciowa 110
-Montaż (uchwyty / puszki / obudowy) 1021 Uchwyty montażowe 695
-Puszki montażowe 219
+Montaż (uchwyty / puszki / obudowy) 1018 Uchwyty montażowe 693
+Puszki montażowe 218
 Adaptery montażowe 386
 Obudowy kamer 177
 Maszty / wysięgniki 42
-Szafy RACK 315 Szafy RACK wiszące 105
-Szafy RACK stojące 164
-Półki / organizery / patch panele 123
-Złącza i drobnica 326 Wtyki RJ45 12
+Szafy RACK 294 Szafy RACK wiszące 105
+Szafy RACK stojące 159
+Półki / organizery / patch panele 107
+Złącza i drobnica 321 Wtyki RJ45 12
 Wtyki DC 6
 Złącza BNC 35
 Przejściówki 63
 Gniazda / rozgałęźniki 14
-Drobne akcesoria instalacyjne 255
+Drobne akcesoria instalacyjne 250
 Monitory i podgląd 154 Monitory CCTV 90
 Uchwyty do monitorów 26
 Monitory CCTV 24/7 60
 Monitory HDMI/VGA 113
 Atrapy kamer 10 Zobacz wszystkie →
-Obiektywy 48 Zobacz wszystkie →
+Obiektywy 49 Zobacz wszystkie →
 Polecane Kamery IP Zestawy gotowe
 Marki › Marki
 Zobacz wszystkich producentów →
@@ -158,7 +158,7 @@ Bosch 1643
 C
 Camsat 68
 Cisco 1
-Computar 2
+Computar 3
 D
 Dahua 1883
 E
@@ -168,12 +168,12 @@ FLIR 4
 Fujinon 3
 G
 Genway 33
-GeoVision 574
+GeoVision 573
 H
-Hanwha Techwin 1111
+Hanwha Techwin 1109
 Hikvision 1890
 L
-LC Security 1599
+LC Security 1575
 M
 Mirasys 56
 P
@@ -201,7 +201,7 @@ Cenniki Baza wiedzy Instalacje Kontakt O nas
 Monitoring IP Zestawy monitoringu Monitoring analogowy Alarmy Wideodomofony i kontrola dostępu
 Cenniki Instalacje Kontakt Baza wiedzy
 Kategorie
-Monitoring IP 5024 Zestawy monitoringu 197 Monitoring analogowy 966 Alarmy 625 Wideodomofony i kontrola dostępu 971 Akcesoria 2763 Marki
+Monitoring IP 5023 Zestawy monitoringu 197 Monitoring analogowy 966 Alarmy 625 Wideodomofony i kontrola dostępu 971 Akcesoria 2738 Marki
 ◆ Promocja tygodnia
 LC-CUBE PTZ
 -35%
@@ -310,7 +310,7 @@ Dodaj do porównania
 Wybierz po kategorii
 Kategorie monitoringu
 Monitoring IP
-5024 produktów
+5023 produktów
 → Zestawy monitoringu
 197 produktów
 → Monitoring analogowy
@@ -320,7 +320,7 @@ Monitoring IP
 → Wideodomofony i kontrola dostępu
 971 produktów
 → Akcesoria
-2763 produktów
+2738 produktów
 → Marki
 →
 Świeżo na półkach

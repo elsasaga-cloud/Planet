@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-27T11:01:47Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -7,7 +7,7 @@ Videovigilancia 772
 Radiocomunicación 745
 Sistemas de Seguridad 601
 Networking 595
-Control de acceso 438
+Control de acceso 439
 Wireless 370
 Intrusión 308
 Acceso 300
@@ -23,22 +23,25 @@ Automatización 144
 #telefonía #networking #CallCenter 138
 Incendio 114
 Blog SYSCOM
+Control de acceso Grandstream
+Serie GDS372x de Grandstream: videoportero IP, control de acceso y cámara 2K en un solo equipo
+Los GDS3725, GDS3726 y GDS3727 integran cámara 4 MP con WDR de 120 dB, lector RFID/NFC/BLE 5.0 y extensión SIP en una sola placa IP66. Administración remota desde SecureAccess, GDS Manager o GDMS, con salida ONVIF Profile S hacia el VMS existente.
+RC
+RAFAEL CENICEROS MU&Ntilde;OZ · Hoy
 UPS Hikvision DS-UPS600-X: 600 VA para que el apagón no apague la operación
-El Hikvision DS-UPS600-X entrega 600 VA / 360 W con transferencia a batería en menos de 10 ms y 6 tomas NEMA 5-15R, cuatro de ellas respaldadas. Respaldo dimensionado para NVR, switches y equipos de red en instalaciones de videovigilancia.
-CM
-Cecilia Martinez · hace 2 días
+Cecilia Martinez · hace 3 días
 UPS Hikvision DS-UPS600-X: 600 VA para que el apagón no apague la operación
-Cecilia Martinez · hace 2 días
+Cecilia Martinez · hace 3 días
 videoconferencia Jabra
 Jabra PanaCast 40 VBS: 180° de visión y Android 13 para salas pequeñas
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 2 días
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 3 días
 Networking Wireless
 Caso de éxito: Wi-Fi para 45.000 personas en los estadios de Quito con Grandstream GWN
-RAFAEL CENICEROS MU&Ntilde;OZ · hace 2 días
+RAFAEL CENICEROS MU&Ntilde;OZ · hace 3 días
 BioStation 3 Max: rostro, huella, QR y tarjetas en una sola terminal de acceso
-Zaira Romero · hace 6 días
+Zaira Romero · hace 1 semana
 ROKU SmartTV QLED 58 pulgadas: 4K UHD y Dolby Audio para espacios que exigen presencia
-Cecilia Martinez · hace 6 días
+Cecilia Martinez · hace 1 semana
 Amplificador EPW240E de 240W: red, WiFi y Bluetooth para audio comercial
 Adan Corona · hace 1 semana
 LP1TVBOX: el set-top box Android TV 14 que lleva 4K y gestión remota a tu red IPTV
@@ -54,9 +57,6 @@ Víctor Villarreal · hace 1 semana
 Energía Solar shelly
 Victron Energy + Shelly: cuando sobra sol, la casa lo aprovecha sola
 MARVIN IRAM BARRIO GARCIA · hace 1 semana
-Videovigilancia Sistemas de Seguridad
-El poder que tu VMS necesita ya está en stock: THINKP2U9, THINKP2U7, THINKP2U7V2 y THINKP3U5
-Alfonso Berumen · hace 1 semana
 Ver todos los artículos por año →
 Blog
 SYSCOM Blog Todos los artículos Soporte Contacto © 2026 SYSCOM

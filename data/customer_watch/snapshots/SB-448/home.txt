@@ -1,4 +1,4 @@
-# SB-448 bettinivideo.com · home · https://www.bettinivideo.com/en/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-448 bettinivideo.com · home · https://www.bettinivideo.com/en/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 BETTINI | Specializes in providing comprehensive video surveillance solutions.
 products
 General catalogue​
@@ -31,11 +31,11 @@ Training courses​
 Contacts
 info
 contacts
-Italiano
-English
+Error!
+No 'PLL_Widget_Languages' widget registered in this installation.
 Search for
-Italiano
-English
+Error!
+No 'PLL_Widget_Languages' widget registered in this installation.
 Secure your future with Bettini:
 a confident step forward
 Bettini specializes in providing comprehensive 360° video surveillance solutions and is known for its Italian-designed and manufactured video recording systems under the GAMS brand.

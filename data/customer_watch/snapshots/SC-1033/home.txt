@@ -1,4 +1,4 @@
-# SC-1033 Bausch Datacom · home · https://www.bausch.eu · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-1033 Bausch Datacom · home · https://www.bausch.eu · fetched 2026-11-27T11:01:47Z · HTTP 200
 Bausch Datacom - specialist in industrial data communication
 menu
 Home
@@ -122,7 +122,6 @@ PRODUCTION
 Scroll Down
 Bausch Datacom transforms innovation into market-ready products. The company develops, manufactures, and commercializes solutions under its own brand as well as for OEM partners. Its core expertise lies in electronic boards and software for data communication within the (Green) Energy sector. Key product domains include smart electronics for EV and solar applications, Remote Terminal Units for MV/LV substations, communication modems for metering and tokenization gateways.
 Together with its sister company, Ritter Technologie, also part of the Ritter Group, Bausch Datacom emphasizes on 100% European R&D, data storage, production, and cybertechnology certifications.
-Join us at Enlit !
 Products
 Delta Logger DL5
 LTE Cat.M/NB IoT/SDI12 Logger

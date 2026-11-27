@@ -1,11 +1,4 @@
-# SB-561 zoomlinenetwork.com · feed_auto · https://zoomlinenetwork.com/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
-Thu, 19 Nov 2026 06:14:13 +0000	Common LSZH Myths: Does It Cost Too Much to Be Worth It?	https://zoomlinenetwork.com/common-lszh-myths/
-Thu, 19 Nov 2026 05:39:45 +0000	Ubiquiti for Small Business vs. Enterprise: Which Product Line Actually Fits?	https://zoomlinenetwork.com/ubiquiti-for-small-business-vs-enterprise/
-Wed, 04 Nov 2026 05:04:42 +0000	5 Structured Cabling Installation Mistakes That Cost Businesses Later	https://zoomlinenetwork.com/structured-cabling-installation-mistakes/
-Wed, 04 Nov 2026 04:41:48 +0000	Why UAE Contractors Are Choosing Ramcro Over Other European Cable Brands	https://zoomlinenetwork.com/why-uae-contractors-choosing-ramcro-over-other-european-cable-brands/
-Mon, 21 Sep 2026 03:51:07 +0000	Aruba Instant On Access Points: An Affordable Wi-Fi Solution for Small Businesses in Dubai	https://zoomlinenetwork.com/aruba-instant-on-access-points/
-Mon, 21 Sep 2026 03:33:25 +0000	Wall-Mount vs. Floor-Standing Racks: Which Fits Your Office or Data Center?	https://zoomlinenetwork.com/wall-mount-vs-floor-standing-racks/
-Fri, 14 Aug 2026 06:44:28 +0000	Aruba vs. Cisco: Enterprise Networking Compared	https://zoomlinenetwork.com/aruba-vs-cisco/
-Fri, 14 Aug 2026 06:34:45 +0000	Cat6 vs. Cat6A: Which Cable Does Your Dubai Office Actually Need in 2026?	https://zoomlinenetwork.com/cat6-vs-cat6a/
-Mon, 13 Jul 2026 10:30:21 +0000	What Is a KVM Switch and Why Every Data Centre in Dubai Needs One?	https://zoomlinenetwork.com/why-data-centre-needs-kvm-switch/
-Mon, 13 Jul 2026 10:14:12 +0000	Server Room Design Mistakes That Shorten the Life of Your Network Racks	https://zoomlinenetwork.com/server-room-design-mistakes/
+# SB-561 zoomlinenetwork.com · feed_auto · https://zoomlinenetwork.com/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 403
+{
+"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
+}

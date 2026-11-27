@@ -1,5 +1,5 @@
-# SB-623 smol-electro.ru · sitemap · https://smol-electro.ru/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
-2026-11-25T07:46:19+03:00	https://smol-electro.ru
+# SB-623 smol-electro.ru · sitemap · https://smol-electro.ru/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+2026-11-26T01:01:35+03:00	https://smol-electro.ru
 2020-10-21T14:15:31+03:00	https://smol-electro.ru/rele-napryazheniya
 2020-10-21T14:15:31+03:00	https://smol-electro.ru/rele-napryazheniya-digitop
 2020-10-21T14:15:31+03:00	https://smol-electro.ru/legrand

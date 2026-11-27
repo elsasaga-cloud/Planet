@@ -1,4 +1,4 @@
-# PB-003 Konsorcjum FEN Sp. z o.o. · feed_auto · https://fen.pl/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# PB-003 Konsorcjum FEN Sp. z o.o. · feed_auto · https://fen.pl/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Wed, 25 Nov 2026 12:45:58 +0000	Od ochrony punktowej do Cyber Defense – jak zbudować spójny system cyberbezpieczeństwa	https://fen.pl/sophos-fusion-cyber-defense/
 Thu, 19 Nov 2026 10:36:56 +0000	Backup Proxmox VE: Proxmox Backup Server czy ActiveProtect?	https://fen.pl/proxmox-backup-serwer-czy-activeprotect/
 Fri, 09 Oct 2026 07:41:55 +0000	Synology DVA7400: lokalna analityka AI w systemie monitoringu	https://fen.pl/synology-dva7400-analityka-ai-monitoring/

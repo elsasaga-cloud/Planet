@@ -1,4 +1,4 @@
-# SB-426 helmholz.de · news_2 · https://www.helmholz.de/service-support/netzwerk-in-motion/messen-events/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-426 helmholz.de · news_2 · https://www.helmholz.de/service-support/netzwerk-in-motion/messen-events/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Messen & Events
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -99,7 +99,6 @@ Service
 Supportanfrage
 FAQ
 Security (PSIRT)
-SPS-Messeticket bestellen
 Unternehmen
 Kontakt
 Vertriebsteam
@@ -188,17 +187,6 @@ all about automation Chemnitz
 Unsere neuesten Lösungen für industrielle Netzwerke und sichere Maschinenkommunikation – kompakt vorgestellt.
 Mehr erfahren
 Chemnitz,
-Deutschland
-Datum
-Messe
-Ort
-24.11.
-– 26.11.2026
-SPS Nürnberg
-Halle 7, Stand 115
-Treffen Sie uns auf der SPS in Nürnberg und entdecken Sie unsere neuesten Lösungen für industrielle Kommunikation und Automatisierung. Sie finden uns in Halle 7, Stand 115.
-Kostenloses Messeticket sichern
-Nürnberg ,
 Deutschland
 Haben Sie Fragen zu unseren Produkten?
 +49 (9135) 7380-0

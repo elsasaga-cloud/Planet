@@ -1,18 +1,18 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Outdoor Access Points
 Fibre Networking
+Outdoor Access Points
 Audio Visual
 Switching
 Power & UPS
@@ -31,15 +31,15 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Alarms & Security
 Wired Routers
+Alarms & Security
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Outdoor Access Points
 Fibre Networking
+Outdoor Access Points
 Audio Visual
 Switching
 Power & UPS
@@ -231,7 +231,7 @@ Cudy Switches 14 products
 Shop All Cudy Products
 DTECH HDMI Extenders 6 products
 DTECH HDMI Cables 8 products
-DTECH HDMI Fibre Cables 7 products
+DTECH HDMI Fibre Cables 5 products
 DTECH HDMI Adapters 3 products
 DTECH HDMI Splitters 3 products
 DTECH HDMI Convertors 3 products
@@ -269,7 +269,7 @@ Fiber Flyleads 7 products
 DACs 5 products
 SFP Modules 11 products
 Shop All Optcore Products
-Reolink WiFi Cameras 16 products
+Reolink WiFi Cameras 17 products
 Reolink PoE Cameras 20 products
 Reolink Home Hub 1 products
 Reolink NVR 7 products
@@ -289,7 +289,7 @@ Shop All Ruijie/Reyee Products
 Tenda WiFi Routers 6 products
 Tenda WiFi Mesh Systems 3 products
 Tenda LTE Routers 2 products
-Tenda xPON Fibre Products 2 products
+Tenda xPON Fibre Products 1 products
 Tenda WiFi USB Adapters 2 products
 Tenda Switches 7 products
 Shop All Tenda Products

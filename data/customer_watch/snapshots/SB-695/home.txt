@@ -1,4 +1,4 @@
-# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-695 Leandro Roisenberg FI · home · https://www.lri.com.br/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 LRI Automação Industrial - Soluções em Automação Industrial
 Menu
 Projetos Especiais
@@ -423,15 +423,7 @@ Comprar
 Ver ficha técnica
 Produto genuíno, com nota fiscal · Suporte técnico direto com quem projeta · Dúvida técnica no WhatsApp (51) 2129-3000
 Destaques
-Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
-R$ 990,00
-R$
-960 , 30
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Monomodo SC 20km - LRI-MC-1G1SM20
+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Multimodo SC 2km - LRI-MC-1G1MM2
 R$ 375,00
 R$
 363 , 75
@@ -439,25 +431,14 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
-Fonte de Alimentação Chaveada Industrial para Trilho DIN de 120W, 48V - LRI-PS12048
-R$ 396,00
+LRI-CON-7521U Conversor/Splitter Isolado RS-485/RS-232/TTL para 4 Canais RS-485
+R$ 499,00
 R$
-384 , 12
+484 , 03
 à vista
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
--50%
-LRI-PS6548 - Fonte de Alimentação Chaveada Industrial para Trilho DIN de 65W, 48V
-R$ 255,00
-R$ 127,50
-R$
-123 , 68
-à vista
-com desconto Pix - Vindi
-Comprar
-Ver ficha técnica
-Lançamentos
 Inversor CC/CA 600W Entrada 125Vcc Saída 127Vca 60Hz | LRI125-600-127-V3
 R$ 990,00
 R$
@@ -466,29 +447,32 @@ R$
 com desconto Pix - Vindi
 Comprar
 Ver ficha técnica
+LRS-450 Fonte CA/CC 450 Watts Alta Eficiência MeanWell
+A partir de
+R$ 520,82
+R$
+505 , 20
+à vista
+com desconto Pix - Vindi
+Ver opções
+Lançamentos
+1-Wire Transmissor PT100 TST200
+Sob consulta
+Saiba mais
+Pedir cotação
+Sensor Magnético de Porta TSD800
+Sob consulta
+Saiba mais
+Pedir cotação
 Detector de Vazamento de Água com Saída Digital TSF400-0
 Sob consulta
 Saiba mais
 Pedir cotação
-1-Wire Sensor de Temperatura TST100S
-Sob consulta
-Saiba mais
-Pedir cotação
-Detector de Tensão CA TSV101
+1-Wire Transmissor de Loop de Corrente TSA200
 Sob consulta
 Saiba mais
 Pedir cotação
 Depoimentos
-Nome: Manoel
-Avaliação: Positivo
-Depoimento: Atendimento/entrega rápida e eficiente
-Comentado em: 31/01/2024
-LRI Automação Industrial
-Atendimento/entrega rápida e eficiente
-Written by: Manoel
-LRI Automação Industrial
-1 / 1 stars
-1200
 Nome: Djalma Filho
 Avaliação: Positivo
 Depoimento: Ótima loja, facilidade nas compras. E produtos de boa qualidade. E preços competitivos.
@@ -499,6 +483,16 @@ Written by: Djalma Filho
 LRI Automação Industrial
 1 / 1 stars
 1255
+Nome: Manoel
+Avaliação: Positivo
+Depoimento: Atendimento/entrega rápida e eficiente
+Comentado em: 31/01/2024
+LRI Automação Industrial
+Atendimento/entrega rápida e eficiente
+Written by: Manoel
+LRI Automação Industrial
+1 / 1 stars
+1200
 [ Ver todos ]
 Cadastre-se em nossa newsletter
 e receba novidades via E-mail ou Telegram
@@ -545,5 +539,5 @@ Sfera Labs
 Ebyte
 LRI Store é uma Marca Registrada de Leandro Roisenberg FI sob INPI 910048894 | CNPJ: 94.574.647/0005-02
 Tecnologia Tray
-Load time: 0.74 secs - 26-11-2026  - node: commerce-web3-bot-lw - store
+Load time: 1.228 secs - 27-11-2026  - node: commerce-web4-tiny-lw - store
 ×

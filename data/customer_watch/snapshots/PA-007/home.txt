@@ -1,4 +1,4 @@
-# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# PA-007 ALARM ABSOLON, spol. s r.o. · home · https://www.absolon.cz/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Alarm Absolon - dodavatel bezpečnostních technologií | Absolon.cz
 ×
 Z důvodu uzavírky části ulice Šaldova v úseku od Rohanského nábřeží doporučujeme při cestě na naši pražskou pobočku využít náhradní trasu přes ulici Thámova nebo Sokolovská.
@@ -34,60 +34,22 @@ Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
 Akce
-DS-PD512DT15
+DS-PZ501SHL-P
 Hikvision
 Skladem
-Drátový detektor DS-PD512DT15 Hikvision je duální pohybový detektor kombinující PIR senzor a mikrovlnnou technologii pro přesné a spolehlivé vyhodnocení pohybu.
+AX HYBRID PRO plastový box, prostor pro aku 7Ah, 2x slot na expandér
 Pro zobrazení ceny se přihlaste
 Akce
-DS-KIS202T
-Hikvision
-1 823 Kč bez DPH
-3 647 Kč bez DPH
-Skladem
-Analogová sestava video interkomu Hikvision pro 1 uživatele. Venkovní tablo s pinhole 1/2.7" CMOS kamerou 1920x1080, barevný LCD monitor 7" s rozlišením 800x480. Povrchová montáž, propojení venkovní stanice...
-Do košíku
-Akce
-JA-102KY
-Jablotron
-Skladem
-Ústředna Jablotron Mercury JA-102KY s LAN komunikátorem a LTE komunikátorem Lite, v plastovém krytu se zdrojem, prostor pro Aku 2,6Ah.
-Pro zobrazení ceny se přihlaste
-Akce
-DS-PK670W/White
-Hikvision
-Skladem
-Dotyková klávesnice Hikvision DS-PK670W/White slouží k pohodlnému ovládání zabezpečovacího systému AX Hybrid Pro prostřednictvím přehledného dotykového rozhraní. Umožňuje živý náhled z připojených kamer,...
-Pro zobrazení ceny se přihlaste
-Akce
-RW132I04
-RISCO
-Skladem
-Bezdrátový expandér 4 vstupů a 4 výstupů a 16ti x10 zařízení
-Pro zobrazení ceny se přihlaste
-Akce
-RWX350D
-RISCO
-Skladem
-Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
-Pro zobrazení ceny se přihlaste
-Akce
-KVU8190W
+6701W/8
 Comelit
 Skladem
-Zapuštěný ULTRA video kit pro 1 uživatele s 4,3" hands-free videotelefonem Mini s WiFi umožňující volání na aplikaci.
+Barevný 4,3" monitor Mini se sluchátkem a 8-mi tlačítky pro systém Comelit Simplebus včetně terminálu 1214/2C. Bílé provedení, 8 dotykových tlačítek. Rozměry: 175x160x22mm.
 Pro zobrazení ceny se přihlaste
 Akce
-DS-PM501Z8T4
+DS-PC502S
 Hikvision
 Skladem
-AX HYBRID PRO expander; 8 zón; 4x PGM výstup
-Pro zobrazení ceny se přihlaste
-Akce
-JA-156E-AN
-Jablotron
-Skladem
-Bezdrátová dotyková klávesnice s čtečkou - antracitový Jablotron JA-156E
+Komunikační 4G modul DS-PC502S pro ústřednu řady AX Hybrid Pro. Podpora SMS, hlasových hovorů a mobilních dat. Sloty SIM 2
 Pro zobrazení ceny se přihlaste
 Akce
 EASY konektor RJ45 CAT5E UTP 8p8c na drát i licnu SXRJ45-5E-UTP-EASY
@@ -102,10 +64,45 @@ Skladem
 Bezdrátová vnitřní siréna AXPro DS-PS1-II-WE s červeným blikačem a obousměrnou hlasovou komunikací. Obousměrná komunikace 868MHz šifrování AES-128, dosah až 1000m, výkon 110dB, 2x tamper. Provozní teplota: ...
 Pro zobrazení ceny se přihlaste
 Akce
-MV-8
-Vodak
+DS-PR531-3A
+Hikvision
 Skladem
-MV-8 - Zkušební plyn pro optickokouřové požární hlásiče
+AX HYBRID PRO napájecí zdroj 3A v boxu, prostor pro aku 7Ah
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PA502-96
+Hikvision
+Skladem
+AX PRO hybridní ústředna DS-PA502-96, 96 vstupů, 48 oblastí, PIR CAM: max 36, Klávesnice max 24, Ethernet 10/100 Mbps , Wi-Fi 2,4GHz 802.11b/g/n, 1x Tamper
+Pro zobrazení ceny se přihlaste
+Akce
+DS-PR501-HWE
+Hikvision
+Skladem
+Bezdrátový přijímač Tri-X DS-PR501-HWE kompatibilní s ústřednou AX Hybrid Pro k rozšíření bezdrátových možností ústředny. Zařízení podporuje připojení až 32 bezdrátových detektorů, 8 bezdrátových vnitřních...
+Pro zobrazení ceny se přihlaste
+Akce
+GSM VT-11
+Skladem
+Deska GSM SMS modulu s externí anténou se 6 vstupy a 2x relé výstupem NO/NC, zajištění heslem, odpovídací SMS o stavu vstupů/výstupů, programovací kabel, vyžaduje adaptér 12V/0,8A
+Pro zobrazení ceny se přihlaste
+Akce
+RWX350D
+RISCO
+Skladem
+Venkovní obousměrně komunikující bezdrátový PIR + MW detektor s pet imunitou, IP65
+Pro zobrazení ceny se přihlaste
+Akce
+KVU8190W
+Comelit
+Skladem
+Zapuštěný ULTRA video kit pro 1 uživatele s 4,3" hands-free videotelefonem Mini s WiFi umožňující volání na aplikaci.
+Pro zobrazení ceny se přihlaste
+Akce
+Propojovací box XtendLan Cat 5e nestíněný
+XtendLan
+Skladem
+Narážecí propojovací box Cat 5e. Umožňuje propojit kabelové segmenty UTP beze ztráty kvality vedení. Narážecí, univerzální konektory LSA/IDC. Pro snadnější instalaci jsou zarážky barevně označeny. Rozměry...
 Pro zobrazení ceny se přihlaste
 dalsi
 Novinky
@@ -113,79 +110,78 @@ predchozi
 Zboží bylo přidáno do košíku
 Zobrazit košík
 Pokračovat v nákupu
+ColorVu 3.0 AI
 Novinka
-iDS-7116HQHI-M1/S(F)
+DS-2CD1067G3-LIU(2.8mm)
 Hikvision
 Skladem
-Digitální AcuSense videorekordér Hikvision připojení až 16 analogových kamer a 2 IP kamer. 1x HDD SATA až 10TB. H.265 Pro+/H.265 Pro/H.265/H.264+/H.264. 1x RJ45 1Gbps, HDMI až 4K VGA, 2x USB, audio I/O, 12V...
+6MPx IP ColorVu AI hybridní venkovní Bullet kamera Hikvision s monofokálním objektivem 2.8 mm, CMOS 1/2.4, citlivost 0,0005lux, 3200x1800@20fps, mikrofon, H.265+/H.265/H.264+/H.264, 120dB WDR, Přísvit IR a...
 Pro zobrazení ceny se přihlaste
 Novinka
-Mini rušička GPS signálu (10m)
-Cyber
-Na objednání
-Mini rušička GPS signálu - 10m
-Pro zobrazení ceny se přihlaste
-AcuSeek + LinkVu
-Novinka
-DS-3T1306P-SI/HS
-Hikvision
-Skladem
-6 portový řízený PoE průmyslový switch Hikvision DS-3T1306P-SI/HS s možností napájet až 4 IP zařízení současně do maximálního výkonu 60W s výkonem na jeden port 60W, při zapojení všech portů 15W. Ochranou...
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-2CD3766G3T-LIZSU(2.7-13.5mm)(eF)
+DS-2CE12UF3T-LS(2.8mm)
 Hikvision
 Na objednání
-6MPx IP hybridní DarkFighter 2.0 venkovní Dome kamera Hikvision s varifokálním objektivem 2.7-13,5mm, CMOS 1/1.8, citlivost 0,001lux, 3200x1800@25fps, H.265+/H.265/H.264+/H.264/ MJPEG, Adaptivní 130dB WDR,...
+8MPx TVI ColorVu hybridní venkovní bullet kamera Hikvision s fixním objektivem a ohniskovou vzdáleností 2.8 mm. 0,0005lux, 3840 x 2160 @12,5fps. 130 dB WDR, 3D DNR, BLC, HLC, HLS. IR i LED do 40 m. Mikrofon,...
 Pro zobrazení ceny se přihlaste
 Novinka
-DS-2CD2123G2-LIS2U(2.8mm)(BLACK)
-Hikvision
-Skladem
-2MPx IP hybridní venkovní Dome kamera Hikvision, 2.8mm, úhel záběru 112°, 0,005Lux, 120db WDR, ONVIF, IR a LED až 30m, 2x mikrofon, alarm I/O, Audio I/O, SD karta až 512GB, 12VDC/PoE, IP67, IK10
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-7616NXI-K1(E)
-Hikvision
-Skladem
-Síťový AcuSense videorekordér Hikvision pro připojení až 16 IP kamer až 12Mpx, 160 Mbps / 80 Mbps, 1× HDMI (až 4K), 1× VGA, 1× HDD až 16 TB, 1× RJ-45 1 Gb/s, 2× USB 2.0, 1× audio vstup / 1× audio výstup, 12...
-Pro zobrazení ceny se přihlaste
-Novinka
-Energetická třída A++
-LSL421
-NEDES
+Patch kabel CAT5E UTP PVC 0,5m modrý snag-proof C5E-114BU-0,5MB
+Solarix
 Na objednání
-LED pouliční svítidlo, 40W/5800lm, 5000K, rozměry 560x160x75mm, 120°, IP65, AC100-305V, životnost 50.000 hodin, krytí IK08, barva šedá
+Nestíněný patch kabel Solarix kategorie 5E, provedení UTP, se snag-proof ochranou konektorů, plášť PVC modré barvy. Délka kabelu 0,5m
 Pro zobrazení ceny se přihlaste
 Novinka
-DS-2CD2T63G2P-LISU/SL(180°)
-Hikvision
-Na objednání
-6MPx IP hybridní AcuSense venkovní bullet Panoramic kamera Hikvision s 2x fixním objektivem 2,8 mm, CMOS 1/2.5", citlivost 0,005lux, 3632×1632@20fps, H.265+/H.265/H.264+/H.264/MJPEG, 120 dB WDR, Přísvit LED ...
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-1697ZJ-Y3(OS)
-Hikvision
-Na objednání
-Antikorozní držák na zeď pro kamery Hikvision. Materiál: Nerezová ocel, Rozměry: 123×222×328mm, Maximální zatížení držáku je 8 Kg. Rychlá instalace na zeď.
-Pro zobrazení ceny se přihlaste
-Novinka
-Hikmicro Neos NH35L
-Hikmicro
-Na objednání
-Termovizní puškohled s objektivem 35 mm, termovizní senzor 384×288 px, 0,49" AMOLED displej. Detekční vzdálenost: 1800 m, laserový dálkoměr 1000 m, balistická kalkulace. Zvětšení 3,2x - 25,6x. Výdrž baterie:...
-Pro zobrazení ceny se přihlaste
-Novinka
-DS-2CD20126G3-IUY/SL(2.8mm)/eFBLACK
-Hikvision
-EU sklad, obvykle 7-10 dnů
-12MPx IP AcuSense venkovní bullet kamera Hikvision s fixním objektivem 2.8 mm, CMOS 1/1.8", citlivost 0,0008lux, 4608×2592@20fps, H.265+/H.265/H.264+/H.264/MJPEG, 130 dB WDR, Přísvit IR až 40m, SD karta až...
-Pro zobrazení ceny se přihlaste
-Novinka
-HL CAL27-B
+HL GRIP1
 HL system
+Na objednání
+Úchytka svazku kabelů 42x33x62 mm, certifikováno dle ČSN 73 0895, max. zatížení: 1 kg kabelů/1 metr trasy, uchycení až po 60 cm, pozinkováno metodou Sendzimir, S
+Pro zobrazení ceny se přihlaste
+Novinka
+JB-111TH-AN
+Jablotron
 Skladem
-Nastřelovací hřeb 27 mm do betonu pro pistoli HL CALIBRE, splňuje normu ČSN 73 0895, STN 92 0205: 2014, DIN 4102-12:1998-11, galvanicky pozinkováno, GZ
+Sběrnicový senzor teploty a vlhkosti Jablotron JB-111TH-AN
+Pro zobrazení ceny se přihlaste
+Novinka
+Patch kabel CAT6 SFTP PVC 10m šedý snag-proof C6-315GY-10MB
+Solarix
+Na objednání
+Stíněný patch kabel Solarix CAT6 SFTP PVC 10m šedý snag-proof
+Pro zobrazení ceny se přihlaste
+Novinka
+Optický modul XtendLan MGB-LXAD
+XtendLan
+Na objednání
+Gigabitový modul miniGBIC (SFP), 1000Base-LX, simplexní SC konektor, single-mode, WDM. Dosah 3-10km. TX 1550nm/RX 1310nm. Cisco, Planet kompatibilní. Umožňuje obousměrnou komunikaci po jediném optickém...
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-D5043F3-1V0S
+Hikvision
+Skladem
+43" monitor Hikvision DS-D5043F3-1V0S s maximálním rozlišením 1920 x 1080 a poměrem stran 16:9. Pozorovací úhel 178°/178°. 1x HDMI, 1x VGA, VESA 200 x 200, vestavěné reproduktory, napájení 100-240V AC....
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-2CD2T83G2-4LI(4mm)
+Hikvision
+Na objednání
+8MPx IP hybridní venkovní Bullet kamera Hikvision, 4mm, úhel záběru 88°, 0,005Lux, 120db WDR, ONVIF, IR a LED až 80m, SD karta až 512GB, 12VDC/PoE, IP67
+Pro zobrazení ceny se přihlaste
+Novinka
+Patch kabel 9/125 E2000apc/E2000apc SM OS 7m duplex SXPC-E2000/E2000-APC-OS-7M-D
+Solarix
+Na objednání
+Solarix optický patch kabel slouží pro propojení mezi aktivními komponenty či mezi pasivními komponenty, představujícími koncový bod fyzického spoje.
+Pro zobrazení ceny se přihlaste
+Novinka
+DS-4603ZJ-WAAC
+Hikvision
+Na objednání
+Nástěnná konzole DS-4603ZJ-WAAC pro PTZ kamery. Materiál je slitina hliníku. Držák je bílý o rozměrech 180 x 97 x 329 mm a hmotnosti 1.39 kg.
+Pro zobrazení ceny se přihlaste
+Novinka
+JA-115M-AN
+Jablotron
+Skladem
+Sběrnicový mini magnetický detektor otevření - antracitový Jablotron JA-115M
 Pro zobrazení ceny se přihlaste
 dalsi
 Reference

@@ -1,4 +1,4 @@
-# SA-056 B&S electronics · sitemap · https://bselectronics.gr/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SA-056 B&S electronics · sitemap · https://bselectronics.gr/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 2020-03-07T09:04:12+02:00	https://bselectronics.gr/tcctv-1205-4c
 2020-03-13T09:18:59+02:00	https://bselectronics.gr/tcctv-1210-9c
 2020-03-13T09:19:23+02:00	https://bselectronics.gr/tcctv-1216-16c
@@ -6,8 +6,8 @@
 2023-05-12T08:15:52+03:00	https://bselectronics.gr/tps-12030
 2024-01-17T16:10:32+02:00	https://bselectronics.gr/tpspoe48050_4
 2024-01-17T16:11:52+02:00	https://bselectronics.gr/tpspoe48050_8
-2026-02-18T09:12:51+02:00	https://bselectronics.gr/tpsmvpoe48050-8ch
-2024-01-17T16:12:49+02:00	https://bselectronics.gr/tpspoe48050_16
+2026-11-26T13:12:36+02:00	https://bselectronics.gr/tpspoe48050_16
+2026-11-26T13:12:33+02:00	https://bselectronics.gr/tpsmvpoe48050-8ch
 2021-02-10T10:26:22+02:00	https://bselectronics.gr/tpswp-12030
 2021-02-10T09:47:12+02:00	https://bselectronics.gr/tpswp-12050
 2021-02-10T09:43:32+02:00	https://bselectronics.gr/tpswp-24025

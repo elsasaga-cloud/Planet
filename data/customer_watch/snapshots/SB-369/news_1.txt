@@ -1,4 +1,4 @@
-# SB-369 wieland-electric.com · news_1 · https://www.wieland-electric.com/en/company/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-369 wieland-electric.com · news_1 · https://www.wieland-electric.com/en/company/news/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Press & Public Relations | Wieland Electric WEBSITE SETTINGS
 We use cookies on our website. Some of them are essential, while others help us improve this site and your experience. You can update your settings at any time.
 Privacy Policy
@@ -57,8 +57,9 @@ Services for machine safety CE Marking CE-Services
 CE-Process
 Software & Apps Building Solutions Designer BIM
 Building Solutions Configurator (BSC)
-samos® PLAN6
 gesis® PLAN
+Wieland PREFAB® TCO Calculator
+samos® PLAN6
 selos PLAN Terminal Block Configurator
 wipos PLAN
 Infoportal Infoportal
@@ -124,7 +125,7 @@ Industries Back Industries All Industries Building Technology Lighting Technolog
 Support Back Support Service Find a Distributor Back Find a Distributor International Sales Partners
 Services for machine safety Back Services for machine safety CE Marking Back CE Marking CE-Services Back CE-Services Conformity assessment in accordance with the Machinery Directive Review of significant modifications Risk assessment of machines for Manufacturers Validation in accordance with EN ISO 13849-2 Verification in accordance with EN ISO 13849-1
 CE-Process Back CE-Process Research Risk Assessment Safety Concept Safety Engineering Verification Validation Documentation Evaluation & Final Report Inspection
-Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) samos® PLAN6 gesis® PLAN selos PLAN Terminal Block Configurator wipos PLAN
+Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) gesis® PLAN Wieland PREFAB® TCO Calculator samos® PLAN6 selos PLAN Terminal Block Configurator wipos PLAN
 Infoportal Product Security (PSIRT) Downloads
 Training Back Training Seminars Back Seminars Seminars Back Seminars Machinery Safety Expert Training Electrical Safety Engineer Training Electrical Engineering Refresher Course Sistema Training Functional Safety Training Retrofit Training Machinery Directive Training
 Webinars Back Webinars Upcoming Webinars Webinar Recordings Webinar Series Back Webinar Series Machinery Safety Meets Cybersecurity
@@ -221,6 +222,4 @@ Error-free and time-saving electrical installation
 18.04.2023
 IMMEDIATE SAFETY
 28.02.2023
-WITH WIELAND PLUG TO THE SAFE BALCONY POWER PLANT
-21.02.2023
-READY FOR THE FUTURE OF MODULAR CON
+WITH WIELAND PLUG TO THE SAFE BALC

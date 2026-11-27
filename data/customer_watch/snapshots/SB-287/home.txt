@@ -1,4 +1,4 @@
-# SB-287 sea-srl.it · home · https://www.sea-srl.it/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-287 sea-srl.it · home · https://www.sea-srl.it/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 S&A - Distribuzione all'ingrosso di prodotti elettronici per la sicurezza
 Vai al contenuto
 Accedi
@@ -73,7 +73,7 @@ Tastiere Inseritori e chiavi Radiocomandi
 ESPANSIONI
 Espansioni ingresso Espansioni uscita Espansioni radio Ripetitori radio Isolatori Moduli ip Moduli gsm/gprs/4g Schede relè Accessori Schede fusibili
 DISPOSITIVI COMUNICAZIONE
-Combinatori gsm/gprs/4g Combinatori pstn Ponti radio Ascolto ambientale
+Combinatori gsm/gprs/4g Ponti radio Ascolto ambientale
 RILEVAZIONE DA INTERNO
 Contatti magnetici Rilevatori apertura Rilevatori infrarossi Rilevatore microonde Rilevatori doppia tecnologia Rilevatori multitecnologia Rilevatori tecnologici Rilevatori rottura vetri Rilevatori sismici Rilevatori antiallagamento Pulsanti antirapina Rilevatori fumo - gas Snodi e staffe Accessori
 RILEVAZIONE DA ESTERNO

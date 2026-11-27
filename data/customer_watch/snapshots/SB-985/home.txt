@@ -1,4 +1,4 @@
-# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-985 qnv.com · home · https://qnv.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Informática industrial, IA y automatización | QNV
 Saltar al contenido
 Buscar por:
@@ -72,7 +72,6 @@ GPIB
 Comunicaciones Industriales Switch Ethernet Industrial No gestionables
 Gestionables
 Layer3-Router-Firewall-Cable
-Accesorios (mini-Gbic)
 Switch Ethernet Industrial PoE No gestionables
 Gestionables
 Router Industrial/Firewall
@@ -86,7 +85,6 @@ Entradas y salidas por Ethernet Analógico
 Digital
 Multifunción
 Tarjetas de comunicaciones
-Fuentes de Alimentación Carril DIN
 Inteligencia artificial (IA) Equipos IA Embedded
 Equipos con CPU Intel + GPU Embedded
 Equipos Embedded para GPU en formato PCI Express

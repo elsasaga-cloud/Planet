@@ -1,5 +1,7 @@
-# SC-1867 vienthonghanoi.vn · feed_auto · https://vienthonghanoi.vn/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
-Thu, 26 Nov 2026 08:03:55 +0000	Cách kiểm tra mối hàn cáp quang bằng OTDR	https://vienthonghanoi.vn/cach-kiem-tra-moi-han-cap-quang-bang-otdr/
+# SC-1867 vienthonghanoi.vn · feed_auto · https://vienthonghanoi.vn/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+Fri, 27 Nov 2026 10:40:15 +0000	Cách đọc thông số kỹ thuật trên dây cáp quang chi tiết nhất	https://vienthonghanoi.vn/cach-doc-thong-so-ky-thuat-tren-day-cap-quang-chi-tiet-nhat/
+Fri, 27 Nov 2026 09:43:14 +0000	Khay hàn quang có chức năng gì? Cấu tạo và ứng dụng thực tế	https://vienthonghanoi.vn/khay-han-quang-co-chuc-nang-gi-cau-tao-va-ung-dung-thuc-te/
+Fri, 27 Nov 2026 03:03:55 +0000	Cách kiểm tra mối hàn cáp quang bằng OTDR	https://vienthonghanoi.vn/cach-kiem-tra-moi-han-cap-quang-bang-otdr/
 Thu, 26 Nov 2026 04:59:17 +0000	Máy hàn cáp quang M5 là sự lựa chọn sáng suốt hàng đầu cho người mới học hàn cáp quang	https://vienthonghanoi.vn/may-han-cap-quang-m5-la-su-lua-chon-sang-suot-hang-dau-cho-nguoi-moi-hoc-han-cap-quang/
 Thu, 26 Nov 2026 03:24:55 +0000	Hàn cáp quang là gì? Quy trình hàn cáp quang	https://vienthonghanoi.vn/han-cap-quang-la-gi-quy-trinh-han-cap-quang/
 Sat, 14 Nov 2026 09:03:18 +0000	Phân biệt cáp quang Single Mode và Multimode: Nên chọn loại nào?	https://vienthonghanoi.vn/phan-biet-cap-quang-single-mode-va-multimode-nen-chon-loai-nao/
@@ -9,5 +11,3 @@ Tue, 02 Jun 2026 07:38:49 +0000	Phân biệt giữa dây cáp mạng UTP, FTP, S
 Wed, 27 May 2026 07:27:39 +0000	Dây cáp mạng là gì.Phân biệt cáp mạng ngoài trời & trong nhà	https://vienthonghanoi.vn/day-cap-mang-la-gi-phan-biet-cap-mang-ngoai-troi-trong-nha/
 Wed, 20 May 2026 09:39:08 +0000	Nguyên nhân khiến mối hàn quang bị suy hao.Cách khắc phục	https://vienthonghanoi.vn/nguyen-nhan-khien-moi-han-quang-bi-suy-hao-cach-khac-phuc/
 Thu, 14 May 2026 08:47:08 +0000	So sánh Cáp đồng nguyên chất và Cáp CCA:Nên sử dụng loại nào	https://vienthonghanoi.vn/so-sanh-cap-dong-nguyen-chat-va-cap-ccanen-su-dung-loai-nao/
-Tue, 05 May 2026 08:49:24 +0000	Cáp điện thoại là gì? Khoảng cách truyền của cáp điện thoại	https://vienthonghanoi.vn/cap-dien-thoai-la-gi-khoang-cach-truyen-cua-cap-dien-thoai/
-Wed, 22 Apr 2026 09:19:31 +0000	Bộ chia PLC 1×2: Chìa khóa khai thác tối đa hiệu suất PON	https://vienthonghanoi.vn/bo-chia-plc-1x2-chia-khoa-khai-thac-toi-da-hieu-suat-pon/

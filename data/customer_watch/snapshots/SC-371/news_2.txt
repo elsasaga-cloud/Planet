@@ -1,4 +1,4 @@
-# SC-371 Visiotech · news_2 · https://www.visiotechsecurity.com/en/latest-updates · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-371 Visiotech · news_2 · https://www.visiotechsecurity.com/en/latest-updates · fetched 2026-11-27T11:01:47Z · HTTP 200
 404
 Visiotech | Mayorista CCTV y Seguridad
 Productos CCTV IP
@@ -353,7 +353,10 @@ Accesorios
 Accesorios Abrepuertas eléctricos
 Cierrapuertas y muelles
 Tarjetas y Llaveros
+Lectores
 Pulsadores
+Relés
+Alimentación
 Cables
 Safire Smart Placas
 Monitores

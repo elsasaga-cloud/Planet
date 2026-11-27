@@ -1,4 +1,4 @@
-# SA-011 CXR · news_1 · https://www.cxr.com/en/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SA-011 CXR · news_1 · https://www.cxr.com/en/news/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 News - CXR
 Smart Solutions for Smart Networks
 Toggle navigation
@@ -79,6 +79,12 @@ New password (x2)
 Change my password
 Home
 News
+CXR will be present at the 54th @Mobil'in Pulse Congress on January 19 and 20, 2027!
+26/11/2026
+A must-attend event for stakeholders in the smart mobility sector, this gathering will bring together local authorities, integrators, and industry players, all centered around a key, unifying theme:
+the resilience, sobriety, and sustainability of mobility systems.
+As a French designer and manufacturer of transmission and communication equipment for mission-critical networks, @CXR Networks...
+Read More
 Does your critical network operate with precise time synchronization?
 03/11/2026
 VCL-2156
@@ -137,12 +143,6 @@ Eurosatory 2026 & CXR – Paris Nord Villepinte
 CXR at the heart of innovation at Eurosatory 2026, the global land and air-land defense and security exhibition.
 This trade show was an exceptional opportunity for CXR to immerse itself in cutting-edge technologies and decipher the major trends of tomorrow. In a rapidly evolving sector, staying at the forefront of communication and security solutions is our priority.
 What we take away from...
-Read More
-Which CXR Networks VoIP gateway is right for your infrastructure?
-09/06/2026
-The end of the PSTN and the transition to "All-IP" necessitate the modernization of communication networks. However, each sector has unique constraints: line density, climate, and security requirements.
-To address this diversity, CXR Networks offers a comprehensive range of VoIP gateways designed to secure, convert, and future-proof your analog investments.
-Discover which equipment matches...
 Read More
 1
 2

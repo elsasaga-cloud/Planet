@@ -1,18 +1,4 @@
-# SB-064 amitytechnologies.co.in · sitemap · https://amitytechnologies.co.in/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/contact/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/about-us/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/why-amity/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/optical-bonding/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/rugged-displays/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/rugged-kvm-displays/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/rugged-panel-pcs/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/rugged-workstations/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/rugged-servers/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/products/rugged-ethernet-switches/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/services/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/services/manufacturing/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/services/trading/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/services/distribution/
-2025-02-12T09:42:05+00:00	https://amitytechnologies.co.in/manufacturing-process/
+# SB-064 amitytechnologies.co.in · sitemap · https://amitytechnologies.co.in/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 403
+{
+"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
+}

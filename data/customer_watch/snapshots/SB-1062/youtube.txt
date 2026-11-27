@@ -1,4 +1,5 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-27T11:01:47Z · HTTP 200
+2026-11-26T11:55:22+00:00	Odoo Quick Tips - Travel time [Planning]	https://www.youtube.com/watch?v=27BU11MWP9U
 2026-11-26T10:59:45+00:00	Odoo Insider Tech Q&A Session	https://www.youtube.com/watch?v=GzgioUylG4s
 2026-11-26T08:25:40+00:00	Odoo Insider - Live Q&A - Last 2026 session with Antoine🕺🏻	https://www.youtube.com/watch?v=-FItVtcI4ss
 2026-11-26T07:49:00+00:00	Odoo Insider - Regular Live Q&A with Richard	https://www.youtube.com/watch?v=SPvMmMbWag0
@@ -13,4 +14,3 @@
 2026-11-24T11:17:52+00:00	Webinaire - Odoo 20 : Tout savoir sur les nouveautés du site web	https://www.youtube.com/watch?v=lJZuBz4OKaE
 2026-11-24T08:04:53+00:00	Webinaire - Odoo 20 - La nouvelle ère du payroll en Belgique	https://www.youtube.com/watch?v=rhfo8nmkDd0
 2026-11-23T13:39:04+00:00	Italian Tutorial: Chiedilo ai BA	https://www.youtube.com/watch?v=kG3esRHmcxc
-2026-11-23T09:07:44+00:00	Odoo Insider - Questions-Réponses en français avec Louis	https://www.youtube.com/watch?v=LQwEoDraRZI

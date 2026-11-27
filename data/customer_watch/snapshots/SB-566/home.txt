@@ -1,4 +1,4 @@
-# SB-566 PCG Bilgisayar LTD.STI. · home · https://pcgbilgisayar.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-566 PCG Bilgisayar LTD.STI. · home · https://pcgbilgisayar.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 PCG Bilgisayar | Gigabyte Enterprise Türkiye Distribütörü
 İçeriğe atla GIGABYTE Enterprise Türkiye Distribütörü · NVIDIA Compute Partner
 +90 216 441 0 724 [email protected]
@@ -70,11 +70,11 @@ Gigabyte W753-W50-AA01 İş İstasyonu
 Gigabyte W533-W30-AA01 İş İstasyonu
 Gigabyte W774-W90-AAF1 İş İstasyonu
 Gigabyte W773-H5D-AAF1 GPU İş İstasyonu
+NVIDIA ConnectX-6 Lx
+NVIDIA BlueField-3 DPU
 NVIDIA ConnectX-8 SuperNIC
 NVIDIA ConnectX-7
 NVIDIA ConnectX-6 Dx
-NVIDIA ConnectX-6 Lx
-NVIDIA BlueField-3 DPU
 NVIDIA L4 Tensor Core GPU
 HABERLER
 GIGABYTE AI TOP ATOM: Kişisel Yapay Zekâ Süper Bilgisayarı Dönemi Başlıyor

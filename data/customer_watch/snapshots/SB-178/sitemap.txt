@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · sitemap · https://www.wisp.pl/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-178 wisp.pl · sitemap · https://www.wisp.pl/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 	https://www.wisp.pl/i4,dojazd.html
 	https://www.wisp.pl/i14,epidemia.html
 	https://www.wisp.pl/i12,konkurs-mundialowy.html
@@ -13,6 +13,7 @@
 	https://www.wisp.pl/i2,szybki-cennik.html
 	https://www.wisp.pl/i8,zwroty.html
 	https://www.wisp.pl/b1,nowosci.html
+	https://www.wisp.pl/k76,black-friday.html
 	https://www.wisp.pl/k11,access-pointy.html
 	https://www.wisp.pl/k5,akcesoria.html
 	https://www.wisp.pl/k28,akcesoria-cybanty-obejmy.html
@@ -214,4 +215,4 @@
 	https://www.wisp.pl/k329,mikrotik-akcesoria-lte.html
 	https://www.wisp.pl/k78,mikrotik-akcesoria-obudowy.html
 	https://www.wisp.pl/k335,mikrotik-akcesoria-swiatlowody.html
-	https://www.wisp.pl/k337,mikrotik-akcesoria-
+	h

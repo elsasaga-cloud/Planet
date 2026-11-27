@@ -1,4 +1,4 @@
-# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-605 Elkov Elektro · home · https://www.elkov.cz/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Elektromateriál a svítidla | ELKOV
 Přejít na obsah
 Přihlášení
@@ -49,7 +49,7 @@ Otevřeno do
 Chotěboř
 Otevřeno do
 Jevíčko
-Otevíráme za 35 minut
+Otevíráme za 40 minut
 Kladno
 Otevřeno do
 Kroměříž
@@ -90,7 +90,7 @@ Otevřeno do
 Velké Meziříčí
 Otevřeno do
 Vysoké Mýto
-Otevíráme za 5 minut
+Otevíráme za 10 minut
 Zábřeh
 Otevřeno do
 Zastávka u Brna
@@ -121,8 +121,8 @@ Solární svítidla exteriérová
 Svítidla s krytím IP65
 Příslušenství a náhradní díly pro exteriérová svítidla
 Interiérová svítidla
-Bodová svítidla interiérová
 Dle místnosti
+Bodová svítidla interiérová
 Dětská interiérová svítidla
 Koupelnová interiérová svítidla
 Kuchyňská interiérová svítidla
@@ -135,8 +135,9 @@ Stropní interiérová svítidla
 Užitková svítidla interiérová
 Zápustná, vestavná interiérová svítidla
 Závěsná interiérová svítidla
-Náhradní díly ke svítidlům
 Ostatní interiérová svítidla
+Náhradní díly ke svítidlům
+Prokognitivní LED osvětlení
 Kancelářská svítidla
 Downlight svítidla
 Přisazená/závěsná svítidla
@@ -149,7 +150,6 @@ Eglo connect
 Immax Neo
 Ledvance
 Ostatní výrobci inteligentního osvětlení
-Prokognitivní LED osvětlení
 LED pásky a příslušenství
 LED pásky
 Napájecí zdroje LED pásky
@@ -219,10 +219,10 @@ Veřejné osvětlení
 Vánoční a dekorativní osvětlení
 Další kategorie
 LED pásky a příslušenství výprodej
+Reflektorová svítidla
 Lištový systém
 Kancelářská svítidla výprodej
 Průmyslová svítidla
-Reflektorová svítidla
 Nouzová svítidla
 Příslušenství a komponenty svítidel
 Lištový systém 3F vč. příslušenství
@@ -288,19 +288,19 @@ Ochrana zraku
 Domovní spínače a zásuvky
 ABB spínače a zásuvky
 Přístroje
-Neo, Neo Tech ABB
 Zoni ABB
 Busch-axcent
 Levit, Levit M ABB
 Element ABB
-Další kategorie
 Time, Time Arbo
+Další kategorie
 Tango ABB
 Swing, Swing L ABB
 Solo, Solo carat ABB
 Future linear ABB
 Classic ABB
 Decento ABB
+Neo, Neo Tech ABB
 Bezdrátové ovládání ABB
 Pohybová čidla ABB
 Přístroje do hořlavých podkladů
@@ -361,11 +361,11 @@ Asfora Schneider
 Cedar plus
 Merten Schneider
 Mureva Styl - IP55
-Sedna Schneider
 Sedna Design & Elements
+Sedna Schneider
 Další kategorie
-Nová Unica Schneider
 Unica Schneider
+Nová Unica Schneider
 Ostatní řady Schneider
 Mechanické časové spínače
 Šňůrové spínače
@@ -395,12 +395,12 @@ Fotovoltaický ohřev vody
 Solární regulátory
 Příslušenství ke střídačům
 Baterie FVE
+Baterie Wattery
 Baterie Solax Triple Power
 Baterie PylonTech
 Baterie SofarSolar
 Baterie BYD
 Baterie Resacs
-Baterie Wattery
 Další kategorie
 Přenosná bateriová uložiště
 Propojení, ochrana a sledování baterií
@@ -472,13 +472,13 @@ Chytré vytápění
 Chytré zabezpečení
 Centrální jednotky a startovací kity
 Příslušenství pro chytrou domácnost
+ABB-free@home
+PocketHOme
 Chytrá domácnost SOMFY
 Chytrá domácnost
 Vrata a brány
 Ovladače a čidla
 Zabezpečení
-ABB-free@home
-PocketHOme
 Chytrá domácnost AQARA
 Chytré kamery
 Chytré osvětlení AQARA
@@ -550,24 +550,24 @@ Autovodiče
 Vodiče speciální
 Holé vodiče
 Propojovací vodiče
-Přípojnicové systémy
 Kabelové příslušenství
 Značení vodičů kabelové příslušenství
 Ostatní kabelové příslušenství
-Svazkovací spirály
-Kabelová oka
-Kabelové spojky
-Izolační pásky
-Další kategorie
 Kabelové vidlice
 Ochranné oplety
 Sady koncovek a konektorů
 Cupalové podložky a plechy
+Další kategorie
+Svazkovací spirály
+Kabelová oka
+Kabelové spojky
+Izolační pásky
 Teplem smrštitelné trubice
 Izolační trubičky
 Kabelové dutinky
 Kabelové kolíky
 Kabelové konektory a fastony
+Přípojnicové systémy
 Kabely USB, audio a video
 Kabely CINCH
 Kabely JACK
@@ -585,4 +585,4 @@ Regulace tlaku - manostaty
 Regulace teploty - termostaty
 Regulace vlhkosti
 Čidla tlaku
-Další
+Dalš

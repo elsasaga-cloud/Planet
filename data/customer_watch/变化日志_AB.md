@@ -26213,3 +26213,4635 @@
 - SB-016 Richard Jackson · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
 - SB-320 353311@mail.ru · intel_news_en（rss）：状态变化：HTTP 429 → HTTP 503
 - 本轮抓取失败 780：SA-012/home：ConnectTimeout: HTTPConnectionPool(host='www.widen.co.th', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.widen.co.th', port=80) at 0x7852c0798b90>, 'Connection to；SA-020/sitemap：HTTP 404；SA-021/home：HTTP 429；SA-023/home：HTTP 404；SA-027/home：ReadTimeout: HTTPConnectionPool(host='alsalami.com', port=80): Read timed out. (read timeout=20)；SA-047/youtube：YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过）；SA-061/home：HTTP 523；SA-071/home：HTTP 403；SA-076/home：ConnectTimeout: HTTPSConnectionPool(host='tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tbi.com.tr', port=443) at 0x7852c0564050>, 'Connection to tbi.c；SB-047/home：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to；SB-047/sitemap：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed；SB-047/news_1：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: /blog (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl；SB-071/sitemap：HTTP 404；SB-071/news_1：HTTP 404；SB-079/home：SSLError: HTTPSConnectionPool(host='cansisteknoloji.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:；SB-103/intel_news_en：HTTP 503；SB-103/intel_news_de：HTTP 503；SB-104/intel_news_en：HTTP 503；SB-104/intel_news_it：HTTP 503；SB-109/intel_news_en：HTTP 503；SB-110/intel_news_en：HTTP 503；SB-1102/intel_news_en：HTTP 503；SB-1102/intel_news_vi：HTTP 503；SB-1114/intel_news_en：HTTP 503；SB-1115/intel_news_en：HTTP 503；SB-1116/intel_news_en：HTTP 503；SB-1116/feed_auto：ParseError: syntax error: line 1, column 0；SB-1122/intel_news_en：HTTP 503；SB-1122/intel_news_ru：HTTP 503；SB-1134/intel_news_en：HTTP 503；SB-1135/home：ConnectionError: HTTPSConnectionPool(host='raisecom.su', port=443): Max retries exceeded with url: / (Caused by NewConnectionError("HTTPSConnection(host='raisecom.su', port=443): Failed to establish a new connection: ；SB-1135/intel_news_en：HTTP 503；SB-1135/intel_news_ru：HTTP 503；SB-1136/intel_news_en：HTTP 503；SB-1138/intel_news_en：HTTP 503；SB-119/intel_news_en：HTTP 503；SB-122/intel_news_en：HTTP 503；SB-130/intel_news_en：HTTP 503；SB-130/intel_news_ro：HTTP 503；SB-131/intel_news_en：HTTP 503…
+
+## 2026-11-27T11:01:47Z（源 4279）
+
+### A 级
+- SA-009 coptek.com.tr · sitemap（sitemap）：新增 31 条：2021-01-11T14:01:38 www.coptek.com.tr；2021-01-11T14:01:38 index.html；2021-01-11T14:01:42 urunler.html；2021-01-11T14:01:40 referanslar.html；2021-01-11T14:01:39 omurgaswitch.html；2021-01-11T14:01:39 poeswitch.html；2021-01-11T14:01:39 layer3switch.html；2021-01-11T14:01:39 layer2switch.html…
+- SA-010 NEXTU EZ-NET · youtube（youtube_handle）：新增 1 条：2026-11-27T07:32:23 플러온W3 릴스
+- 消失 1 条（RSS 窗口滚动属正常）：우리 집 댕댕이 밥 따로 물 따로? 이제 그럴 필요 없어요! 펫지니 올인원 자동급식기·급수
+- SA-011 CXR · news_1（html）：内容变化：+6 −6 行
+  - `+CXR will be present at the 54th @Mobil'in Pulse Congress on January 19 and 20, 2027!`
+  - `+26/11/2026`
+  - `+A must-attend event for stakeholders in the smart mobility sector, this gathering will bring together local authorities, integrators, and industry players, all`
+  - `+the resilience, sobriety, and sustainability of mobility systems.`
+  - `+As a French designer and manufacturer of transmission and communication equipment for mission-critical networks, @CXR Networks...`
+  - `+Read More`
+- SA-014 impulsecctv.com · home（html）：内容变化：+15 −15 行
+  - `-Securing Sukhdev College in New Delhi, India`
+  - `-Securing Sukhdev College with Impulse Video Surveillance The Project Shaheed Sukhdev`
+  - `-Read More »`
+  - `-Advanced Surveillance Solutions by Impulse CCTV Safeguard Group Housing in Punjab`
+  - `-Read More »`
+  - `-Revolutionizing Security: Impulse CCTV for Lok Sabha MP’s Multi-Storied Flats, New Delhi`
+- SA-015 megnet.co.uk · home（html）：内容变化：+2 −480 行
+  - `-Megnet | Compatible & OEM Network Transceivers, DAC & AOC`
+  - `-Call us 24/7 +44 08451301585`
+  - `-Next Day Delivery Across - UK & Europe, KSA & UAE`
+  - `-Life Time Guarantee and Up to 80% Cost saving .`
+  - `-About Us`
+  - `-Contact Us`
+- SA-015 megnet.co.uk · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SA-015 megnet.co.uk · intel_news_en（rss）：新增 1 条：Fri, 11 Nov 2022 08 A simple denoising approach to exploit multi-fidelity data for machine learning materials 
+- SA-015 megnet.co.uk · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Scaling New Heights: ARI-QSFP+ 100G for Cloud Comp；IP SAN vs. FC SAN: Choosing the Right Storage Netw；The Data Centre Networking Symphony: DCI, HPC, Lon；Transforming SMB Communication: VoIP Solutions and；From Supercomputers to Cloud Clusters: CHT-ADD-SFP
+- SA-020 bitstream.pl · intel_news_en（rss）：更新 1 条：Chinese Cryptocurrency Scam Bitstream Circle hits Kenyans - （Mon, 21 Mar 2022 07 → Mon, 27 Oct 2025 10）
+- 消失 18 条（RSS 窗口滚动属正常）：Aegis: a fully open-source FPGA, from the silicon ；Computing With Random Pulses Promises to Simplify ；Tackling programmable device security - embedded.c；Linear Acoustic Analyzer for Testing and Monitorin；GDC Technology Announces Immersive Audio Bitstream
+- SA-020 bitstream.pl · intel_news_pl（rss）：新增 1 条：Fri, 17 Sep 2021 07 Magia Nagości Polska: W dzisiejszym odcinku zobaczymy reprezentanta społeczności LGBT - Qu
+- 更新 1 条：Polski Światłowód Otwarty ulepszył sieć. Operatorzy będą mie（Mon, 27 May 2024 07 → Thu, 19 Dec 2024 00）
+- 消失 1 条（RSS 窗口滚动属正常）：Polski Światłowód Otwarty dogadał się z Plusem i N
+- SA-021 optiviewusa.com · intel_news_en（rss）：新增 2 条：Thu, 10 Sep 2026 07 Dolby Expands Dolby OptiView Platform with New Capabilities at IBC 2026 - Morningstar；Tue, 14 Apr 2020 07 Elvid OV50 OptiView 50 LCD Viewfinder REVIEW - MacSources
+- 消失 3 条（RSS 窗口滚动属正常）：Dolby Expands Dolby OptiView Platform with New Cap；Medline one of just 20 winners at 23rd annual Chic；Ventana Medical Systems, Inc. Launches First Fully
+- SA-028 entasource.co.th · home（html）：内容变化：+1 −1 行
+  - `-Visitors: 128,977`
+  - `+Visitors: 129,348`
+- SA-028 entasource.co.th · sitemap（sitemap）：新增 12 条：2021-10-11T14:12:37 network；2020-06-17T14:44:46 4k-over-fiber； hd-over-fiber； fiber-adepter； fiber-connector； fiber-pigtail；2021-05-05T13:18:30 fiber-optic-odf；2021-04-06T14:06:33 fiber-optic-fttx…
+- SA-034 rfog.pl · sitemap（sitemap）：新增 820 条：2019-07-21T16:32:53 produkt,1101,mini-nadajnik-swiatlowodowy-catv-rf1t15tftth-mini；2019-07-21T16:32:53 produkt,678,odbiornik-optyczny-catv-rfg2291-z-agc-1wyjsciowy-47862mhz-ftth；2019-07-21T16:32:53 produkt,14,patchcordy-swiatlowodowe-w-oparciu-o-zlacza-scpc-scapc；2019-07-21T16:32:53 produkt,647,patchcord-swiatlowodowy-mpomtp-wielokabel；2019-07-21T16:32:53 produkt,37,patchcordy-swiatlowodowe-w-oparciu-o-zlacza-stpc；2019-07-21T16:32:53 produkt,246,pigtaile-swiatlowodowe-w-oparciu-o-zlacza-scpc-scapc；2019-07-21T16:32:53 produkt,1081,puszka-abonencka-zakonczenie-linii-swiatlowodowej-rfsock243hf；2019-07-21T16:32:53 produkt,635,przemyslowy-pieciozakresowy-router-ip-3glte--rfr5863glte…
+- SA-035 td-fe.com · sitemap（sitemap）：新增 26 条：2022-09-04T05:00:02 td-fe.ru；2022-09-04T05:00:02 naimenovanie；2022-09-04T05:00:02 uslugi；2022-09-04T05:00:03 certificates；2022-09-04T05:00:03 partenery；2022-09-04T05:00:03 contacts；2022-09-04T05:00:03 ups；2022-09-04T05:00:03 ups-120w-24v-din.html…
+- SA-036 svn-video.ru · sitemap（sitemap）：新增 360 条： svn-soul-kit-5-d6-na-6-ulichnye-wifi-kamery-5mp； svn-soul-kit-8-d6-na-6-ulichnye-wifi-kamery-8mp； svn-soul-kit-5-d7-na-7-ulichnye-wifi-kamery-5mp； svn-soul-kit-8-d7-na-7-ulichnye-wifi-kamery-8mp； svn-soul-kit-5-d8-na-8-ulichnye-wifi-kamery-5mp； svn-soul-kit-8-d8-na-8-ulichnye-wifi-kamery-8mp； akkumulyatornaya-batareya-etalon-fors-1207； etalon-fors1218…
+- SA-036 svn-video.ru · news_1（html）：内容变化：+6 −6 行
+  - `-68`
+  - `+69`
+  - `-48`
+  - `+49`
+  - `-4292`
+  - `+4319`
+- SA-036 svn-video.ru · news_2（html）：内容变化：+8 −8 行
+  - `-539`
+  - `+542`
+  - `-439`
+  - `+442`
+  - `-823`
+  - `+826`
+- SA-042 antronix.com · home（html）：内容变化：+2 −50 行
+  - `-antronix.com`
+  - `-PRODUCTS`
+  - `-TAPS AND LINE PASSIVES`
+  - `-2.0 GHz MILENIUM NXT`
+  - `-1.8 GHz FACEPLATES`
+  - `-1.2 GHz MILENIUM`
+- SA-042 antronix.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 4 条（RSS 窗口滚动属正常）：Innovative Network Design: Meeting the Challenges ；Antronix’s Latest Network Expansion Solution Comes；Antronix’s Latest Wi-Fi Powering Device to Be on S；Antronix to Unveil Backwards Compatible 1.6 GHz Mu
+- SA-043 direktronik.se · home（html）：内容变化：+545 −0 行
+  - `+671 SEK`
+  - `+exkl. moms`
+  - `+Ange konfiguration`
+  - `+Best.nr 133-0770`
+  - `+Omanagerad switch för DIN-skena, 5× 1 GbE Rj45`
+  - `+EX42000 serien från Etherwan är ett ekonomiskt och utrymmesbesparande alternativ för industriell Ethernet, när man bara behöver några få portar. Switcharna tar`
+- SA-048 ekhalas.com · home（html）：内容变化：+2 −697 行
+  - `-Best online Shopping in Saudi Arabia, Riyadh KSA`
+  - `-Archives`
+  - `-November 2026`
+  - `-October 2026`
+  - `-September 2026`
+  - `-August 2026`
+- SA-048 ekhalas.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 31 条（RSS 窗口滚动属正常）：www.ekhalas.com；about-us；shop；blog；contact-us
+- SA-048 ekhalas.com · news_1（html）：内容变化：+2 −296 行
+  - `-IT & Networking Blog Saudi Arabia | Ekhala`
+  - `-Archives`
+  - `-November 2026`
+  - `-October 2026`
+  - `-September 2026`
+  - `-August 2026`
+- SA-048 ekhalas.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Why UPS Systems Are Essential for Business IT Infr；Clearance Offer Up to 50% OFF on Linksys, Ruijie, ；eKhalas Celebrates the 96th Saudi National Day wit；Celebrate Saudi National Day with eKhalas – Exclus；Why Wi-Fi 7 is the Future of Business Connectivity
+- SA-049 iotsistem.com · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='iotsistem.com', port=443): Read timed out. (read timeout=20)
+- SA-049 iotsistem.com · sitemap（sitemap）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='iotsistem.com', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='iotsistem.com', port=443) at 0x786e8c6bbe90
+- SA-049 iotsistem.com · news_1（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='www.iotsistem.com', port=443): Max retries exceeded with url: /haberler/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iotsistem.com', port=443) at 0x786e945a3920
+- SA-049 iotsistem.com · feed_auto（rss）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='www.iotsistem.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iotsistem.com', port=443) at 0x786e9456e3f0>, '
+- SA-050 impakt.com.pl · intel_news_pl（rss）：新增 5 条：Sat, 24 Oct 2026 07 Impakt: Piąty Wymiar | Bday Secret Location - UMŁ；Sun, 15 Mar 2026 07 Jaka będzie przyszłość raportów ESG? - Rzeczpospolita；Thu, 09 May 2024 07 Muzyczny OFF: piątkowy before z DJ’ami Impaktu i sobotnia Bikiniarska Potańcówka - Life in；Fri, 22 Dec 2023 08 IIR2 - Morning again (b.art, Surmi, Fercik) - YouTube；Mon, 20 Feb 2023 08 Niezwykła akcja warsztatu M4K Garage Kielce. Możemy wyremontować słynny Marzeniobus. Zobac
+- 消失 4 条（RSS 窗口滚动属正常）：Impakt: Piąty Wymiar | Bday Secret Location - UMŁ；Muzyczny Plener na Off Piotrkowska Center - UMŁ；Muzyczny Plener na OFF Piotrkowska - UMŁ；Konkurs z kosmicznymi nagrodami na opowiadanie o M
+- SA-054 softnetworks.net · home（html）：内容变化：+1 −1 行
+  - `+Your Name Phone`
+  - `-Your Number Phone`
+- SA-055 NOVA Group Engineering Project · home（html）：内容变化：+2 −426 行
+  - `-Anasayfa - Novacom Technology`
+  - `-Ürünlerimiz`
+  - `-Güvenlik ve Ağ Ürünleri`
+  - `-Access Point`
+  - `-Araç Kamerası`
+  - `-Beam Dedektör`
+- SA-059 data-connect.com · sitemap（sitemap）：新增 820 条：2018-01-09T15:47:06 Employment.htm；2018-01-09T15:46:33 Hot_Products.htm；2018-01-09T15:44:43 Sale_Items_Page.htm；2018-01-09T15:47:15 DCE_Repair_Maint_Contract.htm；2018-01-09T15:44:42 services.htm；2018-01-09T15:44:44 Returns.htm；2018-01-09T15:45:59 NON-NEW_EQUIPMENT.htm；2018-01-09T15:44:12 Warranty.htm…
+- SA-060 gofiberx.com · intel_news_en（rss）：新增 44 条：Wed, 29 Apr 2026 07 President Chiang named TechPoint’s 2026 Trailblazer - Purdue University；Wed, 02 Sep 2026 07 SunStar Davao. . A NIGHT OF MUSIC AND DANCE Rio de Oro Boulevard in Cagayan de Oro City ca；Thu, 07 May 2026 07 Purdue Innovates, Boilermaker innovation win big at 2026 TechPoint Mira Awards - Purdue Re；Mon, 24 Aug 2026 07 SunStar Davao. . OPM singer-songwriter Rob Deniel serenaded the crowd at Rio de Oro Boulev；Fri, 10 Jul 2026 07 Beyond connectivity: Converge unleashes ‘Limitless X’ in Cebu to kick off student league s；Tue, 15 Sep 2026 07 Converge turns Kadayawan into celebration of music - SunStar Publishing Inc.；Fri, 21 Aug 2026 07 SOUNDCHECK WITH ROB OPM singer-songwriter Rob Deniel is currently doing his soundcheck at ；Fri, 21 Aug 2026 07 KAGAY-ANONS, ALI NAMO! Here are some sights and scenes from Rio de Oro Boulevard in Cagaya…
+- 更新 1 条：Converge boosts FiberX lineup with faster plans, gamer upgra（Wed, 19 Nov 2025 08 → Thu, 20 Nov 2025 08）
+- SA-064 optat.ru · intel_news_ru（rss）：新增 1 条：Fri, 01 May 2020 07 В Киеве чеченцы «отжали» бронированный «мерседес» вора в законе Леры Сумского? - Данкор он
+- SA-066 ccs-msk.ru · home（html）：内容变化：+3 −3 行
+  - `-Кабель 100G QSFP28 to 4x25G SFP28 AOC - 3м`
+  - `+5/8 портовые промышленные Gigabit Ethernet коммутаторы, Entry Line, SFP слот (MS655200X)`
+  - `-QSFP+ to QSFP+`
+  - `+Кабель 100G QSFP28 AOC - 20м`
+  - `-Кабель 100G QSFP28 AOC - 10м`
+  - `+Трансивер 100G QSFP28 SR4`
+- SA-066 ccs-msk.ru · sitemap（sitemap）：新增 170 条：2013-03-20 news；2013-02-27 forclients；2013-02-19 sitemap；2013-07-09 polezno；2013-07-02 medicine；2017-01-11 micro_medicine；2017-01-11 new_poe；2017-01-11 sumitomo…
+- SA-066 ccs-msk.ru · news_1（html）：内容变化：+3 −3 行
+  - `-Кабель 100G QSFP28 AOC - 5м`
+  - `+Разнодлинный (SFF-8087) на Sata(SFF-8448). ОПТ- $17`
+  - `-5/8 портовые промышленные Gigabit Ethernet коммутаторы, Entry Line, SFP слот (MS655200X)`
+  - `+Кабель 100G QSFP28 to 4x25G SFP28 AOC - 1м`
+  - `-Кабель 100G QSFP28 AOC - 50м`
+  - `+7ZT7A00537`
+- SA-070 Top Italia · intel_news_it（rss）：新增 4 条：Mon, 13 Apr 2026 07 ‘Intelligenza Artigiana’, Reggio al top in Italia nei settori più iconici - Reggionline；Thu, 03 Oct 2024 07 Sicurezza pensionistica: Svizzera il top, Italia perde posizioni - Morningstar；Wed, 14 Sep 2016 07 Schiavitù: Corea del Nord e India al top, Italia tra i primi 50 - La Voce di New York；Mon, 09 Apr 2018 07 Azionario Italia / Sul podio Credit Suisse, Ing/State Street, Euromobiliare - Il Sole 24 O
+- SA-072 trans audio video group · intel_news_it（rss）：新增 2 条：Tue, 06 Aug 2024 07 Vasco Rossi, concerti e film ripresi con 22 telecamere Sony - macitynet.it；Fri, 12 May 2023 07 Esclusivo behind the scenes di ARRI per la serie Amazon “Il Signore degli Anelli: Gli Anel
+- 消失 2 条（RSS 窗口滚动属正常）：DaVinci Resolve incontra Claude: AI e Cloud per la；Casertavecchia, «Un borgo di libri» con Michele Ca
+- SA-074 Elite Team Security Ltd · home（html）：内容变化：+2 −137 行
+  - `-ЕЛИТ–ТИМ-СЕКЮРИТИ ООД – лицензирана охранителна фирма, действаща на територията на цялата страна`
+  - `-Поискай оферта`
+  - `-×`
+  - `-Изпрати`
+  - `-Как помагаме`
+  - `-Как използваме AI технологията`
+- SA-074 Elite Team Security Ltd · news_1（html）：内容变化：+2 −108 行
+  - `-Новини – ЕЛИТ–ТИМ-СЕКЮРИТИ ООД`
+  - `-Поискай оферта`
+  - `-×`
+  - `-Изпрати`
+  - `-Как помагаме`
+  - `-Как използваме AI технологията`
+- SA-074 Elite Team Security Ltd · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Контрол уредите и измерване на енергията；Аудио и Видео контрол；Щори и завеси；Осветление；Сигурност
+- SB-010 americanfibertek.com · intel_news_en（rss）：新增 1 条：Fri, 01 May 2020 07 May 2020 Industry News - ASIS International
+- SB-027 VoIPDistri · home（html）：内容变化：+92 −25 行
+  - `-Fanvil W626W robustes WLAN-IP-Telefon (weiß)`
+  - `-204,85 € *`
+  - `+Teltonika ATC774 Rechargeable (EMEA/APAC)`
+  - `+150,34 € *`
+  - `-172,14 €)`
+  - `-Sofort verfügbar`
+- SB-031 OM Telecom S.R.L. · intel_news_en（rss）：新增 1 条：Tue, 19 Aug 2025 07 Om Telecom Logistics sets up new warehousing facility in Bhopal - ITLN
+- 消失 2 条（RSS 窗口滚动属正常）：Om Telecom Logistics sets up new warehousing facil；Oman Telecommunications Company SAOG Insider Tradi
+- SB-053 onnettechnologies.com · home（html）：内容变化：+2 −1 行
+  - `-Website Under construction - see u soon !! Contact +97150 5594409 / +971501842443 for any Business or Technical Requirements.`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-063 Avesta · home（html）：内容变化：+1 −1 行
+  - `-Phone`
+  - `+Message`
+- SB-063 Avesta · intel_news_en（rss）：新增 24 条：Fri, 26 Jun 2026 07 Avesta Housing expands leadership team - Mainebiz；Fri, 21 Aug 2026 07 News - Hospital Corpsman Chief Avesta El Retires After 28 Years of Dedicated Service - DVI；Fri, 13 Nov 2026 08 How ‘Build America’ Requirements Stall Affordable Housing - Bloomberg.com；Mon, 02 Nov 2026 08 SEED Expands City Life in Avesta With Its First Major Content Update - COGconnected；Fri, 21 Aug 2026 07 Hospital Corpsman Chief Avesta El Retires After 28 Years of Dedicated Service [Image 1 of ；Mon, 01 Jun 2026 07 Avesta names housing projects for design, history and character - Mainebiz；Fri, 20 Mar 2026 07 Avesta Housing names four new board members - Mainebiz；Mon, 10 Aug 2026 07 Outstanding Women in Business: Debora Keller is leading Bath Housing as a collaborator - M…
+- 消失 4 条（RSS 窗口滚动属正常）：AMGUARD: AVESTA CS 15-Gallon Drum - Pest Managemen；Avesta Housing’s Pearl Place II Achieves LEED Plat；Kurdish female fighter detonates herself to destro；Avesta Housing preparing to open residential compl
+- SB-085 DIGI Group · sitemap（sitemap）：新增 384 条： 2-channel-professional-audio-encoder-with-asi-ip-output.html； dvb-s2-dvb-t-t2-rf-to-hdmi-decoder-set-top-box.html； ip-over-2-wire-copper-extender-with-poe.html； 5v-dc-2a-power-supply-adapter-with-5-5mm-x-2-1mm-8230.html； gps-gnss-over-fiber-in-building-distribution-system-up-8230.html； iptv-to-rf-modulator-with-qam-atsc-dvb-t-and-isdb-t-8230.html； smpte-st-2110-ip-to-sdi-dvp-video-converter-8230.html； 2-hdmi-iptv-low-latency-encoder-in-udp-rtp-via-unicast-multicast.html…
+- SB-085 DIGI Group · intel_news_en（rss）：新增 1 条：Fri, 07 Sep 2012 07 The latest from Lady Gaga: a luminous fiber optic wig - Digital AV Magazine
+- SB-1026 epygi.com · home（html）：内容变化：+1 −1 行
+  - `-School Communications & Safety`
+  - `+School Safety and Communications`
+- SB-1026 epygi.com · news_1（html）：内容变化：+1 −1 行
+  - `-School Communications & Safety`
+  - `+School Safety and Communications`
+- SB-1026 epygi.com · news_2（html）：内容变化：+1 −1 行
+  - `-School Communications & Safety`
+  - `+School Safety and Communications`
+- SB-110 itkati.com · home（html）：内容变化：+42 −42 行
+  - `-bbin翻转神庙福利在线`
+  - `+MG多福多财大厅`
+  - `-MG娱乐魔幻王牌`
+  - `+PP绝境重生指南`
+  - `+MG娱乐招财喵喵试玩`
+  - `+ios`
+- SB-1102 vienthonggiatot.com · sitemap（sitemap）：新增 369 条：2020-08-10T09:07:16 siemens-cable.html；2020-08-10T09:07:16 cap-ket-noi-hmi.html；2020-08-10T09:07:16 cap-quang-single-mode-12-soi.html；2020-08-10T09:07:16 cap-quang-multimode-12-soi-12-fo-12-core.html；2020-08-10T09:07:16 hop-phoi-quang-odf-8-fo-8-core-8-soi.html；2020-08-10T09:07:16 day-nhay-quang-om3-lc-lc-multimode.html；2020-08-10T09:07:16 cap-quang-treo-4-fo-4-soi-4-core.html；2020-08-10T09:07:16 cap-quang-amp-commscope-4-fo-4-soi-4-core-multimode.html…
+- SB-1134 conexionderedes.com · sitemap（sitemap）：更新 7 条：conexionderedes.com（2026-11-26T11:15:08 → 2026-11-27T11:08:07）；tienda（2026-11-26T11:15:08 → 2026-11-27T11:08:07）；servicios（2026-11-26T11:15:08 → 2026-11-27T11:08:07）；videos（2026-11-26T11:15:08 → 2026-11-27T11:08:07）；novedades（2026-11-26T11:15:08 → 2026-11-27T11:08:07）；quienes-somos（2026-11-26T11:15:08 → 2026-11-27T11:08:07）；contacto（2026-11-26T11:15:08 → 2026-11-27T11:08:07）
+- SB-130 Bonmag International · home（html）：内容变化：+2 −79 行
+  - `-Omnisecurity • Romania`
+  - `-Acasă`
+  - `-Despre`
+  - `-Servicii`
+  - `-Evaluator Securitate Fizică`
+  - `-Supraveghere Video`
+- SB-132 F.A.S.T · home（html）：内容变化：+2 −270 行
+  - `-F.A.S.T A.Ş – Fabrika Aygıtları Sistem Teknolojisi`
+  - `-support@fasttr.com`
+  - `-+90 (216) 574 94 34`
+  - `-Anasayfa`
+  - `-Hakkımızda`
+  - `-Ürünlerimiz`
+- SB-132 F.A.S.T · news_1（html）：内容变化：+2 −263 行
+  - `-Haberler – F.A.S.T A.Ş`
+  - `-support@fasttr.com`
+  - `-+90 (216) 574 94 34`
+  - `-Anasayfa`
+  - `-Hakkımızda`
+  - `-Ürünlerimiz`
+- SB-132 F.A.S.T · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：2020 yılı FAST Bayi Toplantısı Gerçekleşti；Konya’da FAST’a Yoğun İlgi!；FAST İstanbul’da Bayileriyle Bir Araya Geldi；Ege’de ‘Değişim’e İlgi Büyüktü…；RENU Mühendislik Departmanı Yöneticileri F.A.S.T.’
+- SB-134 Kassaba Systems · sitemap（sitemap）：新增 820 条： 5MP-vanshna-ip-poe-kamera-s-mikrofon-i-cvetno-nostno-vizdane-TRX-5B40ADL-POE-2.8； ptz-kamera-ir-ptz10ahd13； 5mp-ip-dome-camera-trx-trx-rds5adl-poe-2.8； trx-rds8adl-poe-4k-8mpx-ip-poe-dual-light-kupolna-kamera-s-analitichni-funktsii-i-mikrofon； trx-robot30-8mpx-4k-8mpx-wifi-kamera； cs-3024-4k-4mpx-ir-kamera； trx2db-komplekt-s-2br-4mpx-ip-kupolni-poe-kameri-s-mikrofon-dual-light-i-tsvetno-noshtno-v； ts-bli500w-ptz-wifi-kamera-krushka-5mpx-tuya-vgraden-mikrofon…
+- SB-137 ORAL GUVENLIK · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-137 ORAL GUVENLIK · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 5 条（RSS 窗口滚动属正常）：www.oralcompanies.com；hakkimizda；hizmetlerimiz；galeri；iletisim
+- SB-143 broadstar.com · home（html）：内容变化：+1 −1 行
+  - `+Your (if Property`
+  - `-Services Your Anything`
+- SB-144 bsdnetworks.com · home（html）：内容变化：+2 −112 行
+  - `-BSD Networks – Driving Fiber Innovation`
+  - `-Driving Fiber Innovation`
+  - `-Products`
+  - `-Media Conversion`
+  - `-10/100 Converter`
+  - `-Gigabit Converter`
+- SB-144 bsdnetworks.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-160 linx-com.com · home（html）：内容变化：+1 −1 行
+  - `-Views: 3,261`
+  - `+Views: 3,262`
+- SB-160 linx-com.com · news_1（html）：内容变化：+2 −2 行
+  - `-Views: 15,255`
+  - `+Views: 15,259`
+  - `-Views: 882`
+  - `+Views: 883`
+- SB-163 skeo.ru · sitemap（sitemap）：新增 658 条： skeo.ru；2020-05-12T14:07:22 10g-v-odnom-volokne；2020-05-20T09:02:46 400-gigabit-ethernet-form-faktory-opticheskikh-modulej；2020-06-16T14:20:10 400g-ethernet-uzhe-ne-za-gorami；2020-04-30T11:19:13 attenyuator-opticheskij；2020-07-14T14:22:53 bezopasnoe-i-bezotkaznoe-podklyuchenie-ustrojstv-iot-v-masshtabe-intel-sdo；2020-06-16T14:11:48 bidi-cwdm-systemy；2020-05-12T14:05:05 cwdm-technology…
+- SB-163 skeo.ru · intel_news_ru（rss）：状态变化：HTTP 429 → HTTP 503
+- SB-167 ONSIS ELEKTRONIK · feed_auto（rss）：新增 2 条：Fri, 27 Nov 2026 00 Download Norton Utilities Repack on Windows 11 Lifetime；Thu, 26 Nov 2026 12 Get Esko Studio Portable + Crack on Windows 10/11 Latest
+- 消失 2 条（RSS 窗口滚动属正常）：Latest Version Vegas Pro Permanent License；Ghost of Yotei for PC Full-Activated — Full Game
+- SB-169 agsplus.in · home（html）：首轮基线
+- SB-185 Zeytek · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-185 Zeytek · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：zeytek.com.tr；Hakkimizda；Urunler；dikili-tip-kabinetler；duvar-tipi-kabinetler
+- SB-189 vintronsmartvision.com · home（html）：首轮基线
+- SB-189 vintronsmartvision.com · sitemap（sitemap）：首轮基线
+- SB-189 vintronsmartvision.com · news_1（html）：首轮基线
+- SB-193 Dema Vertriebs GmbH · home（html）：内容变化：+57 −2 行
+  - `-Neu`
+  - `-Wer kennt es nicht: das unbehagliche Gefühl, dass es von irgendwoher zieht und`
+  - `+Wer kennt es nicht: das unbehagliche Gefühl, dass es von irgendwoher zieht und man meint, die Heizung immer weiter aufdrehen zu müssen?`
+  - `+Gerade im Herbst und vor allem im Winter schafft ein gut abgedichtetes Fenster nicht nur Wohlbehagen, es spart Ihnen auch wertvolle Energie und damit bares Gel`
+  - `+PS: Natürlich auch bestens für Haustüren und Innentüren geeignet.`
+  - `+DEMA-Dichtungen sind extra breit bemessen und dichten nicht nur punktuell, sondern flächig ab. Es gibt sie in verschiedenen Stärken, Ausführungen, Farben und L`
+- SB-201 Elsi · home（html）：内容变化：+2 −41 行
+  - `-ELSI - Benvenuti`
+  - `-Home`
+  - `-Chi Siamo`
+  - `-Rete Vendita`
+  - `-Servizi`
+  - `-News`
+- SB-201 Elsi · news_1（html）：内容变化：+2 −36 行
+  - `-ELSI - Benvenuti`
+  - `-Home`
+  - `-Chi Siamo`
+  - `-Rete Vendita`
+  - `-Servizi`
+  - `-News`
+- SB-225 CESS Govalik · home（html）：首轮基线
+- SB-243 hfcl.com · sitemap（sitemap）：新增 539 条：2026-08-21T18:47:11 defence-solutions；2026-08-21T18:47:11 blogs；2026-08-21T18:47:11 news；2026-08-21T18:47:11 case-studies；2026-08-21T18:47:11 white-papers；2026-08-21T18:47:11 newsletters；2026-08-21T18:47:11 newsletter；2026-08-21T18:47:11 public-sector…
+- SB-246 isnetworks.pl · home（html）：内容变化：+2 −275 行
+  - `-Main Page - IS NETWORKS`
+  - `-Offer`
+  - `-Products`
+  - `-Commercial TV – CCTV`
+  - `-Camera`
+  - `-Recorders`
+- SB-246 isnetworks.pl · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-246 isnetworks.pl · news_1（html）：内容变化：+2 −312 行
+  - `-Reference - IS NETWORKS`
+  - `-Oferta`
+  - `-Produkty`
+  - `-Telewizja przemysłowa – CCTV`
+  - `-Kamery`
+  - `-Rejestratory`
+- SB-248 nellyssecurity.com · home（html）：内容变化：+1185 −1 行
+  - `-Regu`
+  - `+Regular price`
+  - `+$569.00`
+  - `+UNV 4MP Dual Lens, Dual Channel Non-Splicing IP Vandal Dome, 2 Lenses, NDAA, Deep Learning, Lighthunter (IPC3224SS-ADF28K-I1)`
+  - `+Translation missing: en.products.product.sku: SKU# 3722`
+  - `+Vendor:`
+- SB-315 stc-vietnam.com · home（html）：内容变化：+124 −3 行
+  - `-28`
+  - `+34`
+  - `-18684513`
+  - `+18710782`
+  - `-330101-01-39-10-01`
+  - `+330101-01-39-10-01-CN Bently Nevada Vietnam`
+- SB-315 stc-vietnam.com · sitemap（sitemap）：新增 820 条： stc-vietnam.com； gioi-thieu.html； danh-sach-san-pham.html； bang-gia.html； dich-vu.html； gioi-thieu.html； kho.html； thuong-hieu.html…
+- SB-331 retelem-dz.com · intel_news_en（rss）：状态变化：HTTP 429 → HTTP 503
+- SB-343 Zekko Tech Private Limited · sitemap（sitemap）：新增 104 条：2018-07-30T20:27:42 www.zekko.co.in；2018-07-30T20:27:42 index.html；2018-07-30T20:29:54 products.html；2018-07-30T20:28:54 services.html；2018-07-30T20:28:42 about-us.html；2018-07-30T20:30:22 telecom-solutions.html；2018-07-30T20:29:28 enterprise-solutions.html；2018-07-30T20:29:36 industrial-automation-networking.html…
+- SB-388 fhguvenlik.com · home（html）：内容变化：+2 −51 行
+  - `-FH Güvenlik Sistemleri ve Bilişim Skip to main content`
+  - `-Ana Sayfa`
+  - `-Hakkımızda`
+  - `-Hizmetler`
+  - `-Galeri`
+  - `-İletişim`
+- SB-388 fhguvenlik.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 4 条（RSS 窗口滚动属正常）：fhguvenlik.com；subpage；legal-notice；privacy
+- SB-392 makrosisas.com.tr · sitemap（sitemap）：新增 483 条：2026-11-27 wv-s66700-z3ln；2026-11-27 wv-s66700-z3l；2026-11-27 wv-s66700-z3；2026-11-27 wv-s66600-z3n；2026-11-27 wv-s66600-z3ln；2026-11-27 wv-s66600-z3l；2026-11-27 wv-s66600-z3；2026-11-27 wv-s66300-z4n…
+- 更新 80 条：makrosisas.com.tr（2026-11-26 → 2026-11-27）；hakkimizda.html（2026-11-26 → 2026-11-27）；contact.html（2026-11-26 → 2026-11-27）；products（2026-11-26 → 2026-11-27）；i-pro（2026-11-26 → 2026-11-27）；toa（2026-11-26 → 2026-11-27）；accessories（2026-11-26 → 2026-11-27）；network-cameras（2026-11-26 → 2026-11-27）
+- SB-447 automationsystem.in · home（html）：内容变化：+2 −106 行
+  - `-Automation Systems And Solution`
+  - `-Home`
+  - `-About`
+  - `-Brief`
+  - `-Vision & Mission`
+  - `-Careers`
+- SB-461 EMOS · youtube（youtube_handle）：新增 1 条：2026-11-20T13:58:17 EMOS Christmas Moments | Lights & Decorations
+- 消失 1 条（RSS 窗口滚动属正常）：EMOS Gosmart | Po prostu, prosty poranek
+- SB-474 casecomms.com · home（html）：内容变化：+2 −132 行
+  - `-Case Communications Case Communications Industrial Rugged Networks`
+  - `-Call us on +44 (0) 1494 880 240`
+  - `-or`
+  - `-Email admin@case.uk.com`
+  - `-Login`
+  - `-Register`
+- SB-474 casecomms.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-474 casecomms.com · news_1（html）：内容变化：+2 −110 行
+  - `-SMART Cities Case Studies - Case Communications`
+  - `-Call us on +44 (0) 1494 880 240`
+  - `-or`
+  - `-Email admin@case.uk.com`
+  - `-Login`
+  - `-Register`
+- SB-474 casecomms.com · news_2（html）：内容变化：+2 −110 行
+  - `-Oil and Gas Case Studies - Case Communications`
+  - `-Call us on +44 (0) 1494 880 240`
+  - `-or`
+  - `-Email admin@case.uk.com`
+  - `-Login`
+  - `-Register`
+- SB-474 casecomms.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：The Internet of Things is coming with 24 Billion d
+- SB-487 npotelecom.ru · home（html）：首轮基线
+- SB-542 lanopia.de · sitemap（sitemap）：新增 35 条： audio-to-fiber-converter； 12g-3g-sdi-video-sfp； usb-to-fiber-converter； 5mp-1080p-720p； telephone-ehternet-to-fiber； data-contact-closure-to-fiber； services-of-oem-odm； accessoiries…
+- SB-542 lanopia.de · intel_news_de（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-599 symanitron.ru · home（html）：内容变化：+3 −4 行
+  - `+Изменение цен на коммутаторы и серверы последовательных интерфейсов`
+  - `+19.11.2026г.`
+  - `+Уважаемые партнёры!`
+  - `-ГК Симанитрон представляет решение по сотовому резервированию связи`
+  - `-17.12.2025г.`
+  - `-Уважаемые коллеги!`
+- SB-599 symanitron.ru · news_1（html）：内容变化：+5 −4 行
+  - `+19.11.2026г.`
+  - `+Изменение цен на коммутаторы и серверы последовательных интерфейсов`
+  - `+Уважаемые партнёры!`
+  - `+Группа компаний «Симанитрон» информирует: с 15 января 2027 года цены на все коммутаторы и серверы последовательных интерфейсов увеличатся на 5% в связи с росто`
+  - `+Повышение…`
+  - `-29.10.2025г.`
+- SB-630 CORE IT SOLUTIONS · sitemap（sitemap）：新增 900 条：2026-11-27 m023k03s-m5268564；2026-11-27 mks0ps30-m8459465；2026-11-27 mx0mmck0-m7500185；2026-11-27 m33s0cpk-m6645198；2026-11-27 m3xx02kk-m6775288；2026-11-27 mx02250c-m7522351；2026-11-27 m0cpxkmk-m5197808；2026-11-27 m03s52sx-m5643247…
+- 消失 80 条（RSS 窗口滚动属正常）：mxkk05xk-m7885378；m3c2ps25-m6129423；mk0pkmk2-m8598082；mxk3k2pm-m7868290；mk35p3m5-m8639603
+- SB-696 aironix.co.il · home（html）：内容变化：+11 −10 行
+  - `-RSB-3710`
+  - `-Proce or: Rockchip RK3399 ARM Dual-Core Cortex-A72 and Quad-Core Cortex-A53, up to 18GHz`
+  - `+SOM-3569`
+  - `+Proce or: Intel® Pentium® N4200, Celeron® N3350, and Atom™ E3900- erie option`
+  - `+CPU`
+  - `-RSB-3720`
+- SB-787 tccomm.com · sitemap（sitemap）：新增 400 条： BECOL； Serial-Over-T1-E1-Multiplexer； TDM-over-IP-Jumboswitch； Fiber； Network-Convergence； T1E1-Data-Voice-Ethernet-Fiber-Multiplexer； TC3020； Ethernet-Network-White-Papers…
+- SB-826 versitron.com · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-924 Intracom Middle East FZ-LLC · sitemap（sitemap）：新增 820 条：2026-06-30T15:26:00 turnkey_services；2026-06-30T15:26:00 wireless-network-systems；2026-06-30T15:26:00 wireless-transport；2026-06-10T14:05:27 rnd_production_labs；2026-06-01T00:00:00 neptuno；2026-05-28T12:00:00 climateactions；2026-05-28T12:00:00 professional_services；2026-05-26T15:00:54 enterprises…
+- SB-982 mcss.co.kr · home（html）：内容变化：+4 −4 行
+  - `-1343`
+  - `+1345`
+  - `-2029`
+  - `+2030`
+  - `-1524`
+  - `+1527`
+- SB-982 mcss.co.kr · sitemap（sitemap）：新增 491 条： index； 18； intro； notice； 22； system； 46； ito…
+- SC-002 Intelligent · home（html）：内容变化：+2 −74 行
+  - `-Intelligent Technology – HongKong`
+  - `-About`
+  - `-Services`
+  - `-Manufacturing`
+  - `-Certifications`
+  - `-Distribution`
+- SC-097 Three Lines Company · sitemap（sitemap）：新增 28 条：2026-11-17T11:33:40 location；2026-11-17T11:33:40 location；2026-11-17T11:33:40 location；2026-11-17T11:33:40 location；2026-11-17T11:33:40 contact；2026-11-17T11:33:40 contact；2026-11-17T11:33:40 contact；2026-11-17T11:33:40 contact…
+- SC-1056 cloudinfotech.co.in · home（html）：内容变化：+2 −340 行
+  - `-India's Most Trusted VoIP & Networking Provider`
+  - `-+91 9999-284-312`
+  - `-info@cloudinfotech.co.in`
+  - `-Home`
+  - `-Products`
+  - `-GATEWAY & ATAS`
+- SC-1623 shopfiber.co.za · home（html）：内容变化：+74 −76 行
+  - `+Select options`
+  - `+This product has multiple variants. The options may be chosen on the product page`
+  - `+Quick View`
+  - `+Fiber Adapters , Midcoupler Adapters`
+  - `+Fiber Midcoupler Adapter – LC to LC APC Duplex`
+  - `+R 6.47 – R 6.65 Price range: R6.47 through R6.65 inc VAT`
+- SC-1904 optimal.com.ph · home（html）：内容变化：+2 −68 行
+  - `-Optimal Systems Distribution, Inc. – Optimal Systems Distribution, Inc.`
+  - `-Skip to content`
+  - `-Home`
+  - `-Who We Are`
+  - `-Solutions Menu Toggle`
+  - `-Record Management Systems`
+- SC-2513 microtech.net.pk · home（html）：内容变化：+341 −1 行
+  - `-👉 Contact Microtech Inc. today and explore products from 13+ global brands —all backed by local warranty, technical sup`
+  - `+👉 Contact Microtech Inc. today and explore products from 13+ global brands —all backed by local warranty, technical support, and competitive pricing.`
+  - `+Our Products`
+  - `+Explore our latest products offering quality, reliability, and modern solutions every business needs.`
+  - `+Latest Products`
+  - `+Featured Products`
+- SC-371 Visiotech · home（html）：内容变化：+4 −1 行
+  - `-Push buttons`
+  - `+Readers`
+  - `+Push buttons`
+  - `+Relay`
+  - `+Power supply`
+- SC-371 Visiotech · sitemap（sitemap）：新增 687 条： hiwatch-hikvision-40； cámaras-domo-85； cámaras-compactas； anviz； hiwatch-hikvision-92； almacenamiento； cámaras-hdcvi； cámaras-compactas-54…
+- SC-371 Visiotech · news_1（html）：内容变化：+3 −0 行
+  - `+Readers`
+  - `+Relay`
+  - `+Power supply`
+- SC-371 Visiotech · news_2（html）：内容变化：+4 −1 行
+  - `-Pulsadores`
+  - `+Lectores`
+  - `+Pulsadores`
+  - `+Relés`
+  - `+Alimentación`
+
+### B 级
+- SA-017 parallaxdigital.co.uk · home（html）：内容变化：+8 −8 行
+  - `-£ 129.95 £ 155.94 inc VAT (UK Only)`
+  - `+£ 129.95 £ 129.95 inc VAT (UK Only)`
+  - `-£ 164.95 £ 197.94 inc VAT (UK Only)`
+  - `+£ 164.95 £ 164.95 inc VAT (UK Only)`
+  - `-£ 149.95 £ 179.94 inc VAT (UK Only)`
+  - `+£ 149.95 £ 149.95 inc VAT (UK Only)`
+- SA-037 aeconnect.co.in · home（html）：内容变化：+1 −1 行
+  - `-Newsletter`
+  - `+Contact`
+- SA-037 aeconnect.co.in · news_1（html）：内容变化：+231 −1 行
+  - `-Welcome to the wild world of networking, where technolo`
+  - `+Welcome to the wild world of networking, where technology meets agility and connectivity prowls with unrivalled speed. Today, we will delve into the realm of C`
+  - `+Read More »`
+  - `+January 9, 2026`
+  - `+The Power Of A Patch Panel For Scalability And Reliability`
+  - `+In today’s fast-paced, data-driven world Patch Panel is a robust and dependable network infrastructure plays a pivotal role in the success of businesses and or`
+- SA-040 success-network.co.th · home（html）：状态变化：OK → HTTP 403
+- SA-040 success-network.co.th · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SA-040 success-network.co.th · news_1（html）：状态变化：OK → HTTP 403
+- SA-040 success-network.co.th · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Smart Security Software by AI；บทบาทของกล้องวงจรปิดสาธารณะ ความเป็นส่วนตัว และการ；รวมประเภทของกล้องวงจรปิด ระบบรักษาความปลอดภัยแบบ R；กล้องอ่านป้ายทะเบียนรถยนต์ (LPR) คืออะไร? ทำไมต้อง；ข้อดี-ข้อเสียของกล้อง Analog กับ IP และความแตกต่าง
+- SA-056 B&S electronics · sitemap（sitemap）：新增 820 条：2020-03-07T09:04:12 tcctv-1205-4c；2020-03-13T09:18:59 tcctv-1210-9c；2020-03-13T09:19:23 tcctv-1216-16c；2021-06-11T14:19:41 psdcep08128；2023-05-12T08:15:52 tps-12030；2024-01-17T16:10:32 tpspoe48050_4；2024-01-17T16:11:52 tpspoe48050_8；2026-11-26T13:12:36 tpspoe48050_16…
+- SA-057 Born SPb LLC · home（html）：内容变化：+23 −23 行
+  - `-Контроллер панели BOSCH ICP-MAP5000-2`
+  - `-164 392 ₽`
+  - `-В корзину`
+  - `-Жесткий диск HDD ST6000DM003 Seagate Barracuda 6 ТБ SATA III`
+  - `-18 748 ₽`
+  - `-В корзину`
+- SA-081 4power.it · home（html）：内容变化：+30 −30 行
+  - `+UPS Micro Pro LCD`
+  - `+Eurogroup Micro Pro LCD 1000: UPS 1000 VA / 600 W | MLPMM100010T`
+  - `+Esegui l'accesso per visualizzare i prezzi`
+  - `++`
+  - `+L3`
+  - `+Planet SGS-6310-24P4X: Switch Managed L3 Stackable con 24 Porte 10/100/1000T PoE+ e 4 Porte 10G SFP+`
+- SA-084 Eds protection technology · home（html）：内容变化：+2 −206 行
+  - `-Güvenlik Elektronik Sistemleri Üreticisi Teknik Destek`
+  - `-Eğitim / Seminer`
+  - `-Blog`
+  - `-TR EN`
+  - `-Bayi Portal`
+  - `-Ürünler Yangın Algılama Adreslenebilir Sistemler Konvansiyonel Sistemler Güç Kaynakları Aksesuarlar Hırsız Alarm Kablosuz Sistemler Kablolu Sistemler Gaz Algıl`
+- SA-084 Eds protection technology · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.eds.com.tr；kurumsal；eds-elektronik；tarihce；ar-ge-merkezi
+- SA-084 Eds protection technology · news_1（html）：内容变化：+2 −228 行
+  - `-Blog Teknik Destek`
+  - `-Eğitim / Seminer`
+  - `-Blog`
+  - `-TR EN`
+  - `-Bayi Portal`
+  - `-Ürünler Yangın Algılama Adreslenebilir Sistemler Konvansiyonel Sistemler Güç Kaynakları Aksesuarlar Hırsız Alarm Kablosuz Sistemler Kablolu Sistemler Gaz Algıl`
+- SA-087 norelcosafecam.com · home（html）：内容变化：+26 −26 行
+  - `-Bulk Cable (112)`
+  - `+Bulk Cable (111)`
+  - `+5MP TVI Cameras`
+  - `+OEM Hik TVI Cameras`
+  - `+Nsi-Pt5-4X`
+  - `+Login to see the price`
+- SA-088 ute.de · sitemap（sitemap）：新增 820 条： 16-port-dvi-video-splitter-vopex-dvis-16-von-nti.html； 16-port-kvm-over-ip-switch-kn9116-von-altusen.html； 16x16-vga-matrix-vm-1616t-von-aten.html； 17-lcd-kvm-konsole-slideaway-kl1100-von-aten-altusen.html； 19-lcd-kvm-konsole-kl1100-von-atenaltusen.html； 19-wall-pro-12-he-450mm-von-tecnoware.html； 19-wall-pro-15-he-450mm-von-tecnoware.html； 19-wall-pro-15-he-600mm-von-tecnoware.html…
+- SA-089 lancomat.cz · home（html）：内容变化：+163 −165 行
+  - `-Kód: GFOM4CDT08STALU-B2ca`
+  - `-Optický kabel, CDT STA, 8x50um OM4, univerzální, HFFR-LS B2ca, černý`
+  - `-81,0 Kč 98,0 Kč s DPH / 1 m`
+  - `-Skladem`
+  - `-Novinka`
+  - `-Kód: PONE30STPBL`
+- SB-004 fhn-na.com · home（html）：内容变化：+2 −43 行
+  - `-Home`
+  - `-About`
+  - `-Solutions`
+  - `-News`
+  - `-Contact`
+  - `-Home`
+- SB-004 fhn-na.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-004 fhn-na.com · news_1（html）：内容变化：+2 −29 行
+  - `-News`
+  - `-Home`
+  - `-About`
+  - `-Solutions`
+  - `-News`
+  - `-Contact`
+- SB-004 fhn-na.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Post 6 Headline；Post 5 Headline；Post 4 Headline；Post 3 Headline；Post 2 Headline
+- SB-011 greentechme.net · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- 新增 68 条：Sat, 31 Jan 2026 08 Draymond Green calls out ref after tech: ‘Don’t put your hand in my face’ - The New York T；Wed, 04 Feb 2026 08 Draymond recalls getting tech on purpose because he didn't feel like playing - NBC Sports ；Thu, 26 Nov 2026 12 Vietnamese university joins hands with Japanese agency to transfer 12 green agriculture, a；Thu, 27 Aug 2026 07 Sandra Sue Lindsey Appling, Bowling Green - WCLU Radio；Tue, 10 Nov 2026 08 Stephen A. Smith Fires 'That Would Be You’ Shot At Draymond Green Over 182 Career Technica；Sun, 01 Feb 2026 08 Draymond Green calls out NBA ref over technical foul: ‘Don’t put your hand in my face’ - A；Thu, 21 May 2026 07 SKYCTC names Corey Weaver as 2026 Distinguished Alumni Award recipient - WNKY；Wed, 29 Apr 2026 07 LeBron James Reflects on Draymond Green's Infamous Flagrant Foul in Historic 2016 NBA Fina…
+- SB-013 synchcom.com.pk · home（html）：首轮基线
+- SB-017 Securitytec · home（html）：内容变化：+2 −143 行
+  - `-Professional Security Products | Security Tec Ltd`
+  - `-The store will not work correctly in the case when cookies are disabled.`
+  - `-020 8660 5888`
+  - `-office@securitytec.co.uk`
+  - `-Skip to Content`
+  - `-Toggle Nav`
+- SB-017 Securitytec · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：4ch-hikvision-dvr-acusense-2mp-1080p-recording-1.h；4ch-hikvision-dvr-acusense-2mp-1080p-recording-2.h；4ch-hikvision-dvr-acusense-2mp-1080p-recording-4.h；4ch-hikvision-dvr-acusense-2mp-1080p-recording-5.h；4ch-hikvision-dvr-acusense-2mp-1080p-recording.htm
+- SB-019 aetektec.com · home（html）：内容变化：+1 −1 行
+  - `-2026/11/26`
+  - `+2026/11/27`
+- SB-019 aetektec.com · news_1（html）：内容变化：+1 −1 行
+  - `-2026/11/26`
+  - `+2026/11/27`
+- SB-021 LOOP TELECOM · sitemap（sitemap）：新增 266 条：2021-12-03T06:57:59 Mission_Critical_Communications；2021-12-03T06:57:59 product；2021-12-03T06:57:59 PDH-TDM-Multi-service-multiplexer--Cross-Connect-DACS；2021-12-03T06:57:59 SDH-SONET-MSTP-Multiplexer；2021-12-03T06:57:59 TDM-over-IP-Ethernet-Pseudowire-tdmoe；2021-12-03T06:57:59 PTN-MPLS-TP-Carrier-Ethernet-LSP；2021-12-03T06:57:59 Fiber-DSL-Line-Extension；2021-12-03T06:57:59 Network-Management…
+- SB-021 LOOP TELECOM · intel_news_en（rss）：新增 1 条：Fri, 15 Jun 2018 14 AzureWave Technologies, Inc. (3694.TW) company profile and facts - Yahoo Finance UK
+- 消失 1 条（RSS 窗口滚动属正常）：AboCom Systems, Inc. (2444.TW) stock price, news, 
+- SB-023 itk.co.th · sitemap（sitemap）：新增 820 条： 400g-aec-cable.html； tconnect-400gbps-transceiver.html； tconnect-40gbps-transceiver.html； tconnect-50-gbps-sfp56-bidi-transceiver.html； tconnect-50gbps-transceiver.html； 500-seires-managed-switch-layer-2-layer-3-stackable.html； tconnect-800gbps-transceiver.html； ablerex-evo-series.html…
+- SB-026 Safe-tech CCTV systems Sweden  · home（html）：内容变化：+2 −18 行
+  - `-SV`
+  - `-EN`
+  - `-Välkommen till`
+  - `-Safe-tech CCTV System SWEDEN AB`
+  - `-Innovativa säkerhetslösningar för professionella installationer`
+  - `-Kameror`
+- SB-032 PIOLINK · sitemap（sitemap）：新增 25 条：2023-02-02T09:14:30 Web-Application-Firewall.php；2023-02-02T09:14:30 Comprehensive-Web-Security.php；2023-02-02T09:14:30 High-Availability-Mode.php；2023-02-02T09:14:30 Cloud-Managed-Networking.php；2023-02-02T09:14:30 Cloud-Security-Switch.php；2023-02-02T09:14:30 TiFRONT-AP.php；2023-02-02T09:14:30 Security-Switch.php；2023-02-02T09:14:30 Backbone-Switch.php…
+- SB-035 Thimphu Techpark · intel_news_en（rss）：新增 1 条：Tue, 03 Sep 2019 07 iMerit Announces its Global Delivery Center in Bhutan - PR Newswire
+- 消失 1 条（RSS 窗口滚动属正常）：What are the entrepreneurship programmes and initi
+- SB-037 pulsar.kz · home（html）：内容变化：+2 −781 行
+  - `-Оборудование для систем безопасности и видеонаблюдения`
+  - `-Главная`
+  - `-Кабинет`
+  - `-Избранные`
+  - `-Сравнение`
+  - `-Главная`
+- SB-037 pulsar.kz · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：pulsar.kz；introskopy；catalog；faq；pulty-upravleniya
+- SB-037 pulsar.kz · news_1（html）：内容变化：+2 −783 行
+  - `-Новости | Pulsar Systems`
+  - `-Главная`
+  - `-Кабинет`
+  - `-Избранные`
+  - `-Сравнение`
+  - `-Главная`
+- SB-039 zelax.ru · sitemap（sitemap）：新增 548 条：2024-03-12T17:54:45 kompaniya-zelax-optimiziruet-linejku-kommutatorov-zes-32xx；2021-10-27T16:35:26 order-delivery；2018-11-02T15:02:17 routers-switches；2014-06-06T13:56:28 zelax-created-a-specialized-solution-for-the-organization-of-channels-ethernet-over-copper；2022-06-06T20:08:50 telecom；2014-06-06T14:57:36 ten-years-of-russian-modem；2017-11-12T14:39:11 mim-vlt32；2017-11-28T13:34:30 m-asp-pg-2-in-two-band-one-wire-systems…
+- SB-041 Telcam Fire&securoty Ltd · sitemap（sitemap）：新增 3 条： specialised-cctv-solutions； terms； vehicle-security
+- SB-042 regalsecurity.co.za · home（html）：内容变化：+93 −3 行
+  - `-Network Power`
+  - `+PoE`
+  - `+Inverter`
+  - `+Junction Boxes`
+  - `+Powa-Prod`
+  - `+Wisnetworks`
+- SB-045 advancedigital.co.in · home（html）：内容变化：+2 −7 行
+  - `-Welcome to`
+  - `-advancedigital.co.in`
+  - `-advancedigital.co.inis under construction. Web Server Powered`
+  - `-by Raj`
+  - `-Electronics`
+  - `-Web Design`
+- SB-045 advancedigital.co.in · intel_news_en（rss）：新增 36 条：Fri, 27 Nov 2026 07 ASEAN+3 deputies advance digital asset policy dialogue - grafa.com；Thu, 26 Nov 2026 09 China, Japan, South Korea and ASEAN agree to advance digital payments and coordinate crypt；Fri, 27 Nov 2026 06 Zambian youngsters graduate to advance digital transformation - CAJ News Africa；Fri, 27 Nov 2026 10 Nigeria Launches FreeTV Platform to Advance Digital Broadcasting - Voice of Nigeria；Fri, 06 Nov 2026 08 Mark43 Brings UK Policing Leaders Together to Advance Digital Reform - EMS1；Fri, 20 Nov 2026 15 Bah: Sierra Leone signs four deals to advance digital infrastructure - CNBC Africa；Fri, 20 Nov 2026 06 AVEVA, PETROJET Sign MoU to Advance Digital Transformation in EPC Projects - Dailynewsegyp；Mon, 09 Nov 2026 22 Rhinebeck Bank Appoints Jeff Nowicki as Chief Digital Banking Officer to Advance Digital B…
+- 消失 16 条（RSS 窗口滚动属正常）：Burton Blatt Institute Helping to Advance Digital ；How SSI is helping Wirtgen advance digital milling；Sectigo Appoints Prem Hareesh as Corporate CTO to ；OEKO-TEX® chooses TextileGenesis to advance digita；Public Knowledge Welcomes Bill To Advance Digital 
+- SB-050 PT. ANUGERAH · home（html）：内容变化：+2 −32 行
+  - `-PT. Anugerah Artha Guna – Konsultan IT – Aplikasi – Jaringan`
+  - `-Skip to content`
+  - `-PT. Anugerah Artha Guna`
+  - `-Konsultan IT – Aplikasi – Jaringan`
+  - `-Menu`
+  - `-About`
+- SB-061 megatelindustries.com · sitemap（sitemap）：新增 166 条：2026-10-27T12:07:18 gico.html；2026-10-27T12:07:18 dst1fico.html；2026-10-27T12:07:18 css-floatingcart.css；2026-10-27T12:07:18 exgi2poeex.html；2026-10-27T12:07:18 contact.html；2026-10-27T12:07:18 ingietpoein.html；2026-10-27T12:07:18 e1-converte1.html；2026-10-27T12:07:18 ingi60wpoein.html…
+- SB-062 Aarya ITES Pvt. Ltd. · home（html）：恢复可达（上轮 HTTP 500）
+- SB-062 Aarya ITES Pvt. Ltd. · sitemap（sitemap）：状态变化：HTTP 500 → HTTP 403
+- SB-062 Aarya ITES Pvt. Ltd. · intel_news_en（rss）：新增 1 条：Tue, 15 Jul 2025 07 2 NH 66 workers killed as truck crashes into their parked pickup in Kasaragod - Onmanorama
+- SB-062 Aarya ITES Pvt. Ltd. · feed_auto（rss）：状态变化：HTTP 500 → HTTP 403
+- SB-064 amitytechnologies.co.in · home（html）：内容变化：+2 −146 行
+  - `-Amity - Rugged Systems, Displays, Consoles, Manufacturer India`
+  - `-Call us: +91 9866938833`
+  - `-Email: [email protected]`
+  - `-Have any requirement?`
+  - `-Request Free Quote`
+  - `-Home`
+- SB-064 amitytechnologies.co.in · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 17 条（RSS 窗口滚动属正常）：amitytechnologies.co.in；contact；about-us；why-amity；products
+- SB-064 amitytechnologies.co.in · news_1（html）：内容变化：+2 −250 行
+  - `-Products - Rugged Systems, Displays, Consoles for ARMY, NAVAL`
+  - `-Call us: +91 9866938833`
+  - `-Email: [email protected]`
+  - `-Have any requirement?`
+  - `-Request Free Quote`
+  - `-Home`
+- SB-064 amitytechnologies.co.in · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Rugged Display Manufacturers in India – Amity Tech；Defence Electronics Company India – Amity Technolo；Leading Rugged Systems Manufacturing Company for M；Defence Electronics and National Cybersecurity: Ho；How IoT is Reshaping Military Logistics and Survei
+- SB-065 ayk.com.pk · home（html）：内容变化：+2 −205 行
+  - `-Ayk (Pvt.)Ltd.`
+  - `-Mobile`
+  - `-+92-321-6456446`
+  - `-Phone`
+  - `-+92-55-3255800`
+  - `-Fax`
+- SB-065 ayk.com.pk · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-065 ayk.com.pk · news_1（html）：内容变化：+2 −87 行
+  - `-News – Ayk (Pvt.)Ltd.`
+  - `-Mobile`
+  - `-+92-321-6456446`
+  - `-Phone`
+  - `-+92-55-3255800`
+  - `-Fax`
+- SB-065 ayk.com.pk · news_2（html）：内容变化：+2 −126 行
+  - `-Projects – Ayk (Pvt.)Ltd.`
+  - `-Mobile`
+  - `-+92-321-6456446`
+  - `-Phone`
+  - `-+92-55-3255800`
+  - `-Fax`
+- SB-065 ayk.com.pk · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 3 条（RSS 窗口滚动属正常）：Karachi – Technical Training on Power Transformers；Expo – Participated in the Renowned Expo at Lahore；Islamabad – Technical Training on Power Transforme
+- SB-067 crec.com.ph · sitemap（sitemap）：新增 148 条：2025-08-06 citicore-solar-capacity-accelerates-to-13gw-early-next-year；2025-08-06 crec-levanta-to-form-joint-venture-for-wind-projects；2025-08-06 crec-smc-want-to-energize-bataan-solar-plant-by-2025；2025-08-06 her-word-is-power-change-the-way-you-look-at-her-success-and-mission；2025-08-06 uk-raises-stake-in-ph-devt；2025-08-06 uks-mobilist-invests-in-renewable-energy-ipo-in-the-philippines；2025-08-06 press-releases；2025-08-06 13-crec-projects-conferred-national-significance-certification…
+- SB-069 mutexsystemsltd.com · sitemap（sitemap）：新增 16 条：2026-11-13T18:17:58 virtual-ciso；2026-11-13T18:17:58 cloud-security-assessment；2026-11-13T18:17:58 microsoft-365-security；2026-11-13T18:17:58 security-awareness-training；2026-11-13T18:17:58 vendor-risk-management；2026-11-13T18:17:58 secure-code-review；2026-11-13T18:17:58 ot-ics-security；2026-11-13T18:17:58 uk-europe-cyber-threat-report…
+- SB-070 neowine · sitemap（sitemap）：新增 1 条：2021-04-07 counsel.php
+- SB-070 neowine · news_1（html）：内容变化：+15 −15 行
+  - `-228`
+  - `+235`
+  - `-224`
+  - `+229`
+  - `-368`
+  - `+373`
+- SB-070 neowine · news_2（html）：内容变化：+15 −15 行
+  - `-746`
+  - `+749`
+  - `-1273`
+  - `+1276`
+  - `-1471`
+  - `+1473`
+- SB-083 MERIT LILIN ENT. CO., LTD. · sitemap（sitemap）：新增 820 条： tw； support； worldwide； solution； case-studies； blog； ndaa； where-to-buy-europe…
+- SB-086 TAILYN · intel_news_en（rss）：新增 2 条：Thu, 26 Nov 2026 05 Tailyn Technologies, Inc. (5353) Stock News Today - TipRanks；Thu, 30 Sep 2021 15 7402 Stock Price and Chart — TPEX:7402 - TradingView
+- 消失 2 条（RSS 窗口滚动属正常）：Altasec Technology Corporation (7919.TWO) Analyst ；Connection Technology Systems Inc. (3672.TWO) stoc
+- SB-087 ASSMANN ASIA · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- SB-088 EDIMAX · home（html）：内容变化：+2 −476 行
+  - `-EDIMAX - Netwoking Solution Provider including SMB Wi-Fi Access Point, AP Controller, SMB and Industrial PoE++ L2+ Switch, Industrial Embedded Wirless (Wi-Fi,`
+  - `-Global`
+  - `-Edimax Global website`
+  - `-Global︱English`
+  - `-America`
+  - `-USA︱English`
+- SB-092 spacetronik.pl · home（html）：内容变化：+65 −4 行
+  - `-Prices in zł (1 € = 4.3906zł)`
+  - `+Prices in zł (1 € = 4.378zł)`
+  - `-Kč (1 € = 24.4465Kč)`
+  - `-$ (1 € = 1.1085$)`
+  - `+Kč (1 € = 24.4308Kč)`
+  - `+$ (1 € = 1.1075$)`
+- SB-092 spacetronik.pl · intel_news_pl（rss）：恢复可达（上轮 HTTP 503）
+- SB-095 mtechnology.it · sitemap（sitemap）：新增 131 条： speciali-e-per-applicazioni-industriali-ip-camera-light-hunt-megapixel-mtechnology-hd-1080； speciali-e-per-applicazioni-industriali-ip-camera-megapixel-mtechnology-hd-1080p30-day-nig； dome-ip-dome-4-megapixel-ai.1.83.505.gp.15032.uw； dome-ip-dome-4-megapixel-ottica-fissa-ai.1.83.289.gp.18646.uw； dome-ip-dome-ai-megapixel-true-day-night-zoom-autofocus-ir-array.1.83.505.gp.13564.uw； dome-e-turret-ip-dome-ai-8-megapixel-true-day-night-zoom-autofocus-ir-array.1.83.505.gp.18； panoramiche-ip-dome-fisheye-12-megapixel-ir-led.1.83.513.gp.20526.uw； panoramiche-ip-dome-fisheye-5-megapixel-vandal-proof-da-interno.1.83.289.gp.8713.uw…
+- SB-100 telkolink.com · home（html）：内容变化：+2 −52 行
+  - `-Telkolink Kurumsal Bilgi Teknolojileri`
+  - `-Bilgi Teknolojileri Uzmanı`
+  - `-Hakkımızda`
+  - `-|`
+  - `-İletişim`
+  - `-|`
+- SB-100 telkolink.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：telkolink.com；CLR-SWG-2421P.pdf；CLR-SWG-820P.pdf；IP65_Telefon_Kutusu.pdf；HDMI-4K-kiyaslama.pdf
+- SB-100 telkolink.com · news_1（html）：内容变化：+2 −23 行
+  - `-Telkolink | Teknik Bülten & Duyuru`
+  - `-Bilgi Teknolojileri Uzmanı`
+  - `-Teknik Bültenler & Duyurular`
+  - `-Model1100S/20 | Çalışma Mesafesi Tespiti`
+  - `-NP311 | EOL Duyurusu`
+  - `-Model 3012/10 | Çalışma Mesafesi Tespiti`
+- SB-1000 alphaelettronica.com · home（html）：内容变化：+257 −1 行
+  - `-Famiglia VOL.`
+  - `+Famiglia VOL.011`
+  - `+Famiglia VOL.012`
+  - `+Famiglia VOL.013`
+  - `+Famiglia VOL.014`
+  - `+Famiglia VOL.015`
+- SB-1000 alphaelettronica.com · sitemap（sitemap）：新增 820 条：2026-11-27 spine.html；2026-11-27 prese.html；2026-11-27 spine-vaschetta-d-sub.html；2026-11-27 prese-vaschetta-d-sub.html；2026-11-27 calotte.html；2026-11-27 spine-di-alimentazione-ac.html；2026-11-27 adattatori-vga.html；2026-11-27 adattatori-seriali.html…
+- 更新 80 条：elettrico.html（2026-11-25 → 2026-11-27）；illuminazione.html（2026-11-25 → 2026-11-27）；cavo-in-matassa.html（2026-11-25 → 2026-11-27）；componenti.html（2026-11-25 → 2026-11-27）；cavi-di-raccordo.html（2026-11-25 → 2026-11-27）；connettori.html（2026-11-25 → 2026-11-27）；adattatori.html（2026-11-25 → 2026-11-27）；cavi-per-solare.html（2026-11-25 → 2026-11-27）
+- SB-1001 altelix.com · home（html）：内容变化：+0 −1 行
+  - `-Please Note: The Altelix offices will be closed Thursday, November 26th for the Thanksgiving Day Holiday. Any orders placed will be processed the following bus`
+- SB-1002 amplicon.com · sitemap（sitemap）：新增 820 条：2026-07-02 process-control-system-improves-production-line-visibility-reduces-product-waste；2026-06-04 ots-program；2026-05-13 process-control-old；2026-07-02 solutions；2026-07-02 centralised-access-control-system-building-security；2026-03-19 process-control-system-chemical-liquid-tank；2026-03-19 cnc-machinery-health-monitoring-system；2026-02-23 impact-r-12th-gen…
+- 更新 1 条：keysight-nc1-class-ac6800b（2026-11-24 → 2026-11-26）
+- SB-1004 arpeo.pl · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- SB-1004 arpeo.pl · intel_news_pl（rss）：恢复可达（上轮 HTTP 503）
+- SB-1005 asit.it · home（html）：内容变化：+2 −528 行
+  - `-Asit Online Store – Innovation Delivered`
+  - `-Skip to content`
+  - `-Asit Online Store`
+  - `-Innovation Delivered`
+  - `-Registrati`
+  - `-Accedi`
+- SB-1005 asit.it · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-1005 asit.it · news_1（html）：内容变化：+2 −486 行
+  - `-Blog – Asit Online Store Skip to content Asit Online Store`
+  - `-Innovation Delivered`
+  - `-Registrati`
+  - `-Accedi`
+  - `-Carrello`
+  - `-Password dimenticata?`
+- SB-1005 asit.it · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Riello UPS | Gamma Sentinel Pro2；Huawei eKitEngine AP673: Wi-Fi 7 Enterprise；MVC 4th Gen: l’AI Rivoluziona le Sala Riunioni；Architetture MTR Yealink；IP-DECT Ascom: guida ai terminali
+- SB-1008 avstek.fi · home（html）：恢复可达（上轮 HTTP 500）
+- SB-1009 batna24.com · home（html）：内容变化：+55 −27 行
+  - `--3%`
+  - `-favorite`
+  - `-favorite_border`
+  - `-RTV cables Extralink HDMI Cable HDMI 2.1 8K 4K, HDR, 2m, premium, angled (left-angled)`
+  - `-67.89 zł gross 69.99 zł gross`
+  - `-Najniższa cena z 30 dni przed obniżką: 69.99 zł gross`
+- SB-101 AVICAM Ltd. · home（html）：恢复可达（上轮 HTTP 500）
+- SB-101 AVICAM Ltd. · sitemap（sitemap）：状态变化：HTTP 500 → HTTP 403
+- SB-101 AVICAM Ltd. · news_1（html）：内容变化：+2 −174 行
+  - `-Блог - АВИКАМ`
+  - `-+359 2 8327084`
+  - `-sales@avicam-bg.com`
+  - `-Facebook`
+  - `-Безплатна доставка над 150€`
+  - `- Моят акаунт`
+- SB-101 AVICAM Ltd. · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Системи с лицево разпознаване RaySharp；Камери с вграден софтуер за разпознаване на автомо；Сравнение между изображения с резолюции 2MP, 5MP и；Система за контрол на достъпа с измерване на телес；Важно: Физическият магазин на Авикам ООД ограничав
+- SB-1010 bayiden.com.tr · home（html）：内容变化：+1062 −0 行
+  - `+Uydu Sistemleri`
+  - `+Santral & Lnb & Çanak`
+  - `+Uydu Ekipmanları`
+  - `+Hemen İncele`
+  - `+Güvenlik Sistemleri`
+  - `+Wifi & Ahd & Ip`
+- SB-1010 bayiden.com.tr · sitemap（sitemap）：新增 820 条：2026-11-27 lg-49lb650v-zn-49-10-adet-tv-led-bar；2026-11-27 next-ye-4036-40-3-adet-tv-led-bar；2026-11-27 samsung-lh75dmdplgc-ci-75-27-adet-tv-led-bar；2026-11-27 samsung-ue55es8080-55-2-adet-tv-led-bar；2026-11-27 panasonic-tx-42as650b-42-10-adet-tv-led-bar；2026-11-27 favorit-43dn4jm2t2-43-4-adet-tv-led-bar；2026-11-27 monitor-led-23-inc-1-adet-tv-led-bar；2026-11-27 philips-50pfl6340-50-12-adet-tv-led-bar…
+- 更新 80 条：www.bayiden.com.tr（2026-11-26 → 2026-11-27）；sss（2026-11-26 → 2026-11-27）；sinek-oldurucu-3w-siyah-asonic-s-23（2026-11-26 → 2026-11-27）；ulbay-20l-mandalli-3-metre-pilli-peri-led（2026-11-26 → 2026-11-27）；botech-mini-scart-hdmi-uydu-alicisi（2026-11-26 → 2026-11-27）；hightek-ht-1158-12v-10a-ultra-slim-orj-adaptor（2026-11-26 → 2026-11-27）；hightek-ht-1199-12v-16-5a-minidev-ultra-slim-orijinal-metal-（2026-11-26 → 2026-11-27）；hightek-ht-1156-12v-5a-60w-ultra-slim-orijinal-klemensli-met（2026-11-26 → 2026-11-27）
+- SB-1011 binarteknik.se · home（html）：内容变化：+14 −14 行
+  - `-8-portars Managed Switch RJ45, PoE++ 2-portars 100/1000Mbit och 2-portars 10Gbit SFP-kortplats, DIN, 48–56VDC`
+  - `-10 443,00 SEK`
+  - `+32" IP66 TFT-skärm 6 sidor IP66-tät, optiskt bondad, PCAP-pekskärm, 1000 nits i rostfritt stål`
+  - `+48 925,00 SEK`
+  - `+27" pekskärm med hög ljusstyrka, 1000 nits, IP65, HDMI/VGA/USB-C`
+  - `+11 592,00 SEK`
+- SB-1011 binarteknik.se · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- SB-1011 binarteknik.se · intel_news_sv（rss）：恢复可达（上轮 HTTP 503）
+- SB-1014 bluenote.ro · home（html）：内容变化：+2 −43 行
+  - `-Homepage - BlueNote Communications`
+  - `-Despre noi`
+  - `-Produsele noastre`
+  - `-BlueVoice`
+  - `-Sisteme de înregistrare a convorbirilor telefonice și radio pentru afaceri`
+  - `-Soluții SMART`
+- SB-1014 bluenote.ro · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-1014 bluenote.ro · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- 新增 1 条：Mon, 20 May 2019 07 A London quant fund keeps hiring tech staff - eFinancialCareers
+- SB-1014 bluenote.ro · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 5 条（RSS 窗口滚动属正常）：Prelucrarea datelor personale；Gestionarea DEEE；Am încheiat cu succes implementarea proiectului fi；Un nou proiect finanțat din fonduri europene!；Suntem autorizați pentru proiectarea sistemelor de
+- SB-1015 br-network-shop.de · home（html）：内容变化：+462 −185 行
+  - `+Visueller Fehleridentifizierer VFI4`
+  - `+152,49 €`
+  - `+zzgl. MwSt.`
+  - `+zzgl. Versand`
+  - `+Artikel-Nr.: 18-129-0116`
+  - `++ zum Warenkorb hinzufügen`
+- SB-1016 cae-groupe.com · home（html）：内容变化：+45 −7 行
+  - `-25 & 26 nov. 2026`
+  - `-Salon JTSE Paris`
+  - `-Spectacle vivant, broadcast 12G-SDI, câbles audio & DMX pour l'intégration AV.`
+  - `-Dock Pullman • Stand 23`
+  - `-Docks de Paris • Aubervilliers`
+  - `-Rejoindre le Stand 23 →`
+- SB-1016 cae-groupe.com · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- SB-1016 cae-groupe.com · intel_news_fr（rss）：恢复可达（上轮 HTTP 503）
+- 新增 2 条：Wed, 10 Sep 2025 07 CAE Groupe est devenu Adaltra - Electroniques；Sat, 02 Dec 2023 08 TKH France désormais connecté en LBO - CFNEWS
+- SB-1017 cellco.com.pl · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- SB-1017 cellco.com.pl · intel_news_pl（rss）：恢复可达（上轮 HTTP 503）
+- 新增 1 条：Mon, 17 Jan 2022 15 Cellco - Forbes
+- SB-1019 connectixcablingsystems.com · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- 新增 23 条：Fri, 12 Jun 2026 07 The New Saints welcome Connectix Cabling Systems as new front-of-shirt sponsor - The New S；Tue, 16 Jul 2019 07 Connectix Quickcam Drivers: Lessons From a Retro Installation Failure - Tedium.co；Tue, 27 May 2025 07 Spotlight Theatre creation shines in Miner Creativity Challenge - Missouri S&T；Thu, 30 Mar 2023 07 A Look at Connectix QuickCam — One of the First Webcams in the World - HackerNoon；Mon, 16 Dec 2024 08 Engineering Imagination - Ohio Northern University；Mon, 25 Mar 2024 07 The Next Time You Use a Videogame Emulator, Thank Steve Jobs - MacStories；Thu, 24 Jan 2019 08 25 Years Ago in TidBITS: RAM Doubler Debuts - TidBITS；Fri, 27 Nov 2026 00 How Much Would It Cost To Buy A Webcam In 1994 Vs. 2026? - BGR…
+- SB-1022 danbit.dk · home（html）：内容变化：+20 −19 行
+  - `-IP68 anti-bakteriel silikonetastatur med Track Point - USB - LED baggrundslys, Nordisk tegnsæt`
+  - `-836,00 kr`
+  - `+Wi-Fi-kamera 13 MP (4K) farve med AR1335-sensor, PoE, HDR og lavlys`
+  - `+0,00 kr`
+  - `+15,6" 12. gen. notebook, Intel® Alder Lake-processo, i5, TPM 2.0, RS232, 2xRJ45, 3xUSB 3.0, IP65 800Nits`
+  - `+0,00 kr`
+- SB-1023 dipol.pt · sitemap（sitemap）：新增 820 条：2024-05-15T13:04:57 antena_tv_dvb-t-t2_asp-8w_lux_br_com_amplificador_lna-177_A0024.htm；2024-05-15T13:04:57 antena_tv_dvb-t-t2_asp-8_br_com_transformador_de_impedancia_A0028.htm；2024-05-15T13:04:57 antena_tv_banda_larga_dvb-t-t2_asp-8w_br_com_amplificador_lna-169_A0029.htm；2024-05-15T13:04:57 antena_tv_banda_larga_dvb-t-t2_asp-4_a_br_com_transformador_de_impedancia_A0050.htm；2024-05-15T13:04:57 antena_tv_banda_larga_dvb-t_asp-8_pm_vhf_v_h-pol_uhf_h-pol_A0060.htm；2021-06-08T10:01:12 antena_dab-dvb-t-t2_dipol-1-5-12_A0110.htm；2021-06-08T10:01:12 antena_dab-dvb-t-t2_dipol-4-5-12_A0140.htm；2024-05-15T13:04:57 antena_fm_dipol_1-ruz_b_omnidireccional_A0210.htm…
+- SB-1024 dowtechnologies.com · sitemap（sitemap）：新增 820 条：2026-05-21 12volt-closeouts；2026-08-31 12volt；2026-08-31 custom-integration；2026-07-24 marine；2026-07-27 satellite；2026-07-06 home-open-box-deals；2026-05-20 home-closeouts；2026-07-06 12volt-open-box-deals…
+- SB-1025 elfon.com.pl · intel_news_en（rss）：恢复可达（上轮 HTTP 503）
+- SB-1025 elfon.com.pl · intel_news_pl（rss）：恢复可达（上轮 HTTP 503）
+- SB-1029 fibersystem.com · home（html）：内容变化：+2 −141 行
+  - `-Fibersystem AB, Data Diodes | Fibersystem`
+  - `-Skip to content`
+  - `-Search for:`
+  - `-Product Areas`
+  - `-C Computers`
+  - `-Converters/Extenders`
+- SB-1029 fibersystem.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-1029 fibersystem.com · news_1（html）：内容变化：+2 −113 行
+  - `-Latest News – Fibersystem`
+  - `-Skip to content`
+  - `-Search for:`
+  - `-Product Areas`
+  - `-C Computers`
+  - `-Converters/Extenders`
+- SB-1029 fibersystem.com · news_2（html）：内容变化：+2 −113 行
+  - `-News | Fibersystem`
+  - `-Skip to content`
+  - `-Search for:`
+  - `-Product Areas`
+  - `-C Computers`
+  - `-Converters/Extenders`
+- SB-1030 fibertronics.com · news_1（html）：内容变化：+1 −143 行
+  - `-Blog`
+  - `-To provide a better shopping experience, our website uses cookies. Continuing use of the site implies consent. Learn More`
+  - `-×`
+  - `-Login`
+  - `-Register`
+  - `-0 Your cart is empty`
+- SB-1032 foppex.com · home（html）：内容变化：+6 −6 行
+  - `+November 26, 2026`
+  - `+Introduction Following the VitalPBX 4.5.5-1 update, we encountered an issue...`
+  - `+VitalPBX 4.5.5-1 Update – How to Fix the ionCube Loader Error`
+  - `+November 26, 2026`
+  - `+Learn how to connect ChatGPT to 3CX (or Claude) with...`
+  - `+How to Connect ChatGPT or Claude to Your 3CX Phone System (Update 10 Guide)`
+- SB-1033 garmasl.com · home（html）：内容变化：+2 −295 行
+  - `-Garma Electronics | Leaders in Industrial Solutions`
+  - `-Español`
+  - `-English`
+  - `-Search`
+  - `-+34 943 291 102`
+  - `-Menu`
+- SB-1039 ico.de · home（html）：内容变化：+4 −4 行
+  - `+Brady | Honeywell Barcodescanner`
+  - `-Honeywell Barcodescanner`
+  - `+Industriescanner`
+  - `-Industriescanner`
+  - `+Zubehör für Barcodescanner`
+  - `-Zubehör für Barcodescanner`
+- SB-1040 icpdas.ro · home（html）：内容变化：+2 −367 行
+  - `-ICP DAS - Automatizari industriale, achizitii de date, comunicatii - ICP DAS Romania`
+  - `-Autentificare`
+  - `-Romana`
+  - `-Engleza`
+  - `-Romana`
+  - `-Contact`
+- SB-1040 icpdas.ro · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：ARF8011BA - 0,00 Lei；ARF8230EA - 0,00 Lei；ET-7052 CR - 820,88 Lei；ET-7060 CR - 820,88 Lei；GT-541 CR - 1 900,92 Lei
+- SB-1044 ipcctv.ch · sitemap（sitemap）：新增 820 条：2008-07-23T23:01:11 km8100mdw.pdf；2008-07-23T23:01:15 km8100mxw.pdf；2008-07-23T23:01:17 km8111mdw.pdf；2008-07-23T23:02:10 pt5100.pdf；2008-07-23T23:02:11 pt5111edw.pdf；2008-07-23T23:02:15 st7100mdw.pdf；2010-09-16T11:23:27 ACM-3701_3703.pdf；2010-09-16T11:28:14 ACTI_ACM-1232P.pdf…
+- SB-1046 ivolta.pl · home（html）：内容变化：+61 −52 行
+  - `+CZUJKA POGODOWA DESZCZ-WIATR CDW-04 AFG`
+  - `+1 168,50 zł brutto`
+  - `+Dostępność: Dostępny`
+  - `+Dodaj do koszyka`
+  - `+Moduł interfejsu IO - 2 wejścia 1 wyjście FLM-430-I2M1 BOSCH`
+  - `+1 316,10 zł brutto`
+- SB-1049 kdelectronics.ie · home（html）：内容变化：+335 −15 行
+  - `-Dahua Video intercom 1 modular panel Black`
+  - `-VTM78`
+  - `-Code: 13429`
+  - `-Loading...`
+  - `-Favourited'`
+  - `-data-aria-add="Add Dahua Video intercom 1 modular panel Black to favourites."`
+- SB-105 cenova.com.tr · home（html）：内容变化：+1 −1 行
+  - `-Lütfen BALIK simgesini işaretleyiniz`
+  - `+Lütfen İÇ ORTAM KAMERA simgesini işaretleyiniz`
+- SB-105 cenova.com.tr · news_1（html）：内容变化：+1 −1 行
+  - `-Lütfen MONİTÖR simgesini işaretleyiniz`
+  - `+Lütfen YILDIZ simgesini işaretleyiniz`
+- SB-105 cenova.com.tr · news_2（html）：内容变化：+1 −1 行
+  - `-Lütfen DIŞ ORTAM KAMERA simgesini işaretleyiniz`
+  - `+Lütfen MİKROFON simgesini işaretleyiniz`
+- SB-1052 lan.hu · home（html）：内容变化：+647 −147 行
+  - `-Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚`
+  - `+SFTP Cat6A patch kábel 5 m PUR DK-1644-A-PUR-050`
+  - `+ÚJDONSÁG!`
+  - `+Villámnézet`
+  - `+Cikkszám: TA-PFTP050C6APU`
+  - `+Ár:`
+- SB-1052 lan.hu · sitemap（sitemap）：新增 820 条： lan.hu；2022-11-08T13:45:02 termekek-177；2026-11-27T11:54:12 kabelcsupaszito-fogo-1994；2026-11-27T11:54:12 blankolo-szerszam-digitus-dn-94001-1；2026-11-27T11:54:12 kes-narancss-szerelo-szerszamhoz-1996；2026-11-27T11:54:12 szereloszerszam-lsa-szerszam-1999；2026-11-27T11:54:13 szereloszerszam-110-es-hez-kes-kek-2002；2026-11-27T11:54:13 kes-lsa-tipusu-idc-hez-2003…
+- 更新 80 条：9u-fali-rack-szekreny-600x450-hegesztett-3315（2026-11-26T12:00:40 → 2026-11-27T11:55:43）；9u-fali-rack-szekreny-600x600-ketreszes-3316（2026-11-26T12:00:40 → 2026-11-27T11:55:43）；12u-fali-rackszekreny-600x450-hegesztett-3317（2026-11-26T12:00:40 → 2026-11-27T11:55:44）；12u-fali-rackszekreny-600x600-ketreszes-3318（2026-11-26T12:00:40 → 2026-11-27T11:55:44）；15u-fali-rackszekreny-600x600-egyreszes（2026-11-26T12:00:40 → 2026-11-27T11:55:44）；18u-fali-rackszekreny-600x450-hegesztett-3320（2026-11-26T12:00:40 → 2026-11-27T11:55:44）；18u-fali-rackszekreny-600x600-ketreszes-3321（2026-11-26T12:00:40 → 2026-11-27T11:55:44）；18u-rack-szekreny-600x1000-g7-3322（2026-11-26T12:00:40 → 2026-11-27T11:55:44）
+- SB-1052 lan.hu · news_1（html）：内容变化：+2 −2 行
+  - `-Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚`
+  - `+LAN Kft. Minőségpolitika`
+  - `-Szerelt patchkábelek UV álló köpennyel`
+  - `+Szerelt patchkábelek Ipari környezetbe`
+- SB-1052 lan.hu · news_2（html）：内容变化：+2 −2 行
+  - `-Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚`
+  - `+LAN Kft. Minőségpolitika`
+  - `-Szerelt patchkábelek UV álló köpennyel`
+  - `+Szerelt patchkábelek Ipari környezetbe`
+- SB-1054 luxritesecurity.com · sitemap（sitemap）：新增 821 条：2026-11-24T12:33:00 contact；2024-01-16T16:21:00 careers；2026-11-23T14:17:00 martyns-law-education；2026-05-06T15:16:00 about-us；2026-09-16T14:38:00 technical_support；2025-09-26T12:28:00 delivery；2025-10-21T15:55:00 remote_support；2026-07-29T11:04:00 terms_and_conditions…
+- 更新 43 条：cctv-camera-selection-mounting-guide（2026-11-26T11:12:00 → 2026-11-26T12:18:00）；dhipnvr08-a9（2026-11-25T17:38:00 → 2026-11-26T17:51:00）；hdmimonitor-22-k（2026-11-25T17:38:00 → 2026-11-26T17:51:00）；dhipd40_28lrw-m-e（2026-11-25T17:38:00 → 2026-11-26T17:51:00）；dhipd40_28lrg-m-e（2026-11-25T17:38:00 → 2026-11-26T17:51:00）；dhipd60_28lrw-ms（2026-11-24T17:36:00 → 2026-11-26T17:51:00）；dhipd80_28lrg-ms（2026-11-25T17:38:00 → 2026-11-26T17:51:00）；dhdvr12-b5-v5（2026-11-25T17:38:00 → 2026-11-26T17:51:00）
+- 消失 1 条（RSS 窗口滚动属正常）：PS1220-18
+- SB-1057 mondoplast.ro · home（html）：内容变化：+2 −201 行
+  - `-Mondo Plast - Cabluri si echipamente pentru telecomunicatii`
+  - `-Cariere`
+  - `-Produse`
+  - `-Despre`
+  - `-Contact`
+  - `-Acasa`
+- SB-1058 multiproject.com.pl · home（html）：内容变化：+44 −44 行
+  - `-Listwa elektro. korytko kablowe 40x25 brąz 2m`
+  - `-36,15 zł brutto 29,39 zł netto szt. Do koszyka`
+  - `+Zaciskarka LSA narzędzie uderzeniowe typu Krone`
+  - `+21,00 zł brutto 17,07 zł netto szt Do koszyka`
+  - `-Czujnik PIR Blue Line Gen2 ISC-BPR2-W12`
+  - `-62,00 zł brutto 50,41 zł netto szt. Do koszyka`
+- SB-1059 neteon.net · sitemap（sitemap）：新增 100 条：2026-06-12T15:59:40 search；2026-06-12T15:59:40 moxa；2026-06-12T15:59:41 contact；2026-06-12T15:59:41 shop；2026-06-12T15:59:41 renewable-energy；2026-06-12T15:59:41 industrial-protocol-conversion；2026-06-12T15:59:41 white-paper-homepage；2026-06-12T15:59:41 secure-edge-connectivity…
+- SB-1060 norteh.com · home（html）：内容变化：+1210 −1 行
+  - `-Ac`
+  - `+Accessories for automation`
+  - `+Time & attendance analysis (T&A)`
+  - `+Guard tour systems`
+  - `+Wired and wireless doorbells`
+  - `+Safes`
+- SB-1062 odoo.com · home（html）：内容变化：+2 −2 行
+  - `-Accounting Academy - Fort Worth, Texas`
+  - `-Dec 11, 2026`
+  - `+Manufacturing Leaders Happy Hour`
+  - `+Dec 9, 2026`
+- SB-1062 odoo.com · news_1（html）：内容变化：+1 −1 行
+  - `-Nov 19, 2026`
+  - `+Nov 20, 2026`
+- SB-1062 odoo.com · youtube（rss）：新增 1 条：2026-11-26T11:55:22 Odoo Quick Tips - Travel time [Planning]
+- 消失 1 条（RSS 窗口滚动属正常）：Odoo Insider - Questions-Réponses en français avec
+- SB-1065 poznan.pl · home（html）：内容变化：+455 −6 行
+  - `-Podatek on-line`
+  - `+Deklaracja ON-LINE`
+  - `-Oszczędzaj z OK Poznań`
+  - `+Uchodźcy – informacje`
+  - `-czwartek, 26 listopada 2026`
+  - `-0 o C`
+- SB-1065 poznan.pl · sitemap（sitemap）：新增 443 条： ngo； news； pozarzadowy-poznan,c,89414； czym-jest-rada-pozytku,p,16057,22197.html； sklad-osobowy,p,16057,22198.html； konkursy-ofert,p,16057,16069.html； male-granty,p,16057,18547.html； roczny-program-wspolpracy,p,16057,16080.html…
+- SB-1065 poznan.pl · news_1（html）：内容变化：+98 −9 行
+  - `-25.11.2026`
+  - `-Coraz bliżej budowy hali`
+  - `-- czytaj więcej`
+  - `-Nowoczesna hala lekkoatletyczna planowana jest na Golęcinie, w pobliżu innych obiektów sportowych. W ostatnich miesiącach przygotowywano niezbędną dokumentację`
+  - `-Czytaj artykuł`
+  - `-26.11.2026`
+- SB-1068 rbline.pl · home（html）：内容变化：+712 −5 行
+  - `-do wtorku, 01.12`
+  - `+do środy, 02.12`
+  - `-do wtorku, 01.12`
+  - `+do środy, 02.12`
+  - `-do wtorku, 01.12`
+  - `+do środy, 02.12`
+- SB-1069 reweb.it · home（html）：内容变化：+2 −91 行
+  - `-Home | REweb S.r.l.`
+  - `-Salta al contenuto`
+  - `-Via Ferruccio Ferrari 6, Reggio Emilia`
+  - `-0522 1712600`
+  - `-Azienda`
+  - `-Lavora con noi`
+- SB-1069 reweb.it · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-1069 reweb.it · news_1（html）：内容变化：+2 −73 行
+  - `-News | REweb S.r.l.`
+  - `-Salta al contenuto`
+  - `-Via Ferruccio Ferrari 6, Reggio Emilia`
+  - `-0522 1712600`
+  - `-Azienda`
+  - `-Lavora con noi`
+- SB-1069 reweb.it · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Reweb e Opengear saranno sponsor dell’MSP Day 2026；ADAM-6000/6200 Intelligente, flessibile, compatibi；ICR-1745 Gateway di connettività industriale 5G；ADAM-200PN Rugged IP67 PROFINET IoT I/O；Corso tecnico su “Smart Out of Band Management”
+- SB-1072 securame.com · home（html）：内容变化：+23 −7 行
+  - `-Domo 6MP`
+  - `-CÁMARAS PLACAS SOLARES`
+  - `-Extensores`
+  - `+Teclados y Joystick para CCTV`
+  - `-Domo 6MP`
+  - `-CÁMARAS PLACAS SOLARES`
+- SB-1074 setik.biz · home（html）：内容变化：+10 −10 行
+  - `-HYUNDAI SPECIAL: SUPER DISCOUNTS AND FREE SHIPPING`
+  - `--50%`
+  - `-HYU-657`
+  - `-HYU-657 Hyundai PRO HDTVI series outdoor dome CCTV camera. CMOS sensor, 2 MP (2-megapixel) resolution a...`
+  - `+DAHUA | PROMOTIONS`
+  - `+DAHUA SDT SERIES | EXTRA 10% AND QUANTITY DISCOUNTS`
+- SB-1074 setik.biz · sitemap（sitemap）：新增 820 条：2025-03-31 407-video-surveillance；2025-03-31 407-videosurveillance；2025-03-31 407-videosorveglianza；2025-03-31 407-videovigilancia；2025-03-31 407-videoueberwachung；2026-01-16 29-surveillance-kit；2026-01-16 29-kit-de-videosurveillance；2026-01-16 29-kit-videosorveglianza…
+- SB-1076 simplifinetworks.com · sitemap（sitemap）：新增 806 条：2026-10-15T11:19:09 ruijie-reyee-rg-cs83-12gt4xs-p-12-port-1ge-rj45-layer-3-managed-access-switch-poe-plus-4-p；2026-10-15T11:19:09 ruijie-reyee-rg-cs83-24gt4xs-p-24-port-1ge-rj45-layer-3-managed-access-switch-poe-plus-4-p；2026-10-15T11:19:09 ruijie-reyee-rg-cs83-48gt4xs-48-port-1ge-rj45-layer-3-managed-access-switch-4-port-10ge-up；2026-10-15T11:19:09 ruijie-reyee-rg-cs83-24gt4xs-24-port-1ge-rj45-layer-3-managed-access-switch-4-port-10ge-up；2026-10-15T11:19:09 ruijie-reyee-rg-cs83-24gt4xs-pd-24-port-1ge-rj45-layer-3-managed-access-switch-poe-plus-4-；2026-10-15T11:19:09 ruijie-reyee-rg-cs83-48gt4xs-p-48-port-1ge-rj45-layer-3-managed-access-switch-4-port-10ge-；2026-10-15T11:19:09 ruijie-reyee-rg-cs83-48gt4xs-pd-48-port-1ge-rj45-layer-3-managed-access-switch-poe-plus-4-；2026-10-15T11:19:09 ruijie-reyee-rg-cs85-24sfp-8gt8xs-d-24-port-1ge-sfp-layer-3-enterprise-class-core-or-aggre…
+- 更新 3 条：www.simplifinetworks.com（2026-11-26T11:13:07 → 2026-11-27T11:06:31）；products（2026-11-26T11:13:07 → 2026-11-27T11:06:31）；products-catalogs（2026-11-26T11:13:07 → 2026-11-27T11:06:31）
+- SB-1078 solimedia.net · home（html）：内容变化：+13 −13 行
+  - `-$ 40.36 CAD`
+  - `+$ 40.39 CAD`
+  - `-$ 203.25 CAD`
+  - `+$ 203.39 CAD`
+  - `-$ 84.81 CAD`
+  - `+$ 84.87 CAD`
+- SB-108 gwsecurityusa.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-108 gwsecurityusa.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Stop Scrubbing Timelines: The New GW42-4208P-3 Sea；It’s Dark at Dinnertime Again: The 30-Minute Night；Why Your Footage Turns Blocky the Moment Someone R；Home Alone at 3PM: The After-School Camera Setup E；Why Your Front-Door Camera Records a Silhouette, N
+- SB-1080 sphinxcomputer.de · sitemap（sitemap）：新增 820 条：2025-09-02T13:40:47 rma.php；2025-09-02T13:40:47 ueber.php；2025-09-02T13:40:47 jobs_sel.php；2025-09-02T13:40:47 agbs.php；2025-09-02T13:40:47 impressum.php；2025-09-02T13:40:47 cookie.php；2025-09-02T13:40:47 produkte.php?id=85；2025-09-02T13:40:47 produkte.php?id=108…
+- SB-1088 tipteh.com · home（html）：内容变化：+2 −239 行
+  - `-Tipteh - your automation partner`
+  - `-Search for: Search Button`
+  - `-Skip to content`
+  - `-Search for: Search Button`
+  - `-Toggle Navigation Products Sensors Fork Sensors`
+  - `-High Precision Sensors`
+- SB-1088 tipteh.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-1088 tipteh.com · news_1（html）：内容变化：+2 −215 行
+  - `-Current News - Tipteh`
+  - `-Search for: Search Button`
+  - `-Skip to content`
+  - `-Search for: Search Button`
+  - `-Toggle Navigation Products Sensors Fork Sensors`
+  - `-High Precision Sensors`
+- SB-1088 tipteh.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Turck I/O Modules and TAS 2.2 Data Processing；Basler: Simplified Lens and Lighting Control；Turck MARGEE Programmable Block I/O Modules；XDR-E DIN Rail Power Supplies MEAN WELL；Basler 10GigE Cameras and Components for High-Spee
+- SB-1090 tramaweb.com.br · home（html）：内容变化：+1 −1 行
+  - `-X/Twitter`
+  - `+Comments`
+- SB-1090 tramaweb.com.br · news_1（html）：内容变化：+2 −2 行
+  - `-Name`
+  - `+Facebook`
+  - `-Facebook`
+  - `+LinkedIn`
+- SB-1090 tramaweb.com.br · news_2（html）：内容变化：+2 −2 行
+  - `-Company`
+  - `+Facebook`
+  - `-Comments`
+  - `+Name`
+- SB-1091 triotronik.com · home（html）：内容变化：+257 −22 行
+  - `-Login`
+  - `+Konto`
+  - `-Anmelden`
+  - `-oder`
+  - `-registrieren`
+  - `+Admin`
+- SB-1119 noktaelektronik.net · home（html）：内容变化：+2 −1 行
+  - `-Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog B2B Giriş Teknik Servis Dil Seçimi`
+  - `+Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog Teknik Yardım B2B Giriş Teknik Servis Dil Seçimi`
+  - `+Teknik Yardım`
+- SB-1119 noktaelektronik.net · news_1（html）：内容变化：+2 −1 行
+  - `-Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog B2B Giriş Teknik Servis Dil Seçimi`
+  - `+Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog Teknik Yardım B2B Giriş Teknik Servis Dil Seçimi`
+  - `+Teknik Yardım`
+- SB-112 opax.com · home（html）：内容变化：+299 −1 行
+  - `+Manyetik Kontak Klimaya Nasıl Bağlanır? Pencere Açıldığında Klima Kapatma ve Enerji Tasarrufu Rehber Manyetik kontak klimaya nasıl bağlanır? Pencere veya balko`
+  - `+Yayın Tarihi: 26.11.2026`
+  - `-Kombi, Soba, Şofben, Kazan Dairesi ve Kapalı Garajlarda Karbonmonoksit Tehlikesi Kombi karbonmonoksit dedektörü, soba karbonmonoksit dedektörü, şofben karbonmo`
+  - `+Kombi, Soba, Şofben, Kazan Dairesi ve Kapalı Garajlarda Karbonmonoksit Tehlikesi Kombi karbonmonoksit dedektörü, soba karbonmonoksit dedektörü, şofben karbonmo`
+  - `+Yayın Tarihi: 10.07.2026`
+  - `+En İyi Karbonmonoksit Dedektörü Nasıl Seçilir? En iyi karbonmonoksit dedektörü; sadece fiyatına göre değil, sensör tipi, sertifika, pil ömrü, sensör ömrü, LCD`
+- SB-1123 connectec.uk · home（html）：内容变化：+14 −14 行
+  - `-ALEX`
+  - `-"highly recommend this online store to anyone"`
+  - `-TIM`
+  - `-"Fantastic products at the best prices"`
+  - `-GARY`
+  - `-"Highly recommended no-nonsense, no sales patter etc"`
+- SB-1123 connectec.uk · sitemap（sitemap）：新增 820 条：2022-11-24 networking；2022-05-11 network-devices；2022-11-24 network-switches；2026-08-13 ruijie-rg-es209mg-p-smart-8-port-poe-switch-1-x-10g-uplink；2026-08-14 ruijie-rg-es206mg-p-5-port-2-5g-cloud-managed-poe-switch-1-x-10g-uplink；2022-11-24 desktop-switches；2026-09-28 hikvision-ds-3e0106hp-e-6-port-poe-switch-with-dual-up-link；2026-09-28 hikvision-ds-3t0510hp-e-hs-8-port-gigabit-802-3at-af-bt-poe-switch…
+- SB-1123 connectec.uk · news_1（html）：内容变化：+10 −10 行
+  - `-682`
+  - `+697`
+  - `-1167`
+  - `+1185`
+  - `-1553`
+  - `+1558`
+- SB-1123 connectec.uk · news_2（html）：内容变化：+4 −4 行
+  - `-1553`
+  - `+1558`
+  - `-22168`
+  - `+22197`
+  - `-2132`
+  - `+2139`
+- SB-1130 cnstech.gr · sitemap（sitemap）：新增 305 条：2025-10-17T12:31:08 ?page=10；2025-10-17T12:31:08 ?page=168；2025-10-17T12:31:08 ?product_cat=alarm-cctv；2025-10-17T12:31:08 ?product_cat=cctv；2025-10-17T12:31:08 ?product_cat=%25ce%25b1%25cf%2585%25cf%2584%25cf%258c%25ce%25bd%25ce%25bf%25ce%25bc%25ce%2；2025-10-17T12:31:08 ?product_cat=%25ce%25ba%25ce%25ac%25ce%25bc%25ce%25b5%25cf%2581%25ce%25b5%25cf%2582；2025-10-17T12:31:08 ?product_cat=4g_camera；2025-10-17T12:31:08 ?product_cat=analog-hybrid…
+- SB-120 Pronet Connectivity (Pvt) Ltd. · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-123 tdtorus.ru · home（html）：内容变化：+343 −151 行
+  - `-ST12000NM002H`
+  - `-SEAGATE`
+  - `-ST12000NM002H`
+  - `-SEAGATE`
+  - `-Артикул: 99-00015225`
+  - `-В наличии`
+- SB-124 telconet.net · home（html）：内容变化：+1 −1 行
+  - `-Certificados para que tu operación nunca se detenga: ISO/IEC 27001:2022 · ISO 22301 · ISO 9001 · ISO 37001 · EFQM Global Award 2025 · 5 Estrellas`
+  - `+Certificados para que tu operación nunca se detenga: ISO/IEC 27001:2022 · ISO 22301 · ISO 9001 · ISO 37001 · ISO 50001 · EFQM Global Award 2025 · 5 Estrellas`
+- SB-124 telconet.net · news_1（html）：内容变化：+241 −8 行
+  - `-Premios y reconocimientos 13 de noviembre de 2026 Carnival Submarine Networks hace historia en Londres: CSN-1 es elegido “Project of the Year” en los Global Co`
+  - `-El sistema de cable submarino CSN-1 fue galardonado en Londres con el premio “Project of the Year – Subsea, Terrestrial, Satellite and/or Wireless”, el máximo…`
+  - `-Comunicados oficiales 17 de noviembre de 2026 La integridad no es negociable: nuestro compromiso con la ética y el cumplimiento`
+  - `-En el Grupo Empresarial Telconet, la ética, la integridad y el cumplimiento de la ley son principios irrenunciables que deben regir todas nuestras decisiones,`
+  - `-Eventos 7 de octubre de 2026 Telconet Latam participa en el Guayaquil Business Summit 2026 y se suma a la visión de un Gran Guayaquil integrado`
+  - `-El Ing. Tomislav Topic, CEO de Telconet Latam, participó en el conversatorio “Potenciación de la Economía del Gran Guayaquil”, espacio que reunió a cerca de 30`
+- SB-124 telconet.net · news_2（html）：内容变化：+241 −8 行
+  - `-Premios y reconocimientos 13 de noviembre de 2026 Carnival Submarine Networks hace historia en Londres: CSN-1 es elegido “Project of the Year” en los Global Co`
+  - `-El sistema de cable submarino CSN-1 fue galardonado en Londres con el premio “Project of the Year – Subsea, Terrestrial, Satellite and/or Wireless”, el máximo…`
+  - `-Comunicados oficiales 17 de noviembre de 2026 La integridad no es negociable: nuestro compromiso con la ética y el cumplimiento`
+  - `-En el Grupo Empresarial Telconet, la ética, la integridad y el cumplimiento de la ley son principios irrenunciables que deben regir todas nuestras decisiones,`
+  - `-Eventos 7 de octubre de 2026 Telconet Latam participa en el Guayaquil Business Summit 2026 y se suma a la visión de un Gran Guayaquil integrado`
+  - `-El Ing. Tomislav Topic, CEO de Telconet Latam, participó en el conversatorio “Potenciación de la Economía del Gran Guayaquil”, espacio que reunió a cerca de 30`
+- SB-126 cablewindow.com · home（html）：内容变化：+2 −197 行
+  - `-Cablewindow`
+  - `-Product was added to your cart`
+  - `-Entrar / Registro`
+  - `-Mi cuenta`
+  - `-Entrar`
+  - `-Registro`
+- SB-126 cablewindow.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.cablewindow.com；autenticacion?back=my-account；carrito；contactenos-8；alta-de-distribuidor-15
+- SB-126 cablewindow.com · news_1（html）：恢复可达（上轮 HTTP 404）
+- SB-126 cablewindow.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Domo Motorizado PTZ Exterior 500º/s 27x Easy Plug ；Domo Motorizado PTZ Exterior 4" 700TVL 960H 5-15mm；Camara de deportes Profesional intemperie - 96,74 ；Tester de CCTV Analógico / IP PoE 48V - 411,34 €；Comprobador Tester de CCTV Analogico / IP ONVIF - 
+- SB-127 izux.es · home（html）：内容变化：+2 −227 行
+  - `-Cámaras de Seguridad, Alarmas y Control de Acceso - IZUX`
+  - `-Email: comercial@izux.es/ Tlf: 963 320 337`
+  - `-Mi cuenta`
+  - `-Agregar al presupuesto`
+  - `-MI Carrito`
+  - `-Iniciar sesión`
+- SB-127 izux.es · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：izux.es；login?back=my-account；supercheckout；3-videovigilancia；225-camaras-cctv
+- SB-127 izux.es · news_1（html）：内容变化：+2 −32 行
+  - `-Zona instaladores - Instaladores de cámaras de seguridad en Valencia y Castellón`
+  - `-Zona instaladores`
+  - `-Home`
+  - `-/ Zona instaladores`
+  - `-Recursos técnicos, normativa y soluciones profesionales para instaladores de videovigilancia`
+  - `-Contenido especializado para profesionales del sector: normativa actualizada, buenas prácticas de instalación, comparativas de equipos y guías técnicas.`
+- SB-127 izux.es · news_2（html）：内容变化：+2 −235 行
+  - `-Nuevos productos de seguridad, videovigilancia, videoporteros, alarmas y controles de acceso y presencia - IZUX`
+  - `-Email: comercial@izux.es/ Tlf: 963 320 337`
+  - `-Mi cuenta`
+  - `-Agregar al presupuesto`
+  - `-MI Carrito`
+  - `-Iniciar sesión`
+- SB-128 orbitadigital.com · home（html）：内容变化：+192 −127 行
+  - `+-37%`
+  - `+New`
+  - `+Dahua IPC-HDBW2849E-S-IL-0280B-S2-B IP Dome H265 8M WDR Dual Lighting…`
+  - `+€157.14`
+  - `+€249.43`
+  - `+Domo`
+- SB-135 LABOR · home（html）：内容变化：+2 −66 行
+  - `-Anasayfa | Labor Elevator`
+  - `-info@laborelevator.com`
+  - `-+90 (412) 257 63 26`
+  - `-ANASAYFA`
+  - `-HAKKIMIZDA`
+  - `-SERVİSLERİMİZ`
+- SB-135 LABOR · news_1（html）：内容变化：+2 −19 行
+  - `-Projelerimiz | Labor Elevator`
+  - `-info@laborelevator.com`
+  - `-+90 (412) 257 63 26`
+  - `-ANASAYFA`
+  - `-HAKKIMIZDA`
+  - `-SERVİSLERİMİZ`
+- SB-136 Metalog International DMCC · home（html）：内容变化：+2 −141 行
+  - `-Metalog -`
+  - `-Any questions? Call us`
+  - `-+971 4 558 6930`
+  - `-Email us`
+  - `-jaideep@metalogint.com`
+  - `-Menu`
+- SB-136 Metalog International DMCC · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-136 Metalog International DMCC · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 2 条（RSS 窗口滚动属正常）：Nigeria: Reps Probe U.S.$8 Billion Oil Swap Despit；Offshore services provider EMAS Offshore has se…
+- SB-138 Volktek · sitemap（sitemap）：新增 50 条：2026-03-23 metro-ethernet-switches.html；2026-03-23 industrial-poe-switches.html；2026-03-23 accessories.html；2026-03-23 serial-to-fiber-converters.html；2026-03-23 100base-bi-di-sfp-series.html；2026-03-23 spe-converters.html；2026-03-23 copper-to-fiber-converters.html；2026-03-23 solutiondetail_en.php?id=9…
+- SB-139 acusenseteknoloji.com · home（html）：首轮基线
+- SB-145 digicomm.de · news_2（html）：内容变化：+5 −5 行
+  - `-Immer aktiv`
+  - `+Always active`
+  - `-Optionen verwalten`
+  - `-Dienste verwalten`
+  - `-Verwalten von {vendor_count}-Lieferanten`
+  - `-Lese mehr über diese Zwecke`
+- SB-156 cyberteam.pl · home（html）：内容变化：+1 −1 行
+  - `-0.0522`
+  - `+0.0465`
+- SB-156 cyberteam.pl · sitemap（sitemap）：新增 820 条：2016-08-22 25_skyeter18；2016-08-22 27_skyeter13；2016-04-18 28_kabel-h1000；2018-04-25 29_kabel-rf-5；2016-04-18 41_zaciskarka-ht-106n；2016-04-18 42_zaciskarka-ht-106s；2018-03-02 43_zaciskarka-ht-106d；2016-04-18 44_zaciskarka-ht-106c…
+- SB-158 diatrend.com · home（html）：首轮基线
+- SB-158 diatrend.com · sitemap（sitemap）：首轮基线
+- SB-168 WIMEX TECHNOLOGIES · home（html）：内容变化：+2 −1 行
+  - `-Ensemble, réalisons demain... Dès maintenant!`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-172 consteel-electronics.com · home（html）：内容变化：+636 −0 行
+  - `+814,00 zł`
+  - `+Kup teraz! "> Kup teraz!`
+  - `+Dodaj do listy życzeń`
+  - `+Porównaj ten produkt`
+  - `+Negocjuj cenę ">`
+  - `+Negocjuj cenę`
+- SB-172 consteel-electronics.com · news_1（html）：内容变化：+12 −12 行
+  - `-144`
+  - `+147`
+  - `-241`
+  - `+485`
+  - `-515`
+  - `+576`
+- SB-174 karerguvenlik.com · home（html）：内容变化：+13 −13 行
+  - `-733 ADET`
+  - `+728 ADET`
+  - `-715,54 TL`
+  - `+714,14 TL`
+  - `-17,89 TL`
+  - `+17,85 TL`
+- SB-176 oksa.co.uk · sitemap（sitemap）：新增 820 条：2026-07-15T07:51:17 products；2026-07-14T10:38:50 cart；2026-07-14T10:48:27 checkout；2026-07-14T10:48:33 my-account；2026-07-29T22:01:06 terms-of-service；2026-07-29T22:08:58 privacy-policy；2026-07-29T21:23:41 1215244.eu11.myftpupload.com；2026-07-29T21:25:43 solutions…
+- SB-177 sklep-ecsystem.pl · home（html）：内容变化：+264 −1 行
+  - `-Szeroki asortym`
+  - `+Szeroki asortyment`
+  - `+Nasza oferta to ponad 23 tyś. produktów w kilkunastu kategoriach, a większość z nich dostępna jest od ręki.`
+  - `+Indywidualne doradztwo`
+  - `+Znamy się na zabezpieczeniach i chętnie dzielimy się wiedzą. Sprawdź, jak szybko jesteśmy w stanie Ci pomóc.`
+  - `+rabaty dla instalatorów`
+- SB-178 wisp.pl · home（html）：内容变化：+128 −51 行
+  - `+⚫️ BLACK FRIDAY ⚫️ (45)`
+  - `-Switche (682)`
+  - `-Szafy rack 10/19 cali (503)`
+  - `+Switche (683)`
+  - `+Szafy rack 10/19 cali (504)`
+  - `-MikroTik (406)`
+- SB-178 wisp.pl · sitemap（sitemap）：新增 820 条： k76,black-friday.html； k213,monitoring-rejestratory-sieciowe-nvr.html； k265,monitoring-urzadzenia-alarmowe.html； k308,monitoring-zestawy-do-monitoringu.html； k25,okablowanie.html； k10,okablowanie-kable-koncentryczne.html； k93,okablowanie-kable-sieciowe-skretka.html； k81,okablowanie-kable-telefoniczne.html…
+- SB-180 FOLINE · home（html）：内容变化：+2 −64 行
+  - `-FOLİNE BİLİŞİM TEKNOLOJİLERİ SAN VE TİC LTD ŞTİ`
+  - `-Lütfen Site Dili Seçiniz`
+  - `-Türkçe`
+  - `-Telefon`
+  - `-Telegram`
+  - `-WhatsApp`
+- SB-180 FOLINE · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 46 条（RSS 窗口滚动属正常）：foline.com.tr；belgelerimiz；sss；ekibimiz；musteri-gorusleri
+- SB-188 saf-slk.de · sitemap（sitemap）：状态变化：OK → HTTP 500
+- SB-196 extradigital.eu · home（html）：内容变化：+136 −89 行
+  - `+HDMI converter and splitter`
+  - `+Video Capture HDMI 4K/30Hz to USB3.0 Type-C`
+  - `+20.27€`
+  - `+Circuit Breakers`
+  - `+Miniature Circuit Breaker, 4P, 63A, Class C, 6kA`
+  - `+27.79€`
+- SB-196 extradigital.eu · sitemap（sitemap）：新增 820 条：2025-10-23T09:00:00 tempered-glass-screen-protectors；2024-11-18T09:00:00 apple-screen-protector；2024-11-18T09:00:00 tempered-glass-screen-protector-apple-iphone-se-5-5s-2-5d_DV00TS0015；2024-10-24T09:00:00 tempered-glass-screen-protector-apple-iphone-14-3d-clear_GL601353；2024-10-24T09:00:00 tempered-glass-screen-protector-apple-iphone-14-plus-3d-clear_GL601377；2024-10-24T09:00:00 tempered-glass-screen-protector-apple-iphone-14-pro-3d-clear_GL601391；2024-10-24T09:00:00 tempered-glass-screen-protector-apple-iphone-14-pro-max-3d-clear_GL601414；2024-09-23T09:00:00 tempered-glass-screen-protector-apple-iphone-16-pro-max-3d_GL604453…
+- 更新 1 条：www.extradigital.eu（2026-11-25T09:00:00 → 2026-11-26T09:00:00）
+- SB-198 katalita.lt · sitemap（sitemap）：新增 820 条：2026-11-27T07:10:07 ubiquiti-10g-poe-adapter-90w-uacc-poe-10g.html；2026-11-27T07:10:07 ubiquiti-unifi-cat-6-etherlighting-patch-cable-2-meter-uacc-cable-patch-el-2m-w.html；2026-11-27T07:10:07 extralink-1u-cable-organizer-with-metal-cover-el-cm-9700.html；2026-11-27T07:10:07 extralink-krone-punch-down-tool-with-lock-function-el-krone-nt-t002.html；2026-11-27T07:10:07 extralink-crimping-tool-for-connectors-1200-cable-terminal-sleeves-el-crimp-hsc8-6-4.html；2026-11-27T07:10:07 ubiquiti-airmax-litebeam-5ac-23dbi-gen2-5-pack-lbe-5ac-gen2-5.html；2026-11-27T07:10:07 mikrotik-wifi-7-802-11be-2-5-gigabit-dual-band-triple-chain-router-access-point-hap-be-lit；2026-11-27T07:10:07 mikrotik-universal-rack-rails-23-40-rack-rail-r0-23-40_rack_rail_r0.html…
+- 更新 80 条：www.katalita.lt（2026-11-26T08:17:20 → 2026-11-27T08:10:07）；mikrotik-compact-heavy-duty-lte-access-point-ltap-lte12-ax-l（2026-11-26T07:17:20 → 2026-11-27T07:10:07）；tp-link-outdoor-dual-lens-pantilt-security-camera-tapo-c575d（2026-11-26T07:17:20 → 2026-11-27T07:10:07）；imou-6mp-outdoor-wi-fi-pt-camera-titan-pro-6mp-ipc-u7lp-6t0n（2026-11-26T07:17:20 → 2026-11-27T07:10:07）；tp-link-pantilt-home-security-wi-fi-camera-tapo-c212-tapoc21（2026-11-26T07:17:20 → 2026-11-27T07:10:07）；tp-link-vigi-5mp-full-color-turret-network-camera-2-8mm-vigi（2026-11-26T07:17:20 → 2026-11-27T07:10:07）；tp-link-omada-5-port-2-5g-base-t-and-1-port-10ge-sfp-easy-ma（2026-11-26T07:17:20 → 2026-11-27T07:10:07）；tp-link-bluetooth-6-0-nano-usb-adapter-ub600.html（2026-11-26T07:17:20 → 2026-11-27T07:10:07）
+- SB-202 Engineering Group Contractors · home（html）：内容变化：+2 −141 行
+  - `-Home`
+  - `-- Engineering Group Contractors (EGC)`
+  - `-Products`
+  - `-All`
+  - `-Fire Alarm Systems`
+  - `-All`
+- SB-202 Engineering Group Contractors · news_1（html）：内容变化：+2 −96 行
+  - `-News`
+  - `-- Engineering Group Contractors (EGC)`
+  - `-Products`
+  - `-All`
+  - `-Fire Alarm Systems`
+  - `-All`
+- SB-205 barox.de · home（html）：内容变化：+2 −123 行
+  - `-Switches for Video | barox.ch`
+  - `-Support`
+  - `-Contact`
+  - `-DE`
+  - `-FR`
+  - `-EN`
+- SB-205 barox.de · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-205 barox.de · news_1（html）：内容变化：+2 −222 行
+  - `-News | barox.ch`
+  - `-Support`
+  - `-Contact`
+  - `-DE`
+  - `-FR`
+  - `-EN`
+- SB-207 ccontrols.de · sitemap（sitemap）：新增 28 条：2024-05-16T15:05:18 odm.htm；2024-05-16T15:05:17 about.htm；2024-05-16T15:05:19 quality.htm；2024-05-16T15:05:18 privacy.htm；2024-05-16T15:05:18 csr.htm；2024-05-16T15:05:17 agb.htm；2024-05-16T15:05:17 contact.htm；2024-05-16T15:05:18 impressum.htm…
+- SB-208 delock.com · home（html）：内容变化：+2 −120 行
+  - `-Tietokoneet, tietokonehuolto ja tarvikkeet | Triosoft verkkokauppa`
+  - `-Omat tiedot`
+  - `-Kirjaudu sisään Yhteystiedot Tilaushistoria Rekisteröidy asiakkaaksi Unohditko tunnukset? Aktivoi kuponki tai lahjakortti`
+  - `-Ostoskori`
+  - `-Etusivu`
+  - `-Tuoteryhmät`
+- SB-208 delock.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-211 een.com · home（html）：内容变化：+2 −2 行
+  - `-1 509 260 2232`
+  - `+1 602 666 9943`
+  - `-Name`
+  - `+LinkedIn`
+- SB-211 een.com · news_1（html）：内容变化：+1 −1 行
+  - `-1 509 260 2232`
+  - `+1 602 666 9943`
+- SB-211 een.com · news_2（html）：内容变化：+1 −1 行
+  - `-1 509 260 2232`
+  - `+1 602 666 9943`
+- SB-214 level1.com · sitemap（sitemap）：新增 820 条： level1_en；2022-07-25T05:45:34 vga-cables；2022-07-25T05:45:34 smartphone-car-holder；2022-07-25T05:45:34 usb-light-fan；2022-07-25T05:45:34 hdmi-splitters；2022-07-25T05:45:34 hdmi-switches；2022-07-25T05:45:34 keyboard-mouse-combos；2022-07-25T05:45:34 keyboards…
+- SB-216 ltsecurityinc.com.au · news_2（html）：内容变化：+139 −32 行
+  - `-CCTV & Recorders`
+  - `-Platinum`
+  - `-Cameras`
+  - `-Camera Brackets`
+  - `-CCTV Kits`
+  - `-NVR + HDD`
+- SB-218 nag.ru · home（html）：内容变化：+12 −12 行
+  - `-1426`
+  - `+1431`
+  - `-1297`
+  - `+1300`
+  - `-1120`
+  - `+1122`
+- SB-218 nag.ru · news_1（html）：内容变化：+4 −4 行
+  - `-1037`
+  - `+1038`
+  - `-396`
+  - `+397`
+  - `-586`
+  - `+589`
+- SB-218 nag.ru · telegram（html）：内容变化：+44 −11 行
+  - `-722 views`
+  - `+724 views`
+  - `-588 views`
+  - `+599 views`
+  - `-777 views`
+  - `+778 views`
+- SB-219 sieraelectronics.com · home（html）：内容变化：+2 −136 行
+  - `-Siera Electronics | Cloud`
+  - `-Languages`
+  - `-Log In`
+  - `-Contact`
+  - `-About Us`
+  - `-Solutions`
+- SB-219 sieraelectronics.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-219 sieraelectronics.com · news_1（html）：内容变化：+2 −122 行
+  - `-News | Siera Electronics Cloud`
+  - `-Languages`
+  - `-Log In`
+  - `-Contact`
+  - `-About Us`
+  - `-Solutions`
+- SB-219 sieraelectronics.com · news_2（html）：内容变化：+2 −69 行
+  - `-Important Notice · Service update | Siera Electronics Cloud`
+  - `-Languages`
+  - `-Log In`
+  - `-Contact`
+  - `-About Us`
+  - `-Solutions`
+- SB-219 sieraelectronics.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Atualização do serviço “Nuvem 1” iSMS 5.0；Important Notice · Service update；Actualización del servicio “Nube 1” iSMS 5.0；Câmeras Sieco compatíveis com Alexa e Google Home；Sieco Cameras Compatible with Alexa and Google Hom
+- SB-228 Negoh-Op · home（html）：内容变化：+2 −1 行
+  - `-`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-229 TESCOM COMPANY LIMITED · home（html）：内容变化：+2 −86 行
+  - `-TESCOM COMPANY LIMITED`
+  - `-menu`
+  - `-Home`
+  - `-About`
+  - `-Our Customers`
+  - `-Gallery`
+- SB-230 adin.it · sitemap（sitemap）：新增 820 条： adin.it； prodotti； k-new-2； yingjiao； soluzioni-termiche； thermal； uniview-linea-easy-2； uniview-prime…
+- SB-232 aixontec.com · home（html）：内容变化：+2 −2 行
+  - `-Newsletter Abonnieren`
+  - `+Newsletter abonnieren`
+  - `-Abonnieren`
+  - `+abonnieren`
+- SB-232 aixontec.com · news_1（html）：内容变化：+2 −2 行
+  - `-Newsletter Abonnieren`
+  - `+Newsletter abonnieren`
+  - `-Abonnieren`
+  - `+abonnieren`
+- SB-233 avycon.com · home（html）：内容变化：+3 −3 行
+  - `+AVYCON - Counter Day at SDS Melbourne Thursday 12/03`
+  - `+185 West Dr suite 1, Melbourne, FL 32904, USA`
+  - `+December 3, 2026,  –`
+  - `-APD Amarillo, TX BBQ & Product Show`
+  - `-550 S Buchanan St, Amarillo, TX 79101, USA`
+  - `-October 28, 2026,  –`
+- SB-236 congtyminhphuoc.vn · home（html）：内容变化：+3 −3 行
+  - `-Online : 1511`
+  - `-Hôm nay : 3841`
+  - `-Tổng truy cập : 11458019`
+  - `+Online : 3616`
+  - `+Hôm nay : 6760`
+  - `+Tổng truy cập : 11466520`
+- SB-236 congtyminhphuoc.vn · sitemap（sitemap）：新增 420 条：2024-11-13T01:28:51 kadita；2024-11-13T01:28:51 cap-mang-1；2024-11-13T01:28:51 phu-kien-commscope；2024-11-13T01:28:51 hang-ls；2024-11-13T01:28:51 hang-benka；2024-11-13T01:28:51 hang-alantek；2024-11-13T01:28:51 hang-golden-link；2024-11-13T01:28:51 hang-vcom…
+- SB-238 digimax.it · sitemap（sitemap）：新增 820 条：2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:06:23 14D-12D05NNL；2025-09-17T00:06:23 19D-24D15NNL；2025-09-17T00:06:23 19D-24D15NNL；2025-05-05T10:31:19 27D-05D12RNL；2025-05-05T10:31:19 27D-05D12RNL；2025-09-17T00:06:23 27D-12D12RNL；2025-09-17T00:06:23 27D-12D12RNL…
+- 更新 2 条：sitemap.xml（2026-11-26T11:18:24 → 2026-11-27T11:11:01）；sitemap.xml（2026-11-26T11:18:24 → 2026-11-27T11:11:01）
+- SB-239 empicstar.com · home（html）：内容变化：+375 −60 行
+  - `-फुटबॉल सूची`
+  - `-हाईबरी का दूसरा पता: फ्लीटवुड ने पेनल्टी पर आर्सेनल को बाहर किया`
+  - `-वेस्ट हैम ने स्कॉट पार्कर को बनाया मुख्य कोच: 2026-26 में प्रमोशन का लक्ष्य, लेकिन सोशल मीडिया की सुर्खियों के पीछे का सच क्या है?`
+  - `-वेनेज़िया का ‘फिश बोन्स’ किट: समुद्री विरासत, नोक्टा का दांव और अधूरी जापानी कहानी`
+  - `-फीफा रिपोर्ट: इंडोनेशिया रजिस्ट्रेशन प्रतिबंधों में टॉप-10 में, पर असली संकेत 5.00 का अनुपात है`
+  - `-कैंबियासो के 30 मिलियन यूरो: बार्सिलोना की बैलेंस शीट, बाल्दे का बंद दरवाज़ा और शीतकालीन विंडो का असली गणित`
+- SB-240 frogfish.de · home（html）：内容变化：+2 −2 行
+  - `-Please calculate 9 plus 3.`
+  - `+Please calculate 7 plus 7.`
+  - `-Please calculate 1 plus 1.`
+  - `+What is the sum of 7 and 3?`
+- SB-244 innowatt.it · home（html）：内容变化：+4 −4 行
+  - `-818 articoli`
+  - `+816 articoli`
+  - `-655 articoli`
+  - `+652 articoli`
+  - `-355 articoli`
+  - `+354 articoli`
+- SB-247 jpg.lt · sitemap（sitemap）：新增 626 条： sma-male-uzspaudziama-jungtis-rg174-kabeliui； industrinis-4glte-marsrutizatorius-5500； industrinis-4glte-marsrutizatorius-5501； poe-sakotuvas-3220-16gt240； rj45-jungtis-utp-cat5e-ip68； rj45-jungtis-utp-cat6a-ip68； rj45-jungtis-ekranuota-utp-cat5e； rj45-jungtis-utp-cat5e…
+- SB-251 pixcom.ae · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-252 platinumcctv.com · sitemap（sitemap）：新增 217 条：2026-11-24 hd-8418ai-2k-smart-hd-ip-camera-ai.html；2026-11-24 hd-balun-pair-hd-tvi.html；2026-11-24 ndaa-5mp-2k-turret-ip-camera.html；2026-11-24 ndaa-8mp-4k-turret-ip-camera.html；2026-11-24 ndaa-8mp-2k-turret-zoom-ip-camera.html；2026-11-24 ndaa-5mp-2k-turret-zoom-ip-camera.html；2026-11-24 HD-8219-1080P-Resolution-NDAA-Approved-20-MegaPixel-HD-Turret-IP-camera-with-28mm-Lens-for；2026-11-24 12v-squid-camera-power-supply…
+- SB-253 provision-isr.com · home（html）：内容变化：+549 −52 行
+  - `-Home - Provision-ISR Skip to content`
+  - `-INFO About Provision-ISR`
+  - `+Home - Provision-ISR`
+  - `+Skip to content`
+  - `+INFO`
+  - `+About Provision-ISR`
+- SB-254 sicurtecnicanapoli.it · home（html）：内容变化：+292 −7 行
+  - `+Carrier - Aritech`
+  - `+Centrali ATS-Master`
+  - `+Centrali Advisor Advanced`
+  - `+Combinatore/Comunicazione`
+  - `+Concentratori Dati IN/OUT`
+  - `+Dispositivi comunicazione`
+- SB-254 sicurtecnicanapoli.it · intel_news_it（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-263 TECside BV · sitemap（sitemap）：新增 112 条：2026-10-26 radio1-2022-studio-vrt；2026-10-26 villa-sporza；2026-10-26 villa-sporza；2026-10-26 villa-sporza；2026-10-26 turbo-antwerp；2026-10-26 turbo-antwerp；2026-10-26 turbo-antwerp；2026-10-26 split-screen…
+- SB-264 TIER1 DATA SYSTEMS LIMITED · home（html）：内容变化：+2 −88 行
+  - `-Tier1 Data Systems | Your Own IT Solutions Hub`
+  - `-sales@tier1ds.com`
+  - `-+44-2033715231`
+  - `-09 AM to 05 PM`
+  - `-Home`
+  - `-Customer`
+- SB-266 axilogi.com · home（html）：内容变化：+33 −41 行
+  - `-Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1`
+  - `-1 482 Kč bez DPH`
+  - `-1 793 Kč s DPH`
+  - `-Triton 19" stojanový rack 18U/600x1000 prosklené dveře, šedý`
+  - `-9 558 Kč bez DPH`
+  - `-11 565 Kč s DPH`
+- SB-270 damixsat.pl · home（html）：内容变化：+561 −17 行
+  - `-Fotel regulowany dziecięcy Spacetronik S...`
+  - `-Szare krzesło z dwuczęściowym, ruchomym oparciem. Spacetroni...`
+  - `-399,00 zł`
+  - `-Do koszyka`
+  - `-ALMA Fotel biurowy obrotowy – podłokietn...`
+  - `-Elegancki minimalizm klasy biznes. Spacetronik ALMA SPC-ALMA...`
+- SB-272 electronikhouse.it · home（html）：内容变化：+29 −29 行
+  - `+SISTEMA OTTICO E ACUSTICO CON SUONO CRESCENTE PER ASSISTENZA AL PARCHEGGIO UNIVERSALE CON 4 SENSORI E DISPLAY A LED`
+  - `+Leggi tutto`
+  - `+SISTEMA TELECAMERE UNIVERSALE PER RETROMARCIA CON MONITOR INTEGRABILE NEL PORTATARGA`
+  - `+Leggi tutto`
+  - `-SISTEMA OTTICO E ACUSTICO CON SUONO CRESCENTE PER ASSISTENZA AL PARCHEGGIO UNIVERSALE CON 4 SENSORI E DISPLAY A LED`
+  - `-Leggi tutto`
+- SB-273 eretekne.com · home（html）：首轮基线
+- SB-275 gelecekbt.com · home（html）：内容变化：+2 −545 行
+  - `-GelecekBT Bilgi ve İletişim Teknolojileri`
+  - `-E-Posta`
+  - `-İletişim`
+  - `-Sohbet başlat`
+  - `-$ US Dollar`
+  - `-Euro €`
+- SB-276 hanelektronik.com · home（html）：内容变化：+67 −38 行
+  - `-BLOG DUYURULAR Bültenimizin İlk Sayısı Yayınlandı`
+  - `-HEDEFİNİZİ TUTTURUN SİZ DE KAZANIN`
+  - `+BLOG DUYURULAR HEDEFİNİZİ TUTTURUN SİZ DE KAZANIN`
+  - `+2021 ISAF Fuarını Başarıyla Tamamladık`
+  - `+A-TECH Akıllı Bina Teknolojileri Fuarını Başarıyla Tamamladık`
+  - `+Tek Yetkili, Tam Güvence: Han Elektronik – Uniwiz Türkiye Tek Distribütörü!`
+- SB-276 hanelektronik.com · sitemap（sitemap）：新增 500 条：2023-01-03T15:45:46 banka-bilgileri； iletisim；2023-07-07T17:36:58 magazalar；2024-10-29T03:12:15 markalar；2026-05-18T08:47:04 hakkimizda；2026-04-17T12:08:54 belgelerimiz；2025-11-17T09:13:21 satis-sozlesmesi；2022-02-15T22:26:22 referanslarimiz…
+- 更新 21 条：www.hanelektronik.com（2026-11-26T02:00:18 → 2026-11-27T02:00:16）；videopark-vp-16p-2upg-16-port-poe-2-port-gbit-uplink-300w-po（2026-11-25T16:01:24 → 2026-11-26T17:01:11）；milesight-ms-c5373-pd-50-mp-28-mm-lens-ai-h265-4-array-led-i（2026-11-25T16:01:22 → 2026-11-26T14:01:10）；cambox-lotus-kare-kamera-montaj-buati-tabanli（2026-11-25T15:01:21 → 2026-11-26T16:01:01）；averfire-af-1010d-akilli-adreslenebilir-optik-duman-dedektor（2026-11-24T14:01:06 → 2026-11-26T15:01:04）；averfire-af-206b-konvansiyonel-yangin-alarm-butonutekrar-kur（2026-11-25T15:01:24 → 2026-11-26T16:01:02）；averfire-af-1240p-akilli-adresli-yangin-alarm-paneli-1-loop（2026-11-25T15:01:23 → 2026-11-26T15:01:04）；spy-sp-540b-50-mp-36-mm-mp-lens-h265-ir-bullet-ip-kamera（2026-11-25T16:01:22 → 2026-11-26T14:01:11）
+- SB-276 hanelektronik.com · news_1（html）：内容变化：+44 −44 行
+  - `-BLOG DUYURULAR ISAF EXCLUSIVE 2019 ANKARA FUARINI BAŞARI İLE TAMAMLADIK`
+  - `-2021 ISAF Fuarını Başarıyla Tamamladık`
+  - `+BLOG DUYURULAR ISAF 2019 İSTANBUL FUARINI BAŞARI İLE TAMAMLADIK`
+  - `+Bültenimizin İlk Sayısı Yayınlandı`
+  - `+Han Elektronik, 2025 Grundig Security Türkiye Distribütörlüğünü Duyurdu.`
+  - `+HEDEFİNİZİ TUTTURUN SİZ DE KAZANIN`
+- SB-276 hanelektronik.com · news_2（html）：内容变化：+37 −37 行
+  - `-BLOG DUYURULAR A-TECH Akıllı Bina Teknolojileri Fuarını Başarıyla Tamamladık`
+  - `-ISAF 2026 FUARINI BAŞARIYLA TAMAMLADIK!`
+  - `-ISAF 2019 İSTANBUL FUARINI BAŞARI İLE TAMAMLADIK`
+  - `-Han Elektronik’ten Önemli Duyuru; Panasonic ile Distribütörlük Anlaşması İmzalandı!`
+  - `-MILESIGHT 2018 ÖDÜLLERİ`
+  - `+BLOG DUYURULAR 7-8-9 Mart 2017 ISAF Exclusive’deyiz`
+- SB-277 instantbyte.com · home（html）：内容变化：+165 −15 行
+  - `+Switches industriales`
+  - `+Switches industriales`
+  - `-HILOOK THC-B123-P(2.8mm) 2MP, Plastic, IP66, 2MP CMOS Sensor, 30m IR, Outdoor EXIR Bullet, ICR, 0.005 Lux/F1.2, 12 VDC, Smart IR Ver precio −40 %`
+  - `-Dlink DES-3550 SWITCH 48 PUERTOS 10/100 + 2 COMBO SFP-SIM Ver precio −80 %`
+  - `-Netgear MSM4310-100NES M4350-8M2V MANAGED MULTIGIGABIT SWITCH 8 puertos 2.5Gb PoE++ (119W de base y puede llegar a los 551W) Ver precio −6 %`
+  - `+Value 11.99.8817 CABLE USB 2.0 0,7 M, 4 EN 1, CONECTORES A M/ MINI USB 5 PIN - A M/ MICRO USB M RETRACTIL Ver precio −37 %`
+- SB-280 metcom.com.tr · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-280 metcom.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-280 metcom.com.tr · news_1（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-280 metcom.com.tr · news_2（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-280 metcom.com.tr · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：ISAF SECURITY；Hytera PNC360S (PoC) Bas-Konuş Telsiz；Araç Takip Sistemleri；Araç Altı Görüntüleme Sistemi；Metcom Kişi Sayma Sistemi
+- SB-282 nfsteknoloji.com · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-282 nfsteknoloji.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：nfsteknoloji.com；2mp-ip-ir-dome-kamera.html；9；2mp-ahd-ir-bullet-kamera.html；samsung-kamera-guvenlik-kamerasi.html
+- SB-282 nfsteknoloji.com · news_1（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-282 nfsteknoloji.com · news_2（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-283 oncuguvenlik.com.tr · home（html）：内容变化：+3 −3 行
+  - `-$(USD): 50.6836`
+  - `+$(USD): 50.7892`
+  - `-€(EUR): 55.7768`
+  - `+€(EUR): 55.7400`
+  - `-$(USD): 50.6836 | €: 55.7768`
+  - `+$(USD): 50.7892 | €: 55.7400`
+- SB-283 oncuguvenlik.com.tr · sitemap（sitemap）：新增 820 条：2026-03-31 yeni-urunler；2026-04-06 urunlerimiz；2026-04-01 ip-kameralar；2026-03-31 hdtvi-kameralar；2026-03-31 network-kayit-cihazlari-nvr；2026-03-31 hdtvi-kayit-cihazlari-dvr；2026-03-31 mobil-urunler；2026-03-31 ip-kameralar-2…
+- SB-285 rfteknoloji.com.tr · home（html）：内容变化：+2 −111 行
+  - `-RF Radyo Data Modem, 3G/4G Endüstriyel Router Modem, RF Haberleşme Sistemleri, Kablosuz-Telsiz Veri Haberleşmesi`
+  - `-+90 212 210 95 65`
+  - `-info@rfteknoloji.com.tr`
+  - `-Pazartesi - Cuma  -`
+  - `-ANA SAYFA`
+  - `-KURUMSAL HAKKIMIZDA`
+- SB-285 rfteknoloji.com.tr · news_1（html）：内容变化：+2 −240 行
+  - `-HABERLER`
+  - `-+90 212 210 95 65`
+  - `-info@rfteknoloji.com.tr`
+  - `-Pazartesi - Cuma  -`
+  - `-ANA SAYFA`
+  - `-KURUMSAL HAKKIMIZDA`
+- SB-285 rfteknoloji.com.tr · news_2（html）：内容变化：+2 −240 行
+  - `-HABERLER`
+  - `-+90 212 210 95 65`
+  - `-info@rfteknoloji.com.tr`
+  - `-Pazartesi - Cuma  -`
+  - `-ANA SAYFA`
+  - `-KURUMSAL HAKKIMIZDA`
+- SB-287 sea-srl.it · home（html）：内容变化：+1 −1 行
+  - `-Combinatori gsm/gprs/4g Combinatori pstn Ponti radio Ascolto ambientale`
+  - `+Combinatori gsm/gprs/4g Ponti radio Ascolto ambientale`
+- SB-289 sisav.it · home（html）：内容变化：+2 −321 行
+  - `-Homepage - SisAv`
+  - `-Prodotti`
+  - `-Controllo e computer`
+  - `-PC industriali`
+  - `-PC embedded`
+  - `-PC rugged`
+- SB-289 sisav.it · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-289 sisav.it · news_1（html）：内容变化：+2 −262 行
+  - `-News ed Eventi - SisAv`
+  - `-Vai al contenuto`
+  - `-Prodotti`
+  - `-Controllo e computer`
+  - `-PC industriali`
+  - `-PC embedded`
+- SB-289 sisav.it · news_2（html）：内容变化：+2 −233 行
+  - `-SisAv a Cibus Tec 2026 - SisAv`
+  - `-Vai al contenuto`
+  - `-Prodotti`
+  - `-Controllo e computer`
+  - `-PC industriali`
+  - `-PC embedded`
+- SB-289 sisav.it · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 12 条（RSS 窗口滚动属正常）：UEI DNx: sistemi modulari e controllo – test；PIP40；VT；SS；SRK
+- SB-298 VNS technologies · home（html）：内容变化：+2 −181 行
+  - `-VNS Technologies – Your Technology Partner`
+  - `-Home`
+  - `-Portfolio`
+  - `-H3C`
+  - `-Securicorp`
+  - `-Network Optix`
+- SB-298 VNS technologies · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-298 VNS technologies · news_1（html）：内容变化：+2 −91 行
+  - `-Latest News – VNS Technologies`
+  - `-Home`
+  - `-Portfolio`
+  - `-H3C`
+  - `-Securicorp`
+  - `-Network Optix`
+- SB-298 VNS technologies · news_2（html）：内容变化：+2 −77 行
+  - `-Portfolio – VNS Technologies`
+  - `-Home`
+  - `-Portfolio`
+  - `-H3C`
+  - `-Securicorp`
+  - `-Network Optix`
+- SB-298 VNS technologies · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 8 条（RSS 窗口滚动属正常）：VNS Technologies @ Intersec 2020；Huawei Partner’s Award Ceremony 2019；VNS CONNECT 2019；Innovative Security Product of the Year 2019；VNS – Huawei Iftar Meet 2019
+- SB-301 ebatek.com · home（html）：内容变化：+1 −1 行
+  - `-VVQVQC`
+  - `+66161N`
+- SB-301 ebatek.com · news_1（html）：内容变化：+1 −1 行
+  - `-EEzEzl`
+  - `+DDyDyk`
+- SB-301 ebatek.com · news_2（html）：内容变化：+1 −1 行
+  - `-ttotoa`
+  - `+AAvAvi`
+- SB-302 turkuaz · home（html）：内容变化：+2 −72 行
+  - `-Antalya Turkuaz Bilişim | Kurumsal Teknoloji Çözümleri`
+  - `-Markalar`
+  - `-Çözümler`
+  - `-Kurumsal`
+  - `-Referanslar`
+  - `-İletişim`
+- SB-305 Bits&Byte CONSULTING PVT LTD · sitemap（sitemap）：新增 6 条： contact； faqs； privacy-policy； terms-conditions； shipping-returns-refunds； aup
+- SB-305 Bits&Byte CONSULTING PVT LTD · youtube（youtube_handle）：新增 1 条：2026-11-26T13:31:01 SD-WAN in Simple Words: How It Works, Who Needs It & 4 Vendor Questions | bits&BYTE Explai
+- 消失 1 条（RSS 窗口滚动属正常）：Elevate Your Network Setup with bits&BYTE!
+- SB-308 alconlink.com · sitemap（sitemap）：新增 210 条：2026-07-04T06:31:52 253；2026-07-04T06:31:52 219；2026-07-04T06:31:52 95；2026-07-04T06:31:52 284；2026-07-04T06:31:52 162；2026-07-04T06:31:52 163；2026-07-04T06:31:52 324；2026-07-04T06:31:52 326…
+- SB-311 dipolnet.cz · sitemap（sitemap）：新增 820 条：2024-03-25T13:57:01 antena_asp-8w_lux_dvb-t-t2_se_zesilovacem_lna-177_a_filtrem_5g_lte_A0024.htm；2024-03-25T13:57:01 sirokopasmova_tv_antena_asp-8_se_symetrizacnim_clenem_A0028.htm；2024-03-25T13:57:01 sirokopasmova_tv_antena_asp-8w_se_zesilovacem_lna-169_s_filtrem_lte_5g_A0029.htm；2024-03-25T13:57:01 sirokopasmova_tv_antena_asp-4_dvb-t-t2_se_symetrizacnim_clenem_A0050.htm；2025-04-29T05:01:59 sirokopasmova_antena_s_polarizaci_h-v_asp-8_pm_dvb-t-t2_A0060.htm；2024-05-06T05:01:05 antena_radiova_dipol-1-5-12_dab_dvb-t-t2_A0110.htm；2024-05-06T05:01:05 antena_radiova_dipol-4-5-12_dab_dvb-t-t2_A0140.htm；2024-03-25T13:57:01 fm_antena_dipol_1-rz_b_88-108mhz_A0200.htm…
+- SB-313 intellcom.net · sitemap（sitemap）：新增 820 条：2025-12-01 Circuit-Breakers；2025-12-01 %E1%83%93%E1%83%98%E1%83%A4%E1%83%94%E1%83%A0%E1%83%94%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90；2025-12-01 Residual-Circuit-Breaker-w-Overcurrent-Protection；2025-12-01 DC-%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E1%83；2025-12-01 DC-Circuit-Breakers；2025-12-01 Bypass-%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%9B%E1%83%90%E1%83%A2%E1%83%A3%E1%83%A0%E；2025-12-01 Bypass-Circuit-Breakers；2025-12-01 %E1%83%93%E1%83%9C%E1%83%9D%E1%83%91%E1%83%90%E1%83%93%E1%83%98-%E1%83%9B%E1%83%AA%E1%83%9…
+- SB-314 rspotsolutions.com · sitemap（sitemap）：新增 23 条： blog； our-blog-1； feed； technoclear-fiber-optics-data-center-certification-training-2024-19； ai-expo-taiwan-2024-18； vsol-vivanco-ffth-training-workshop-cebu-2024-17； ustp-alubijid-structured-cabling-data-center-training-2024-14； scada-training-workshop-2024-15…
+- SB-316 swl.co.nz · home（html）：内容变化：+14 −14 行
+  - `-33401`
+  - `-Provision-ISR DPAN2-340ADRN: 8MP 180°, 20m Hybrid, IP66, IK10, Active Deterrence`
+  - `-POA`
+  - `-More Info`
+  - `-33667`
+  - `-Provision-ISR Z8-37IPEN-4(LS): 4MP 37x PTZ DDA WDR Laser IR 800m IP67 6-222mm`
+- SB-324 Elhem Trading Co., Sal · home（html）：内容变化：+2 −86 行
+  - `-MTCO`
+  - `-+961 1 245 500 info@mtco-lb.com Mon - Sat:  -`
+  - `-Home`
+  - `-About us`
+  - `-Services`
+  - `-Contact us`
+- SB-324 Elhem Trading Co., Sal · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-324 Elhem Trading Co., Sal · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 7 条（RSS 窗口滚动属正常）：Hello world!；Problems everyone has when working remotely and ho；The best remote UX and UI design conferences to at；Are enterprise teams the next big thing in the fre；How to make the most of a nontraditional startup c
+- SB-329 cansol.co.kr · home（html）：抓取失败：ConnectionError: HTTPConnectionPool(host='error.uhost.co.kr', port=80): Max retries exceeded with url: /stop/4044_Error_Page.html (Caused by NewConnectionError("HTTPConnection(host='error.uhost.co.kr', port=80): Faile
+- SB-330 omninet.com.vn · home（html）：内容变化：+2 −11 行
+  - `-Web Server's Default Page`
+  - `-What is Plesk`
+  - `-Plesk is a hosting panel with simple and secure web server, website and web apps management tools. It is specially designed to help web professionals manage we`
+  - `-Try Plesk Now!`
+  - `-Plesk Guides`
+  - `-Knowledge Base`
+- SB-333 yli.ro · home（html）：内容变化：+14 −14 行
+  - `+IPC-HFW1439TC1-A-LED-0280B-PRO - Camera supraveghere IP exterior Dahua WizColor, 4MP, 2.8mm, lumina alba 20m, microfon, POE`
+  - `+S532(BRAK.F.RAIN) - Carcasa protectie ploaie pentru videointerfonul S532(IP), montaj incastrat`
+  - `+EC33 - Centrala IP pentru controlul accesului la lift, cu 32 de iesiri releu, extensibila`
+  - `+S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535`
+  - `+SCP-211 - Buton iesire de urgenta cu 3 comutatoare NC-COM-NO, semnalizare acustica si luminoasa, IP54`
+  - `+BXB-S18NCB01VF-I-GY-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 2–6 secunde, brat de pana la 8 metri, reversibila`
+- SB-338 MAX protect · home（html）：内容变化：+213 −159 行
+  - `-Neuf`
+  - `-`
+  - `-Aperçu rapide`
+  - `-Hikvision 4MP – Caméra IP dôme AcuSense, Smart Hybrid Light, varifocale motorisée 2,8–12 mm (DS-2CD2743G2-LIZS2U)`
+  - `-930,000 TND`
+  - `-`
+- SB-347 avcomm.us · sitemap（sitemap）：新增 820 条： inc.avcomm.us； help-1； faq； feed； feed； feed； feed； feed…
+- SB-355 gaotek.com · feed_auto（rss）：新增 1 条：Thu, 26 Nov 2026 22 GETX официальный сайт: полный бонус‑гид и условия приветственного бонуса
+- 消失 1 条（RSS 窗口滚动属正常）：Vauhdikas No Deposit Bonus For Finland: A Comprehe
+- SB-356 infinicoreinc.com · intel_news_en（rss）：状态变化：HTTP 429 → HTTP 503
+- SB-368 welotec.com · news_2（html）：内容变化：+1 −1 行
+  - `-virtualization`
+  - `+Virtualization`
+- SB-369 wieland-electric.com · home（html）：内容变化：+63 −3 行
+  - `+gesis® PLAN`
+  - `+Wieland PREFAB® TCO Calculator`
+  - `-gesis® PLAN`
+  - `-Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) samos® PLAN6 gesis® PLAN selos PLAN Terminal Block C`
+  - `+Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) gesis® PLAN Wieland PREFAB® TCO Calculator samos® PL`
+  - `-Wieland Electric is a medium-sized family business in the electrical and electronics industry based in Bamb`
+- SB-369 wieland-electric.com · news_1（html）：内容变化：+146 −3 行
+  - `+gesis® PLAN`
+  - `+Wieland PREFAB® TCO Calculator`
+  - `-gesis® PLAN`
+  - `-Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) samos® PLAN6 gesis® PLAN selos PLAN Terminal Block C`
+  - `+Software & Apps Back Software & Apps Building Solutions Designer BIM Building Solutions Configurator (BSC) gesis® PLAN Wieland PREFAB® TCO Calculator samos® PL`
+  - `-READY FOR THE FUTURE OF MODULAR CON`
+- SB-372 很多UK公司在卖他们的产品 · sitemap（sitemap）：新增 113 条： amg-help-digitise-cardiffs-traffic-monitoring-cctv-network； borough-of-barnet-public-cctv-at-its-best； amg-supports-security-upgrade-at-fustat-garden； amg-powering-security-connectivity-at-the-avenues-riyadh； a-new-chapter-for-egypts-tourism-journey； support； technical-support； remote-assistance…
+- SB-378 Pal Wintec · home（html）：内容变化：+2 −44 行
+  - `-עמוד הבית - פאל ווינטק מערכות בע"מ`
+  - `-דילוג לתוכן`
+  - `-עמוד הבית`
+  - `-אודותינו`
+  - `-הצהרת נגישות`
+  - `-מדיניות פרטיות`
+- SB-378 Pal Wintec · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-378 Pal Wintec · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Elementor #3717；קודן אינטרקום לבתי פרטיים；מערכת אינטרקום אלחוטית；התקנת מערכות אינטרקום；מערכות בקרת כניסה
+- SB-380 Yellowbox Co Pty Ltd · home（html）：内容变化：+24 −23 行
+  - `-Meet Yellowbox`
+  - `-Yellowbox is the leading smart locker system for modern workplaces`
+  - `-01 / 03`
+  - `+Access`
+  - `+The credential they already carry`
+  - `+opens a year`
+- SB-380 Yellowbox Co Pty Ltd · sitemap（sitemap）：新增 94 条： intercontinental-hotel-melbourne； ispt； liberty-brisbane； liberty-melbourne； lseg-gdynia； match-group-london； palo-alto-networks-singapore； perpetual-perth…
+- SB-381 accessofranco.com · sitemap（sitemap）：新增 820 条：2026-11-27 333727752；2026-11-27 164103000；2026-11-27 509645384；2026-11-27 201477656；2026-11-27 121591432；2026-11-27 430520536；2026-11-27 248758472；2026-11-27 72804760…
+- 更新 80 条：271815176（2026-11-26 → 2026-11-27）；86837592（2026-11-26 → 2026-11-27）；125407816（2026-11-26 → 2026-11-27）；218294808（2026-11-26 → 2026-11-27）；352858248（2026-11-26 → 2026-11-27）；205527768（2026-11-26 → 2026-11-27）；302729928（2026-11-26 → 2026-11-27）；55565208（2026-11-26 → 2026-11-27）
+- SB-383 autechcontrol.com.au · home（html）：内容变化：+2 −279 行
+  - `-Automation Product and Services Provider in Australia`
+  - `-Skip to content`
+  - `-Products`
+  - `-All in One controllers`
+  - `-Canvas Series`
+  - `-XL Prime Series`
+- SB-383 autechcontrol.com.au · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-384 canacctv.com · home（html）：内容变化：+2 −140 行
+  - `-CANACCTV – Supply for Video Surveillance`
+  - `-Skip to content`
+  - `-Menu`
+  - `-HOME`
+  - `-Monthly Deals`
+  - `-PRODUCTS`
+- SB-384 canacctv.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-385 dtsdigitalcctv.co.uk · sitemap（sitemap）：新增 820 条：2020-03-30 proddetail.asp?prod=DCS-4701E；2020-03-30 proddetail.asp?prod=DCS-7000L；2020-03-30 proddetail.asp?prod=DCS-7010L-B；2020-03-30 proddetail.asp?prod=DCS-7413-B；2020-03-30 proddetail.asp?prod=DCS-7513-B；2020-03-30 proddetail.asp?prod=SEE875B；2020-03-30 proddetail.asp?prod=SEE875W；2020-03-30 proddetail.asp?prod=GAHDB21W…
+- SB-391 inscapedata.com · home（html）：内容变化：+2 −184 行
+  - `-Outdoor PoE Switch, Leader in Outdoor Network Solutions, Outdoor 2, 4, 8 Port Gigabit PoE Switch, Outdoor PoE Managed Switch, Weatherproof Gigabit PoE Switch,`
+  - `-Products & Solutions`
+  - `-Outdoor PoE & Enclosure Solutions`
+  - `-Outdoor PoE Switch Systems`
+  - `-Outdoor UPS & UPS PoE Systems`
+  - `-Outdoor Din Rail PoE Systems`
+- SB-391 inscapedata.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：sitemap.htm；inscapedata.com；index.htm；successstories.htm；lps800.htm
+- SB-391 inscapedata.com · news_1（html）：内容变化：+2 −177 行
+  - `-Events, Newsletter & Press Releases| Inscape Data Corporation`
+  - `-Home`
+  - `-Products & Solutions`
+  - `-Outdoor PoE & Enclosure Solutions`
+  - `-Outdoor PoE Switch Systems`
+  - `-Outdoor UPS & UPS PoE Systems`
+- SB-391 inscapedata.com · news_2（html）：内容变化：+2 −131 行
+  - `-Inscape Data`
+  - `-Skip to content`
+  - `-Home`
+  - `-Products & Solutions Outdoor PoE & Enclosure Solutions Outdoor PoE Switches`
+  - `-Outdoor Din Rail & Rack Mount PoE Switches`
+  - `-Outdoor UPS & UPS Systems`
+- SB-394 maxtel.bg · home（html）：内容变化：+2 −82 行
+  - `-Начало - Макстел`
+  - `-Начало`
+  - `-За нас`
+  - `-История`
+  - `-Сертификати`
+  - `-Партньори`
+- SB-394 maxtel.bg · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-394 maxtel.bg · news_1（html）：内容变化：+2 −160 行
+  - `-Новини - Макстел`
+  - `-Начало`
+  - `-За нас`
+  - `-История`
+  - `-Сертификати`
+  - `-Партньори`
+- SB-394 maxtel.bg · news_2（html）：内容变化：+2 −66 行
+  - `-Референции - Макстел`
+  - `-Начало`
+  - `-За нас`
+  - `-История`
+  - `-Сертификати`
+  - `-Партньори`
+- SB-394 maxtel.bg · intel_careers（html）：内容变化：+2 −63 行
+  - `-Работа при нас - Макстел`
+  - `-Начало`
+  - `-За нас`
+  - `-История`
+  - `-Сертификати`
+  - `-Партньори`
+- SB-394 maxtel.bg · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Подкрепа за малки предприятия с оборот над 500 000；Успешно завършен проект за видеонаблюдение в градс；Plantronics спира производство；Преодоляване недостига на средства и липсата на ли；МАКСТЕЛ ООД стартира партньорство с BIXOLON
+- SB-395 mercku.com · home（html）：内容变化：+1 −0 行
+  - `+Watch the demo`
+- SB-397 netiks.rs · home（html）：内容变化：+56 −5 行
+  - `-Svi proizvodi (3988)`
+  - `+Svi proizvodi (3986)`
+  - `-Kartice - PC adapteri (147)`
+  - `+Kartice - PC adapteri (145)`
+  - `-10/100/1000 Gigabit (16)`
+  - `+10/100/1000 Gigabit (14)`
+- SB-399 petawise.com · sitemap（sitemap）：新增 125 条：2020-12-08T08:16:31 ipc314sr-dvpf2836；2020-12-08T08:16:31 ipc314sr-dvpf36；2020-12-08T08:16:31 ipc322er3-dvpf2840；2020-12-08T08:16:31 ipc322er3-duvpf40；2020-12-08T08:16:31 ipc322er3-duvpf2840；2020-12-08T08:16:31 ipc322sr3-duvpf40；2020-12-08T08:16:31 ipc3232er-vs；2020-12-08T08:16:31 ipc3232er3-duvz…
+- SB-402 sfpturkey.com.tr · home（html）：内容变化：+1 −1 行
+  - `-USD : 50.7201 TL`
+  - `+USD : 50.7537 TL`
+- SB-405 tinycontrol.pl · sitemap（sitemap）：新增 218 条： accessories_boards_rj12-splitter-3xi2c1w-4x1w； accessories_boards_relays-board-1x； relay-board-1x-din； relays-board-4x16a； environmental-sensors； bme280； sps30； magnetic-contact…
+- SB-407 winnerintertech.com · home（html）：内容变化：+3 −3 行
+  - `-430,930`
+  - `+431,832`
+  - `-706`
+  - `+680`
+  - `-34`
+  - `+25`
+- SB-407 winnerintertech.com · news_1（html）：内容变化：+3 −3 行
+  - `-430,931`
+  - `+431,833`
+  - `-707`
+  - `+681`
+  - `-35`
+  - `+26`
+- SB-407 winnerintertech.com · news_2（html）：内容变化：+3 −3 行
+  - `-430,932`
+  - `+431,834`
+  - `-708`
+  - `+682`
+  - `-36`
+  - `+27`
+- SB-408 xblue.com · home（html）：内容变化：+2 −47 行
+  - `-XBLUE.com - Business Phone Systems`
+  - `-Skip to content`
+  - `-866-925-8312`
+  - `-913-599-2583`
+  - `-Send a Message`
+  - `-Menu`
+- SB-408 xblue.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-408 xblue.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 6 条（RSS 窗口滚动属正常）：Unlimited Landscapes, Stone & Granite；Douglas Okanogan County Fire District；Massage Height’s – San Antonio；CVP Productions Inc；Upper Canada Marine
+- SB-409 xlrsecurity.com · sitemap（sitemap）：新增 481 条：2026-08-16T20:13:21 blog；2026-10-26T19:32:48 lens-preview；2026-10-14T05:13:22 privacy-policy；2026-10-12T05:19:50 uniview-distributor；2026-10-12T05:19:49 dealer-program；2026-10-12T04:22:13 support；2026-10-07T15:13:53 contact；2026-10-04T23:55:18 about…
+- 更新 3 条：tr-jb12-in-outdoor-weatherproof-enclosure（2026-11-24T08:26:14 → 2026-11-26T21:25:56）；ipc3624sr-adf28km-wp-bk（2026-11-24T22:25:20 → 2026-11-26T07:25:50）；nvr504-32b-p16（2026-11-20T21:25:31 → 2026-11-26T07:25:49）
+- SB-409 xlrsecurity.com · news_2（html）：内容变化：+9 −9 行
+  - `-Uniview IP Camera Accessories Explained`
+  - `-If you're planning to install a security system made by Uniview, you'll need to do a bit of research to…`
+  - `-April 12, 2023`
+  - `-Should I Use an SSD or HDD inside an NVR?`
+  - `-An HDD and SSD both accomplish the same task (storing footage) but in different ways. A hard drive is a…`
+  - `-June 24, 2024`
+- SB-415 a2s.pl · home（html）：内容变化：+6 −6 行
+  - `+NPEIO-4AI`
+  - `+Protokół Modbus RTU, 4x AI, RS-485,`
+  - `+ZigBee Sensor ZS-10`
+  - `+Wielokanałowy czujnik ZigBee z zasilaniem...`
+  - `-ZigBee Sensor ZS-10`
+  - `-Wielokanałowy czujnik ZigBee z zasilaniem...`
+- SB-418 atel.com.pl · home（html）：内容变化：+42 −42 行
+  - `-Czwartek, 26 listopada`
+  - `+Piątek, 27 listopada`
+  - `+PATCHCORDY, miedziane i światłowodowe`
+  - `+Urządzenia zgodne z normą kolejową EN50155`
+  - `+Sieci Przemysłowe - ORing Industrial Networking`
+  - `+Konsole LCD KVM, Przełączniki KVM - kat.5, IP - WaveKVM`
+- SB-418 atel.com.pl · sitemap（sitemap）：新增 820 条： www.atel.com.pl； ofirmie.php； partnerzy_handlowi.php； rekomendacje.php； wspolpraca.php； wspieramy.php； srodowisko.php； siedziba_glowna.php…
+- SB-420 cdr.pl · home（html）：内容变化：+34 −34 行
+  - `+417,76 zł`
+  - `+513,84 zł z VAT`
+  - `+MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE`
+  - `+60,34 zł`
+  - `+74,22 zł z VAT`
+  - `+Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT`
+- SB-420 cdr.pl · sitemap（sitemap）：新增 820 条： k976,access-pointy-routery-systemy-bezprzewodowe-hotspot-ubiquiti-unifi-unifi-cloud-keys-g； k977,access-pointy-routery-systemy-bezprzewodowe-hotspot-ubiquiti-unifi-unifi-punkty-doste； k978,access-pointy-routery-systemy-bezprzewodowe-hotspot-ubiquiti-unifi-unifi-switche.html； k979,access-pointy-routery-systemy-bezprzewodowe-hotspot-ubiquiti-unifi-unifi-switche-unif； k980,access-pointy-routery-systemy-bezprzewodowe-hotspot-ubiquiti-unifi-unifi-switche-unif； k981,access-pointy-routery-systemy-bezprzewodowe-hotspot-grandstream-gwn.html； k982,access-pointy-routery-systemy-bezprzewodowe-hotspot-grandstream-gwn-gwn-punkty-dostep； k983,access-pointy-routery-systemy-bezprzewodowe-hotspot-grandstream-gwn-gwn-switche.html…
+- SB-425 gsginternational.com · home（html）：内容变化：+8 −9 行
+  - `+Panomera® S Series`
+  - `+Telecamera Panomera® S Series`
+  - `+Scopri`
+  - `+SECUREPARK®`
+  - `+Mobile App di Gestione Parcheggi`
+  - `+Scopri`
+- SB-425 gsginternational.com · sitemap（sitemap）：新增 147 条：2019-02-19T17:23:13 arh_smartcamera.pdf；2019-02-27T08:59:25 infosheet_thrulink_rev1603a.pdf；2019-03-07T10:09:57 lt_800gbtme_en.pdf；2019-04-02T11:00:15 security_center___programma_corsi.pdf；2019-05-13T10:12:14 specsheet_spb_series_rev1804.pdf；2019-04-17T10:09:28 the_swarm_module_rv2.0.pdf；2019-08-02T07:23:48 novita-security-center-5-7-n-157.html；2019-08-02T07:23:48 calendario-corsi-genetec-2018-n-156.html…
+- SB-426 helmholz.de · home（html）：内容变化：+0 −5 行
+  - `-SPS-Messeticket bestellen`
+  - `-Messe`
+  - `-24. – 26. November 2026`
+  - `-Besuchen Sie uns auf der SPS Nürnberg am Stand 7-115.`
+  - `-SPS Ticket sichern`
+- SB-426 helmholz.de · news_1（html）：内容变化：+0 −1 行
+  - `-SPS-Messeticket bestellen`
+- SB-426 helmholz.de · news_2（html）：内容变化：+0 −12 行
+  - `-SPS-Messeticket bestellen`
+  - `-Datum`
+  - `-Messe`
+  - `-Ort`
+  - `-24.11.`
+  - `-– 26.11.2026`
+- SB-427 longlinenetwork.com · home（html）：内容变化：+2 −120 行
+  - `-Anasayfa | Longline Network`
+  - `-Sfp Transceiver 100G QSFP28`
+  - `-100G CFP/CFP2/CFP4`
+  - `-40G QSFP+`
+  - `-25G SFP28`
+  - `-10G SFP+/XFP`
+- SB-427 longlinenetwork.com · news_1（html）：内容变化：+2 −107 行
+  - `-Blog | Longline Network`
+  - `-Sfp Transceiver 100G QSFP28`
+  - `-100G CFP/CFP2/CFP4`
+  - `-40G QSFP+`
+  - `-25G SFP28`
+  - `-10G SFP+/XFP`
+- SB-427 longlinenetwork.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Longline 5 Port Gigabit Ethernet Switch | 10/100/1；Longline 5 Port Desktop Ethernet Switch | 10/100 M；Longline 8 Port Gigabit Ethernet Switch | 10/100/1；Longline 4 Port Gigabit PoE Switch | 2 Uplink；Longline 8 Port Gigabit PoE Switch | 2 Uplink Port
+- SB-428 media-konwertery.pl · home（html）：内容变化：+97 −97 行
+  - `+TP-Link MC210CS`
+  - `+222,94 zł`
+  - `+zoom`
+  - `+Gwarancja: 2 lata`
+  - `+Ilość:`
+  - `+Kup teraz`
+- SB-430 pro-tek.pro · home（html）：内容变化：+676 −31 行
+  - `-Новинка`
+  - `-Распродажа`
+  - `-В наличии`
+  - `-F-PA-96401PS Беспроводная охранная контрольная панель на 96 устройств iFlow (следы монтажа)`
+  - `-iFlow`
+  - `-14 578.85`
+- SB-433 rister.com · home（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='rister.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='rister.com', port=443) at 0x786e94404da0>, 'Connection to riste
+- SB-433 rister.com · news_1（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='rister.com', port=443): Max retries exceeded with url: /blog/noticias (Caused by ConnectTimeoutError(<HTTPSConnection(host='rister.com', port=443) at 0x786e976a1e20>, 'Connec
+- SB-433 rister.com · news_2（html）：抓取失败：ConnectTimeout: HTTPSConnectionPool(host='rister.com', port=443): Max retries exceeded with url: /blog/formacion (Caused by ConnectTimeoutError(<HTTPSConnection(host='rister.com', port=443) at 0x786e94405100>, 'Conne
+- SB-434 s-connect.es · home（html）：内容变化：+9 −11 行
+  - `+Niseva XE33-1C-LoRa - Gateway LoRa`
+  - `+Milesight SG50 - LoRaWAN Gateway solar`
+  - `+Milesight UG63 - Mini LoRaWAN Gateway`
+  - `+Milesight UG56 - LoRaWAN Gateway industrial`
+  - `+Milesight UG67 - LoRaWAN Gateway Outdoor`
+  - `+Kerlink Wirnet iBTS - Gateway LoRaWAN Outdoor`
+- SB-440 JMP · home（html）：内容变化：+7 −21 行
+  - `-제`
+  - `-이`
+  - `-엠`
+  - `-피`
+  - `-시`
+  - `-스`
+- SB-442 Optima Soft · home（html）：内容变化：+2 −178 行
+  - `-Optima Engineering | Road Blockers | Bollards | Gates | Barriers | Security Automation Systems`
+  - `-Search`
+  - `-✕`
+  - `-Popular:`
+  - `-Barrier`
+  - `-Road Blocker`
+- SB-442 Optima Soft · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：yol-bloklari；mantar-bariyer；bollards；bornes；bolardos
+- SB-442 Optima Soft · news_1（html）：内容变化：+2 −137 行
+  - `-News | Optima Engineering`
+  - `-Search`
+  - `-✕`
+  - `-Popular:`
+  - `-Barrier`
+  - `-Road Blocker`
+- SB-442 Optima Soft · news_2（html）：内容变化：+2 −121 行
+  - `-OKSİAD 2025 | Optima Engineering`
+  - `-Search`
+  - `-✕`
+  - `-Popular:`
+  - `-Barrier`
+  - `-Road Blocker`
+- SB-445 aicom.pl · sitemap（sitemap）：新增 820 条：2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomodowe-lc-lc,list,601,1；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomodowe-lc-scapc,list,60；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomodowe-sc-lc,list,603,1；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomodowe-sc-sc,list,604,1；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomodowe-sc-scapc,list,60；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-jednomodowe-scapc-scapc,list；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-wielomodowe,list,586,1；2026-11-27 kable-i-przewody-kable-swiatlowodowe-polaczeniowe-patch-cordy-wielomodowe-lc-lc,list,607,1…
+- 更新 80 条：dla-data-center,list,317,1（2026-11-26 → 2026-11-27）；dla-data-center-system-hds,list,332,1（2026-11-26 → 2026-11-27）；dla-data-center-system-kasetowy,list,331,1（2026-11-26 → 2026-11-27）；drukarki-i-akcesoria-dymo,list,728,1（2026-11-26 → 2026-11-27）；drukarki-i-akcesoria-dymo-akcesoria,list,730,1（2026-11-26 → 2026-11-27）；drukarki-i-akcesoria-dymo-drukarki,list,729,1（2026-11-26 → 2026-11-27）；drukarki-i-akcesoria-dymo-tasmy,list,731,1（2026-11-26 → 2026-11-27）；inteligentny-system-zarzadzania-ipms,list,476,1（2026-11-26 → 2026-11-27）
+- SB-446 amatek.su · sitemap（sitemap）：新增 820 条：2015-09-01 nachalo_prodaz；2015-10-30 amatek_sfitex；2016-02-05 registratori_ar-hf164_ar-hf16164；2016-03-01 amatek_ac-as205v；2016-03-18 mips2016；2016-03-28 news-13；2016-03-28 news-14；2016-04-25 news-15…
+- 更新 7 条：amatek.su（2026-11-26 → 2026-11-27）；catalog（2026-11-26 → 2026-11-27）；new（2026-11-26 → 2026-11-27）；lens（2026-11-26 → 2026-11-27）；m12（2026-11-26 → 2026-11-27）；dopolnitelnoe（2026-11-26 → 2026-11-27）；ptz-controller（2026-11-26 → 2026-11-27）
+- SB-448 bettinivideo.com · home（html）：内容变化：+4 −4 行
+  - `-Italiano`
+  - `-English`
+  - `+Error!`
+  - `+No 'PLL_Widget_Languages' widget registered in this installation.`
+  - `-Italiano`
+  - `-English`
+- SB-448 bettinivideo.com · news_1（html）：内容变化：+4 −4 行
+  - `-Italiano`
+  - `-English`
+  - `+Error!`
+  - `+No 'PLL_Widget_Languages' widget registered in this installation.`
+  - `-Italiano`
+  - `-English`
+- SB-450 comtech.net.pk · home（html）：内容变化：+2 −170 行
+  - `-Home - COMTECH ASSOCIATES`
+  - `-Services`
+  - `-CyberSecurity`
+  - `-Networking`
+  - `-Data Center`
+  - `-IT & Managed Services`
+- SB-450 comtech.net.pk · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-450 comtech.net.pk · news_1（html）：内容变化：+2 −58 行
+  - `-Events - COMTECH ASSOCIATES`
+  - `-Services`
+  - `-CyberSecurity`
+  - `-Networking`
+  - `-Data Center`
+  - `-IT & Managed Services`
+- SB-450 comtech.net.pk · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：testing；How 24/7 Infrastructure Support Reduces Downtime；TOP 5 NETWORK MISTAKES PAKISTANI BUSINESSES MAKE；Growing Cyber Attacks in Pakistan: Threats, Vulner；Protect, Detect, Prevent: Network Security Through
+- SB-452 espuk.com · sitemap（sitemap）：新增 803 条：2026-11-27 RC228BW；2026-11-27 RC228TB；2026-11-27 RC228TW；2026-11-27 HC428BB；2026-11-27 HC428BW；2026-11-27 HC428TB；2026-11-27 HC428TW；2026-11-27 HC528FBW…
+- 更新 80 条：A1ECP（2026-11-26 → 2026-11-27）；A1ECPCVR（2026-11-26 → 2026-11-27）；A1ECPKEY（2026-11-26 → 2026-11-27）；A1EXIT（2026-11-26 → 2026-11-27）；A1IPDSM1（2026-11-26 → 2026-11-27）；A1IPKB（2026-11-26 → 2026-11-27）；A1IPKW（2026-11-26 → 2026-11-27）；A1IPMB（2026-11-26 → 2026-11-27）
+- SB-452 espuk.com · news_1（html）：内容变化：+10 −7 行
+  - `+Elucian`
+  - `-11`
+  - `-of`
+  - `-11`
+  - `-results`
+  - `+12`
+- SB-452 espuk.com · news_2（html）：内容变化：+10 −7 行
+  - `+Elucian`
+  - `-11`
+  - `-of`
+  - `-11`
+  - `-results`
+  - `+12`
+- SB-453 gmtcontrol.com · home（html）：内容变化：+1 −2 行
+  - `-Skip to content`
+  - `-Skip to footer`
+  - `+Skip to content Skip to footer`
+- SB-453 gmtcontrol.com · news_1（html）：内容变化：+1 −2 行
+  - `-Skip to content`
+  - `-Skip to footer`
+  - `+Skip to content Skip to footer`
+- SB-455 maxlink.cz · home（html）：内容变化：+11 −11 行
+  - `+ML-SFP-RJ45-10G-H3C MaxLink SFP+ 1/2.5/5/10G metalický modul, RJ-45, 30m, 10Gbps, H3C`
+  - `+ML-SFP-RJ45-10G-H3C je 10 Gbps SFP+ metalický modul s konektorem RJ45 pro metalický kabel. Jedná se o cisco kompatiblní modul. Dosah modulu pro 10G přenos je 3`
+  - `+ML-S+31D-10-HPE MaxLink 10G SFP+ optický HP modul, SM, 1310nm, 10km, 2x LC konektor, DDM, HPE kompatibilní`
+  - `+Maxlink ML-S+31D-10-HPE je 10G SFP+ modul s 1310nm vlnovou délkou, dvěmi LC konektory a maximální vzdáleností 10km po singlemode optickém vlákně. SFP+ modul po`
+  - `+ML-S+31D-40 MaxLink 10G SFP+ optický modul, SM, 1310nm, 40km, 2x LC konektor, DDM`
+  - `+ML-S+31D-40 je singlemode 10G SFP+ modul s vlnovou délkou 1310nm a dvěma LC konektory pro spojení až na vzdálenost 40km. Modul je "cisco compatibile" a je komp`
+- SB-455 maxlink.cz · sitemap（sitemap）：新增 820 条： product； product； product； product； product； product； product； product…
+- SB-456 pancakumala.co.id · home（html）：内容变化：+2 −219 行
+  - `-Home - Panca Kumala Jaya- Competent Partner in Smatv & Security Solution`
+  - `-Competent Partner in Smatv & Security Solution`
+  - `-Hunting: 021-5643366`
+  - `-(Monday - Saturday)`
+  - `-Mail us for help:`
+  - `-customerservice.pkj@gmail.com`
+- SB-456 pancakumala.co.id · news_1（html）：内容变化：+2 −366 行
+  - `-Projects - Panca Kumala Jaya`
+  - `-Competent Partner in Smatv & Security Solution`
+  - `-Hunting: 021-5643366`
+  - `-(Monday - Saturday)`
+  - `-Mail us for help:`
+  - `-customerservice.pkj@gmail.com`
+- SB-457 pavotek.com.tr · home（html）：内容变化：+2 −47 行
+  - `-Pavotek`
+  - `-About Us`
+  - `-Capabilities`
+  - `-Solutions`
+  - `-Policies`
+  - `-Policies & Disclosure Notices`
+- SB-459 ssdcam.ru · home（html）：内容变化：+38 −37 行
+  - `+POE коммутаторы`
+  - `+Коммутатор POE-54P`
+  - `+4 порта POE 10/100 Мб/с`
+  - `+Общая мощность 72W`
+  - `+2 порта UpLink 100 Мб/с`
+  - `+Встроенный блок 220V`
+- SB-459 ssdcam.ru · telegram（html）：内容变化：+4 −4 行
+  - `-295 views`
+  - `+296 views`
+  - `-194 views edited`
+  - `+195 views edited`
+  - `-350 views edited`
+  - `+352 views edited`
+- SB-462 Eter biometric technologies Sr · youtube（youtube_handle）：新增 2 条：2026-11-27T06:32:19 Meet AI Summary in Hik-Connect V7.0；2026-11-27T03:52:21 HPP Designer: AI Enabled Wall Detecion
+- 消失 2 条（RSS 窗口滚动属正常）：Star Voices EP02 | The Product That Changed My Wor；Star Voices EP01 | Becoming a HikTech Star
+- SB-465 Koza · home（html）：内容变化：+3 −3 行
+  - `+Konvansiyonel Sistem`
+  - `+Yangın Acil Çıkış Levhaları..`
+  - `-Beam Dedektör`
+  - `-Adresli Sistem`
+  - `-Parmak İzi PDKS Sistemleri..`
+  - `+Kartlı PDKS Sistemleri..`
+- SB-465 Koza · sitemap（sitemap）：首轮基线
+- SB-467 NORTEL · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='norteliletisim.com', port=443): Read timed out. (read timeout=20)
+- SB-470 asm.cz · home（html）：内容变化：+323 −1 行
+  - `-5G/`
+  - `+5G/4G/LTE`
+  - `+Antény`
+  - `+`
+  - `+PoE & Fotovoltaika`
+  - `+`
+- SB-475 cctvdepo.com · home（html）：内容变化：+2 −2 行
+  - `-50,68`
+  - `+50,79`
+  - `-© 2026 Dokuzbit™ All Rights Reserved. v3.0.0 @ 11/26/2026`
+  - `+© 2026 Dokuzbit™ All Rights Reserved. v3.0.0 @ 11/27/2026`
+- SB-478 eurocamguvenlik.com.tr · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-478 eurocamguvenlik.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：eurocamguvenlik.com.tr；urunler.php；hizmetlerimiz.php；markalarimiz.php；hakkimizda.php
+- SB-486 ngapl.in · home（html）：内容变化：+2 −160 行
+  - `-NextGen – Solutions Simplified`
+  - `-Home`
+  - `-About NGAPL`
+  - `-Business Associates`
+  - `-Siemens`
+  - `-Phoenix Contact`
+- SB-486 ngapl.in · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 7 条（RSS 窗口滚动属正常）：Hello world!；We Believe in Building Long Lasting our Business R；Digital technology internships a win for students ；How nations around the world are investing in robo；Strategy launched to help increase industrial auto
+- SB-489 portel.com.tr · home（html）：内容变化：+2 −67 行
+  - `-Portel Teknoloji A.Ş. - Ana Sayfa`
+  - `-bilgi@industrialnetworkcenter.com`
+  - `-+90 216 464 44 50`
+  - `-Ana Sayfa`
+  - `-Hakkımızda`
+  - `-Hizmetlerimiz`
+- SB-489 portel.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-489 portel.com.tr · intel_news_tr（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-489 portel.com.tr · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Test Blog Yazısı-10；Test Blog Yazısı-9；Test Blog Yazısı-8；Test Blog Yazısı-7；Test Blog Yazısı-6
+- SB-490 radioteknoloji.com.tr · sitemap（sitemap）：新增 243 条：2026-07-08T11:16:06 ilgaz-belediye-bakanmz-sayn-mehmet-ztrk-irketimizde-arladk；2026-07-08T08:13:19 saha-expo-2026-youn-katlmla-tamamland；2025-12-30T17:30:00 mutlu-yillar-happy-new-year；2025-10-25T14:12:29 akilli-mobil-haberlesme-cozumu-drive；2025-10-10T05:14:00 standmza-yogun-ilgi；2025-10-08T07:01:00 isp-internet-servis-salayc-firmalarn-tercihi-infinet-wireless；2025-09-15T19:25:00 endustriyel-mobil-kablosuz-ag-cozumu-astradrive-web-semineri-tamamlandi；2025-08-08T03:01:00 idef-2025-yogun-katilimla-tamamlandi…
+- 更新 15 条：www.radioteknoloji.com.tr（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；products（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；brands（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；categories（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；blog（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；news（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；solutions（2026-11-26T11:23:33 → 2026-11-27T11:15:56）；about（2026-11-26T11:23:33 → 2026-11-27T11:15:56）
+- SB-493 syserso.com · home（html）：内容变化：+2 −86 行
+  - `-Customized ICT Solutions. – Syserso Networks`
+  - `-Zum Inhalt springen`
+  - `-Linkedin`
+  - `-Xing`
+  - `-Youtube`
+  - `-Suche`
+- SB-493 syserso.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-493 syserso.com · intel_news_de（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-493 syserso.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 7 条（RSS 窗口滚动属正常）：ANGA COM 2026；fiberdays 2026；secIT by Heise；it-sa Expo&Congress 2025；ANGA COM 2025
+- SB-494 teleone.com.tr · home（html）：内容变化：+2 −85 行
+  - `-Teleone: Think bigger, make better – Video Surveillance Solution Provider`
+  - `-0850 221 95 95`
+  - `-info@teleone.com.tr`
+  - `-Anasayfa`
+  - `-Kurumsal`
+  - `-Hakkımızda`
+- SB-494 teleone.com.tr · news_1（html）：内容变化：+2 −61 行
+  - `-Haberler – Teleone: Think bigger, make better`
+  - `-0850 221 95 95`
+  - `-info@teleone.com.tr`
+  - `-Anasayfa`
+  - `-Kurumsal`
+  - `-Hakkımızda`
+- SB-494 teleone.com.tr · news_2（html）：内容变化：+2 −62 行
+  - `-Duyurular – Teleone: Think bigger, make better`
+  - `-0850 221 95 95`
+  - `-info@teleone.com.tr`
+  - `-Anasayfa`
+  - `-Kurumsal`
+  - `-Hakkımızda`
+- SB-494 teleone.com.tr · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 6 条（RSS 窗口滚动属正常）：Termal Kamera ile Korona (Corona) virüsü tespiti；Korona Tespiti；Devlet Malzeme Ofisi IP Kamera Sistemi；Korona Tespiti Kit Çözümü Hk.；Personel Alımı
+- SB-495 topnetdistribution.com · home（html）：内容变化：+2 −164 行
+  - `-Topnet Distribution | information and communication technology`
+  - `-Product Enquiry`
+  - `-Enabling Network Connectivity`
+  - `-Call Us : +971 4 299 1162`
+  - `-Menu Home`
+  - `-About Projects`
+- SB-495 topnetdistribution.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-495 topnetdistribution.com · news_1（html）：内容变化：+2 −86 行
+  - `-News | Topnet`
+  - `-Product Enquiry`
+  - `-Enabling Network Connectivity`
+  - `-Call Us : +971 4 299 1162`
+  - `-Menu Home`
+  - `-About Projects`
+- SB-495 topnetdistribution.com · news_2（html）：内容变化：+2 −223 行
+  - `-Projects | Topnet`
+  - `-Product Enquiry`
+  - `-Enabling Network Connectivity`
+  - `-Call Us : +971 4 299 1162`
+  - `-Menu Home`
+  - `-About Projects`
+- SB-495 topnetdistribution.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 3 条（RSS 窗口滚动属正常）：Fluke Networks Promotion! Tested. Trusted. Ready f；Topnet Delivers Another Successful BICSI TE350 Tra；Topnet Distribution Celebrates 20 Years of Excelle
+- SB-503 elprotech.com · home（html）：内容变化：+2 −102 行
+  - `-Industrial Wireless Communication & Control Systems`
+  - `-ABOUT US`
+  - `-PRODUCTS`
+  - `-I/O`
+  - `-GATEWAY`
+  - `-MODEM`
+- SB-503 elprotech.com · news_1（html）：内容变化：+2 −73 行
+  - `-News - Elpro`
+  - `-ABOUT US`
+  - `-PRODUCTS`
+  - `-I/O`
+  - `-GATEWAY`
+  - `-MODEM`
+- SB-503 elprotech.com · news_2（html）：内容变化：+2 −78 行
+  - `-Elpro's Industrial Communication Solutions | Case Studies`
+  - `-ABOUT US`
+  - `-PRODUCTS`
+  - `-I/O`
+  - `-GATEWAY`
+  - `-MODEM`
+- SB-503 elprotech.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 5 条（RSS 窗口滚动属正常）：Important Update: Upcoming Pricing Adjustments and；Quantum Edge the smartest, most cost-effective cho；Aramco Saudi Residential Development；At the forefront of Australia’s flood warning syst；Gold Coast Flood & Disaster Management System Upgr
+- SB-505 eso.co.th · home（html）：内容变化：+3 −3 行
+  - `-2,632,542`
+  - `+2,639,561`
+  - `-3,441`
+  - `+5,408`
+  - `-103`
+  - `+340`
+- SB-505 eso.co.th · sitemap（sitemap）：新增 791 条： www.eso.co.th；2022-08-13T00:00:24 contactus；2022-08-13T00:01:49 support；2022-08-14T14:09:23 service；2022-08-18T23:54:59 soleinoid；2022-08-23T00:55:10 solenoidpu220ar；2022-08-23T00:59:07 2-way-assisted-lift；2022-08-23T02:00:24 2-way-pilot-acting…
+- SB-505 eso.co.th · news_1（html）：内容变化：+3 −3 行
+  - `-2,632,543`
+  - `+2,639,562`
+  - `-3,442`
+  - `+5,409`
+  - `-104`
+  - `+341`
+- SB-505 eso.co.th · news_2（html）：内容变化：+3 −3 行
+  - `-2,632,544`
+  - `+2,639,563`
+  - `-3,443`
+  - `+5,410`
+  - `-105`
+  - `+342`
+- SB-506 fibertek-ap.com · home（html）：内容变化：+2 −512 行
+  - `-FiberTek | A top supplier in fiber optic panels & cables`
+  - `-The Global Source For Fiber Optic Products and Solutions`
+  - `-Our Online Shop`
+  - `-+65 6280 1966`
+  - `-sales@fibertek-ap.com`
+  - `-Sign in`
+- SB-506 fibertek-ap.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.fibertek-ap.com；login；fiber-optic-cables；custom-cables；termination-accessories
+- SB-511 rivershop.co.kr · sitemap（sitemap）：新增 821 条：2025-08-22T11:36:30 rivershop.co.kr；2025-08-20T15:16:15 company.html；2025-08-20T15:16:15 agreement.html；2025-08-20T15:16:15 privacy.html；2025-11-27T11:30:48 1；2025-08-22T10:37:14 51；2025-08-22T10:43:30 52；2025-05-20T14:03:53 57…
+- 消失 1 条（RSS 窗口滚动属正常）：1766
+- SB-515 3tel.com.sg · home（html）：内容变化：+2 −127 行
+  - `-3Tel International Pte Ltd 3Tel International Pte Ltd`
+  - `-3Tel International Pte Ltd`
+  - `-Login`
+  - `-Register`
+  - `-0 Cart`
+  - `-Your shopping cart is empty!`
+- SB-515 3tel.com.sg · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：uof7201ge；c637；c589；c588；c266
+- SB-515 3tel.com.sg · news_1（html）：内容变化：+2 −93 行
+  - `-Blog Blog`
+  - `-Blog`
+  - `-Login`
+  - `-Register`
+  - `-0 Cart`
+  - `-Your shopping cart is empty!`
+- SB-520 abctech.cz · home（html）：内容变化：+62 −62 行
+  - `-Huawei eKitOptiX FS600D, GPON ONT Gateway, Wi-Fi 6`
+  - `-Optická GPON ONT brána s dvoupásmovou Wi-Fi 6 pro připojení domácnosti či firmy. Konektor SC/APC, čtyři gigabitové LAN porty a pásma 2,4 a 5 GHz s celkovou teo`
+  - `-658 Kč bez DPH`
+  - `-796 Kč s DPH`
+  - `-Novinka`
+  - `-Porovnat`
+- SB-521 aceonline.co.uk · sitemap（sitemap）：新增 820 条：2024-04-17 ace-44cm-zone-1-elliptical-dish-17-p.asp；2026-05-13 blake-adaptor-bracket-kit-for-mk4-dishes-19-p.asp；2026-05-13 blake-straight-6ft-x-125in-x-18g-aluminium-alloy-pole-23-p.asp；2026-05-13 blake-cranked-6ft-x-125in-x-18g-aluminium-alloy-pole-24-p.asp；2026-05-13 blake-straight-6ft-x-1in-x-18g-aluminium-alloy-pole-25-p.asp；2026-05-13 blake-straight-heavy-duty-6ft-x-125in-x-16g-aluminium-alloy-pole-26-p.asp；2026-05-13 blake-cranked-6ft-x-125in-x-16g-aluminium-alloy-pole-27-p.asp；2026-05-13 blake-straight-8ft-x-15in-x-16g-aluminium-alloy-pole-28-p.asp…
+- 更新 10 条：aceonline.co.uk（2026-11-26 → 2026-11-27）；sitemap.asp（2026-11-26 → 2026-11-27）；terms.asp（2026-11-26 → 2026-11-27）；about-us-1-w.asp（2026-11-26 → 2026-11-27）；contact-us-2-w.asp（2026-11-26 → 2026-11-27）；catalogue-downloads-4-w.asp（2026-11-26 → 2026-11-27）；new-customer-registration-25-w.asp（2026-11-26 → 2026-11-27）；online-user-registration-26-w.asp（2026-11-26 → 2026-11-27）
+- SB-524 armadi-rack.it · sitemap（sitemap）：新增 820 条：2025-02-18 149-quadri-elettrici；2026-11-03 311-attrezzi；2026-11-11 387-fibra-ottica；2026-11-11 ?p=2；2026-11-11 ?p=3；2026-11-11 ?p=4；2026-09-14 120-telai-subracks；2025-10-23 2-armadi-rack-19-pollici…
+- 更新 31 条：www.armadi-rack.it（2026-11-26 → 2026-11-27）；1-rack-19（2026-11-26 → 2026-11-27）；423-subrack（2026-11-26 → 2026-11-27）；240-box-per-elettronica（2026-11-26 → 2026-11-27）；278-networking（2026-11-26 → 2026-11-27）；279-periferiche-di-rete（2026-11-26 → 2026-11-27）；300-networking-wireless（2026-11-26 → 2026-11-27）；?p=2（2026-11-26 → 2026-11-27）
+- SB-532 eclipsecctv.com · sitemap（sitemap）：新增 671 条：2026-11-25 ECL-ACC890-Sealed-EZ-PASS-Outdoor-Card-Reader_p_67.html；2026-11-25 ECL-ACC910-weigand-proximity-card-reader_p_68.html；2026-11-25 ECL-ACC960--Outdoor-Card-Reader-with-Keyboard-Display-Metal-Case_p_74.html；2026-11-25 ECL-ACC970-Advanced-Card-Reader-with-Keypad-LEDs-LCD-Display-Metal-CaseECL-ACC970_p_75.htm；2026-11-25 ECL-ACC980-Outdoor-Illuminated-Proximity-Card-Reader_p_76.html；2026-11-25 ECL-ACC220A-Proximity-Card_p_77.html；2026-11-25 ECL-ACC225-Proximity-Card_p_78.html；2026-11-25 ECL-ACC230-Keyfob-Proximity-Tag_p_79.html…
+- SB-533 eks-engel.de · home（html）：内容变化：+1 −5 行
+  - `-Solarpark`
+  - `+Solarenergie`
+  - `-24 Nov. 2026`
+  - `-SPS-Smart Production Solutions, Nürnberg`
+  - `-Besuchen Sie uns vom 24. - 26.11.2026 an unserem Stand 401 in Halle 9`
+  - `-Alle Messetermine`
+- SB-533 eks-engel.de · news_1（html）：内容变化：+1 −1 行
+  - `-Solarpark`
+  - `+Solarenergie`
+- SB-533 eks-engel.de · news_2（html）：内容变化：+1 −1 行
+  - `-Solarpark`
+  - `+Solarenergie`
+- SB-534 elfcams.com · home（html）：内容变化：+39 −7 行
+  - `-66,66 € Le prix initial était : 66,66 €. 58,33 € Le prix actuel est : 58,33 €.`
+  - `+79,99 € Le prix initial était : 79,99 €. 69,99 € Le prix actuel est : 69,99 €.`
+  - `-208,33 € Le prix initial était : 208,33 €. 183,33 € Le prix actuel est : 183,33 €.`
+  - `+249,99 € Le prix initial était : 249,99 €. 219,99 € Le prix actuel est : 219,99 €.`
+  - `-249,99 € Le prix initial était : 249,99 €. 215,83 € Le prix actuel est : 215,83 €.`
+  - `+299,99 € Le prix initial était : 299,99 €. 258,99 € Le prix actuel est : 258,99 €.`
+- SB-534 elfcams.com · news_1（html）：内容变化：+1 −1 行
+  - `-©2018 - 2026 ELFCAM FR Tous droits réservés. v10.15.3`
+  - `+©2018 - 2026 ELFCAM FR Tous droits réservés. v10.15.7`
+- SB-537 htvision.ru · home（html）：首轮基线
+- SB-538 infinitecables.com · home（html）：内容变化：+3 −3 行
+  - `+J-Pipes & Tripod Mounting Brackets 36 inch Heavy Duty Non-Penetrating Roof Mount Mast - Powder Coated- Grey`
+  - `+SD-301-36`
+  - `+Sale price $69.40 CAD`
+  - `-OS2 Singlemode Bulk Cable OS2 Singlemode (G657A2) Loose Tube Outdoor Direct Burial Armoured Fiber Bulk Cable (per meter)`
+  - `-BK-F6OA-SM-LTY`
+  - `-Sale price From $2.68 CAD`
+- SB-539 ipcomm.de · sitemap（sitemap）：新增 767 条： sheet.html； sheet.html； sheet.html； sheet.html； sheet.html； sheet.html； cs_Manual_2_2_DE.pdf； cs_Datenblatt_2_1_5_DE.pdf…
+- SB-541 kbcnetworks.com · home（html）：内容变化：+51 −7 行
+  - `+Real-Time Traffic Control and`
+  - `+Smart City Objectives`
+  - `+ThruLink™ provided a simple, secure, and cost-effective integrated solution for growth in Kuwait. Integration included traffic enforcement and ANPR camera syst`
+  - `+Read more`
+  - `-Read more`
+  - `-Real-Time Traffic Control and`
+- SB-541 kbcnetworks.com · news_1（html）：内容变化：+392 −2 行
+  - `-First Name`
+  - `+Last Name`
+  - `-Lu`
+  - `+Luxembourg`
+  - `+Macao`
+  - `+Macedonia`
+- SB-541 kbcnetworks.com · news_2（html）：内容变化：+4 −4 行
+  - `-Website`
+  - `+Message`
+  - `-First Name`
+  - `+Last Name`
+  - `-First Name`
+  - `+Message`
+- SB-543 luetze.com · home（html）：内容变化：+0 −4 行
+  - `-SPS Smart Production Solutions`
+  - `-November 24-26, 2026`
+  - `-Hall 9 Stand 361 & 170`
+  - `-Nuremberg, Germany`
+- SB-545 mreit.co.kr · home（html）：首轮基线
+- SB-546 ness.com.au · sitemap（sitemap）：新增 820 条：2024-11-07 home-security；2023-08-20 self-contained；2023-08-20 premium-security；2024-10-07 wireless-security；2024-06-05 tecom-all；2024-08-28 tecom-panels；2022-04-18 tecom-keypads；2022-04-18 tecom-interfaces…
+- 更新 4 条：ness.com.au（2026-11-25 → 2026-11-27）；search（2026-11-25 → 2026-11-27）；contactus（2026-11-25 → 2026-11-27）；blog（2026-11-25 → 2026-11-27）
+- SB-547 netinet.pl · news_1（html）：内容变化：+4 −4 行
+  - `-Tagi AGRAF 2026`
+  - `-akcesoria AV`
+  - `+Tagi akcesoria AV`
+  - `-akcesoria RTV`
+  - `+Barkan`
+  - `-Ewent`
+- SB-552 securevision.com.sg · sitemap（sitemap）：新增 168 条：2026-07-02 cctv-cable-upgrade；2026-07-02 cctv-pdpa-compliance；2026-07-02 cctv-retail-analytics；2026-07-02 cctv-system-components；2026-07-02 cctv-vs-alarm；2026-07-02 choose-intercom-for-home；2026-07-02 compare-security-integrators；2026-07-02 condo-intercom-upgrade…
+- SB-554 sysnettelematica.it · intel_news_it（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-555 tacel.ca · home（html）：内容变化：+149 −2 行
+  - `-Leading the Future of. Traffic Solutions.`
+  - `+Leading the Future of Traffic Solutions`
+  - `-100% Canadian-ow`
+  - `+100% Canadian-owned since day one`
+  - `+ITS expertise`
+  - `+45 +`
+- SB-555 tacel.ca · sitemap（sitemap）：新增 670 条： en； fr； contact； contact； news； news； all； all…
+- SB-557 ubitron.co.kr · news_1（html）：内容变化：+4 −4 行
+  - `-898`
+  - `+903`
+  - `-869`
+  - `+877`
+  - `-2,119`
+  - `+2,120`
+- SB-560 womaster.eu · home（html）：内容变化：+2 −180 行
+  - `-WoMaster-Master in IIoT World | Industrial 5G/LTE Routers & IIoT Networking`
+  - `-WoMaster`
+  - `-ABOUT US`
+  - `-Brand Story`
+  - `-Commitment to Quality`
+  - `-Technology Expertise`
+- SB-560 womaster.eu · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.womaster.eu；www.womaster.eu；download.php；download_54_68.htm；download_55_60.htm
+- SB-560 womaster.eu · news_1（html）：内容变化：+2 −159 行
+  - `-PR | WoMaster - Industrial Wireless and Intelligent PoE for Smart Cities`
+  - `-WoMaster`
+  - `-ABOUT US`
+  - `-Brand Story`
+  - `-Commitment to Quality`
+  - `-Technology Expertise`
+- SB-560 womaster.eu · news_2（html）：内容变化：+2 −147 行
+  - `-Events│WoMaster Global Website`
+  - `-WoMaster`
+  - `-ABOUT US`
+  - `-Brand Story`
+  - `-Commitment to Quality`
+  - `-Technology Expertise`
+- SB-561 zoomlinenetwork.com · home（html）：内容变化：+2 −777 行
+  - `-Networking Products and Security Solutions Distributors in UAE`
+  - `-Skip to content`
+  - `-+971 55 378 6444`
+  - `-+971 4 325 7866`
+  - `-sales@zoomlinenetwork.com`
+  - `-Facebook`
+- SB-561 zoomlinenetwork.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-561 zoomlinenetwork.com · news_1（html）：内容变化：+2 −800 行
+  - `-Blog - Zoom Line Networks Technology LLC`
+  - `-Skip to content`
+  - `-+971 55 378 6444`
+  - `-+971 4 325 7866`
+  - `-sales@zoomlinenetwork.com`
+  - `-Facebook`
+- SB-561 zoomlinenetwork.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Common LSZH Myths: Does It Cost Too Much to Be Wor；Ubiquiti for Small Business vs. Enterprise: Which ；5 Structured Cabling Installation Mistakes That Co；Why UAE Contractors Are Choosing Ramcro Over Other；Aruba Instant On Access Points: An Affordable Wi-F
+- SB-562 ALT VISION · intel_news_ru（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-566 PCG Bilgisayar LTD.STI. · sitemap（sitemap）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='pcgbilgisayar.com', port=443): Read timed out. (read timeout=20)
+- SB-569 cablematic.com · home（html）：内容变化：+1926 −1 行
+  - `-Simplex cable`
+  - `+Simplex cable SM 9/125 UPC`
+  - `+Fiber Optic Patch Panel`
+  - `+Fiber Pigtail`
+  - `++`
+  - `+-`
+- SB-573 integranetwork.es · home（html）：内容变化：+0 −3 行
+  - `-Entre luces y el sonido de las fichas girando, descubrí en Spinmama un universo donde cada giro provoca una mezcla de emoción y estrategia; la sensación de apo`
+  - `-Bajo la luz de las pantallas, los jugadores buscan ese momento mágico donde la suerte se alinea con la estrategia, y en Savaspin casino cada giro puede transfo`
+  - `-casino50`
+- SB-574 lanberg.pl · home（html）：内容变化：+5 −5 行
+  - `-Lanberg at ENERGETICS 2026 in Lublin!`
+  - `+DigiKey becomes Lanberg’s new distribution partner!`
+  - `+November 27, 2026`
+  - `+News`
+  - `+Lanberg at ENERGETICS 2026 in Lublin`
+  - `-Wi-Fi 6 Without Replacing Your Computer. Discover the New Lanberg NC-1800-WI Wireless Adapter!`
+- SB-574 lanberg.pl · news_1（html）：内容变化：+9 −9 行
+  - `-November 18, 2026`
+  - `-Lanberg at ENERGETICS 2026 in Lublin!`
+  - `-The modern energy sector needs a reliable grid infrastructure. That’s why we’re at ENERGETICS 2026 in Lublin!`
+  - `+November 27, 2026`
+  - `+DigiKey becomes Lanberg’s new distribution partner!`
+  - `+Lanberg expands its international distribution network by partnering with one of the world's leading distributors of electronic components and industrial solut`
+- SB-575 marbim.com.tr · home（html）：恢复可达（上轮 HTTP 403）
+- SB-576 matrix.es · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-581 sheildify.com · home（html）：状态变化：OK → HTTP 500
+- SB-581 sheildify.com · news_1（html）：状态变化：OK → HTTP 500
+- SB-582 smartintercom.eu · home（html）：内容变化：+2 −185 行
+  - `-Home • SmartIntercom`
+  - `-Home`
+  - `-About us`
+  - `-Products`
+  - `-Indoor`
+  - `-Outdoor`
+- SB-582 smartintercom.eu · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-582 smartintercom.eu · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 8 条（RSS 窗口滚动属正常）：Akuvox IT83R；Akuvox R20A；Akuvox C313S；Akuvox R29C；Akuvox R29S
+- SB-589 bydemes.com · home（html）：内容变化：+18 −20 行
+  - `+DAHUA-5455`
+  - `+DH-IPC-HDW5859HP-ZE-PV-2712-PRO-ATC`
+  - `+Dahua WizMind 5 8MP IP min...`
+  - `+View price`
+  - `+DAHUA-5453`
+  - `+DH-IPC-HDW5859HP-ASE-PV-0280B-PRO-ATC`
+- SB-593 ibdglobal.com · home（html）：内容变化：+1 −1 行
+  - `-OUTLET`
+  - `+ACCESORIOS`
+- SB-593 ibdglobal.com · sitemap（sitemap）：新增 818 条： video-dahua-ip-camaras-posicionadores-60； video-dahua-ip-grabadores-1680； video-dahua-ip-grabadores-4ch-61； video-dahua-ip-grabadores-8ch-187； video-dahua-ip-grabadores-16ch-188； video-dahua-ip-grabadores-24-32ch-189； video-dahua-ip-grabadores-64-256ch-190； video-dahua-ip-grabadores-embarcados-132…
+- SB-593 ibdglobal.com · news_1（html）：内容变化：+1 −1 行
+  - `-OUTLET`
+  - `+ACCESORIOS`
+- SB-593 ibdglobal.com · news_2（html）：内容变化：+1 −8 行
+  - `-OUTLET`
+  - `+ACCESORIOS`
+  - `-Our Blog`
+  - `-Our Blog`
+  - `-Our Blog`
+  - `-Our Blog`
+- SB-594 kmsoltec.com · news_2（html）：内容变化：+9 −9 行
+  - `-367 Views`
+  - `+370 Views`
+  - `-478 Views`
+  - `+479 Views`
+  - `-641 Views`
+  - `+643 Views`
+- SB-594 kmsoltec.com · youtube（youtube_handle）：新增 1 条：2026-11-26T11:30:35 Mini pc NUC a gennaio? Rischi 50 giorni di attesa
+- 消失 1 条（RSS 窗口滚动属正常）：Real Time Clock: accendi il tuo PC automaticamente
+- SB-595 mpcl.in · home（html）：内容变化：+2 −98 行
+  - `-Micropoint Computers Private Limited | Building | Managing | Innovating |`
+  - `-Home`
+  - `-About Us`
+  - `-Services`
+  - `-Enterprise Computing Solutions`
+  - `-Hyper-Converged Infrastructure HCI`
+- SB-595 mpcl.in · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 45 条（RSS 窗口滚动属正常）：www.mpcl.in；work-from-home；about；careers；contact-us
+- SB-595 mpcl.in · news_1（html）：内容变化：+2 −111 行
+  - `-Project Managment Services | Micropoint Computers Private Limited | Building | Managing | Innovating`
+  - `-Home`
+  - `-About Us`
+  - `-Services Enterprise Computing Solutions`
+  - `-Hyper-Converged Infrastructure HCI`
+  - `-AI Solutions`
+- SB-595 mpcl.in · news_2（html）：内容变化：+2 −58 行
+  - `-Case Studies | Micropoint Computers Private Limited | Building | Managing | Innovating`
+  - `-Home`
+  - `-About Us`
+  - `-Services`
+  - `-Enterprise Computing Solutions`
+  - `-Hyper-Converged Infrastructure HCI`
+- SB-595 mpcl.in · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Experience the thrill at Fast Withdrawal Casino UK；Erleben Sie die besten Slots im Online Casino Echt；Exploring payment options at Best Online Casino So；Fast and secure payments at Love Casino UK: Everyt；Navigating the Best Online Pokies Australia: Essen
+- SB-596 optokon.pl · sitemap（sitemap）：新增 178 条：2020-08-04T11:31:37 panele.pdf；2021-02-09T19:05:21 52-sprzegacz-optyczny-sft-p.html；2021-02-09T19:05:21 57-patchcord_sc.html；2021-02-09T19:05:21 61-zlacze_sc.html；2021-02-09T19:05:21 78-adapter-fc.html；2021-02-09T19:05:21 58-patchcord_fc.html；2021-02-09T19:05:21 72-zlacze_lc.html；2021-02-09T19:05:21 80-adapter-sc.html…
+- SB-602 ANIL · home（html）：内容变化：+4 −1 行
+  - `+Dahua ve Anıl Telekomünikasyon Manisa'da Bir Araya Geldi.`
+  - `+26 November 2026 Thursday`
+  - `+DoubleTree by Manisa`
+  - `-Lütfen MONİTÖR simgesini işaretleyiniz`
+  - `+Lütfen ARABA simgesini işaretleyiniz`
+- SB-602 ANIL · news_1（html）：内容变化：+1 −1 行
+  - `-Lütfen ARABA simgesini işaretleyiniz`
+  - `+Lütfen MONİTÖR simgesini işaretleyiniz`
+- SB-602 ANIL · news_2（html）：内容变化：+104 −1 行
+  - `-Dahua CS4010-8GT-110: Güçlü ve Yönl`
+  - `+Dahua CS4010-8GT-110: Güçlü ve Yönlendirilebilir PoE Switch`
+  - `+Dahua CS4010-8GT-110, 8 PoE bağlantı noktalı ve 110 W PoE bütçeli, kurumlar ve işletmeler için güçlü ve yönlendirilebilir bir PoE switchtir.`
+  - `+Hikvision Markasının Hastaneler İçin Çözümleri: Daha Güvenli ve Verimli Bir Sağlık Sistemi İçin`
+  - `+Hikvision, hastanelerin güvenliğini ve verimliliğini artırırken hastaların mahremiyetini korur.`
+  - `+Fabrikalar İçin Güvenlik ve Verimlilik: Dahua'nın Çözümleri`
+- SB-604 Burns Precision Ag · home（html）：首轮基线
+- SB-604 Burns Precision Ag · sitemap（sitemap）：首轮基线
+- SB-605 Elkov Elektro · home（html）：内容变化：+1221 −21 行
+  - `-Otevíráme za 35 minut`
+  - `+Otevíráme za 40 minut`
+  - `-Otevíráme za 5 minut`
+  - `+Otevíráme za 10 minut`
+  - `+Dle místnosti`
+  - `-Dle místnosti`
+- SB-606 HME Solutions · home（html）：内容变化：+11 −4 行
+  - `-Contact Us`
+  - `-1300 946 900 - AUS`
+  - `-+61 1300 946 900 - INTL`
+  - `-info@hmesolutions.com.au`
+  - `+Contact Us`
+  - `+1300 946 900 - AUS`
+- SB-606 HME Solutions · news_1（html）：内容变化：+11 −4 行
+  - `-Contact Us`
+  - `-1300 946 900 - AUS`
+  - `-+61 1300 946 900 - INTL`
+  - `-info@hmesolutions.com.au`
+  - `+Contact Us`
+  - `+1300 946 900 - AUS`
+- SB-606 HME Solutions · news_2（html）：内容变化：+11 −4 行
+  - `-Contact Us`
+  - `-1300 946 900 - AUS`
+  - `-+61 1300 946 900 - INTL`
+  - `-info@hmesolutions.com.au`
+  - `+Contact Us`
+  - `+1300 946 900 - AUS`
+- SB-607 JTOPTICS · sitemap（sitemap）：新增 658 条：2024-08-02T14:35:58 cs-lc-sm-dx-optical-patch-cable,-4-fiber-cs-upc-lc-upc-single-mode；2024-09-26T04:37:49 1.6t-osfp-xd-dr8-optical-transceiver-pam4-1310nm-500m-2xmtp-mpo-1；2024-08-02T14:37:02 24-fiber-single-mode-breakout-mpo-trunk-cable-24f-mpo-(f)-to-3-x-；2024-01-02T02:13:08 3kw-type-1-portable-electric-car-charger-with-sae-j1772-and-nema-；2024-09-26T12:32:21 800g-qsfp-dd-to-qsfp-dd-dac-cable；2024-07-31T06:32:18 96-fiber-hd-fiber-enclosure-with-glass-cover-1u-rack-mount-hold-u；2023-12-31T04:32:21 ethernet-media-converter-10-100base-tx-to-100base-fx-industrial-grade-single-mode；2023-12-31T04:18:48 lc-connector-cleaning-pen-1.25mm-one-click-cleaner…
+- SB-607 JTOPTICS · news_1（html）：内容变化：+36 −36 行
+  - `-19359`
+  - `+19362`
+  - `-12910`
+  - `+12912`
+  - `-13035`
+  - `+13040`
+- SB-607 JTOPTICS · news_2（html）：内容变化：+154 −2 行
+  - `-12023 View(s)`
+  - `+12028 View(s)`
+  - `-The most common semiconductor photodetector is the pin photodiode, shown schematically in The device structure consists of p and n regions separated by a very`
+  - `+The most common semiconductor photodetector is the pin photodiode, shown schematically in The device structure consists of p and n regions separated by a very`
+  - `+The photodetector is normally designed so that these carriers are generated mainly in the depletion region (the depleted intrinsic region) where most of the in`
+  - `+Representation of a pin photodiode circuit with an applied reverse bias. An incident optical power level decays exponentially inside the device.`
+- SB-609 ablelink.co.th · sitemap（sitemap）：新增 820 条： mc-mgw15-lfp-80； fo-7408h； mc-mgw13-lfp-80； mc-mgw15-lfp-40； mc-mgw13-lfp-40； mc-mgw15-lfp-25； mc-mgw13-lfp-25； fo-7304gf…
+- SB-612 clouditnetwork.com · home（html）：内容变化：+2 −32 行
+  - `-CloudItNetwork ผู้นำด้านระบบ VoIP และ Cloud Solution`
+  - `-Skip to content`
+  - `-Search for:`
+  - `-Home`
+  - `-Store`
+  - `-Blog`
+- SB-612 clouditnetwork.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-612 clouditnetwork.com · news_1（html）：内容变化：+2 −67 行
+  - `-Blog - Cloud It Network`
+  - `-Skip to content`
+  - `-Search for:`
+  - `-Home`
+  - `-Store`
+  - `-Blog`
+- SB-612 clouditnetwork.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Spinokkio Casino: Ominaisuudet Jotka Kannattaa Tun；Spinokkio Casino: Ominaisuudet Jotka Kannattaa Tun；Spinokkio Casino: Ominaisuudet Jotka Kannattaa Tun；Spinokkio Casino: Ominaisuudet Jotka Kannattaa Tun；Parrot Spins France : Votre propre Destination de 
+- SB-613 cozzmic.com · home（html）：内容变化：+2 −214 行
+  - `-Cozzmic Communications & Security | Trusted Solutions Skip to content 20 Ryan Place, Unit #3, Brantford, Ontario N3S 7S1`
+  - `-519-752-3553`
+  - `-1-800-521-4837`
+  - `-Contact`
+  - `-Communications Menu Toggle VoIP`
+  - `-Phone Systems`
+- SB-613 cozzmic.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-613 cozzmic.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：VoIP Enhanced 911；Post-Winter Checkup: Is Your Technology Ready for ；Beginner’s Guide to Securing Your Workplace；Common Oversights When Building or Renovating；National Dialing Code for Mental Health and Suicid
+- SB-614 focomm-cabling.com · home（html）：状态变化：OK → HTTP 403
+- SB-614 focomm-cabling.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-614 focomm-cabling.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：โฟคอมม์ ลงนาม MOU กับมหาวิทยาลัยกาฬสินธุ์ เสริมศัก
+- SB-615 handsonsecurity.co.za · home（html）：内容变化：+2 −170 行
+  - `-Hands On – Security`
+  - `-Home`
+  - `-About`
+  - `-Services`
+  - `-Shop`
+  - `-Contact`
+- SB-615 handsonsecurity.co.za · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-615 handsonsecurity.co.za · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 6 条（RSS 窗口滚动属正常）：Hello world!；Service Construct deals physical damage with his b；But he is truely paralyzing able to grab the front；Pure damage for a duration. This ability is the on；People think, feel, & behave in a way basic attack
+- SB-616 intant.kz · home（html）：内容变化：+605 −1 行
+  - `-Полож`
+  - `+Положение фонового изображения:`
+  - `+Применить`
+  - `+Повторять фоновое изображение`
+  - `+no-repeat`
+  - `+repeat`
+- SB-618 jeatech.com.au · home（html）：内容变化：+2 −239 行
+  - `-Home - JEA Technologies`
+  - `-Home`
+  - `-Products`
+  - `-4G/5G Industrial Cellular Modems Routers Gateways M2M IoT`
+  - `-Audio`
+  - `-Card Readers, Writers & Consumables`
+- SB-618 jeatech.com.au · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-618 jeatech.com.au · news_1（html）：内容变化：+2 −169 行
+  - `-News - JEA Technologies`
+  - `-Home`
+  - `-Products`
+  - `-4G/5G Industrial Cellular Modems Routers Gateways M2M IoT`
+  - `-Audio`
+  - `-Card Readers, Writers & Consumables`
+- SB-618 jeatech.com.au · news_2（html）：内容变化：+2 −153 行
+  - `-Case Studies - JEA Technologies`
+  - `-Home`
+  - `-Products`
+  - `-4G/5G Industrial Cellular Modems Routers Gateways M2M IoT`
+  - `-Audio`
+  - `-Card Readers, Writers & Consumables`
+- SB-621 lanshack.com · sitemap（sitemap）：新增 820 条： QuickTreX-PRO-System-Pre-Terminated-Fiber-Optic-Assemblies-C534； QuickTreX-PRO-System-Tool-Cases-C540； FlashLight-PAL-QuickTreX-Merchandise-C541； Hand-Tools-C545； Keystone-Jacks-C556； Modular-Plugs-with-Loadbar-C557； Boots-C558； Keystone-Couplers-C559…
+- SB-622 market-telecom.kz · sitemap（sitemap）：新增 820 条： market-telecom.kz；2026-11-09 services；2026-11-09 products；2026-11-09 about_shop；2026-11-09 dostavka；2026-11-09 brands；2026-11-09 oplata；2026-11-09 contact…
+- SB-623 smol-electro.ru · sitemap（sitemap）：新增 87 条：2020-10-16T15:26:57 magistral-70-premium-4-linzy；2020-10-21T14:15:01 svetilnik-prozhektor-prom-180vt；2020-10-21T14:15:31 svetodiodnyye-svetilniki-led；2020-10-21T14:15:31 vstraivayemyye-svetodiodnyye-svetilniki；2020-10-21T14:15:31 ob-ektivy-dlya-videokamer；2020-10-21T14:15:31 nakladnyye-led-svetilniki；2020-10-21T14:15:31 ofisnyye-svetodiodnyye-svetilniki；2020-10-21T14:15:31 aksessuary…
+- 更新 1 条：smol-electro.ru（2026-11-25T07:46:19 → 2026-11-26T01:01:35）
+- SB-624 ubwh.com.au · home（html）：内容变化：+17 −17 行
+  - `-8MP TiOC 2.0 CCTV PoE Camera`
+  - `-$282.97 $254.67 inc-GST`
+  - `-$257.24 $231.52 ex-GST`
+  - `+Australian Power Cord`
+  - `+$4.56 $2.43 inc-GST`
+  - `+$4.15 $2.21 ex-GST`
+- SB-626 visiondynamics.de · home（html）：内容变化：+2 −1 行
+  - `-.:: Vision Dynamics ElectronX ::.`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-627 zonagsm.su · sitemap（sitemap）：新增 820 条：2021-10-30T10:59:26 ax-2411y-napravlennaya-vneshnyaya-antenna-wi-fi；2021-10-30T10:59:12 ax-2414y-napravlennaya-vneshnyaya-antenna-wi-fi；2022-07-25T13:45:36 ax-2417y-napravlennaya-vneshnyaya-antenna-wi-f；2022-07-25T13:46:29 ax-2513p-mimo-2x2-panelnaya-4g-lte2600-antenna；2022-07-26T09:11:42 atis-xvr-4104na；-0001-11-30T00:00:0 4g-modem-e3372h；2022-07-25T10:59:17 4g-modem-zte-mf79ru；2020-12-05T15:15:24 lidertelecom-lt-wrs1-3g-4g…
+- SB-634 Hoang Thien An Technology Trad · home（html）：内容变化：+2 −128 行
+  - `-http://hoangthienan.com.vn – CÔNG TY CỔ PHẦN THƯƠNG MẠI KỸ THUẬT HOÀNG THIÊN ÂN`
+  - `-Trang Chủ`
+  - `-Giới thiệu`
+  - `-Sản Phẩm`
+  - `-Tin Tức`
+  - `-Liên Hệ`
+- SB-634 Hoang Thien An Technology Trad · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：Google vẫn cho bên thứ ba quét Gmail của bạn
+- SB-643 arbybilgisayar.com.tr · home（html）：内容变化：+2 −141 行
+  - `-Arby Bilgisayar | Kurumsal BT Bakım Anlaşması ve IT Destek Firması`
+  - `-+90 216 519 71 99 - 0850 441 27 29`
+  - `-bilgi@arbybilgisayar.com.tr`
+  - `-AnaSayfa`
+  - `-Kurumsal`
+  - `-Hakkımızda`
+- SB-643 arbybilgisayar.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 16 条（RSS 窗口滚动属正常）：www.arbybilgisayar.com.tr；hakkimizda；kalite；bakim；danismanlik
+- SB-646 artsistem.com · home（html）：内容变化：+23 −23 行
+  - `-131 markanın tamamı A'dan Z'ye.`
+  - `+130 markanın tamamı A'dan Z'ye.`
+  - `-22 yıldır 131 küresel markayı 5.000'den fazla bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde — tek tedarikçi.`
+  - `-Bayi Başvurusu 131 Markaya Göz At`
+  - `+22 yıldır 130 küresel markayı 5.000'den fazla bayiye ulaştırıyoruz. Bilgisayar, güvenlik, ağ ve baskı çözümlerinde — tek tedarikçi.`
+  - `+Bayi Başvurusu 130 Markaya Göz At`
+- SB-646 artsistem.com · sitemap（sitemap）：新增 820 条： kategoriler； haberler； duyurular； cozumler； e-hizmetler； garanti-sorgula； sss； araclar…
+- SB-646 artsistem.com · news_1（html）：内容变化：+5 −5 行
+  - `-131 markanın tamamı A'dan Z'ye.`
+  - `+130 markanın tamamı A'dan Z'ye.`
+  - `-Sektörden güncel haberler ve analizler ( 72 içerik).`
+  - `+Sektörden güncel haberler ve analizler ( 73 içerik).`
+  - `+Marka Duyurusu Dell PowerMaxOS 10.5 Geldi: Performans ve Güvenlik`
+  - `+Dell PowerMaxOS 10.5, PowerPath çoklu yol desteğini geri getiriyor, Cyber Detect ile anlık görüntü taraması ekliyor.`
+- SB-646 artsistem.com · news_2（html）：内容变化：+1 −1 行
+  - `-131 markanın tamamı A'dan Z'ye.`
+  - `+130 markanın tamamı A'dan Z'ye.`
+- SB-647 arttelekom.com.tr · home（html）：内容变化：+20 −20 行
+  - `-Aastra BP Çağrı Merkezi Çözümleri`
+  - `-Çağrı merkezi uygulamaları müşteri hizmetleri otomasyonu ses iletişim teknolojisi çözümleri....`
+  - `+CCTV Kamera Görüntüleme Sistemleri`
+  - `+Ev, ofis gibi en küçük kapasiteden, kamu ve özel sektör kurumlarının en yüksek kapasitedeki CCTV Kamera çözümleri sunuyoruz....`
+  - `+Fiber Optik Kablo Çözümleri`
+  - `+Fiber Optik & Network Çözümleri; Fiber Optik Kablolama, Fiber Optik Fusion Sonlandırma çözümleri....`
+- SB-647 arttelekom.com.tr · sitemap（sitemap）：新增 12 条： guvenlik-kamera-sistemleri； apartman-konusma-sistemleri； hirsiz-alarm-sistemleri； goruntulu-iletisim-ve-guvenlik-sistemleri； ip-telefon-santralleri； sayisal-telefon-santrallari； analog-telefon-makineleri； sayisal-telefon-makineleri…
+- SB-648 atelekom.com.tr · home（html）：内容变化：+2 −212 行
+  - `-A Telekomünikasyon | Zayıf Akımda En İyi Çözüm`
+  - `-İçeriğe atla`
+  - `-Anasayfa`
+  - `-Hakkımızda`
+  - `-Çözümler`
+  - `-Ürünler`
+- SB-648 atelekom.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-648 atelekom.com.tr · news_1（html）：内容变化：+2 −118 行
+  - `-Blog - A Telekomünikasyon`
+  - `-İçeriğe atla`
+  - `-Anasayfa`
+  - `-Hakkımızda`
+  - `-Çözümler`
+  - `-Ürünler`
+- SB-651 biges.com · sitemap（sitemap）：新增 794 条： VG-8C1E-NVR-I； BLW-H5104-D1； GFE-SWR-LMP； BLW-506CP-R； DG75PLUS； DHI-DSSPRO-CASCADE-LICENS； APR-Z-280； VMS-UP-EVO-SUNL…
+- SB-652 comxus.com · home（html）：内容变化：+438 −94 行
+  - `-Name *`
+  - `-Company Email Name`
+  - `+Company Email Name`
+  - `+Name *`
+  - `-Name Company Email`
+  - `-Company Name *`
+- SB-652 comxus.com · news_1（html）：内容变化：+441 −243 行
+  - `-Name *`
+  - `-Company Name *`
+  - `-Email Name Name`
+  - `+Name Company Email`
+  - `+Name *`
+  - `+Company Name *`
+- SB-654 davantel.com · feed_auto（rss）：新增 220 条：Fri, 27 Nov 2026 09 Seguridad de la conectividad del VDR en redes de puente alineadas con IEC 61162-460；Thu, 26 Nov 2026 09 ¿Qué router 4G industrial usar para la monitorización de sensores?；Tue, 24 Nov 2026 09 RMS Teltonika: guía de gestión remota de routers；Mon, 23 Nov 2026 15 Kyland SICOM3024P vs SICOM3024P-A: guía técnica y tabla comparativa；Mon, 23 Nov 2026 09 Conectividad en estaciones de carga para VE: diagnóstico remoto y consideraciones de gatew；Fri, 20 Nov 2026 09 Recopilación de datos BMS, PCS y EMS: cómo fluye la información de un sistema BESS desde l；Thu, 19 Nov 2026 09 Teltonika amplía su oferta de conectividad IoT con tres nuevos planes de datos: Global Plu；Tue, 17 Nov 2026 09 Despliegue masivo de routers: clonar configuraciones y provisionar 50 equipos sin ir uno a…
+- SB-656 dijitalbina.com · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-656 dijitalbina.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-656 dijitalbina.com · news_1（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-659 entpa.com.tr · home（html）：内容变化：+1 −1 行
+  - `-20.120.166.178)`
+  - `+20.169.58.0)`
+- SB-659 entpa.com.tr · sitemap（sitemap）：新增 28 条：2013-03-06T14:39:48 (EFM-DR-1A)--(EFM-AL-1A).pdf；2013-03-06T14:40:08 ayy_(EFS2000-ENS2000-EAS2000).pdf；2013-03-06T14:39:48 EA-LAN1.pdf；2013-03-06T14:40:22 EAN3120_Plus.pdf；2013-03-06T14:40:20 EAN3220_Plus.pdf；2013-03-06T14:40:20 EAN3300_Plus.pdf；2013-03-06T14:39:54 EBC900R-M.pdf；2013-03-06T14:39:54 EBC910R.pdf…
+- SB-659 entpa.com.tr · news_1（html）：内容变化：+1 −1 行
+  - `-20.120.166.178)`
+  - `+20.169.58.0)`
+- SB-663 hstn.co.th · home（html）：内容变化：+3 −3 行
+  - `-5,273,967`
+  - `+5,288,973`
+  - `-10,403`
+  - `+9,917`
+  - `-419`
+  - `+770`
+- SB-663 hstn.co.th · sitemap（sitemap）：新增 820 条： www.hstn.co.th； en；2016-11-24T10:07:27 history；2016-11-24T10:07:27 history；2019-07-20T16:41:58 customer-2；2019-07-20T16:41:58 customer-2；2016-11-24T10:14:17 vdo；2016-11-24T10:14:17 vdo…
+- SB-663 hstn.co.th · news_1（html）：内容变化：+58 −1 行
+  - `-ระบบการจัดระดับอันตรายจากไฟไหม้แห่งชาติ ( NFDRS ) ค`
+  - `+ระบบการจัดระดับอันตรายจากไฟไหม้แห่งชาติ ( NFDRS ) คืออะไร`
+  - `+เราใช้รหัสสี 5 ระดับเพื่อช่วยให้สาธารณชนเข้าใจถึงศักยภาพของการเกิดไฟไหม้ วัตถุประสงค์ของสิ่งนี้คือเพื่อให้ผู้เยี่ยมชมเข้าใจสภาพปัจจุบันและช่วยบรรเทาการดำเนินกา`
+  - `+ทำไมโรงแรมและรีสอร์ทถึงเลือกใช้โซลูชัน FRACARRO ในการกระจายสัญญาณทีวี?`
+  - `+ในยุคที่ธุรกิจโรงแรมและรีสอร์ทต่างแข่งขันกันเพื่อมอบประสบการณ์การพักผ่อนที่ดีที่สุดให้กับลูกค้า การมีระบบทีวีที่เสถียร ภาพคมชัด และตอบโจทย์การใช้งานได้อย่างครอ`
+  - `+กรณีฉุกเฉิน พนักงานโรงแรมควรทำอย่างไรเมื่อ Fire Alarm ทำงาน`
+- SB-663 hstn.co.th · news_2（html）：内容变化：+3 −3 行
+  - `-5,273,969`
+  - `+5,288,976`
+  - `-10,405`
+  - `+9,920`
+  - `-419`
+  - `+772`
+- SB-664 jm.pl · sitemap（sitemap）：新增 816 条： ochrona-danych-newsletter； uklady-scalone-i-mikrokontrolery-dla-urzadzen-z-wyswietlaczem； uklady-scalone-i-mikrokontrolery-holtek； uklady-scalone-i-mikrokontrolery-dla-branza-medyczna-termometry-holtek； uklady-scalone-i-mikrokontrolery-dla-ladowarek-powszechnego-uzytku-i-specjalizowane-ladowa； uklady-scalone-i-mikrokontrolery-holtek-dla-aplikacji-wykorzystujacych-wyswietlacze； uklady-scalone-i-mikrokontrolery-dla-urzadzen-z-wyswietlaczem-dalmierz-laserowy； uklady-scalone-i-mikrokontrolery-dla-ladowarek-powszechnego-uzytku-i-specjalizowane-ladowa…
+- SB-665 marsateknoloji.com · home（html）：内容变化：+2 −253 行
+  - `-Marsa Teknoloji - U-Prox, Urfog, BasIP, Fanvil Türkiye Yetkili Distribütörü`
+  - `-BAYİ GİRİŞİ`
+  - `-A. Listem (0)`
+  - `-Sepetim`
+  - `-$ Para Birimi`
+  - `-€EURO`
+- SB-669 mnsbilisim.com · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-669 mnsbilisim.com · news_1（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-669 mnsbilisim.com · news_2（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-670 monkas.com.tr · home（html）：内容变化：+48 −48 行
+  - `-USD: 51,05`
+  - `-EUR: 55,85`
+  - `+USD: 50,90`
+  - `+EUR: 55,80`
+  - `-$85,00 + KDV`
+  - `-4.339,25 TL + KDV`
+- SB-673 nodactechnology.com · home（html）：内容变化：+2 −301 行
+  - `-Security & Low Voltage Solutions Distributor USA | Nodac Technology`
+  - `-Free Call 1-888-569-5062`
+  - `-ZKTeco & Fiber optic 10% Off`
+  - `-Cabinets & CCTV OCB 10% Off`
+  - `-UNV 7% Off`
+  - `-Contact Us`
+- SB-673 nodactechnology.com · sitemap（sitemap）：新增 820 条：2025-08-07 Personal%20Data%20Processing%20Policy.pdf；2025-10-03 brands?l=p；2025-10-03 brands?l=n；2025-10-03 brands?l=q；2025-10-03 brands?l=o；2025-10-03 products?brand=24；2025-10-03 brands?l=l；2025-10-03 brands?l=m…
+- SB-675 pandacomdirekt.de · sitemap（sitemap）：新增 188 条：2019-12-17T20:22:45 herstelleruebergreifende-orchestrierung.html；2019-12-17T20:22:45 technologien.html；2019-12-17T20:22:45 grundlagen-wdm.html；2019-12-17T20:22:45 grundlagen-richtfunk.html；2019-12-17T20:22:45 grundlagen-carrier-ethernet.html；2019-12-17T20:22:45 grundlagen-layer-2-verschluesselung.html；2019-12-17T20:22:45 beratung-planung.html；2019-12-17T20:22:45 support-installation.html…
+- SB-676 pctedarik.com · home（html）：内容变化：+73 −73 行
+  - `-$: 50,72 TL`
+  - `-€: 55,48 TL`
+  - `+$: 50,75 TL`
+  - `+€: 55,68 TL`
+  - `-1156,42 TL`
+  - `+1157,18 TL`
+- SB-676 pctedarik.com · youtube（youtube_handle）：新增 1 条：2026-11-26T22:40:19 Airpoll Isıtıcı Buharlı Fan 1800W – 5.500₺
+- 消失 1 条（RSS 窗口滚动属正常）：İstanbul Gatala Kulesi
+- SB-677 perkotek.com · sitemap（sitemap）：新增 815 条：2021-06-16T09:12:42 ariza-bildirimi；2021-06-16T09:12:42 teknik-destek-talebi；2021-06-16T09:12:42 musteri-yorumlari；2021-06-16T09:12:42 montaj-goruntuleri；2021-06-16T09:12:42 iletisim；2021-06-16T09:12:42 haberler；2021-06-16T09:12:42 referanslar；2021-06-16T09:12:42 yemekhane-takip-sistemi-…
+- SB-679 saratota.com · sitemap（sitemap）：新增 311 条：2021-09-27T11:28:55 patton-copperlink-2110eui-ethernet-booster-repeater-extender；2018-11-21T11:50:10 patton electronics-model-2110p-poe-powered-ethernet-and-poe-booster-8023af-poe；2018-11-27T10:34:18 BSP-300-Solar-Controller-Industrial-Renewable-Energy-2-Port-10-100-1000T-802.3at-PoE-Unman；2018-11-27T10:35:59 planet-bsp-360-solar-controller-industrial-renewable-energy-4-port-10-100-1000t-8023at-poe；2018-11-29T16:33:54 patton-copperlink-cl1101-rj45-poe-ethernet-extender-kit-rj45line-pd；2018-11-29T16:33:24 patton-industrial-copperlink-cl1101e-rj45-poe-ethernet-extender-kit-rj45line-pd；2018-11-22T15:19:18 patton-copperlink-cl1212-ultra-high-speed-copper-ethernet-extender-168mbps-cl1212eui-cl121；2019-10-04T13:25:53 patton-copperlink-cl1212e-industrial-ultra-high-speed-copper-ethernet-extender-168mbps-cl1…
+- SB-679 saratota.com · news_1（html）：内容变化：+4 −4 行
+  - `-9987`
+  - `+9989`
+  - `-8036`
+  - `+8039`
+  - `-8795`
+  - `+8797`
+- SB-681 serrackkabin.com.tr · sitemap（sitemap）：新增 115 条： 07U-Acik-Tip-Duvar-Kabinet--Moduler； 09U-Acik-Tip-Duvar-Kabinet--Moduler； 12U-Acik-Tip-Duvar-Kabinet--Moduler； 16U-Acik-Tip-Duvar-Kabinet--Moduler； 21U-Acik-Tip-Duvar-Kabinet--Moduler； Dynaframe-Acik-Kabinler； DYNAframe-Acik-Sistem-Catilar-Tekli-Cati-d80mm-Frame-Unitesi-W530-mm-D380mm； DYNAframe-Acik-Sistem-Catilar-Tekli-Cati-d160mm-Frame-Unitesi-W530-mm-D460mm…
+- SB-684 technics-india.com · sitemap（sitemap）：新增 95 条： rugged-pc-robust-pc.pdf； Rugged_ASP-1.pdf； Rugged_Monitor.pdf； Rugged_Server.pdf； TECH-7220-Final.pdf； ethernetip-modules； ethernet-io-modules； rs-485-io-modules…
+- SB-686 teknoktadestek.com · home（html）：内容变化：+2 −223 行
+  - `-Güvenlik Kamera Sistemleri, Alarm ve Akıllı Ev Çözümleri | Tek Nokta Destek`
+  - `--  - Destek Hattı: 0 224 719 0 800`
+  - `-info@teknoktadestek.com`
+  - `-WhatsApp Destek`
+  - `-Menu`
+  - `-HAKKIMIZDA`
+- SB-686 teknoktadestek.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：teknoktadestek.com；delivery；privacy；terms；sss
+- SB-687 telkotim.com · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-687 telkotim.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.telkotim.com；hakkimizda；hcs；d-link；racksis-rack-kabinet-hakkinda
+- SB-689 tiscontrol.com · sitemap（sitemap）：新增 820 条：2022-05-05 air_venera_switch.html?cid=20；2022-05-05 air_venera_dimmer.html?cid=21；2022-05-05 air_venera_ther.html?cid=22；2022-05-05 air_ads_dimmer.html?cid=23；2022-05-05 air_acm_switch.html?cid=26；2022-05-05 air_socket.html?cid=27；2022-05-05 air_ir_emitter.html?cid=28；2022-05-05 air_trv_controller.html?cid=93…
+- SB-690 troyykontrol.com · home（html）：内容变化：+3 −3 行
+  - `-Troyy Kontrol ile birkaç aydır çalışıyoruz. Yüz Tanıma Sistemleri konusundaki taleplerimizin ve sorunlarımızın hızlı bir şekilde anlaşılması ve ardından yine h`
+  - `-E-BERK`
+  - `-Tünel ve Zemin Teknolojileri`
+  - `+Troyy Kontrol'e Parmak izi sistemi montaj ve kurulumu esnasında gösterdikleri titiz çalışmalarından dolayı teşekkür ederiz. Özellikle Murat Bey'e kurulum sıras`
+  - `+Arif Cüneyt Kaya`
+  - `+Kayalar Eczanesi Genel Müdürü`
+- SB-690 troyykontrol.com · news_1（html）：内容变化：+1 −1 行
+  - `-18011`
+  - `+18018`
+- SB-693 Bin Hilal Group · home（html）：内容变化：+2 −137 行
+  - `-Bin Hilal Holdings Empowering by innovation`
+  - `-Skip to content`
+  - `-Home`
+  - `-About us`
+  - `-Who We Are Chairman’s Message History`
+  - `-Our Businesses`
+- SB-693 Bin Hilal Group · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-693 Bin Hilal Group · news_1（html）：内容变化：+2 −88 行
+  - `-News and Events – Bin Hilal Holdings Empowering by innovation`
+  - `-Skip to content`
+  - `-Home`
+  - `-About us`
+  - `-Who We Are Chairman’s Message History`
+  - `-Our Businesses`
+- SB-693 Bin Hilal Group · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 4 条（RSS 窗口滚动属正常）：Appreciation Award from Emirates Health Services (；Hemayah Opens New Office, Embracing Innovation and；Hemayah FLS and ELV Honored by Emirates Down Syndr；Bin Hilal Holdings’ CFO Shines at World Finance Fo
+- SB-695 Leandro Roisenberg FI · home（html）：内容变化：+44 −50 行
+  - `+Conversor de Mídia 1 Porta Gigabit RJ45 para 1 Porta Fibra Dupla Multimodo SC 2km - LRI-MC-1G1MM2`
+  - `+R$ 375,00`
+  - `+R$`
+  - `+363 , 75`
+  - `+à vista`
+  - `+com desconto Pix - Vindi`
+- SB-697 alliedasia.com.sg · home（html）：内容变化：+2 −722 行
+  - `-Allied Asia – Your Trusted Connectivity Solutions`
+  - `-Comodo SSL`
+  - `-Search here`
+  - `-Categories`
+  - `-Dante`
+  - `-Dante Audio Adapter`
+- SB-697 alliedasia.com.sg · news_1（html）：内容变化：+2 −723 行
+  - `-whats new – Allied Asia`
+  - `-Comodo SSL`
+  - `-Search here`
+  - `-Categories`
+  - `-Dante`
+  - `-Dante Audio Adapter`
+- SB-697 alliedasia.com.sg · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 5 条（RSS 窗口滚动属正常）：Logitech SmartDock Runs the Analyst’s Gauntlet；Win the Ultimate Man Cave Courtesy；Discover a New Way to Secure Your Home；Make Life Easier for Our Customer；Watch for Business
+- SB-705 eware.com.hk · home（html）：内容变化：+2 −121 行
+  - `-Home | Video Conference, Telephone System, Audio Conference, Unified Communications, Audio Visual, IP Phone and VoIP Solutions - Eware`
+  - `-Sales Enquiry: (852) 2115 7588`
+  - `-EN 繁`
+  - `-Home`
+  - `-About Us`
+  - `-About Eware Our Partners Our Customers Career Opportuntinities`
+- SB-705 eware.com.hk · news_1（html）：内容变化：+2 −49 行
+  - `-Company News | Video Conference, Telephone System, Audio Conference, Unified Communications, Audio Visual, IP Phone and VoIP Solutions - Eware`
+  - `-Sales Enquiry: (852) 2115 7588`
+  - `-EN 繁`
+  - `-Home`
+  - `-About Us`
+  - `-About Eware Our Partners Our Customers Career Opportuntinities`
+- SB-705 eware.com.hk · news_2（html）：内容变化：+2 −49 行
+  - `-Product News | Video Conference, Telephone System, Audio Conference, Unified Communications, Audio Visual, IP Phone and VoIP Solutions - Eware`
+  - `-Sales Enquiry: (852) 2115 7588`
+  - `-EN 繁`
+  - `-Home`
+  - `-About Us`
+  - `-About Eware Our Partners Our Customers Career Opportuntinities`
+- SB-706 eworldme.com · home（html）：内容变化：+2 −537 行
+  - `-Industrial Automation & Data Communication Distributor | eWorld`
+  - `-Easy World Automation L.L.C`
+  - `-Partners 0`
+  - `-MOXA 0`
+  - `-Industrial Network Infrastructure 0`
+  - `-Industrial Ethernet Switches 764`
+- SB-706 eworldme.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-707 goetz-automation.de · home（html）：恢复可达（上轮 HTTP 500）
+- SB-709 ic-intracom.bg · sitemap（sitemap）：新增 820 条： apsc55123cdlb6-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1550-nm-lc-160-км-atop-25592； apsc55123cdl40-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1550-nm-lc-40-км-atop-25618； apsc55123cdl60-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1550-nm-lc-60-км-atop-25593； apsc55123cdl80-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1550-nm-lc-80-км-atop-25619； apsc57123cdlb2-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1570-nm-lc-120-км-atop-25010； apsc57123cdlb6-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1570-nm-lc-160-км-atop-25594； apsc57123cdl40-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1570-nm-lc-40-км-atop-25620； apsc57123cdl60-1-25g-cwdm-sfp-оптичен-модул-по-две-влакна-1570-nm-lc-60-км-atop-25595…
+- SB-714 netsecurity.com.au · home（html）：内容变化：+7 −7 行
+  - `+HIKVISION, Compact Series, 600 VA, 360 W, True line interactive UPS, Power filtering (lightning and surge protection), short circuit/overload protection, AC to`
+  - `+DS-UPS600-AU`
+  - `+More Info`
+  - `-BOSCH, Radion Series, Wireless panic button keyfob transmitter, 1 button duress, User only, 433MHz, Suits B810, RF120, RF121, RF3212E, STR2, STR3 Receivers, In`
+  - `-RFPB-SB`
+  - `+HIKVISION, Detector, Dual tech, Outdoor, Blue Wave technology, Auto sensitivity, Microwave + two PIR sensors, Pet immune to 24kg, 85 degrees, 12 x 12m coverage`
+- SB-716 radioparts.com.au · home（html）：内容变化：+1039 −1 行
+  - `-10 WAT`
+  - `+10 WATT`
+  - `+SEMICONDUCTORS`
+  - `+Back`
+  - `+LINEAR ICS`
+  - `+OP-AMPS`
+- SB-718 teksarf.com · home（html）：内容变化：+2 −2 行
+  - `-$: 50.72 TL`
+  - `-€: 55.48 TL`
+  - `+$: 50.75 TL`
+  - `+€: 55.68 TL`
+- SB-726 Elettronica E Sicurezza · sitemap（sitemap）：新增 820 条： connettori-ballun.1.16.288.sp.uw； contatti-magnetici.1.16.289.sp.uw； tapparelle-vibrazione-inerziali.1.16.290.sp.uw； a-vista-c-m-.1.16.291.sp.uw； incasso-c-m-.1.16.292.sp.uw； incasso-per-interno.1.16.293.sp.uw； effetto-tenda-barriere-per-interno.1.16.294.sp.uw； radar-volumetrici-per-interno.1.16.295.sp.uw…
+- SB-734 SIGMA RECTRIX SYSTEMS (M) SDN  · sitemap（sitemap）：新增 31 条： jobs-30； internship-31； jobs-30； feed； feed； feed； nak-tahu-1-ap-boleh-cover-berapa-users-utk-apmm-projects-1； train-the-trainer-odoo-15-overview-3…
+- SB-739 arcdyn.com · home（html）：内容变化：+2 −327 行
+  - `-Security Camera Supplier & Distributor | NDAA Options | Arcdyn The store will not work correctly when cookies are disabled.`
+  - `-Customize`
+  - `-Active CMS Builder`
+  - `-IP Cameras ArcNova NDAA ✓`
+  - `-Turret`
+  - `-Bullet`
+- SB-739 arcdyn.com · sitemap（sitemap）：新增 786 条： arcdyn.com；2026-09-28T18:04:31 ip-cameras.html；2026-09-03T14:26:47 nvr.html；2026-09-28T18:05:12 surveillance-power-over-ethernet.html；2024-03-04T19:01:32 carbon-nvr.html；2024-03-04T19:01:36 obsidian-nvr.html；2024-03-04T19:01:46 titanium-nvr.html；2017-12-21T03:44:06 1080p.html…
+- SB-744 commandonetworks.com · home（html）：内容变化：+2 −2 行
+  - `+E200-16GP-3CF`
+  - `+COMMANDO Scout E200 16x1GbE PoE/PoE+, 2x1GbE+1x1G SFP, 200W, Unmanaged AI Switch`
+  - `-AIR-AP1800AX`
+  - `-COMMANDO AirX 1775Mbps, 802.11ax Wave 2, FIT/FAT, Wi-Fi 6 Cloud Access Point`
+- SB-744 commandonetworks.com · sitemap（sitemap）：新增 549 条：2026-11-25T13:27:48 www.commandonetworks.com；2026-11-25T13:27:48 switches；2026-11-25T13:27:48 managed；2026-11-25T13:27:48 unmanaged；2026-11-25T13:27:48 software_comparison；2026-11-25T13:27:48 wireless；2026-11-25T13:27:48 routers；2026-11-25T13:27:48 gateways…
+- SB-744 commandonetworks.com · telegram（html）：内容变化：+76 −5 行
+  - `-25 views`
+  - `+26 views`
+  - `-23 views`
+  - `+24 views`
+  - `-75 views`
+  - `+76 views`
+- SB-745 comtrol.co.uk · home（html）：内容变化：+2 −58 行
+  - `-Comtrol UK Ltd -`
+  - `-Skip to content`
+  - `-Home`
+  - `-Distribution`
+  - `-Omnitron`
+  - `-RocketPort®`
+- SB-745 comtrol.co.uk · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-745 comtrol.co.uk · news_1（html）：内容变化：+2 −59 行
+  - `-Case Studies -`
+  - `-Skip to content`
+  - `-Home`
+  - `-Distribution`
+  - `-Omnitron`
+  - `-RocketPort®`
+- SB-747 digitclik.it · home（html）：内容变化：+2 −5 行
+  - `-Viras`
+  - `-Stran v izdelavi ...`
+  - `-KONTAKT:`
+  - `-tel.: 040 124 770`
+  - `-e-pošta: info@viras.si`
+  - `+One moment, please...`
+- SB-749 ecin.ca · sitemap（sitemap）：新增 228 条：2026-07-30 celestica；2026-06-23 contact-us；2026-07-31 cookie-policy；2026-07-28 network-cables；2026-08-04 network-transceivers；2026-08-07 noviflow；2026-05-15 packet-broker；2026-05-29 sonic…
+- SB-759 futurereadysolutions.com · news_1（html）：内容变化：+2 −2 行
+  - `-Category: Fiber , Connectivity`
+  - `+Category: Connectivity , Fiber`
+  - `-Category: Latest News & Insights , Cable , Networking`
+  - `+Category: Networking , Cable , Latest News & Insights`
+- SB-761 getscw.com · sitemap（sitemap）：新增 820 条： 4-port-5amp-power-box-ptc； dc-12v-5amp-power-adapter； dc-12v-1-amp-power-adapter； dc-12v-2amp-power-adapter； 500-feet-siamese-cable-rg59-u-95-braid-18-2-power-cable-black； 1000ft-network-cat5e-pvc-ccu-commercial-grade； 1000ft-cat6-ul-cmr； 50ft-premade-siamese-cable…
+- 更新 1 条：www.getscw.com（2026-11-26T11:08:55 → 2026-11-27T11:05:43）
+- SB-762 groundcontrol.com · home（html）：内容变化：+92 −1 行
+  - `+Iridium NTN Direct for Cellular IoT: Gains and Trade-offs`
+  - `+November 26, 2026`
+  - `+Iridium NTN Direct brings global satellite NB-IoT to cellular devices. See how to design for it and when Iridium SBD or IMT is a better fit.`
+  - `+Read More`
+  - `-Rea`
+  - `+Read More`
+- SB-763 idome.uk · home（html）：内容变化：+17 −17 行
+  - `-cable for cctv`
+  - `-cctv dome cameras`
+  - `-fire alarm kit`
+  - `-wireless ip dome camera`
+  - `-mic cctv`
+  - `+hd cctv system uk`
+- SB-765 inv-technology.com · home（html）：内容变化：+1 −1 行
+  - `-2742 Hit`
+  - `+2746 Hit`
+- SB-765 inv-technology.com · sitemap（sitemap）：新增 228 条：2020-10-09T14:26:03 33-accessories；2020-10-09T14:26:03 34-access-control-kits；2020-10-09T14:26:03 345-portable-thermal-camera-.html；2020-10-09T14:26:03 136-centrale-alarme-.html；2020-10-09T14:26:03 294-radio-transmitter-receiver-kit.html；2020-10-09T14:26:03 131-bracelet-silicone-.html；2020-10-09T14:26:03 286-loop-isolator.html；2020-10-09T14:26:03 174-angled-wall-bracket.html…
+- SB-768 kbvdatacom.rs · home（html）：恢复可达（上轮 HTTP 404）
+- SB-768 kbvdatacom.rs · news_1（html）：恢复可达（上轮 HTTP 404）
+- SB-768 kbvdatacom.rs · news_2（html）：恢复可达（上轮 HTTP 404）
+- SB-769 konturm.ru · sitemap（sitemap）：新增 550 条： tech.php?id=ods； tech.php?id=im； tech.php?id=nap； tech.php?id=rv； tech.php?id=pov； tech.php?id=dlv； tech.php?id=zpr； tech.php?id=hom…
+- SB-771 lanprosa.com · home（html）：内容变化：+39 −39 行
+  - `-Sirena para exteriores inal?mbrica, HIKVISION DS-PSG-WO-433`
+  - `-$ 53 + IVA`
+  - `-Sensor contacto magnetico para puerta ventana, LANTEK SEN.210R`
+  - `-$ 11 + IVA`
+  - `+Sensor omni 360g PET inmune Anti Luz blanca 9m@20g, LANTEK SEN.7380R`
+  - `+$ 22 + IVA`
+- SB-773 microseven.com · home（html）：内容变化：+1 −1 行
+  - `-Stream views: 13,042,186`
+  - `+Stream views: 13,042,366`
+- SB-775 patton.com · sitemap（sitemap）：新增 214 条：2021-05-04T20:56:46 www.patton.com；2021-05-04T20:56:53 contact-us.asp；2021-05-04T20:57:02 company；2021-05-04T20:57:13 careers；2021-05-04T20:57:18 services.asp；2021-05-04T20:57:23 environment；2021-05-04T20:57:29 legal；2021-05-04T20:57:34 press…
+- SB-777 proplex.com · sitemap（sitemap）：新增 20 条：2023-03-06 proplex-ethernet-cables-adopted-by-new-markets；2021-06-04 bbc-radio-1s-big-weekend-relies-on-proplex；2021-06-08 proplex-iq-network-tester-receives-third-industry-award-at-cine-gear-expo；2021-06-07 tmb-introduces-proplex-extended-length-ethernet-patch-cables；2021-06-04 proplex-ez-lan-helps-kia-light-up-the-holidays；2021-06-04 proplex-rock-solid-on-tv；2021-06-04 proplex-at-galway-international-arts-festival；2021-06-04 proplex-gigabit-switches-at-iheartsummer-17-weekend…
+- SB-778 pyramid.lt · home（html）：内容变化：+1617 −1 行
+  - `-Kameros transporto pr`
+  - `+Kameros transporto priemonėms`
+  - `+Vaizdo registratoriai`
+  - `+AHD kameros automobiliams`
+  - `+AHD įrašymo įrenginiai automobiliams`
+  - `+Priedai automobilinėms AHD sistemoms`
+- SB-779 shop4power.nl · home（html）：内容变化：+4 −4 行
+  - `-Nog 5u 45m`
+  - `+Nog 2u 40m`
+  - `-12V 2`
+  - `-24V 21`
+  - `+12V 1`
+  - `+24V 22`
+- SB-782 simpleuk.com · sitemap（sitemap）：新增 820 条：2020-09-16 cfp-100g；2019-11-12 cisco-memory；2019-12-20 compact-flash；2019-11-12 dram-modules；2019-12-20 flash-modules；2019-12-20 pc-ata-flash-disk；2019-12-20 cwdm-and-wdm；2019-12-20 dwdm…
+- 更新 5 条：www.simpleuk.com（2026-11-25 → 2026-11-27）；search（2026-11-25 → 2026-11-27）；contactus（2026-11-25 → 2026-11-27）；news（2026-11-25 → 2026-11-27）；blog（2026-11-25 → 2026-11-27）
+- SB-783 sitech-bitdriver.com · sitemap（sitemap）：新增 212 条： t43.htm； t44.htm； t45.htm； t46.htm； t47.htm； t48.htm； t49.htm； t50.htm…
+- SB-784 sklep-bcs.pl · home（html）：内容变化：+35 −34 行
+  - `-NOWOŚCI (6)`
+  - `+NOWOŚCI (7)`
+  - `+BCS-P-EIP15FSR3-Ai(2) kamera kopułowa IP 5Mpx SMD SkyLight NDAA ...`
+  - `+Do koszyka`
+  - `+638,00 zł`
+  - `+BCS-B-TIP45VSR5(2.0) BCS Basic kamera tubowa IP 5Mpx IR 50M WDR ...`
+- SB-785 smartsystems.jo · sitemap（sitemap）：新增 820 条： network-nf-801b-tester-rj11-rj45-lan-wire-tracker-fault-locator-and-cable-tester-lan-nf-80； apacer-as2280q4x-m-dot-2-pcie-1tb-gen4-x4-ssd-1tb-nvme-ssd-drives-as2280q4x； bolinia-15-dot-6-1080p-portable-ips-screen-display-laptop-mobile-gaming-pc-monitor-monitor； apacer-dimm-notebook-ddr5-5600mhz-16gb-pc-desktop-memory-ram-fl-dot-16g2c-dot-pkh； doogee-t30-max-tablet-12-dot-4-ips-4k-helio-g99-octa-core-8gb-ram-20gb-512gb-storage-andro； doogee-u11-pro-vip-tablet-11-ips-hd-t7200-octa-core-wifi-5-6gb-ram-30gb-256gb-storage-andr； doogee-u9-tablet-10-dot-1-ips-hd-quad-core-3g-ram-64gb-storage-android-13-gray-purple-tabl； tp-link-re200-ver5-dot-0-ac750-wifi-range-extender-dual-band-750mbps-802-dot-11bgn-routers…
+- SB-788 tss-e.com · home（html）：内容变化：+2 −58 行
+  - `-Welcome to TSS Co.`
+  - `-home`
+  - `-about us`
+  - `-Services`
+  - `-contact us`
+  - `-+966 13 8468882`
+- SB-790 vulsanx.com · home（html）：内容变化：+2 −228 行
+  - `-Vulsan X – Cyber Security Expert`
+  - `-Skip to content`
+  - `-Home`
+  - `-VulsanX South Africa`
+  - `-About`
+  - `-Award`
+- SB-790 vulsanx.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-795 yachtgurus.us · home（html）：内容变化：+811 −1 行
+  - `+Provisioning`
+  - `+Provisioning`
+  - `-Increase quantity for Default Ti`
+  - `+Increase quantity for Default Title`
+  - `+Sale`
+  - `+TEAK CLEAN - Environmentally Friendly Alternative To Phosphoric Acid or other Caustic Cleaners`
+- SB-795 yachtgurus.us · news_1（html）：内容变化：+619 −12 行
+  - `+Provisioning`
+  - `+Provisioning`
+  - `+Oceanic Systems Circuit Stopped Working? Safe F...`
+  - `+One circuit dead on your Oceanic Systems digital switching? Identify the module, read the lights and check breakers safely before you call a tech.`
+  - `+Oceanic Systems Circuit Stopped Working? Safe F...`
+  - `+One circuit dead on your Oceanic Systems digital switching? Identify the module, read the lights and check breakers safely before you call a tech.`
+- SB-796 Destek Elektronik Tic. Ltd. · home（html）：内容变化：+2 −270 行
+  - `-Güvenlik Elektronik Sistemleri Distribütörü Teknik Destek`
+  - `-Eğitim / Seminer`
+  - `-Blog`
+  - `-Bayi Portal`
+  - `-Ürünler CCTV Sistemleri IP Sistemler AHD Sistemler Termal Sistemler Mobil Sistemler IP Ses Sistemleri Aksesuarlar Monitör Lens Yazılım Yangın Algılama Adreslen`
+  - `-Markalar`
+- SB-796 Destek Elektronik Tic. Ltd. · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.destekelektronik.com.tr；kurumsal；eds-elektronik；tarihce；ar-ge-merkezi
+- SB-796 Destek Elektronik Tic. Ltd. · news_1（html）：内容变化：+2 −299 行
+  - `-Blog Teknik Destek`
+  - `-Eğitim / Seminer`
+  - `-Blog`
+  - `-Bayi Portal`
+  - `-Ürünler CCTV Sistemleri IP Sistemler AHD Sistemler Termal Sistemler Mobil Sistemler IP Ses Sistemleri Aksesuarlar Monitör Lens Yazılım Yangın Algılama Adreslen`
+  - `-Markalar`
+- SB-800 acelink.com.tw · home（html）：内容变化：+2 −84 行
+  - `-Acelink Technology - Network Solutions`
+  - `-Solution`
+  - `-Product`
+  - `-News`
+  - `-About`
+  - `-Inquiry`
+- SB-800 acelink.com.tw · news_1（html）：内容变化：+2 −181 行
+  - `-ACELINK-Your Best Solution Provider - News`
+  - `-This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.`
+  - `-I read and accept the`
+  - `-privacy policy.`
+  - `-Solution WiFi On-The-Go`
+  - `-Air Quality Solution`
+- SB-800 acelink.com.tw · news_2（html）：内容变化：+2 −123 行
+  - `-ACELINK-Your Best Solution Provider - Event`
+  - `-This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies.`
+  - `-I read and accept the`
+  - `-privacy policy.`
+  - `-Solution WiFi On-The-Go`
+  - `-Air Quality Solution`
+- SB-801 aurcore.net · sitemap（sitemap）：新增 3 条：2026-03-06T17:28:16 aurcore-partners-with-dvcom-technology-to-accelerate-digital-transformation-across-middle-；2026-03-06T17:28:15 meet-the-aurcore-team-at-ofc-2026-west-hall-5151；2026-03-24T17:05:54 leveraging-sonic-for-scalable-high-performance-network-infrastructures
+- 更新 57 条：www.aurcore.net（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；about（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；partners（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；contact（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；terms（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；privacy（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；news（2026-11-26T11:28:37 → 2026-11-27T11:21:11）；blogs（2026-11-26T11:28:37 → 2026-11-27T11:21:11）
+- SB-802 baldota.co.in · home（html）：首轮基线
+- SB-802 baldota.co.in · news_1（html）：首轮基线
+- SB-802 baldota.co.in · news_2（html）：首轮基线
+- SB-803 bestpc.bg · home（html）：内容变化：+99 −81 行
+  - `-Silicon Power`
+  - `-Капацитет: 2000 GB m.2 2280`
+  - `-SSD`
+  - `-Интерфейс: M.2 NVMe PCIe`
+  - `+ПРОМОЦИЯ`
+  - `+18 90 € 23.99 €`
+- SB-805 cctvspot.co.uk · news_1（html）：内容变化：+1 −1 行
+  - `-16236 View(s)`
+  - `+16246 View(s)`
+- SB-805 cctvspot.co.uk · news_2（html）：内容变化：+1 −1 行
+  - `-6836 View(s)`
+  - `+6841 View(s)`
+- SB-807 datastream.by · home（html）：内容变化：+809 −1 行
+  - `-Сетевое оборудо`
+  - `+Сетевое оборудование`
+  - `+Структурированная кабельная система`
+  - `+Видеонаблюдение`
+  - `+IP-телефония и ВКС`
+  - `+Аккумуляторные батареи и аксессуары`
+- SB-809 econnet.it · sitemap（sitemap）：新增 820 条： endpoint-security-for-business-next-edr-optimum.1.32.25.sp.uw； telecamere-ip-professionali.1.22.258.sp.uw； lpr-license-plate-recognition.1.22.1289.sp.uw； network-video-recorder.1.22.264.sp.uw； accessori-per-telecamere-ip.1.22.265.sp.uw； sistemi-dect-yealink.1.30.453.sp.uw； yealink.1.22.454.sp.uw； g-data.1.32.279.sp.uw…
+- SB-811 esoft.fi · home（html）：内容变化：+112 −69 行
+  - `-Näytetään tulokset 1–24 / 1961`
+  - `+Näytetään tulokset 1–24 / 1959`
+  - `+536,00 € veroton hinta 427,09 €`
+  - `+8x1000T@8xPoE+, 2xSFP, 12-56VDC -40…+75C, IP30, DIN`
+  - `+PLANET IGS-1020PTF-12V on teollisuuskäyttöön soveltuva 10- porttinen 10/100/1000Base-TX (8x TX + 2x SFP) PoE Ethernet-kytkin laajennetulla käyttölämpötila-alue`
+  - `+19,90 € veroton hinta 15,86 €`
+- SB-812 ethernetdirect-jp.com · sitemap（sitemap）：新增 7 条：2017-09-04T02:24:42 www.ethernetdirect-tw.com；2017-09-04T02:24:42 index.html；2017-09-01T08:09:59 sitemap.html；2017-09-01T08:09:59 privacy.html；2017-09-01T09:48:32 ED_CobraSeries_Industrial_PoE_Gigabit_Managed_Switch.pdf；2017-09-01T09:48:33 ED_CobraSeries_Industrial_PoE_Managed_Switch.pdf；2017-09-01T09:48:32 ED_CobraSeries_Industrial_PoE_Unmanaged_Switch.pdf
+- SB-814 istream.by · home（html）：内容变化：+2 −259 行
+  - `-Купить видеонаблюдение по низким ценам от Айстрим Плюс`
+  - `-Главная`
+  - `-Прайс-листы`
+  - `-Блог`
+  - `-Оплата и доставка`
+  - `-О нас`
+- SB-814 istream.by · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：istream.by；istream.by；price；blog；oplata_i_dostavka
+- SB-814 istream.by · news_1（html）：内容变化：+2 −296 行
+  - `-Блог о видеонаблюдении и не только...`
+  - `-Главная`
+  - `-Прайс-листы`
+  - `-Блог`
+  - `-Оплата и доставка`
+  - `-О нас`
+- SB-815 lendoux.com · home（html）：内容变化：+31 −32 行
+  - `-HOP6865-56YC- 48 port 25 G Access and 8x100 G Uplink Switch`
+  - `+HOP6862-54XC- 48 *10G Access 2x40G and 4x100G Uplink Switch`
+  - `-$7,400.00 Price`
+  - `-`
+  - `-16*100Gb & 4*400Gb Line Card for FS Data Center Switch NC8400-4TD`
+  - `-Switch and router store`
+- SB-819 nabludenie.by · home（html）：内容变化：+2 −532 行
+  - `-Системы видеонаблюдения в Минске по выгодной цене`
+  - `-Интернет-магазин`
+  - `-представительского класса`
+  - `-Каталог`
+  - `-По всему сайту`
+  - `-По каталогу`
+- SB-819 nabludenie.by · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-819 nabludenie.by · news_1（html）：内容变化：+2 −481 行
+  - `-Системы видеонаблюдения в Минске | Советы, тренды и анализ`
+  - `-Интернет-магазин`
+  - `-представительского класса`
+  - `-Каталог`
+  - `-По всему сайту`
+  - `-По каталогу`
+- SB-819 nabludenie.by · news_2（html）：内容变化：+2 −438 行
+  - `-Новости`
+  - `-Интернет-магазин`
+  - `-представительского класса`
+  - `-Каталог`
+  - `-По всему сайту`
+  - `-По каталогу`
+- SB-822 solidcable.com · sitemap（sitemap）：新增 702 条： Types.aspx?shelfBoardNo=2005； Types.aspx?shelfBoardNo=2006； Types.aspx?shelfBoardNo=2142； Types.aspx?shelfBoardNo=2016； Types.aspx?shelfBoardNo=2010； Types.aspx?shelfBoardNo=2011； Types.aspx?shelfBoardNo=2012； Types.aspx?shelfBoardNo=2013…
+- SB-823 synchronet.net · home（html）：内容变化：+80 −6 行
+  - `-4 months ago`
+  - `+5 months ago`
+  - `+James F.`
+  - `+3 years ago`
+  - `+I need to say that SynchroNet seems really great so far. Been with them for 3 months now, and they’ve really gone the distance for us, as our new managed IT se`
+  - `+read more read less`
+- SB-824 synchsoft.com.pk · home（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='synchcom.com.pk', port=443): Read timed out. (read timeout=20)
+- SB-825 t-automation.by · home（html）：内容变化：+381 −13 行
+  - `-2 891 67 Br`
+  - `+2 902 39 Br`
+  - `-2 408 73 Br`
+  - `+2 417 66 Br`
+  - `-3 480 60 Br`
+  - `+3 493 51 Br`
+- SB-825 t-automation.by · news_1（html）：内容变化：+127 −26 行
+  - `+Все статьи 18`
+  - `+Новости компании 3`
+  - `+Новости вендоров 14`
+  - `+Мероприятия 1`
+  - `+Все типы`
+  - `+Обычная статья`
+- SB-825 t-automation.by · news_2（html）：内容变化：+118 −17 行
+  - `+Все статьи 150`
+  - `+Новости по товарам 115`
+  - `+Вебинары и обзоры продуктов 22`
+  - `+Общетехнические статьи 10`
+  - `+Все типы`
+  - `+Обычная статья`
+- SB-832 alidex.es · home（html）：内容变化：+2 −82 行
+  - `-ALIDEX | Networking Industrial, Redes IoT, Ciberseguridad OT`
+  - `-Toggle navigation`
+  - `-Empresa`
+  - `-Productos`
+  - `-Soluciones`
+  - `-Fabricantes`
+- SB-833 comtime-com.de · home（html）：内容变化：+27 −6 行
+  - `+Fernwartung`
+  - `+Fernwartung`
+  - `-comtime entwickelt und fertigt Industrierouter und Modems in Norderstedt, für Industrie, Stadtwerke und den öffentlichen Sektor.`
+  - `+comtime entwickelt und fertigt Industrierouter und Modems in Deutschland, für Industrie, Stadtwerke und den öffentlichen Sektor.`
+  - `-Unsere Produktbereiche`
+  - `+Industrierouter für Mobilfunk, DSL, LAN und Glasfaser`
+- SB-833 comtime-com.de · news_1（html）：内容变化：+7 −5 行
+  - `+Fernwartung`
+  - `+Fernwartung`
+  - `-Industrierouter und Modems aus Norderstedt, seit 2001.`
+  - `+Industrierouter und Modems aus Deutschland, seit 2001.`
+  - `-Seit über zwanzig Jahren entwickeln und fertigen wir industrielle Router und`
+  - `-Modems in Norderstedt. Was als Spezialist für serielle und ISDN-Anbindungen`
+- SB-835 fiberopticsupply.com · home（html）：内容变化：+85 −2 行
+  - `-Pre-Order Now`
+  - `+Add to Cart`
+  - `-DX`
+  - `+DX012TSLA9KP1000`
+  - `+12F DX Series OCC Singlemode Indoor/Outdoor Cable Plenum - Black - Bulk - DX012TSLA9KP`
+  - `+MSRP:`
+- SB-836 fiberworks.no · feed_auto（rss）：新增 21 条：27.11.2026 10.32.05 DIN-boks Mini preterm G8 LCU-Åpen 13 m；27.11.2026 10.30.25 DIN-boks Mini preterm G8 LCU-Åpen 12 m；27.11.2026 10.25.40 DIN-boks Mini preterm G8 LCU-Åpen 11 m；27.11.2026 10.17.36 DIN-boks Mini preterm G8 LCU-Åpen 10 m；27.11.2026 10.11.52 DIN-boks Mini preterm G8 LCU-Åpen 9 m；24.11.2026 14.19.14 Preterm SM G8 AXAI LC/UPC-LC/UPC, 20 m；09.11.2026 20.10.20 SFP+ Active Optical cable (AOC)；09.11.2026 20.09.44 SFP+ Active Optical cable (AOC)…
+- 消失 1 条（RSS 窗口滚动属正常）：Preterm SM G8 AXAI LC/UPC-LC/UPC, 20 m
+- SB-839 ilucoltd.com · sitemap（sitemap）：新增 169 条： %e9%82%84%e5%9b%9e%e6%b2%bb%e5%85%b7； %e8%b3%87%e8%a8%8a%e8%a8%ad%e5%82%99-it-equipment； arm-based-solution； arm-based-storage-server； arm-based-micro-server-development-kit； arm-based-in-vehicle-computer； ilu-storage-solution； arm-based-storage…
+- SB-839 ilucoltd.com · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-842 kzn-gps.ru · home（html）：内容变化：+410 −68 行
+  - `-Wi-Fi оборудование (618)`
+  - `+Wi-Fi оборудование (619)`
+  - `-Внутренние (Wi-Fi точки для помещений ) (443)`
+  - `+Внутренние (Wi-Fi точки для помещений ) (444)`
+  - `-VoIP телефония (673)`
+  - `+VoIP телефония (675)`
+- SB-842 kzn-gps.ru · sitemap（sitemap）：新增 820 条：2026-11-24 smart-watch；2026-11-24 fitness；2026-11-24 materinskie-platy；2026-11-24 fan-trays-and-shelves；2026-11-24 ekholoty-rivotek；2026-11-24 kontrollery；2026-11-24 network-cards；2026-11-24 vch-kabeli…
+- SB-843 mir-sb.com · home（html）：内容变化：+6 −6 行
+  - `-Просмотров: 3836`
+  - `+Просмотров: 3841`
+  - `-Просмотров: 4649`
+  - `+Просмотров: 4651`
+  - `-Просмотров: 4183`
+  - `+Просмотров: 4185`
+- SB-843 mir-sb.com · sitemap（sitemap）：新增 456 条：2023-11-13T15:35:03 16-ti-kanalnyj-registrator-ip-svn-nvrc2616p；2022-03-03T18:43:28 4-h-kanalnyj-registrator-ip-nvr-svn-nvrs936；2024-09-12T12:39:29 product&product_id=207；2024-09-12T12:39:57 evc-nk20-s13-a-kupolnaya-ip-videokamera-1-3mp-f2-8-12mm-audio-vhod；2022-03-03T17:16:46 ip-videokamera-esvi-evc-dn-s10-f2-8mm-1-0mp；2024-09-12T12:41:08 sc3335xm535；2024-09-12T12:41:54 ipc-e-dn-3-0-p-a-kupolnaya-ulichnaya-ip-videokamera-3-0mp-poe-audio；2022-03-15T12:18:12 akkumulyatornaya-batareya-12-v-7-ach-dlya-priborov-ohranno-pozharnoj-signalizacii-ili-isto…
+- SB-843 mir-sb.com · news_1（html）：内容变化：+4 −4 行
+  - `-Просмотров: 3836`
+  - `+Просмотров: 3841`
+  - `-Просмотров: 4649`
+  - `+Просмотров: 4651`
+  - `-Просмотров: 4183`
+  - `+Просмотров: 4185`
+- SB-846 qualicam.de · sitemap（sitemap）：新增 405 条： gsm-alarm-system-868-mhz-led-display-qc-alarmguard-11.html； decken-bewegungsmelder-360-grad-funk-868-mhz-qc-pd50.html； drahtloser-tuer-fensterkontakt-868-mhz-qc-ms10.html； funk-aussensirene-mit-blitzlicht-868-mhz-qc-sr60.html； funk-pir-bewegungsmelder-868-mhz-qc-pd20.html； funk-fernbedienung-868-mhz-yk-12.html； funk-rauchmelder-868-mhz-photoelektrisch-yg-05.html； funk-touch-keypad-868-mhz-mit-lcd-display-jp-08c.html…
+- SB-847 rollan.ca · home（html）：内容变化：+2 −157 行
+  - `-RollanTech Corporation`
+  - `-↑`
+  - `-Home`
+  - `-Solutions`
+  - `-About`
+  - `-Contact`
+- SB-848 setilend.ru · home（html）：内容变化：+1256 −1 行
+  - `-Насадки для мини-дреле`
+  - `+Насадки для мини-дрелей`
+  - `+Шлифовальная (наждачная) бумага, шкурка, сетка`
+  - `+Клеевые стержни`
+  - `+Рабочие места`
+  - `+Антистатика - одежда, обувь, вспомогательное оборудование`
+- SB-849 ssd.ru · telegram（html）：内容变化：+4 −4 行
+  - `-955 views`
+  - `+956 views`
+  - `-938 views`
+  - `+939 views`
+  - `-874 views`
+  - `+875 views`
+- SB-851 tayle.ru · sitemap（sitemap）：新增 777 条： partner_register；2017-05-26 videos；2016-11-24 testpage；2017-11-10 rentarec；2021-09-27 qsan-knowledge-base；2020-10-26 payments；2023-08-23 partnership；2016-12-02 tlk…
+- SB-851 tayle.ru · telegram（html）：内容变化：+47 −29 行
+  - `-ТАЙЛЕ`
+  - `-🌐 ISO/IEC 11801: что скрывается за международным стандартом СКС?`
+  - `-Надёжность кабельной сети зависит не только от качества компонентов, но и от того, насколько правильно спроектирована, смонтирована и протестирована вся систем`
+  - `-Именно для этого существуют международные стандарты, один из которых — ISO/IEC 11801 .`
+  - `-🔍 Что означает название?`
+  - `-● ISO (International Organization for Standardization) — Международная организация по стандартизации.`
+- SB-858 areskom.com.tr · home（html）：内容变化：+2 −244 行
+  - `-Areskom İletişim LTD – Teknoloji Ortağınız`
+  - `-+90 216 428 78 78`
+  - `-info(at)areskom.com.tr`
+  - `-MARKALAR`
+  - `-WESTERMO`
+  - `-Endüstriyel Ethernet Switch`
+- SB-858 areskom.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-858 areskom.com.tr · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：Merhaba dünya!
+- SB-860 basithamitech.com · home（html）：内容变化：+2 −114 行
+  - `-Business Template - Basithami Technology`
+  - `-Skip to content`
+  - `-Basithami Technology`
+  - `-Menu`
+  - `-Home`
+  - `-About Us`
+- SB-860 basithamitech.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-861 bimel.com.tr · news_2（html）：内容变化：+45 −10 行
+  - `-Latest News Latest News tr https://www.bimel.com.tr/ Endüstriyel Ağlar için Modüler PoE++ Güç Çözümü https://www.bimel.com.tr/news/view/endustriyel_aglar_icin_`
+  - `+Latest News Latest News tr http://www.bimel.com.tr/ Endüstriyel Ağlar için Modüler PoE++ Güç Çözümü http://www.bimel.com.tr/news/view/endustriyel_aglar_icin_mo`
+  - `-PLANET IMS-4P-E, IMS-6325-5&amp;nbsp;endüstriyel modüler yönetilebilir switch için tasarlanmış,&amp;nbsp;4 portlu 802.3bt PoE++&amp;nbsp;injector line kartıdır`
+  - `+PLANET IMS-4P-E, IMS-6325-5&amp;nbsp;endüstriyel modüler yönetilebilir switch için tasarlanmış,&amp;nbsp;4 portlu 802.3bt PoE++&amp;nbsp;injector line kartıdır`
+  - `-İki temel ağ teknolojisini bir araya getiren&amp;nbsp;Gigabit Ethernet&amp;nbsp;ve&amp;nbsp;VDSL2&amp;nbsp;(Very-high-data-rate Digital Subscriber Line 2) taba`
+  - `+İki temel ağ teknolojisini bir araya getiren&amp;nbsp;Gigabit Ethernet&amp;nbsp;ve&amp;nbsp;VDSL2&amp;nbsp;(Very-high-data-rate Digital Subscriber Line 2) taba`
+- SB-862 cebecigrup.com · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-862 cebecigrup.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-862 cebecigrup.com · news_1（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-862 cebecigrup.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：402K Ton Üretici ve Prob Seti；CFC-SFP-GIG-RJ45 10/100/1000M RJ45 0.1km SFP Modül；Fiber Optik Endüstriyel Haberleşme Ürünleri；Cifocs CFC-SFOC-200 RS-232/422/485 Fiber Optik Dön；CFC-8G2SFP-IEMPS Gigabit Ethernet PoE+ Kolay Yönet
+- SB-863 cmd-sec.ru · telegram（html）：内容变化：+3 −3 行
+  - `-Forwarded from ТЕКО. Системы безопасности "Астра" ( Evgenia )`
+  - `+Forwarded from ( Evgenia )`
+  - `-Forwarded from Линия видеонаблюдение`
+  - `+Forwarded from`
+  - `-Forwarded from CMD Техподдержка`
+  - `+Forwarded from`
+- SB-864 dacelsolutions.com · home（html）：内容变化：+2 −2 行
+  - `-Bot Verification`
+  - `-Verifying that you are not a robot...`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SB-864 dacelsolutions.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.dacelsolutions.com；en-US；Degerlerimiz；Firma-Profili；Kalite-Anlayisimiz
+- SB-867 erete.com.tr · sitemap（sitemap）：新增 289 条：2017-10-31 60；2017-10-31 55；2017-10-31 54；2017-10-31 53；2017-10-31 59；2017-10-31 52；2017-10-31 58；2017-10-31 56…
+- SB-870 hunter-cctv.ru · sitemap（sitemap）：新增 564 条：2026-11-21 f-f-perehodnik-bochka；2026-11-21 rca-shteker-pod-vint；2026-11-21 rca-shteker-pod-klemmy；2026-11-21 rj-45-kolpachok；2026-11-21 rj-45-konnektor；2026-11-21 utp-5e-4h2h0-48-kabel-vitaya-para-expert-lite-1-m；2026-11-21 utp-5e-4h2h0-51-outdoor-kabel-vitaya-para-expert-1-m；2026-11-21 utp-5e-4h2h0-51-kabel-vitaya-para-expert-1-m…
+- SB-871 intenet.com.tr · home（html）：内容变化：+2 −117 行
+  - `-INTENET İnternet, Telekominikasyon, Network ve Bilişim Sistemleri, Teiaş, Eneri Santral Haberleşme Sistemleri – Trafo Merkezleri Anahtar Teslim Çözümler İNTENE`
+  - `-Skip to content`
+  - `-0 (212) 347 84 84 | info@intenet.com.tr`
+  - `-LinkedIn Facebook X Instagram Rss Email`
+  - `-About Us`
+  - `-Our Solutions Industrial Switch Industrial Switch`
+- SB-871 intenet.com.tr · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-871 intenet.com.tr · news_1（html）：内容变化：+2 −134 行
+  - `-Haberler – INTENET İnternet, Telekominikasyon, Network ve Bilişim Sistemleri, Teiaş, Eneri Santral Haberleşme Sistemleri`
+  - `-İçeriğe geç`
+  - `-0 (212) 347 84 84 | info@intenet.com.tr`
+  - `-LinkedIn Facebook X Instagram Rss E-posta`
+  - `-AnaSayfa`
+  - `-Hakkımızda`
+- SB-875 lemaxguvenlik.com · sitemap（sitemap）：新增 256 条： 183； 194； 197； 253； 325； 321； 322； 323…
+- SB-877 ltv-cctv.ru · sitemap（sitemap）：新增 820 条： ibp； g1； g2； g3； g4； prochie-tovary； prochie-tovary； prochie-tovary…
+- SB-877 ltv-cctv.ru · youtube（youtube_handle）：新增 1 条：2026-11-26T14:00:20 45 млн рублей в год: как робот помогает контролировать полки в гипермаркете
+- 消失 1 条（RSS 窗口滚动属正常）：Управляемый и неуправляемый коммутатор. В чём разн
+- SB-877 ltv-cctv.ru · telegram（html）：内容变化：+56 −20 行
+  - `-970 subscribers`
+  - `-894 photos`
+  - `-61 videos`
+  - `+973 subscribers`
+  - `+901 photos`
+  - `+62 videos`
+- SB-881 nexlar.com · youtube（youtube_handle）：新增 2 条：2026-11-26T19:00:23 How to Get Door Access Control Permit in McAllen #nexlar #accesscontrol #permits；2026-11-26T19:00:09 How to Apply Door Access Control Permit in San Antonio
+- 消失 2 条（RSS 窗口滚动属正常）：Getting a permit in Austin just got easier 🛠️ #aus；How Turnstile Access Control Works
+- SB-882 pctelecom.co.th · home（html）：内容变化：+2 −152 行
+  - `-PC Telecom – กล้องวงจรปิด จำหน่าย, ติดตั้งกล้องวงจรปิด ขายตรงจากผู้ผลิต LG`
+  - `-Skip to content`
+  - `-service@pctelecom.co.th`
+  - `-02-802-7350`
+  - `-หน้าหลัก`
+  - `-สินค้าทั้งหมด`
+- SB-882 pctelecom.co.th · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-882 pctelecom.co.th · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：Hello world!
+- SB-883 phuongdung.com · home（html）：内容变化：+2 −959 行
+  - `-Nhà phân phối sỉ & lẻ thiết bị công nghệ - Phương Dung Telecom`
+  - `-Giới thiệu`
+  - `-Tin tức`
+  - `-Tuyển dụng`
+  - `-Liên hệ`
+  - `-Download`
+- SB-883 phuongdung.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：phuongdung.com；gioi-thieu.html；san-pham.html；tin-tuc.html；tuyen-dung.html
+- SB-884 polyvision.ru · sitemap（sitemap）：新增 820 条：2017-07-10T14:54:27 1881-obnovlenie-programmnogo-obespecheniya-cms；2018-08-28T07:14:52 1882-novaya-listovka-polyvision-2016；2018-08-15T07:01:29 4-kanala；2017-07-10T14:54:27 moskva；2018-09-19T08:21:53 2081-moduli-ip-kameryi-raspinovka-provodov；2017-07-10T14:54:27 2082-login-failed-pri-avtorizaczii-cherez-web-interfejs；2018-08-28T07:03:43 1876-v-prodazhu-postupil-mnogofunkczionalnyij-7-dyujmovyij-videodomofon-polyvision；2018-08-28T07:11:17 1877-seminar-v-ekaterinburge-resheniya-polyvision…
+- SB-885 riverplus.com · home（html）：内容变化：+109 −9 行
+  - `+RUT901 LTE Cat 4 Router`
+  - `+6,800.00 ฿ 5,900.00 ฿`
+  - `+Add To Cart`
+  - `+Sale Off`
+  - `-RUT901 LTE Cat 4 Router`
+  - `-6,800.00 ฿ 5,900.00 ฿`
+- SB-887 stasanet.rs · sitemap（sitemap）：新增 819 条： ja-110z-b-modul-za-spajanje-petlje； ja-110z-c-modul-za-spajanje-petlje； pt-tape02-bw-laminirana-traka-12mm； ja-152e-bezicni-rfid-citac； ja-153e-wh-bezicna-tastatura； ja-154e-wh-bezicna--tastatura； ja-150e-bez--tastatura； ja-192e-wh-kontrolni-segment--beli…
+- SB-888 stordis.com · home（html）：内容变化：+220 −1 行
+  - `-IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone h`
+  - `+IP Nexia, a Belgian service provider serving 1,000+ enterprise customers across VoIP, connectivity, and cloud services, needed to retire end-of-life backbone h`
+  - `+Michel Coric, CEO — IP Nexia`
+  - `+Alexander Deca, Chief Network Engineer — Deca Consulting`
+  - `+Resources`
+  - `+Guides, courses, tools, and real conversations — everything you need to get deeper into open networking, at your own pace.`
+- SB-889 teamon.com.tr · home（html）：内容变化：+2 −2 行
+  - `-50.89,`
+  - `-55.77`
+  - `+50.84,`
+  - `+55.68`
+- SB-889 teamon.com.tr · news_1（html）：内容变化：+2 −2 行
+  - `-50.89,`
+  - `-55.77`
+  - `+50.84,`
+  - `+55.68`
+- SB-890 technopc.com.tr · sitemap（sitemap）：新增 520 条： endustriyel-arac-pc-serisi； endustriyel-monitor-serisi； digital-signage-serisi； rugged-el-terminali； technopc-pro-luna-d100； technopc-smartone-n24-m； technopc-technobook-tb15； technopc-notebook-th15tu7…
+- SB-893 trassir.ru · sitemap（sitemap）：新增 420 条：2025-03-10T12:38:05 trassir.ru；2025-03-10T12:38:05 products；2025-03-10T12:38:05 videonablyudenie；2025-03-10T12:38:05 programmnoe_obespechenie_trassir；2025-03-10T12:38:05 sistemy_kontrolya_dostupa_skud；2025-03-10T12:38:05 setevoe_i_kabelnoe_oborudovanie；2025-03-10T12:38:05 montazhnye_materialy；2025-03-10T12:38:05 news…
+- SB-904 Nuthill · home（html）：内容变化：+2 −55 行
+  - `-Home`
+  - `-Services`
+  - `-About`
+  - `-Contact`
+  - `-Welcome to a World Leading Mining, Metal, Electrical and Instrumentation Industry Development Company in South Africa`
+  - `-Who We Are`
+- SB-908 ctservicestore.it · home（html）：内容变化：+60 −58 行
+  - `-Telecamere IP , Tvcc ip , Uniview , Videosorveglianza`
+  - `-Telecamera Bullet Uniview – UV-IPC2314LE-ADF28KM-WP`
+  - `-242,78 € Il prezzo originale era: 242,78 €. 169,95 € Il prezzo attuale è: 169,95 €.`
+  - `-Aggiungi al carrello`
+  - `-Accessori tvcc , No brand , Staffe per telecamere , Videosorveglianza`
+  - `-Staffa per montaggio a palo Dahua PFA152‑E`
+- SB-913 lanpro.com · home（html）：抓取失败：ConnectionError: HTTPSConnectionPool(host='www.lanpro.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("HTTPSConnection(host='www.lanpro.com', port=443): Failed to resolve 'www.lanpro.c
+- SB-913 lanpro.com · sitemap（sitemap）：抓取失败：ConnectionError: HTTPSConnectionPool(host='www.lanpro.com', port=443): Max retries exceeded with url: /sitemap.xml (Caused by NameResolutionError("HTTPSConnection(host='www.lanpro.com', port=443): Failed to resolve 'w
+- SB-913 lanpro.com · intel_news_en（rss）：状态变化：HTTP 429 → HTTP 503
+- SB-914 mro-tek.com · home（html）：内容变化：+2 −271 行
+  - `-MRO‑TEK — Integrating Next Generation Networks`
+  - `-Skip to main content`
+  - `-+91 9821558696`
+  - `-info@mro-tek.com`
+  - `-Partner Registration`
+  - `-BSE/NSE: MROTEK`
+- SB-914 mro-tek.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.mro-tek.com；awards；board；careers；company
+- SB-914 mro-tek.com · news_1（html）：内容变化：+2 −408 行
+  - `-News & Press — MRO‑TEK`
+  - `-Skip to main content`
+  - `-+91 9821558696`
+  - `-info@mro-tek.com`
+  - `-Partner Registration`
+  - `-BSE/NSE: MROTEK`
+- SB-914 mro-tek.com · news_2（html）：内容变化：+2 −179 行
+  - `-Case Studies — MRO‑TEK`
+  - `-Skip to main content`
+  - `-+91 9821558696`
+  - `-info@mro-tek.com`
+  - `-Partner Registration`
+  - `-BSE/NSE: MROTEK`
+- SB-915 radwin.com · sitemap（sitemap）：新增 164 条： auth； clear_country； alpha-pro-24； fiberinmotion-28； idu-s-26； idu-si-27； jet-air-16； jet-air-duo-17…
+- 更新 1 条：contactus（2026-11-24 → 2026-11-26）
+- SB-915 radwin.com · news_1（html）：内容变化：+1 −1 行
+  - `-Nov 25, 2026`
+  - `+Nov 26, 2026`
+- SB-916 skipod.lk · home（html）：内容变化：+2 −113 行
+  - `-SkiPod Manufacture Pvt Ltd - Sri Lanka`
+  - `-Skip to main content`
+  - `-☰`
+  - `-Home`
+  - `-About Us`
+  - `-Gallery`
+- SB-919 Bismon Co.,Ltd · sitemap（sitemap）：新增 820 条：2026-11-27 x764；2026-11-27 x763；2026-11-27 x757；2026-11-27 x756；2026-11-27 x755；2026-11-27 x754；2026-11-27 x753；2026-11-27 x752…
+- 更新 80 条：www.bismon.com（2026-11-26 → 2026-11-27）；about-us.php（2026-11-26 → 2026-11-27）；contact.php（2026-11-26 → 2026-11-27）；services.php（2026-11-26 → 2026-11-27）；download.php（2026-11-26 → 2026-11-27）；faq（2026-11-26 → 2026-11-27）；x99（2026-11-26 → 2026-11-27）；x957（2026-11-26 → 2026-11-27）
+- SB-925 MIRAE SIGNAL CO.,LTD · sitemap（sitemap）：新增 98 条： www.miraesignal.com； company； history； business； location； solutions； support； faq-qna…
+- SB-927 RARMX ENGINEERING SA DE CV · home（html）：内容变化：+2 −63 行
+  - `-SERVICIOS DE INGENIERIA EN TRATAMIENTOS DE AGUAS`
+  - `-Ir al contenido`
+  - `-Menú principal`
+  - `-RARMX – Inicio`
+  - `-Electrodesionización`
+  - `-Tratamiento Aerobio y Anaerobio`
+- SB-927 RARMX ENGINEERING SA DE CV · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-927 RARMX ENGINEERING SA DE CV · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：Hello world!
+- SB-929 SOLTECH · home（html）：内容变化：+64 −30 行
+  - `+솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2`
+  - `+상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,`
+  - `+판매가 : 249,700원`
+  - `+LIKE IT ! 0`
+  - `+Sold Out`
+  - `+솔텍 SFC2000-TS 멀티모드 1Gbps 광컨버터`
+- SB-930 Socra Spa. · news_1（html）：内容变化：+3 −3 行
+  - `-2146`
+  - `+2155`
+  - `-1904`
+  - `+1918`
+  - `-1746`
+  - `+1758`
+- SB-931 Wave1 Pty Ltd · home（html）：内容变化：+2 −144 行
+  - `-Wireless Microwave Communications Australia | Wave1`
+  - `-Wave1`
+  - `-Site Menu`
+  - `-Our Wireless Connectivity Products`
+  - `-Licensed Microwave Systems`
+  - `-Self Co-Ordinated Licensed Systems`
+- SB-931 Wave1 Pty Ltd · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-931 Wave1 Pty Ltd · news_1（html）：内容变化：+2 −149 行
+  - `-News & Media | Wave1 | Telecommunications Australia`
+  - `-Wave1`
+  - `-Site Menu`
+  - `-Our Wireless Connectivity Products`
+  - `-Licensed Microwave Systems`
+  - `-Self Co-Ordinated Licensed Systems`
+- SB-931 Wave1 Pty Ltd · news_2（html）：内容变化：+2 −199 行
+  - `-Client Case Studies | Wave1 | Telecommunications Australia`
+  - `-Wave1`
+  - `-Site Menu`
+  - `-Our Wireless Connectivity Products`
+  - `-Licensed Microwave Systems`
+  - `-Self Co-Ordinated Licensed Systems`
+- SB-932 acceed.com · sitemap（sitemap）：新增 820 条： cpu-embedded-celeron-pentium； cpu-embedded-celeron-pentium； ram； ram； ram-ddr3； ram-ddr3； ram-ddr3l； ram-ddr3l…
+- SB-933 airlive.com · sitemap（sitemap）：新增 457 条：2024-12-18 SMB；2021-02-24 Others---topology-top-introduce；2023-05-11 AirCloud-and-Wireless；2024-12-18 Telecom-XGPON-and-Cloud；2024-12-23 Enterprise-Campus-&-Multiport-Fiber-Switch；2024-12-23 Enterprise-L3-Switch；2025-01-06 PoE-Switch；2025-01-22 10G-Switch(NON-POE)…
+- 更新 10 条：index.php（2026-11-26 → 2026-11-27）；about.php（2026-11-26 → 2026-11-27）；trademark.php（2026-11-26 → 2026-11-27）；iso.php（2026-11-26 → 2026-11-27）；rma.php（2026-11-26 → 2026-11-27）；privacy.php（2026-11-26 → 2026-11-27）；sitemap.php（2026-11-26 → 2026-11-27）；product（2026-11-26 → 2026-11-27）
+- SB-933 airlive.com · news_1（html）：内容变化：+9 −6 行
+  - `-AirCore Windows 2.19.11`
+  - `-2026/11/13`
+  - `+AirCore Windows 2.19.12`
+  - `+2026/11/27`
+  - `-AirCoreWin Companion 2.19.11`
+  - `-Headline changes (4 new features + 6 fixes, built from 12 commits already merged and reviewed on the shipping branch):`
+- SB-934 alibisecurity.com · home（html）：内容变化：+2 −245 行
+  - `-Alibi Security - Professional Security Technology`
+  - `-888.858.1442 • M-F 8am-6pm CT`
+  - `-Locate a Dealer`
+  - `-Dealer Login`
+  - `-Categories`
+  - `-Become a Dealer`
+- SB-937 anewtech.net · sitemap（sitemap）：新增 820 条：2026-03-30T09:36:01 wi-fi-24ghz5ghz-industrial-iot-wireless-io-modules；2026-03-30T09:22:55 supermicro-ai-servers-nvidia-gh200-grace-hoppertm-nvidia-h200；2026-03-30T09:34:48 iiot-lorawan-wireless-io-module-and-gateway-solution；2026-03-30T09:25:41 nb-iotlte-m-dual-mode-communication-wireless-io-module；2026-03-30T09:26:05 wireless-io-and-sensor-module-industrial-and-outdoor；2026-03-30T09:06:22 super-rugged-vs-semi-rugged-industrial-computers；2026-03-30T09:05:46 cost-effective-rs-485-remote-io-module-adam-4000；2026-03-30T09:17:29 secured-cloud-io-modules-adam-60006200-series…
+- SB-939 cleverkey.ru · home（html）：内容变化：+4 −4 行
+  - `-Lenovo SR630 V4`
+  - `-Цена по запросу`
+  - `-Dell R670`
+  - `+HPE ProLiant DL380 Gen12`
+  - `-Dell R660`
+  - `+Lenovo SR630 V4`
+- SB-940 cominet.co.kr · news_1（html）：内容变化：+13 −13 行
+  - `-128`
+  - `+129`
+  - `-236`
+  - `+238`
+  - `-242`
+  - `+245`
+- SB-941 comptek.kz · home（html）：内容变化：+2 −75 行
+  - `-CompTek CA | Дистрибьютор сетевого и телекоммуникационного оборудования`
+  - `-Comp Tek`
+  - `-Главная`
+  - `-Решения`
+  - `-Оборудование`
+  - `-Партнёры`
+- SB-942 dmtrade.pl · home（html）：内容变化：+309 −0 行
+  - `+Chemical resistant`
+  - `+Liquid resistant`
+  - `+For food handling`
+  - `+Heat resistant`
+  - `+Cold-resistant`
+  - `+Cut-Resistant`
+- SB-946 intrising.com.tw · sitemap（sitemap）：新增 88 条：2023-06-15T21:34:42 location_existed_prp_topology；2023-06-17T18:10:02 odm_ftto_networking_solution；2024-03-28T18:18:19 hannover_2024；2022-11-14T16:44:03 infocomm_2019；2022-12-08T10:01:19 infocomm_2020；2022-11-14T16:44:03 ise_2019；2022-11-14T16:44:03 ise_2020；2022-11-14T16:44:03 nab_2019…
+- SB-947 ison-tech.com · sitemap（sitemap）：新增 123 条：2021-03-01 home；2021-03-01 company；2021-03-01 core_value；2021-03-01 quality；2021-03-01 career；2021-03-01 green_promise；2021-03-01 factory_automation；2021-03-01 its…
+- 更新 1 条：www.ison-tech.com（2026-11-26 → 2026-11-27）
+- SB-951 montavue.com · home（html）：内容变化：+327 −3 行
+  - `-Save $827.76`
+  - `+Sold out`
+  - `-+ Add to cart`
+  - `+Sold out`
+  - `-Promotions, new products and sales. Directly to your`
+  - `+Promotions, new products and sales. Directly to your inbox.`
+- SB-958 sieuthivienthong.com · home（html）：内容变化：+2 −529 行
+  - `-﻿`
+  - `-Siêu Thị Viễn Thông – Thiết Bị An Ninh, Mạng, Viễn Thông Chính Hãng`
+  - `-92K Nguyễn Thái Sơn - Phường Hạnh Thông - Tp.HCM`
+  - `-info@sieuthivienthong.com`
+  - `-(028) 7300 1535`
+  - `-Giới thiệu`
+- SB-959 silarius.com · home（html）：内容变化：+620 −1 行
+  - `-Nov 24, 2026 Is Your NVR Hard Drive Full or Failing? Signs, Fixes and When to Replace It A full NVR drive is normal; a failing one loses video you will need. T`
+  - `+Nov 26, 2026 Year-End Security Budget: Why Smart Businesses Upgrade Cameras Before December 31 Year-end budgets and Section 179 deadlines make December the bes`
+  - `+For installers and businesses`
+  - `+Dealer program`
+  - `+Installers and integrators get dealer pricing on Silarius hardware after approval. Apply →`
+  - `+Net 30 for repeat business clients`
+- SB-960 steren.com.mx · home（html）：内容变化：+17 −13 行
+  - `-Tu huella es tu nueva llave`
+  - `-Seguridad inteligente a un solo toque ¡Decúbrelo!`
+  - `+Aprovecha el Black Friday Con Grandes Ofertas`
+  - `+¡Ahorra 15% con Mercado Pago!`
+  - `+Promocion exclusiva en línea. Aplica únicamente en pagos procesados a través de la cuenta de MercadoPago. Consumo mínimo de $2500 MXN, tope de descuento $800.0`
+  - `-Promociones 85 productos Promoción Aplazo`
+- SB-961 top-fa.com · news_1（html）：内容变化：+4 −4 行
+  - `-11148`
+  - `+11156`
+  - `-10596`
+  - `+10602`
+  - `-11288`
+  - `+11294`
+- SB-964 uplinker.ru · sitemap（sitemap）：新增 820 条： modul_opticheskiy_uplink_cwdm_sfp-10g_14_53； modul_opticheskiy_uplink_cwdm_sfp-10g_14_57； modul_opticheskiy_uplink_cwdm_sfp-10g_14_61； modul_opticheskiy_uplink_cwdm_sfp-10g_14_37； modul_opticheskiy_uplink_cwdm_sfp-10g_14_35； modul_opticheskiy_uplink_cwdm_sfp-10g_14_33； modul_opticheskiy_uplink_cwdm_sfp-10g_14_31； modul_opticheskiy_uplink_wdm_xfp_10g_20a…
+- SB-973 Multi Technology System · home（html）：内容变化：+2 −109 行
+  - `-MTS — Multi Technology Systems | Approved Matched Design`
+  - `-Home About Us Solutions Structured Cabling › Networking & Wireless › Servers & Storage › Cyber Security › IP Phone & Video Conference › Video Surveillance › Ac`
+  - `-Proposition Careers News Successful Stories Contact Us`
+  - `-⌕ Talk to MTS →`
+  - `-INTEGRATED TECHNOLOGY SOLUTIONS`
+  - `-Multi Technology Systems`
+- SB-973 Multi Technology System · feed_auto（rss）：状态变化：HTTP 404 → HTTP 403
+- SB-977 eltrox.cz · home（html）：内容变化：+331 −1 行
+  - `-Automatizáci`
+  - `+Automatizácia budov Termostaty`
+  - `+Automatizácia brán a parkovania Prvky inteligentnej domácnosti`
+  - `+RTV zosilňovače`
+  - `+Elektrické príslušenstvo Rozvádzače`
+  - `+IP kamery pre uzavretý televízny okruh`
+- SB-977 eltrox.cz · sitemap（sitemap）：新增 820 条： be-quiet； beewell； belkin； bemko； beninca； bestway； bft； bigstren…
+- SB-977 eltrox.cz · news_1（html）：内容变化：+221 −1 行
+  - `-Automatizácia brá`
+  - `+Automatizácia brán a parkovania Prvky inteligentnej domácnosti`
+  - `+RTV zosilňovače`
+  - `+Elektrické príslušenstvo Rozvádzače`
+  - `+IP kamery pre uzavretý televízny okruh`
+  - `+OSTATNÉ ELEKTRICKÉ PRÍSLUŠENSTVO`
+- SB-979 iOneresources · home（html）：内容变化：+10 −10 行
+  - `+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections`
+  - `+by admin | Nov 27, 2026 | News | 0 Comments`
+  - `+When voting closed on September 14, 2026, another part of the first Bangsamoro parliamentary elections began. Election returns had to travel from polling sites`
+  - `+read more…`
+  - `+Mission-Critical Connectivity Infrastructure for Government`
+  - `+by admin | Nov 27, 2026 | News | 0 Comments`
+- SB-979 iOneresources · news_1（html）：内容变化：+4 −4 行
+  - `+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections November 27, 2026`
+  - `+Mission-Critical Connectivity Infrastructure for Government November 27, 2026`
+  - `-iOne Successfully Passes Integrated ISO 27001 and ISO 9001 Standards Assessment March 30, 2026`
+  - `-Connecting the Nation, One Transmission at a Time March 17, 2026`
+  - `+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections`
+  - `+Mission-Critical Connectivity Infrastructure for Government`
+- SB-979 iOneresources · news_2（html）：内容变化：+8 −10 行
+  - `+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections`
+  - `+by admin | Nov 27, 2026 | News`
+  - `+Mission-Critical Connectivity Infrastructure for Government`
+  - `+by admin | Nov 27, 2026 | News`
+  - `-Connecting the Nation, One Transmission at a Time`
+  - `-by Richard Grimaldo | Mar 17, 2026 | Blog , Feature , News`
+- SB-979 iOneresources · feed_auto（rss）：新增 2 条：Fri, 27 Nov 2026 07 From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections；Fri, 27 Nov 2026 06 Mission-Critical Connectivity Infrastructure for Government
+- 消失 2 条（RSS 窗口滚动属正常）：iOne Resources, Inc. Leads the Largest Starlink De；Powering Democracy: iOne–Ardent JV to Deliver Secu
+- SB-983 nltinc.com · home（html）：内容变化：+2 −105 行
+  - `-Northern Light Technologies - Global Cap Lamp Innovation & Design`
+  - `-Skip to main content`
+  - `-Hit enter to search or ESC to close`
+  - `-Close Search`
+  - `-search`
+  - `-Lamp Navigation`
+- SB-983 nltinc.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-983 nltinc.com · news_1（html）：内容变化：+2 −129 行
+  - `-News Archives - Northern Light Technologies`
+  - `-Skip to main content`
+  - `-Hit enter to search or ESC to close`
+  - `-Close Search`
+  - `-search`
+  - `-Lamp Navigation`
+- SB-983 nltinc.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Introducing Aries & Aries Flex: The Next Generatio；NLT Celebrates 40 Years of Cap Lamp Innovation；NLT Introduces Laser Cap Lamp Engraving；NLT Names Norwegian Erik Welle-Strand as Its First；Dual-Beam in the Polaris Plus: The World’s Newest,
+- SB-985 qnv.com · home（html）：内容变化：+0 −2 行
+  - `-Accesorios (mini-Gbic)`
+  - `-Fuentes de Alimentación Carril DIN`
+- SB-990 Precision · sitemap（sitemap）：更新 35 条：precisionsolutions.com.br（2026-11-26 → 2026-11-27）；produtos（2026-11-26 → 2026-11-27）；servicos（2026-11-26 → 2026-11-27）；solucoes（2026-11-26 → 2026-11-27）；ciberseguranca（2026-11-26 → 2026-11-27）；treinamentos（2026-11-26 → 2026-11-27）；contato（2026-11-26 → 2026-11-27）；fundacao（2026-11-26 → 2026-11-27）
+- SB-995 acixme.com · home（html）：内容变化：+37 −5 行
+  - `-Home`
+  - `-About Us`
+  - `-Solutions`
+  - `-Contact Us`
+  - `+White Papers`
+  - `-Offers From ACIX Middle East? Consider Subscribing To Our Newsletter Toda`
+- SB-995 acixme.com · news_1（html）：内容变化：+335 −131 行
+  - `+Knowledge Base`
+  - `+Blogs`
+  - `+Case Study`
+  - `+White Papers`
+  - `+Contact us`
+  - `+Contact Us`
+- SB-995 acixme.com · news_2（html）：内容变化：+1 −4 行
+  - `-Home`
+  - `-About Us`
+  - `-Solutions`
+  - `-Contact Us`
+  - `+White Papers`
+- SB-996 adj.it · home（html）：首轮基线
+- SB-996 adj.it · sitemap（sitemap）：首轮基线
+- SB-997 agmultivision.it · home（html）：内容变化：+1 −1 行
+  - `-Company`
+  - `+Email`
+- SB-997 agmultivision.it · news_1（html）：内容变化：+1 −1 行
+  - `-Comments`
+  - `+Email`
+- SB-997 agmultivision.it · news_2（html）：内容变化：+1 −1 行
+  - `-Comments`
+  - `+Email`
+- SB-998 akistechnologies.com · sitemap（sitemap）：新增 23 条：2022-08-30T11:18+00 make-customers-fall-in-love-with-you；2022-08-30T11:51+00 largest-queues-in-europe；2021-11-12T09:36+00 innovation-in-business；2022-08-30T11:32+00 feedbacks-it-is-a-key-to-success；2022-08-30T11:37+00 restarting-aviation；2022-08-30T11:46+00 akis-technology-vaccination；2022-08-30T11:52+00 famous-and-largest-queues；2022-08-30T12:00+00 akis-technology-covid-19…
+- 更新 23 条：www.akistechnologies.com（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；about-us（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；solutions（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；blog（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；partners（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；faq（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；customer-stories（2026-11-26T00:00+00 → 2026-11-27T00:00+00）；eu-projects（2026-11-26T00:00+00 → 2026-11-27T00:00+00）
+- SB-999 algosolutions.com · home（html）：内容变化：+2 −233 行
+  - `-Home - Algo Communication Products Ltd.`
+  - `-Products`
+  - `-Categories`
+  - `-IP Speakers`
+  - `-8180 IP Audio Alerter`
+  - `-8186 IP Horn Speaker`
+- SB-999 algosolutions.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SB-999 algosolutions.com · news_1（html）：内容变化：+2 −251 行
+  - `-News - Algo Communication Products Ltd.`
+  - `-Products`
+  - `-Categories`
+  - `-IP Speakers`
+  - `-8180 IP Audio Alerter`
+  - `-8186 IP Horn Speaker`
+- SB-999 algosolutions.com · news_2（html）：内容变化：+2 −277 行
+  - `-Knowledge Hub - Algo Communication Products Ltd.`
+  - `-Products`
+  - `-Categories`
+  - `-IP Speakers`
+  - `-8180 IP Audio Alerter`
+  - `-8186 IP Horn Speaker`
+- SC-012 LDZ Apsardze · home（html）：内容变化：+82 −3 行
+  - `-Vakances 24`
+  - `+Vakances 26`
+  - `-Vakances 24`
+  - `+Vakances 26`
+  - `-Faceb`
+  - `+Facebook`
+- SC-1009 arasvarel.com · home（html）：内容变化：+2 −317 行
+  - `-Varel Alarm | Güvenlik Sistemleri Entegratörü`
+  - `-Kurumsal expand_more`
+  - `-Hakkımızda`
+  - `-Misyon & Vizyon`
+  - `-Sertifikalar`
+  - `-İş Ortakları`
+- SC-1009 arasvarel.com · news_1（html）：内容变化：+2 −212 行
+  - `-Blog | Varel Alarm`
+  - `-Kurumsal expand_more`
+  - `-Hakkımızda`
+  - `-Misyon & Vizyon`
+  - `-Sertifikalar`
+  - `-İş Ortakları`
+- SC-1014 gtlan.com · home（html）：内容变化：+2 −384 行
+  - `-Gtlan – Soluciones en Telecomunicaciones`
+  - `-Saltar al contenido`
+  - `-+34 961 366 571`
+  - `-#SUMAMOSFUERZAS`
+  - `-BUSCAR PRODUCTOS`
+  - `-+34 961 366 571`
+- SC-1014 gtlan.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 8 条（RSS 窗口滚动属正常）：Cable utp: qué es, tipos y características；Cable CCA: ¿Por qué es una mala opción?；Cómo organizar tu armario rack de forma segura y p；No rotundo al cable CCA | En redes de telecomunica；¿Cómo cambiar tu red de cable a fibra rápidamente?
+- SC-1033 Bausch Datacom · home（html）：内容变化：+0 −1 行
+  - `-Join us at Enlit !`
+- SC-1033 Bausch Datacom · sitemap（sitemap）：新增 44 条： proxima%2Disdn%2Dlite%2D24%2Dvdc； microlink%2Disdn%2Dtlv34； microlink%2Disdn%2Dtlpro； magnetic%2D2db%2Ddual%2Dband%2Dantenna； marine%2D6db%2Dquad%2Dband%2Dantenne； praxis%2Dcommunication%2Dmanagement； modems%2Drouters； 3105…
+- SC-1033 Bausch Datacom · news_1（html）：内容变化：+6 −6 行
+  - `-visibility Views: 666`
+  - `+visibility Views: 673`
+  - `-visibility Views: 1273`
+  - `+visibility Views: 1278`
+  - `-visibility Views: 2272`
+  - `+visibility Views: 2281`
+- SC-1038 TELTEX · home（html）：内容变化：+2 −249 行
+  - `-Teltex | Soluções 360º em Segurança Eletrônica e Digital, Eficiência Energética e Smart City`
+  - `-ícone busca`
+  - `-X`
+  - `-ícone lupa`
+  - `-.`
+  - `-Verticais`
+- SC-1038 TELTEX · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 1 条（RSS 窗口滚动属正常）：teltex.com.br
+- SC-1038 TELTEX · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：E se as câmeras da cidade pudessem entender o que ；Do monitoramento à decisão: como a tecnologia mode；2.760 entregas, um único padrão: os bastidores de ；Não basta implementar. É preciso sustentar a opera；Quando a energia não pode esperar: como a AXIA Ene
+- SC-1053 casmarglobal.com · home（html）：内容变化：+223 −2 行
+  - `+Cámaras termográficas DITE`
+  - `-Cámaras termográficas DITE`
+  - `-Softwa`
+  - `+Software`
+  - `+Terminales para puertas de emergencia`
+  - `+Accesorios`
+- SC-1117 syscom.mx · home（html）：内容变化：+223 −21 行
+  - `-JUEVES DE HIK-MASTERS | Lanzamiento de Hik-Connect Versión 7 con AI HIKO — Únete aquí Ver más`
+  - `-Gregorio · 10h · Audio e Intercom`
+  - `+Nicolas · 13h · Videovigilancia`
+  - `+De noche graba en IR. Cuando alguien pasa, prende la luz y graba a color.`
+  - `+La DS-2CE76K0T-LMFS es TurboHD 3K (2960 x 1665) con Dual Light: 30 m de IR más 20 m de luz blanca que se dispara con la detección de movimiento. Lente 2.8 mm d`
+  - `+Conoce la TurboHD con luz dual 1`
+- SC-1117 syscom.mx · sitemap（sitemap）：新增 820 条：2026-09-23T00:00:00 syscomexpo2027； mapa；2026-11-27T02:26:13 66855；2026-11-27T02:26:13 66856；2026-11-27T02:26:13 66854；2026-11-27T02:26:13 66857；2026-11-27T02:26:13 66858；2026-11-27T02:26:13 66870…
+- 更新 80 条：www.syscom.mx（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；products（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；similar（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；66523（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；66524（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；66537（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；66534（2026-11-26T02:02:21 → 2026-11-27T02:26:13）；66535（2026-11-26T02:02:21 → 2026-11-27T02:26:13）
+- SC-1117 syscom.mx · news_1（html）：内容变化：+12 −12 行
+  - `-Control de acceso 438`
+  - `+Control de acceso 439`
+  - `+Control de acceso Grandstream`
+  - `+Serie GDS372x de Grandstream: videoportero IP, control de acceso y cámara 2K en un solo equipo`
+  - `+Los GDS3725, GDS3726 y GDS3727 integran cámara 4 MP con WDR de 120 dB, lector RFID/NFC/BLE 5.0 y extensión SIP en una sola placa IP66. Administración remota de`
+  - `+RC`
+- SC-1134 xp-networks.com · home（html）：内容变化：+2 −52 行
+  - `-XP Active Systems – Get Your Connection`
+  - `-Menu`
+  - `-About Us`
+  - `-Contact Info`
+  - `-Contact Us`
+  - `-Where to Buy`
+- SC-1134 xp-networks.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-1134 xp-networks.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Surveillance camera in a Metro；Captured photography depicting a intruder；Hazy, unclear pictures defeats the purpose；Preventing car thefts and burglary；Cameras mounted on top of a lamp post
+- SC-114 Siklu Communication · sitemap（sitemap）：新增 532 条：2026-06-02 ceragon-reports-11-growth-in-third-quarter-of-2023-narrows-full-year-guidance-range-raisin；2026-04-30 wireless-point-to-multipoint-to-point-to-point-fixed-wireless-access；2026-04-30 20gbps-wireless-connectivity-today；2026-04-15 ceragon-highlights-select-private-network-contracts-totaling-10-million-in-recent-months；2026-04-30 the-many-flavors-of-millimeter-wave；2024-02-08 noc-whos-monitoring-your-network；2022-11-29 radio-aware-open-networking；2024-08-28 ceragon-launches-the-markets-first-radio-aware-disaggregated-cell-site-gateway-ip-50fx…
+- 更新 22 条：sales-engineer-cf-076（2026-11-26 → 2026-11-27）；sox-internal-auditor-b0-475（2026-11-26 → 2026-11-27）；tier-3-technical-support-engineer-network-management-systems（2026-11-26 → 2026-11-27）；regulatory-and-compliance-engineer-13-378（2026-11-26 → 2026-11-27）；accounts-receivable-and-finance-analyst-56-572（2026-11-26 → 2026-11-27）；system-administrator-de-478（2026-11-26 → 2026-11-27）；software-applications-qa-engineer-p11278-65-567（2026-11-26 → 2026-11-27）；product-engineering-e5-073（2026-11-26 → 2026-11-27）
+- SC-1181 agendaage.hu · home（html）：内容变化：+23 −3 行
+  - `-KÁBELBEHÚZÓK (ESTIARE) Kábelbehúzó/-berudaló Kábelbehúzó tartozékok`
+  - `+KÁBELBEHÚZÓK Kábelbehúzó/-berudaló Kábelbehúzó tartozékok`
+  - `-KÁBELBEHÚZÓK (ESTIARE)`
+  - `+KÁBELBEHÚZÓK`
+  - `-Vásárlás`
+  - `+Vásárlási feltételek`
+- SC-1220 starelec.fi · home（html）：内容变化：+3 −3 行
+  - `-Vastuslajitelma 0,25W 1500kpl`
+  - `-SKU: K-RES4 (1-4 arkipäivässä)`
+  - `-13,24 € ALV. 25.5%`
+  - `+Säädettävä laboratorioteholähde 0-30V 0-5A lineaarinen`
+  - `+SKU: UTP3315TFL-II (1-4 arkipäivässä)`
+  - `+125,00 € ALV. 25.5%`
+- SC-1220 starelec.fi · sitemap（sitemap）：新增 820 条：2026-10-27 yrityksille；2026-10-25 myymala；2026-08-12 palautusoikeus；2026-05-07 oppaat；2026-05-06 rekry；2026-04-14 tietosuojaseloste；2026-03-20 yhteystiedot；2026-01-25 toimitusehdot…
+- 更新 2 条：starelec.fi（2026-11-26 → 2026-11-27）；outlet（2026-11-24 → 2026-11-26）
+- SC-1251 bolid.ru · home（html）：内容变化：+8 −7 行
+  - `-24 ноября – 26 ноября`
+  - `-Sfitex 2026`
+  - `-34-я Международная выставка технических средств охраны и оборудования для обеспечения безопасности и противопожарной защиты`
+  - `-26 ноября`
+  - `-Онлайн-практикум: Особенности конфигурирования газового и порошкового АУПТ на базе ППКУП Сириус`
+  - `-Время проведения семинара: c до`
+- SC-1251 bolid.ru · sitemap（sitemap）：新增 820 条：2026-11-26T00:00:00 projectsview_5497.html；2026-11-26T00:00:00 assemblyorg_6363.html；2026-11-26T00:00:00 assemblyorg_1536.html；2026-11-26T00:00:00 assemblyorg_28606.html；2026-11-26T00:00:00 ?curPos=340；2026-11-26T00:00:00 projectsview_3483.html；2026-11-26T00:00:00 ?curPos=240；2026-11-26T00:00:00 projectsview_1865.html…
+- 更新 80 条：projectsview_1175.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；rip-12_116.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；projectsview_2549.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；assemblyorg_1529.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；proxy-usb-ma.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；events_1234.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；projectsview_120.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）；projectsview_119.html（2026-11-25T00:00:00 → 2026-11-26T00:00:00）
+- SC-1251 bolid.ru · telegram（html）：内容变化：+64 −9 行
+  - `-3.9K subscribers`
+  - `+3.89K subscribers`
+  - `-3.9K subscribers`
+  - `+3.89K subscribers`
+  - `-1.54K views edited`
+  - `+1.55K views edited`
+- SC-1332 dbg.co.za · home（html）：内容变化：+389 −7 行
+  - `-Alarms & Security`
+  - `+Alarms & Security`
+  - `+Fibre Networking`
+  - `-Fibre Networking`
+  - `-Alarms & Security`
+  - `+Alarms & Security`
+- SC-1335 discomp.cz · home（html）：内容变化：+156 −63 行
+  - `-MikroTik LtAP-5HaxT2HaxD&EG120K-EA, LtAP LTE12 ax`
+  - `-239.57 EUR excl. VAT`
+  - `-Ubiquiti UACC-Cable-Patch-2M-BL-10, UniFi patch cable, 2m, blue, 10-pack`
+  - `-39.00 EUR excl. VAT`
+  - `-Ubiquiti UACC-Cable-Patch-0.4M-BK-50, UniFi patch cable, 0.4m, black, 50-pack`
+  - `-88.56 EUR excl. VAT`
+- SC-1335 discomp.cz · news_1（html）：内容变化：+333 −44 行
+  - `-124 items`
+  - `+125 items`
+  - `+Ubiquiti U7 Mesh Wall`
+  - `+U7-Mesh-Wall`
+  - `+191.74 EUR excl. VAT`
+  - `+232.08 EUR incl. VAT`
+- SC-1335 discomp.cz · news_2（html）：内容变化：+445 −1 行
+  - `-MikroTik has released 3 new 60GHz innovations to the world whic`
+  - `+MikroTik has released 3 new 60GHz innovations to the world which have the latest 802.11ay standard and 5GHz backup (802.11a/n/ac) connectivity. These units hav`
+  - `+New UniFi Access Point WiFi 6 Pro - U6-Pro`
+  - `+News 25.1.2022`
+  - `+The king is dead, long live the king! After a long time, there is a new and incredibly powerful model from the UniFi family from Ubiquiti Networks, a very popu`
+  - `+TP-Link News - January 2022`
+- SC-1352 globusinfocom.com · home（html）：内容变化：+2 −76 行
+  - `-Globus Infocom Limited`
+  - `-Partner with Us`
+  - `-Service Support`
+  - `-×`
+  - `-Support Request`
+  - `-Submit Request`
+- SC-1352 globusinfocom.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：www.globusinfocom.com；about-us；directors-message；partner-with-us；contacts
+- SC-1352 globusinfocom.com · news_1（html）：内容变化：+2 −116 行
+  - `-Blog`
+  - `-Partner with Us`
+  - `-Service Support`
+  - `-×`
+  - `-Support Request`
+  - `-Submit Request`
+- SC-1352 globusinfocom.com · news_2（html）：内容变化：+2 −139 行
+  - `-Projects`
+  - `-Partner with Us`
+  - `-Service Support`
+  - `-×`
+  - `-Support Request`
+  - `-Submit Request`
+- SC-1352 globusinfocom.com · youtube（youtube_handle）：新增 1 条：2026-11-27T06:55:04 Opening remarks : IORA COM Meeting 2026
+- 消失 1 条（RSS 窗口滚动属正常）：EAM’s address at Raisina Tokyo 2026
+- SC-1352 globusinfocom.com · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：5 Features To Consider When Choosing The Right Off；What are Hybrid Learning and Blended Learning? Wha；Covid-19: Going from traditional to Smart Classroo；7 Extraordinary benefits of language learning in I；How is the digital board making education accessib
+- SC-1379 parks.com.br · home（html）：内容变化：+5 −4 行
+  - `+Excelência em Tecnologia, Manufatura e Conectividade há 60 anos`
+  - `+Há 60 anos, o Grupo Parks atua com inovação e excelência no desenvolvimento e na manufatura de soluções eletrônicas de alta tecnologia, sustentado por um model`
+  - `+Unimos pioneirismo em telecomunicações, com contribuições relevantes para a infraestrutura de conectividade nacional, a uma capacidade avançada de manufatura e`
+  - `+Leia nossa revista comemorativa e conheça nossa estrutura, unidades de negócios e novidades tecnológicas como por exemplo o lançamento da nova unidade PARKS DA`
+  - `+LER REVISTA`
+  - `-Excelência em Tecnologia,`
+- SC-1446 lojacctv.com · home（html）：首轮基线
+- SC-1446 lojacctv.com · sitemap（sitemap）：首轮基线
+- SC-1446 lojacctv.com · news_1（html）：首轮基线
+- SC-1446 lojacctv.com · feed_auto（rss）：首轮基线
+- SC-1450 nodexon.com · sitemap（sitemap）：新增 106 条：2021-10-17T09:22:47 nodexon-catalogue.pdf；2021-10-16T14:35:09 wifi6-brochure.pdf；2021-11-19T12:45:41 NX-AP8620-6；2021-11-19T12:45:41 NX-AP8530-5；2021-11-19T12:45:41 NX-AP8520-5；2021-11-19T12:45:41 NX-BR3810-CPE；2021-11-19T12:45:41 NX-BR3830-CPE；2021-11-19T12:45:41 NX-BR3850-CPE…
+- SC-1492 dssl.ru · home（html）：内容变化：+340 −7 行
+  - `+TRASSIR MiniNVR/Duostation`
+  - `+TRASSIR Cloud`
+  - `+27 ноября 2026`
+  - `+Новая парольная политика TRASSIR VMS и CMS: настройка под требования ИБ и защита от подбора пароля`
+  - `-10 ноября 2026`
+  - `-TRASSIR VMS и TRASSIR CMS под Linux полностью переходят на Debian 12 и Astra Linux 1.8`
+- SC-1492 dssl.ru · news_1（html）：内容变化：+10 −6 行
+  - `+TRASSIR MiniNVR/Duostation`
+  - `+TRASSIR Cloud`
+  - `+27 ноября 2026`
+  - `+Новая парольная политика TRASSIR VMS и CMS: настройка под требования ИБ и защита от подбора пароля`
+  - `-10 ноября 2026`
+  - `-TRASSIR VMS и TRASSIR CMS под Linux полностью переходят на Debian 12 и Astra Linux 1.8`
+- SC-1493 duxbury.co.za · home（html）：内容变化：+2 −200 行
+  - `-Duxbury Networking`
+  - `-Have Any Questions?`
+  - `-011 351 9800`
+  - `-Home`
+  - `-Our Company`
+  - `-Our Story`
+- SC-1493 duxbury.co.za · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-1493 duxbury.co.za · news_1（html）：内容变化：+2 −274 行
+  - `-News – Duxbury Networking`
+  - `-Have Any Questions?`
+  - `-011 351 9800`
+  - `-Home`
+  - `-Our Company`
+  - `-Our Story`
+- SC-1493 duxbury.co.za · news_2（html）：内容变化：+2 −276 行
+  - `-Blog – Duxbury Networking`
+  - `-Have Any Questions?`
+  - `-011 351 9800`
+  - `-Home`
+  - `-Our Company`
+  - `-Our Story`
+- SC-1493 duxbury.co.za · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：The help desk is now part of the security perimete；Duxbury highlights lifecycle security as Axis anno；Duxbury expands AI network offering with Extreme A；The next network bottleneck is hiding in the uplin；The network should remember what happened before t
+- SC-1586 chuyendoiquang.com · home（html）：内容变化：+2 −279 行
+  - `-Thiên Tân Telecom cung cấp thiết bị và chuyển đổi quang`
+  - `-Search:`
+  - `-Tìm kiếm`
+  - `-Support: 0915.210.369`
+  - `-Giải pháp công nghệ`
+  - `-Liên hệ`
+- SC-1586 chuyendoiquang.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 80 条（RSS 窗口滚动属正常）：ghi-am.html；thiet-bi-mang-thoai.html；tong-dai-panasonic.html；tong-dai-ip.html；tong-dai-siemens.html
+- SC-1586 chuyendoiquang.com · news_1（html）：内容变化：+2 −260 行
+  - `-Giải pháp công nghệ`
+  - `-Search:`
+  - `-Tìm kiếm`
+  - `-Support: 0915.210.369`
+  - `-Giải pháp công nghệ`
+  - `-Liên hệ`
+- SC-1605 mangcongnghiep.vn · home（html）：内容变化：+2 −255 行
+  - `-Công ty giải pháp mạng - Điều khiển tự động hóa công nghiệp`
+  - `-Thiết bị mạng điều khiển công nghiệp`
+  - `-Menu`
+  - `-GIỚI THIỆU`
+  - `-SẢN PHẨM`
+  - `-DÂY CÁP`
+- SC-1605 mangcongnghiep.vn · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-1605 mangcongnghiep.vn · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Cáp RS485 2 dây 14AWG có lưới chống nhiễu Imatek；Công tắc 2 hạt hai chiều hoa văn mạ vàng 24K Danco；Công tắc 3 hoa văn mạ vàng cho Lâu đài, Biệt thự D；Ổ cắm đôi 3 chấu sang trọng Lâu đài, Biệt thự Danc；Cáp truyền thông công nghiệp PROFIBUS PA Cable 1x2
+- SC-1613 origo-networks.ru · home（html）：内容变化：+2 −2 行
+  - `-Вебинар для провайдеров`
+  - `-26 ноября в мск`
+  - `+Маршрутизаторы с локализованным ПО`
+  - `+Сервис, поддержка и склад в России`
+- SC-1644 vienthonghoangthach.com · home（html）：内容变化：+4 −4 行
+  - `-499,000 ₫`
+  - `+520,000 ₫`
+  - `-630,000 ₫`
+  - `+640,000 ₫`
+  - `-870,000 ₫`
+  - `+890,000 ₫`
+- SC-1691 alfacomp.net · news_2（html）：内容变化：+42 −31 行
+  - `-Transmissor de Pressão TP20 — medição de pressão em líquidos e gases com precisão, robustez e o melhor custo-benefício do mercado.`
+  - `-Permite a medição de pressão em líquidos e gases sob pressão de 100 mbar a 600 bar para aplicações industriais. Corpo em aço inoxidável, compensado em temperat`
+  - `-📄`
+  - `-Folha de dados do produto`
+  - `-Especificações completas, dimensões e código de pedido em PDF`
+  - `-Baixar PDF`
+- SC-1706 itvsecurity.com · intel_news_da（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-1714 omniray.ch · sitemap（sitemap）：新增 820 条： railway-computer； panel-pc-tablets-display； moxa； prodvx； beijer-electronics； amplicon； mactron； touch-panel-pc…
+- SC-1715 onsite.pk · home（html）：内容变化：+26 −27 行
+  - `-Read more`
+  - `-Quick View`
+  - `-DigiCert Common Mark Certificate CMC`
+  - `-Call for Price`
+  - `+Add to cart`
+  - `+Quick View`
+- SC-172 cop-security.com · sitemap（sitemap）：新增 420 条：2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=264；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=267；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=270；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=273；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=276；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=279；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=432；2019-04-17T03:44:24 product.php?lang=en&tb=3&cid=438…
+- SC-1793 axisindia.in · sitemap（sitemap）：新增 820 条：2025-12-31 about-us；2026-05-27 brand-story；2026-05-15 code-of-conduct；2026-03-17 vision-mission-values；2026-05-15 manufacturing-facilities；2026-05-19 rnd-center；2026-04-09 rd-snapshot；2026-05-07 contact-us…
+- SC-1797 cohesiveglobal.com · home（html）：首轮基线
+- SC-1797 cohesiveglobal.com · sitemap（sitemap）：首轮基线
+- SC-1797 cohesiveglobal.com · news_1（html）：首轮基线
+- SC-1797 cohesiveglobal.com · news_2（html）：首轮基线
+- SC-1804 indraheera.com · home（html）：内容变化：+5 −5 行
+  - `-1073304 +`
+  - `+1073303 +`
+  - `-1342 +`
+  - `+1343 +`
+  - `-Networking Switch (SW3246TMP) (V3)`
+  - `-₹4,00,000.00`
+- SC-1804 indraheera.com · sitemap（sitemap）：新增 284 条： sfp-transceiver-sf15tg100； sfp-transceiver-sf15tg40； sfp-transceiver-sf15tg60； sfp-transceiver-sf13tg40； sfp-transceiver-sf13tg20； sfp-transceiver-sf13tg10； sfp-transceiver-sf15tg80； fixed-cellular-terminal-pulse…
+- SC-1807 Mootek · home（html）：内容变化：+2 −1 行
+  - `-Industrial PC`
+  - `+One moment, please...`
+  - `+Please wait while your request is being verified...`
+- SC-185 dasannetworks.com · sitemap（sitemap）：新增 311 条： www.dasannetworks.com； en； sub01_01.php； sub01_01.php； sub01_02.php； sub01_02.php； sub01_03.php； sub01_03.php…
+- SC-1867 vienthonghanoi.vn · home（html）：内容变化：+6 −6 行
+  - `-Dao cắt quang chính xác SKL-6C`
+  - `-650.000 ₫ 550.000 ₫`
+  - `-Sale!`
+  - `-Switch POE 4 port Hrui HR900-AF-42N 100Mbps`
+  - `-550.000 ₫ 500.000 ₫`
+  - `-Sale!`
+- SC-1867 vienthonghanoi.vn · feed_auto（rss）：新增 2 条：Fri, 27 Nov 2026 10 Cách đọc thông số kỹ thuật trên dây cáp quang chi tiết nhất；Fri, 27 Nov 2026 09 Khay hàn quang có chức năng gì? Cấu tạo và ứng dụng thực tế
+- 更新 1 条：Cách kiểm tra mối hàn cáp quang bằng OTDR（Thu, 26 Nov 2026 08 → Fri, 27 Nov 2026 03）
+- 消失 2 条（RSS 窗口滚动属正常）：Cáp điện thoại là gì? Khoảng cách truyền của cáp đ；Bộ chia PLC 1×2: Chìa khóa khai thác tối đa hiệu s
+- SC-1883 anfatech.com.vn · sitemap（sitemap）：新增 174 条：2025-02-21T00:00:11 lien-he；2023-07-09T14:35:57 test-table-press；2022-11-19T05:45:03 anfa-group；2025-07-02T07:55:04 ts-453du；2025-07-02T07:51:02 ts-231p3；2025-07-02T07:43:51 tr-004u；2025-07-02T07:42:28 qsw-m804-4c；2025-07-02T07:19:46 qsw-m2108-2s…
+- SC-1900 konectsoluciones.com · sitemap（sitemap）：新增 389 条： camara-ip-seguridad-tiandy-tipo-domo-de-2mp-con-deteccion-de-movimiento-tc-c320n-2619； camara-ip-seguridad-tiandy-exteriores-tipo-domo-de-4mp-full-color-con-deteccion-de-movimie； camara-ip-seguridad-tiandy-exteriores-tipo-tubo-de-2mp-color-maker-con-deteccion-de-movimi； camara-ip-seguridad-tiandy-exteriores-de-2mp-tipo-ptz-23x-tc-h324s-2631； camara-ip-seguridad-de-2mp-tiandy-25x-tc-h324s-2939； ptdy22-camara-wifi-de-seguridad-tiandy-pro-tipo-ptz-de-3mp-tipo-domo-con-deteccion-y-segui； ptdy23-camara-wifi-de-seguridad-tiandy-de-3mp-tipo-domo-con-deteccion-humana-tc-c32kn-spec； ptdy24-camara-wifi-de-seguridad-tiandy-de-3mp-tipo-domo-con-ir-de-50m-y-deteccion-humana-t…
+- SC-1935 leunig.de · home（html）：内容变化：+109 −77 行
+  - `+Moxa ioLogik E1212, Remote Ethernet I/O,...`
+  - `+Moxa ioLogik E1212 I/O Controller, I/O Controller, 8DI/8, 2-port Switch`
+  - `+Lieferzeit:`
+  - `+1-3 Tage`
+  - `+229,28 EUR`
+  - `+Lieferzeit:`
+- SC-1965 entegronnetwork.com · home（html）：内容变化：+2 −68 行
+  - `-Entegron Network`
+  - `-0 (212) 321 75 15`
+  - `-info@entegronnetwork.com`
+  - `-Home`
+  - `-Products Ethernet Switch L2 Managed Switch`
+  - `-Web Smart Switch`
+- SC-1965 entegronnetwork.com · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-1983 vietlongtelecom.com · home（html）：内容变化：+2 −85 行
+  - `-Việt Long`
+  - `-GIẢI PHÁP TỐI ƯU CHO TRUYỀN DẪN QUANG`
+  - `-Uy tín, chân thành và sẻ chia với đối tác là sự phát triển bền vững của doanh nghiệp.`
+  - `-Phòng KD đại lý : Mr.PHÚ - 0914.97.94.39`
+  - `-Hỗ trợ tư vấn - thiết kế quang: Mr.NAM - 0912.02.47.49`
+  - `-Hỗ trợ kỹ thuật đấu nối quang: Mr.Thủy - 0917.431.496`
+- SC-2012 VEMAX TECHNOLOGY SDN.BHD · home（html）：内容变化：+2 −257 行
+  - `-VEMAX DISTRIBUTION - YOUR TRUSTED IT DISTRIBUTOR -`
+  - `-kostenlos spielen biz`
+  - `-sales@vemax.com.my`
+  - `-+6016-874 7515 / +010-973 5888`
+  - `-Toggle navigation`
+  - `-Home`
+- SC-2012 VEMAX TECHNOLOGY SDN.BHD · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-2012 VEMAX TECHNOLOGY SDN.BHD · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 2 条（RSS 窗口滚动属正常）：Protected: Price List；Engenius EnTurbo EWS330
+- SC-2021 distributor · home（html）：内容变化：+2 −149 行
+  - `-IoT Solutions & Security Service Provider | Acceron`
+  - `-Contact : +91 022-61934848`
+  - `-Email : support@acceron.net`
+  - `-Follow`
+  - `-Home`
+  - `-About Us`
+- SC-2021 distributor · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-2021 distributor · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Why Partnering with a Trusted Cybersecurity Provid；Understanding Endpoint Security: What It Is and Ho；Wi-Fi 7 and Wi-Fi 8: A Comparative Guide to Featur；Everything You Should Know About PRTG Release 25.1；Top 10 MFA Implementation Problems and Solutions
+- SC-2111 ami-com.ru · news_1（html）：内容变化：+8 −8 行
+  - `-10 февраля 2026`
+  - `-Елена Калягина в «RUБЕЖ»: итоги 2025 года и стратегия на 2026-й`
+  - `-29 марта 2013`
+  - `-Цифровые видеорегистраторы компании MICRODIGITAL с поддержкой стандарта HDMI`
+  - `-15 сентября 2015`
+  - `-Новый комплект для передачи сигналов HDMI и ИК управления по сети Ethernet от OSNOVO`
+- SC-2111 ami-com.ru · news_2（html）：内容变化：+8 −8 行
+  - `-9 августа 2012`
+  - `-ТД «Амиком» предлагает новую IP-камеру производства Beward`
+  - `-4 сентября 2025`
+  - `-Приглашаем на семинар 16 сентября`
+  - `-22 июня 2015`
+  - `-Новая прошивка для видеодекодера DD-1116 от IDIS`
+- SC-2111 ami-com.ru · telegram（html）：内容变化：+12 −12 行
+  - `-123 views`
+  - `+124 views`
+  - `-116 views`
+  - `+117 views`
+  - `-134 views`
+  - `+140 views`
+- SC-2255 poetexas.com · news_1（html）：内容变化：+1 −1 行
+  - `-5 + 11 =`
+  - `+4 + 2 =`
+- SC-2255 poetexas.com · feed_auto（rss）：新增 1 条：Fri, 27 Nov 2026 10 GAT-AF-12V12W
+- 消失 1 条（RSS 窗口滚动属正常）：Upgrading Your Network: A Deep Dive into the 24-Po
+- SC-2258 townet.it · home（html）：内容变化：+2 −176 行
+  - `-Soluzioni Wireless e sistemi Smart di alimentazione per CCTV`
+  - `-Salta al contenuto`
+  - `-Cerca per:`
+  - `-Prodotti WIRELESS`
+  - `-soluzioni radio affidabili e performanti`
+  - `-Point to Point`
+- SC-2258 townet.it · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-2258 townet.it · news_1（html）：内容变化：+2 −106 行
+  - `-News - Townet`
+  - `-Salta al contenuto`
+  - `-Cerca per:`
+  - `-Prodotti WIRELESS`
+  - `-soluzioni radio affidabili e performanti`
+  - `-Point to Point`
+- SC-2258 townet.it · news_2（html）：恢复可达（上轮 HTTP 404）
+- SC-2258 townet.it · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Protezione Civile；Difesa Military；Polizia；Agricoltura Allevamenti；Porti
+- SC-2262 1st-embedded.com · sitemap（sitemap）：新增 258 条： validate； token； confirm； pay； info； confirm_order； confirmation； extra_info…
+- 消失 80 条（RSS 窗口滚动属正常）：validate；token；confirm；pay；info
+- SC-2262 1st-embedded.com · news_1（html）：内容变化：+20 −20 行
+  - `-— 971`
+  - `+— 1001`
+  - `-— 1837`
+  - `+— 1870`
+  - `-— 3020`
+  - `+— 3051`
+- SC-2383 3grouterstore.co.uk · home（html）：内容变化：+2 −304 行
+  - `-4G & 5G Routers, IoT Gateways, Antennas & SIM Cards | The Router Store`
+  - `-Skip to content Authorised Teltonika reseller`
+  - `-Order by 3pm for next working day delivery on in-stock items`
+  - `-UK technical support`
+  - `-Closed now`
+  - `-0300 124 6181`
+- SC-2383 3grouterstore.co.uk · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-2383 3grouterstore.co.uk · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：IoT SIM cards for vending machines: multi-network ；Lift SIM cards: multi-network 4G VoLTE SIMs for li；Teltonika RUTX50 end of life: what it means and ho；Teltonika Bluetooth routers: RUTX10, RUTX11, RUTX1；4G Routers with PoE Out: A Practical Use Case Guid
+- SC-2402 sisegusa.com · sitemap（sitemap）：新增 820 条： hw-ap361-access-point-wifi-6-de-techo-ax1800-huawei-10063； hw-ap362h-access-point-wifi-6-de-techo-ax3000-huawei-10464； hw-ap362e-access-point-wifi-6-de-techo-ax3000-huawei-10065； hw-ap761-access-point-wifi-6-exterior-ax1800-huawei-10070； hw-ap673-access-point-wifi-7-alta-densidad-de-techo-13-66gbps-doble-banda-huawei-10466； hw-ap371-access-point-wifi-7-de-techo-3-57gbps-doble-banda-huawei-10465； xt-k-cat6-a-cat6-acoplador-utp-en-linea-cat-6-10377； hy-ps2023-adaptador-de-voltaje-110vac-5v-2amp-3315…
+- 更新 1 条：home（2026-11-23 → 2026-11-26）
+- SC-2418 streakwave.com · sitemap（sitemap）：新增 820 条：2026-08-06 promotions；2026-07-28 ubiquiti-enterprise；2026-07-28 memory-surcharge；2026-07-28 antennas；2026-07-28 omni-antennas；2026-07-28 directional-antennas；2026-07-28 sector-antennas；2026-07-28 antenna-accessories…
+- 更新 2 条：www.streakwave.com（2026-11-26 → 2026-11-27）；contact（2026-11-26 → 2026-11-27）
+- SC-2516 novuscctv.com · home（html）：内容变化：+87 −86 行
+  - `+5 MPX Dual IP Camera (Thermal/Visual)`
+  - `+NVIP-5VE-6711/TA/7-A`
+  - `+5 MPX Dual IP Camera (Thermal/Visual)`
+  - `+NVIP-5H-6711/TA/3-A`
+  - `+New`
+  - `+2 MPX IP Camera with white light and IR illuminator`
+- SC-2516 novuscctv.com · news_1（html）：内容变化：+87 −86 行
+  - `+5 MPX Dual IP Camera (Thermal/Visual)`
+  - `+NVIP-5VE-6711/TA/7-A`
+  - `+5 MPX Dual IP Camera (Thermal/Visual)`
+  - `+NVIP-5H-6711/TA/3-A`
+  - `+New`
+  - `+2 MPX IP Camera with white light and IR illuminator`
+- SC-2516 novuscctv.com · news_2（html）：内容变化：+70 −69 行
+  - `-4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors`
+  - `-NVIP-4H-6602M/WL/F`
+  - `-4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors`
+  - `-NVIP-4VE-6602M/WL/F`
+  - `-NVIP-5H-6711/TA/7-A`
+  - `-8 MPX Vandal Proof IP Camera with white light and IR illuminator`
+- SC-2606 logicbus.com · sitemap（sitemap）：新增 820 条：2026-11-23 DR-OAC_p_994.html；2026-11-23 6069-410-154_p_1147.html；2026-11-23 6069-410-077_p_1205.html；2026-11-23 6069-410-089_p_1208.html；2026-11-23 6069-410-096_p_1217.html；2026-11-23 6069-410-097_p_1218.html；2026-11-23 6069-410-072_p_1220.html；2026-11-23 6069-410-086_p_1224.html…
+- SC-2695 everfocus.com · news_1（html）：抓取失败：ReadTimeout: HTTPSConnectionPool(host='www.everfocus.com', port=443): Read timed out. (read timeout=20)
+- SC-2718 mercasat.es · home（html）：内容变化：+42 −42 行
+  - `+RG-ANT90-T6`
+  - `+Antena WiFi sectorial tribanda exterior 6 puertos IP55 Ruijie Cybrey`
+  - `+Ruijie Cybrey`
+  - `+Antena tribanda exterior, 6 elementos`
+  - `+2,4 / 5 / 6 GHz, 9 / 11 / 11 dBi`
+  - `+6 conectores RP-SMA, polarización V+H`
+- SC-2725 todotelecom.com · home（html）：内容变化：+2 −863 行
+  - `-Material de Telecomunicaciones: CCTV, WiFi, Redes... | Todo Telecom`
+  - `-965 784 463`
+  - `-Envío gratuito*`
+  - `-Asesoramiento a profesionales`
+  - `-Base de Conocimiento`
+  - `-Soporte`
+- SC-2725 todotelecom.com · news_1（html）：内容变化：+2 −863 行
+  - `-Blog de Todo Telecom: novedades del sector, eventos y cursos`
+  - `-965 784 463`
+  - `-Envío gratuito*`
+  - `-Asesoramiento a profesionales`
+  - `-Base de Conocimiento`
+  - `-Soporte`
+- SC-274 alcadon.no · feed_auto（rss）：新增 20 条：09.11.2026 09:51:13 ECS Fiberpatch OM1 62,5/125 LC-ST 6,0m；06.11.2026 10:53:53 Strømkabel C20 – C21, Sort, 3m；09.10.2026 09:46:12 NTT CLETOP-S LC/SC rensekassett；09.10.2026 00:15:37 Enoc vertikal kabelguide CT1 24HE Svart；08.10.2026 13:05:57 Austin Hughes IPDU 32A, 230V 1-fas, blå；08.10.2026 13:01:26 Austin Hughes IPDU 32A, 400V 3-fas, blå；08.10.2026 12:51:04 Austin Hughes IPDU 32A, 230V 1-fas, rød；07.10.2026 16:07:31 Austin Hughes IPDU 32A, 400V 3-fas, rød…
+- SC-2776 karel.com.tr · sitemap（sitemap）：新增 820 条： www.karel.com.tr；2024-01-24T11:33Z ve-ev-alarm-sistemleri；2024-01-24T10:40Z 2-el-guvenlik-kamerasi-fiyatlari-ne-kadar；2024-01-24T10:47Z guvenlik-kamerasi-kayit-cihazi-nedir；2024-01-24T10:47Z guvenlik-kamerasi-urunleri-ve-aksesuarlari-nelerdir；2024-01-24T10:46Z aydinlatma-siddeti-lux-nedir-ornekler-nelerdir；2024-01-24T10:46Z bilgi-teknolojileri-projeleri-icin-roi-analizi；2024-01-24T10:45Z open-compute-project-acik-bilisim-projesi…
+- SC-283 comonyx.com · sitemap（sitemap）：新增 245 条： videonablyudenie-s-udalennym-dostupom-cherez-telefon-vozmozhnosti-preimushchestva-i-rekome； videonablyudenie； kvk； comonyx.com?year=2022&PAGEN_1=1； licenses； grafik-raboty-v-mayskie-prazdniki-2025； za-oknom-zhara-a-u-nas-40； udlinitel-bnc-ahd-cvi-tvi-hdmi-ethernet…
+- SC-283 comonyx.com · telegram（html）：内容变化：+52 −9 行
+  - `-93 views edited`
+  - `+94 views edited`
+  - `-76 views edited`
+  - `+77 views edited`
+  - `-68 views edited`
+  - `+69 views edited`
+- SC-2834 Dipol · home（html）：内容变化：+1038 −0 行
+  - `+Swiatłowody`
+  - `+TV-SAT`
+  - `+SIGNAL PROfessional - HYBRYDOWE INSTALACJE SMATV`
+  - `+NADAJNIKI OPTYCZNE`
+  - `+ODBIORNIKI OPTYCZNE`
+  - `+SPLITTERY OPTYCZNE`
+- SC-2834 Dipol · sitemap（sitemap）：新增 820 条：2024-03-22T14:27:06 antena_asp-8w_lux_dvb-t-t2_ze_wzmacniaczem_lna177-5g_i_filtrem_lte_5g_A0024.htm；2024-03-22T14:27:06 antena_asp-8_dvb-t-t2_z_symetryzatorem_A0028.htm；2024-03-22T14:27:06 antena_asp-8w_dvb-t-t2_ze_wzmacniaczem_lna169-5g_i_filtrem_lte_5g_A0029.htm；2024-03-22T14:27:06 antena_asp-4_dvb-t-t2_z_symetryzatorem_A0050.htm；2024-03-22T14:27:06 antena_telewizyjna_szerokopasmowa_z_polaryzacja_h-v_asp-8_pm_dvb-t-t2_A0060.htm；2024-03-22T14:27:06 antena_telewizyjno-radiowa_dipol-1-5-12_dab_dvb-t-t2_A0110.htm；2024-03-22T14:27:06 antena_telewizyjno-radiowa_dipol-4-5-12_dab_dvb-t-t2_A0140.htm；2024-03-22T14:27:06 antena_radiowa_dipol_1_rz_b_A0200.htm…
+- SC-2885 LS Networks (Pty) Ltd · home（html）：首轮基线
+- SC-2885 LS Networks (Pty) Ltd · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-2885 LS Networks (Pty) Ltd · news_1（html）：内容变化：+2 −114 行
+  - `-Projects - Plug & Play`
+  - `-Skip to content`
+  - `-Home`
+  - `-About us`
+  - `-Our Team`
+  - `-Our Solutions`
+- SC-2885 LS Networks (Pty) Ltd · news_2（html）：内容变化：+2 −98 行
+  - `-Project 1 - Plug & Play`
+  - `-Skip to content`
+  - `-Home`
+  - `-About us`
+  - `-Our Team`
+  - `-Our Solutions`
+- SC-2891 trimatrikbd.com · sitemap（sitemap）：新增 801 条：2025-07-23 hundure-rac-520；2025-07-23 ahuja-dxa-2502-amplifiers-dual-channel-power-amplifier；2025-07-23 ahuja-dxa-3502-amplifiers-dual-channel-power-amplifier-2；2025-07-23 Grandstream-DP722-DECT-Cordless-IP-Phone-Requires-DP750DP752-Base-Station；2025-07-23 Grandstream-DP752-DECT-VoIP-Base-Station-Support-Up-to-5-DP-Series-DECT-Handsets；2025-07-23 ahuja-scm-30t-pa-column-speaker-bangladesh；2025-07-23 Grandstream-GHP611W-Wireless-Hotel-IP-Phone-with-Adapter；2025-07-23 Grandstream-HT812-Analog-Telephone-Adapter…
+- SC-291 fgss.asia · home（html）：内容变化：+2 −95 行
+  - `-FGSS – First Global Support Services`
+  - `-Login with Eistruttore`
+  - `-Username or Email Address`
+  - `-Password`
+  - `-Remember Me`
+  - `-Home`
+- SC-291 fgss.asia · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Level Up Casino App Download Australia Guide；Level Up Casino Australia；Level up casino app download；Fastest Paying Online Casino Australia；Free Random Video Chat – Video Chat Jerk 2025
+- SC-2943 extralink24.com · home（html）：内容变化：+0 −83 行
+  - `-Ulubione`
+  - `-Szybki podgląd`
+  - `-Porównaj`
+  - `-Dodaj do koszyka`
+  - `-Extralink Lite 6U 10" 280X310 Szara | Szafa rack | montowana na ścianie`
+  - `-117,00 zł`
+- SC-295 inline.uz · telegram（html）：内容变化：+9 −9 行
+  - `-550 subscribers`
+  - `+551 subscribers`
+  - `-550 subscribers`
+  - `+551 subscribers`
+  - `-Forwarded from RuslanUz`
+  - `+Forwarded from`
+- SC-2955 Continental Towers Guaatemala, · home（html）：内容变化：+2 −49 行
+  - `-Home - MIP`
+  - `-Ir al contenido`
+  - `-Nosotros Alternar menú`
+  - `-Quienes Somos`
+  - `-Valores`
+  - `-Politica SST`
+- SC-2955 Continental Towers Guaatemala, · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-2957 conexpro.com · home（html）：内容变化：+50 −52 行
+  - `-Conexpro desktop holder for wAP ax LTE7 kit, white`
+  - `-A practical plastic stand for the new design of MikroTik wAP units (e.g.: wAP ax LTE7 kit) allows for easy and clear installation of the unit on a table or oth`
+  - `-Conexpro kit of 4 rackmount plastic cable management ring 37 x 39mm, black`
+  - `-The four-part set of plastic cable ties from Conexpro represents a simple solution for organized and safe cable management in rack cabinets. Sturdy design made`
+  - `+Conexpro Waterproof RJ-45 cover for GNT-5313AB`
+  - `+The waterproof cover for the RJ-45 connector is a practical accessory for protecting the network connection of the Conexpro GNT-5313AB device. The waterproof d`
+- SC-2957 conexpro.com · sitemap（sitemap）：新增 648 条： product； product； product； product； product； product； product； product…
+- SC-2976 blake-uk.com · home（html）：内容变化：+241 −50 行
+  - `+Wi-Fi Kit for Large Room or Hallway - Ceiling Mountable`
+  - `+WIFIKIT-CEILING-1`
+  - `+Perfect for residential DIY`
+  - `+Pre-made kit`
+  - `+Includes all necessary parts`
+  - `+Comes with 100m and 3m CAT6 patch lead`
+- SC-2976 blake-uk.com · sitemap（sitemap）：新增 820 条： www.blake-uk.com；2026-11-27T09:32:39 3x1-18g-914x254x12mm-cranked-aluminium-alloy-mastpole.html；2026-11-27T08:15:46 6x125-18g-1828-x32-x12mm-cranked-alloy-pole.html；2026-11-27T09:51:23 5x1-18g-1524x254x12mm-cranked-aluminium-alloy-mastpole.html；2026-11-27T08:16:40 a13.html；2026-11-27T09:32:39 3x1-18g-914x254x12mm-swaged-aluminium-alloy-mast-pole.html；2026-11-27T08:15:36 3-mast-pole-kit-middleextension-piece-pole.html；2026-11-27T08:22:14 a19.html…
+- 更新 80 条：6x125-16g-1828x32x16mm-straight-alloy-pole.html（2026-11-26T08:05:15 → 2026-11-27T08:47:02）；j-bolt-55x-38.html（2026-11-26T08:04:56 → 2026-11-27T08:15:03）；6mm-catenary-rope-grip.html（2026-11-26T08:04:56 → 2026-11-27T08:15:03）；6mm-hook-eye-catenary-cable-tensioning-screw.html（2026-11-26T08:04:56 → 2026-11-27T08:15:03）；ac17b.html（2026-11-26T08:04:56 → 2026-11-27T08:15:03）；10mm-hook-catenary-cable-tensioning-screw.html（2026-11-26T08:04:56 → 2026-11-27T08:12:08）；black-twin-cable-clips-box-of-100.html（2026-11-26T08:04:29 → 2026-11-27T08:14:35）；eye-bolt-5x-38.html（2026-11-26T08:04:55 → 2026-11-27T08:13:55）
+- SC-299 nag.kz · home（html）：内容变化：+200 −66 行
+  - `-12 товаров`
+  - `+13 товаров`
+  - `-3 002 товара`
+  - `+2 999 товаров`
+  - `-Новинка`
+  - `-SNR-70B-482-1U`
+- SC-2993 cablesnmore.com · home（html）：内容变化：+3 −3 行
+  - `-M6 Cage Nuts and Mounting Screws for Racks - 25 pack`
+  - `-M6 Cage Nuts and Screws from Networx® allow for easy conversion of square mounting holes found in some racks and cabinets into round holes for standard screws.`
+  - `-$6.80`
+  - `+12 Inch Black Cinch Strap - 5 Pack`
+  - `+Secure™ Hook and Loop Cinch Straps are the best choice when needing to secure large bundles due to their simplicity, strength and versatility.`
+  - `+$5.62`
+- SC-2993 cablesnmore.com · sitemap（sitemap）：新增 820 条：2023-02-10 audio-video；2016-03-10 adaptersconverters；2016-03-10 usb-adapters；2016-03-10 hdmi-gender-changers；2016-03-10 vga-cable-adapters；2021-09-28 audio-video-cables；2019-01-15 xlr-cables；2016-03-10 coaxial…
+- 更新 3 条：www.cablesnmore.com（2026-11-26 → 2026-11-27）；search（2026-11-26 → 2026-11-27）；contactus（2026-11-26 → 2026-11-27）
+- SC-3007 ks-itsolutions.com · home（html）：内容变化：+2 −126 行
+  - `-KS IT Solutions Sdn Bhd – Reliable IT Solutions & Internet Services Provider Malaysia`
+  - `-KS IT Solutions Sdn Bhd`
+  - `-Home`
+  - `-About Us`
+  - `-Products & Services`
+  - `-INTERNET SERVICES`
+- SC-302 osnovo.ru · home（html）：内容变化：+3 −3 行
+  - `-Россети`
+  - `-ПАО «Транснефть»`
+  - `-БХК (Газпром)`
+  - `+«Безопасный город» Калининград`
+  - `+ЦОД Дубна`
+  - `+Крымский мост (видеонаблюдение)`
+- SC-302 osnovo.ru · news_1（html）：内容变化：+4 −4 行
+  - `+Климатические испытания уличных коммутаторов OSNOVO при -60°C`
+  - `-Климатические испытания уличных коммутаторов OSNOVO при -60°C`
+  - `-ОАО "Уралтрубпром"`
+  - `-Х5 Retail Group`
+  - `-OSNOVO для трассы М-12: инфраструктура видеоконтроля на участке Дюртюли–Ачит`
+  - `+Министерство образования Республики Дагестан`
+- SC-3130 tvc.mx · home（html）：内容变化：+27 −50 行
+  - `-26 de noviembre`
+  - `+27 de noviembre`
+  - `-ZKTECO | CONFIGURACIÓN DE DISPOSITIVOS SENSEFACE A TRAVÉS DE ZKBIO ZLINK`
+  - `-Capacitación Técnico - Comercial`
+  - `+UNIARCH | SOLUCIONES ANALÓGICAS`
+  - `+Capacitación Comercial`
+- SC-3130 tvc.mx · sitemap（sitemap）：新增 820 条： terms； privacy； our-brands； distributor-benefits； about； our-branches； loyalty-programs； environmental-awareness…
+- 更新 80 条：ys130no-yli-cerradura-electrica-para-control-de-acceso（2026-11-25 → 2026-11-26）；idcardn-paquete-con-10-tarjetas-id（2026-11-25 → 2026-11-26）；yli-yb300（2026-11-25 → 2026-11-26）；pbk812-boton-de-salida-mecanico（2026-11-25 → 2026-11-26）；tleb102-boton-de-salida-sin-contacto（2026-11-25 → 2026-11-26）；abk800a-boton-de-salida-mecanico（2026-11-25 → 2026-11-26）；vivotek-am114-soporte-para-montaje-en-techo-compatible-c（2026-11-25 → 2026-11-26）；wejoin-wjsbm45-brazo-recto-de-45-metros（2026-11-25 → 2026-11-26）
+- SC-3130 tvc.mx · youtube（youtube_handle）：新增 2 条：2026-11-27T05:37:49 ¡Nueva línea UNV en TVCenLínea.com!；2026-11-26T23:19:30 ¡El Black Friday está aquí!
+- 消失 2 条（RSS 窗口滚动属正常）：Fortalecemos la seguridad de tu portal；Verificación de identidad en tu cuenta TVC: guía p
+- SC-3135 sphinxcomputer.fr · sitemap（sitemap）：新增 820 条：2025-09-02T13:03:13 dse.php；2025-09-02T13:03:13 cookie.php；2025-09-02T13:03:13 001-newsletter.php；2025-09-02T13:03:13 optio.php?gid=440&txt=Access%20Points&hst%5B%5D=49&hst%5B%5D=50&hst%5B%5D=51&hst%5B%5D=55&；2025-09-02T13:03:13 optio.php?gid=407&txt=Audio&hst%5B%5D=50&hst%5B%5D=51&ansicht=breit&pfs=0；2025-09-02T13:03:13 optio.php?gid=774&txt=Audio&hst%5B%5D=51&ansicht=breit&pfs=0；2025-09-02T13:03:13 optio.php?gid=748&txt=Audio&hst%5B%5D=51&hst%5B%5D=71&ansicht=breit&pfs=0；2025-09-02T13:03:13 optio.php?gid=668&txt=Audio&hst%5B%5D=51&ansicht=breit&pfs=0…
+- SC-3149 starcom.com.pk · home（html）：内容变化：+2 −128 行
+  - `-Home - Starcom`
+  - `-Skip to main content`
+  - `-Starcom`
+  - `-Menu`
+  - `-Home`
+  - `-TECHNOLOGY PARTNERS`
+- SC-3149 starcom.com.pk · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-3149 starcom.com.pk · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：zooma официальный сайт – Игровой автомат Sweet Bon；Официальный сайт и зеркало онлайн казино Риобет Ri；Pokerdom 2024 – Онлайн Казино и Покер Рум；Vavada онлайн казино особенности игры и преимущест；zooma сайт – АЗИНО777 вход официальный сайт ️ Зерк
+- SC-3203 jteemsolutions.com · home（html）：内容变化：+2 −5 行
+  - `-Coming Soon - Start Bootstrap Theme`
+  - `-Coming Soon!`
+  - `-We're working hard to finish the development of this site. Our target launch date is`
+  - `-January 2019 ! Sign up for updates using the form below!`
+  - `-Notify Me!`
+  - `+One moment, please...`
+- SC-323 comptek.ru · home（html）：内容变化：+28 −27 行
+  - `+3 декабря 2026 г.`
+  - `+Uncom`
+  - `+Вебинар «Демонстрация операционной системы Uncom OS и UNC ИИ-бокс»`
+  - `+3 декабря (четверг) в стартует вебинар, на котором рассмотрим функционал и особенности отечественной операционной системы Uncom OS от компании АДВИЛАБС-РУС`
+  - `-9 сентября 2026 г.`
+  - `-Fanvil`
+- SC-323 comptek.ru · news_1（html）：内容变化：+4 −4 行
+  - `+3 декабря 2026 г.`
+  - `+uncom`
+  - `+Вебинар «Демонстрация операционной системы Uncom OS и UNC ИИ-бокс»`
+  - `+3 декабря (четверг) в стартует вебинар, на котором рассмотрим функционал и особенности отечественной операционной системы Uncom OS от компании АДВИЛАБС-РУС`
+  - `-1 октября 2026 г.`
+  - `-root`
+- SC-323 comptek.ru · news_2（html）：内容变化：+4 −4 行
+  - `+3 декабря 2026 г.`
+  - `+uncom`
+  - `+Вебинар «Демонстрация операционной системы Uncom OS и UNC ИИ-бокс»`
+  - `+3 декабря (четверг) в стартует вебинар, на котором рассмотрим функционал и особенности отечественной операционной системы Uncom OS от компании АДВИЛАБС-РУС`
+  - `-1 октября 2026 г.`
+  - `-root`
+- SC-323 comptek.ru · telegram（html）：内容变化：+25 −25 行
+  - `-663 photos`
+  - `+664 photos`
+  - `-539 links`
+  - `+540 links`
+  - `-Партнерам и заказчикам 🤝`
+  - `-Вебинар «Artimate: обзор AIOps-платформы для ИТ-мониторинга и новые возможности версии 1.7.0»`
+- SC-343 optilinknetwork.com · home（html）：内容变化：+11 −6 行
+  - `+Blog`
+  - `+Blog`
+  - `+Blog`
+  - `+Blog`
+  - `+How to Choose the Right OLT for Your ISP Network`
+  - `+Your broadband plans may promise fast speeds. But can your network deliver them when many customers go online at once? The OLT...`
+- SC-343 optilinknetwork.com · feed_auto（rss）：新增 2 条：Thu, 19 Nov 2026 12 How to Choose the Right OLT for Your ISP Network；Fri, 09 Oct 2026 09 GEPON vs GPON: Why Are ISPs Moving Towards GPON Networks?
+- SC-368 Itmax system sdn bhd · home（html）：内容变化：+2 −140 行
+  - `-AI-POWERED Integrated Digital Infrastructure Service Provider | ITMAX`
+  - `-HOME`
+  - `-ABOUT US`
+  - `-WHAT WE DO`
+  - `-Networked Video Surveillance`
+  - `-Networked Traffic Management Systems`
+- SC-368 Itmax system sdn bhd · intel_news_en（rss）：状态变化：HTTP 429 → HTTP 503
+- SC-380 iptime.com · home（html）：内容变化：+1 −1 行
+  - `-RTSP가 켜지면 admin 계정과 만든 RTSP 비밀번호로 카메라에 접속할 수 있습니다. (admin 계정은 고정값으로 변경할 수 없습니다.)`
+  - `+RTSP가 켜지면 admin 계정과 만든 RTSP 비밀번호로 카메라에 접속할 수 있습니다. (계정 이름의 기본값은 admin이며, 하드디스크 녹화기(RTSP) 메뉴의 계정 설정에서 바꿀 수 있습니다. C300E는 NVR 연결의 [계정 변경]에서 바꿉니다. 계정을 바꿨다면 아래 주소와`
+- SC-380 iptime.com · sitemap（sitemap）：新增 820 条： iptime.com； products； notices； news； event； fun； support； faq…
+- 更新 77 条：216（2026-11-26T06:02:40 → 2026-11-27T08:24:50）；427（2026-11-26T04:30:46 → 2026-11-27T08:44:59）；527（2026-11-26T04:30:46 → 2026-11-27T08:44:59）；529（2026-11-26T04:30:46 → 2026-11-27T08:44:59）；661（2026-11-26T06:02:40 → 2026-11-27T08:24:50）；705（2026-11-26T04:30:46 → 2026-11-27T08:44:59）；731（2026-11-26T04:30:46 → 2026-11-27T08:44:59）；743（2026-11-26T04:30:46 → 2026-11-27T08:44:59）
+- SC-380 iptime.com · news_1（html）：内容变化：+20 −20 行
+  - `-38`
+  - `+51`
+  - `-34`
+  - `+46`
+  - `-14`
+  - `+17`
+- SC-380 iptime.com · feed_auto（rss）：新增 2 条：Fri, 27 Nov 2026 07 [ipTIME NAS] 단종 NAS와 후속 모델 대응표；Fri, 27 Nov 2026 00 [펌웨어] ipTIME C300E 펌웨어 37.2.15
+- 消失 2 条（RSS 窗口滚动属正常）：[ipTIME 공유기] 이사할 때 공유기 옮기고 다시 연결하는 방법；[ipTIME 카메라] 홈캠과 CCTV(녹화기) 중 무엇을 선택해야 하나요?
+- SC-382 securitywarehouse.co.za · home（html）：内容变化：+2 −2 行
+  - `-Name`
+  - `+Phone`
+  - `-LinkedIn`
+  - `+Facebook`
+- SC-387 DGTAS · home（html）：内容变化：+0 −2 行
+  - `-리퍼비시 현장`
+  - `-리퍼비시 현장`
+- SC-413 hifocuscctv.com · sitemap（sitemap）：新增 157 条：2024-12-09T12:24:26 hc-ipc-t4212-4xvf-ex；2024-12-09T12:24:26 hc-ipc-t4212-x25vf-ex-；2024-12-09T12:24:26 hc-ipc-t4214-x33vf-ex；2024-12-09T12:24:26 hc-ipc-tqa4114-0360-dls；2024-12-09T12:24:26 hc-ipc-dqa4115-0280-dls；2024-12-09T12:24:26 hc-ipc-dqa4114-0280-dls；2024-12-09T12:24:26 hc-ipc-dsa2200n3-pe-1；2024-12-09T12:24:26 8mp-ip-dome-camera-ingress-protection…
+- SC-427 tbkvision.com · home（html）：恢复可达（上轮 HTTP 404）
+- SC-463 atronic.co.in · home（html）：内容变化：+2 −151 行
+  - `-Main Home - atronicsystems`
+  - `-HOME`
+  - `-Our Products`
+  - `-Gate Automation`
+  - `-UVSS`
+  - `-Bollards`
+- SC-463 atronic.co.in · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-463 atronic.co.in · feed_auto（rss）：状态变化：OK → HTTP 403
+- 消失 10 条（RSS 窗口滚动属正常）：Hello world!；Bring to the table win-win survival strategies；Interactively coordinate proactive e-commerce；Quickly deploy strategic networks with compelling；Fully researched data and enterprise process impro
+- SC-490 hattelandtechnology.com · sitemap（sitemap）：新增 820 条：2026-11-12 p020518_accessory_488；2023-06-28 embron-group-acquires-swedish-electronics-and-software-developer-qrtech；2025-01-31 guides；2026-11-10 hd-24t21-mmd_monitor_226；2020-01-22 what-does-hwcode-hwxx-mean；2026-11-16 hd-12brd-sx1_accessory_6；2026-11-10 hd-13t30-scm_monitor_466；2023-06-28 new-18.1-inch-industrial-display…
+- SC-491 hisharp.com · sitemap（sitemap）：新增 273 条：2026-11-10 news.php?act=view&id=164；2026-11-11 news.php?act=view&id=163；2026-11-09 news.php?act=view&id=162；2026-11-03 news.php?act=view&id=161；2026-11-03 news.php?act=view&id=160；2026-10-14 news.php?act=view&id=159；2026-09-30 news.php?act=view&id=157；2026-09-24 news.php?act=view&id=156…
+- 更新 29 条：www.hisharp.com（2026-11-26 → 2026-11-27）；about.php（2026-11-26 → 2026-11-27）；history.php（2026-11-26 → 2026-11-27）；location.php（2026-11-26 → 2026-11-27）；business.php（2026-11-26 → 2026-11-27）；recruiting.php（2026-11-26 → 2026-11-27）；about_concept.php（2026-11-26 → 2026-11-27）；csr.php（2026-11-26 → 2026-11-27）
+- SC-503 lutze.com · home（html）：内容变化：+0 −4 行
+  - `-SPS Smart Production Solutions`
+  - `-November 24-26, 2026`
+  - `-Hall 9 Stand 361 & 170`
+  - `-Nuremberg, Germany`
+- SC-509 nextik.co.in · home（html）：内容变化：+2 −135 行
+  - `-Leading Manufacturer of FTTH Solutions | NexTik`
+  - `-Sales : +91 8130608406`
+  - `-info@nextik.co.in`
+  - `-Support : +91 9971141088`
+  - `-Get A Quote`
+  - `-Home`
+- SC-509 nextik.co.in · sitemap（sitemap）：状态变化：OK → HTTP 403
+- 消失 40 条（RSS 窗口滚动属正常）：nextik.co.in；about-us；cwdm；dwdm；awg-dwdm
+- SC-509 nextik.co.in · news_1（html）：内容变化：+2 −108 行
+  - `-Latest News | Upcoming Events | NexTik`
+  - `-Sales : +91 8130608406`
+  - `-info@nextik.co.in`
+  - `-Support : +91 9971141088`
+  - `-Get A Quote`
+  - `-Home`
+- SC-509 nextik.co.in · news_2（html）：内容变化：+2 −89 行
+  - `-Leading Manufacturer of FTTH Solutions | NexTik`
+  - `-Sales : +91 8130608406`
+  - `-info@nextik.co.in`
+  - `-Support : +91 9971141088`
+  - `-Get A Quote`
+  - `-Home`
+- SC-562 balticnetworks.com · home（html）：内容变化：+1509 −492 行
+  - `+Nov 27–30:`
+  - `+Get one month of Baltic Training free with MikroTik orders over $150. One offer per customer.`
+  - `-MikroTik In Stock and Shipping`
+  - `-Routers, switches, wireless, LTE, IoT and more gear just landed. Shop in-stock SKUs ready to ship.`
+  - `+NOV 27–30`
+  - `+Black Friday & Cyber Monday`
+- SC-568 efb-elektronik.de · home（html）：内容变化：+326 −3 行
+  - `-Glasfaser Workshops 2026 | Nur noch wenige Plätze`
+  - `+Glasfaser Workshops 2026 | Letzte Chance`
+  - `-Glasfaser Workshops 2026 | Nur noch wenige Plätze`
+  - `+Glasfaser Workshops 2026 | Letzte Chance`
+  - `-Aktive Netzwerkkomponente`
+  - `+Aktive Netzwerkkomponenten`
+- SC-571 gsl.com.tr · news_1（html）：内容变化：+20 −20 行
+  - `-GSL`
+  - `-Geleceğe Hazır Endüstriyel Ağlar Moxa Çözüm Günü`
+  - `-Geleceğe Hazır Endüstriyel Ağlar Moxa Çözüm Günü’nde Sektörü İstanbul’da Bir Araya Getirdik Endüstriyel ağ ve otomasyon çözümlerinin katma değerli distribütörü`
+  - `-Devamını Oku`
+  - `-Mart 27, 2025`
+  - `+Moxa`
+- SC-577 leap-networks.ae · home（html）：内容变化：+2 −225 行
+  - `-Telecom Systems Integration UAE | Oil & Gas | Leap Networks`
+  - `-Home`
+  - `-About Us`
+  - `-Projects`
+  - `-Services`
+  - `-Front End Engineering Design (Feed) & Basic Engineering`
+- SC-577 leap-networks.ae · sitemap（sitemap）：状态变化：OK → HTTP 403
+- SC-577 leap-networks.ae · news_1（html）：内容变化：+2 −178 行
+  - `-Telecom Projects UAE | Oil & Gas | Leap Networks`
+  - `-Home`
+  - `-About Us`
+  - `-Projects`
+  - `-Services`
+  - `-Front End Engineering Design (Feed) & Basic Engineering`
+- SC-577 leap-networks.ae · news_2（html）：内容变化：+2 −179 行
+  - `-Project Management UAE | EPC Telecom Oil & Gas | Leap`
+  - `-Home`
+  - `-About Us`
+  - `-Projects`
+  - `-Services`
+  - `-Front End Engineering Design (Feed) & Basic Engineering`
+- SC-619 hdcabling.co.za · home（html）：内容变化：+2 −233 行
+  - `-HDCabling Centurion And Boksburg | Online And Walk-in Networking, Electronics And Cables Store`
+  - `-Skip to content`
+  - `-Cart/ R 0.00`
+  - `-Home`
+  - `-Contact Us`
+  - `-Login`
+- SC-625 ipmatika.ru · telegram（html）：内容变化：+33 −25 行
+  - `-Масштабное внедрение Fanvil в новом кампусе УрФУ`
+  - `-323 вызывные панели Fanvil и 5 внутренних видеопанелей для нового кампуса УрФУ. Компании АйПиМатика и Солярис помогли создать среду, где студенты и преподавате`
+  - `-👉 Больше фотографий в нашей группе ВКонтакте`
+  - `-#кейс`
+  - `-🔥 9 ❤ 3 👀 3`
+  - `-275 views`
+- SC-665 Civitas systems Srl · home（html）：内容变化：+2 −109 行
+  - `-Civitas Group | Servicii Integrate Securitate| Paza| Sisteme| Monitorizare Interventie`
+  - `-0251 306 466`
+  - `-[email protected]`
+  - `-RO EN`
+  - `-Despre noi`
+  - `-Viziune/Povestea noastră`
+- SC-671 Leader Optec · home（html）：内容变化：+4 −4 行
+  - `+Christmas Closure & Shipping Dates 2026`
+  - `+As the festive season approaches, we'd like to thank all our customers for their support throughout the year and share our Christmas opening and shipping arran`
+  - `+Read the story`
+  - `+about Christmas Closure & Shipping Dates 2026`
+  - `-Leader Optec Achieves Canare Certification.`
+  - `-We are pleased to achieve certification from Canare to become their first UK based manufacturer, distributor and repair centre for the Canare range of products`
+- SC-671 Leader Optec · news_1（html）：内容变化：+4 −4 行
+  - `+Christmas Closure & Shipping Dates 2026`
+  - `+As the festive season approaches, we'd like to thank all our customers for their support throughout the year and share our Christmas opening and shipping arran`
+  - `+Read the story`
+  - `+about Christmas Closure & Shipping Dates 2026`
+  - `-New Product Line`
+  - `-Introducing Active Optical Cables (AOCs), a high-performance, cost-effective interconnect solution for fibre cable installations.`
+- SC-683 VOYGAR SYSTEMS GmbH · sitemap（sitemap）：新增 807 条：2019-10-02T18:22:30 indoor-tight-buffered-900nm-optical-fibre-cable-lszh-multi-mode-50-125nm-om3-8-core；2019-10-02T18:22:30 outdoor-double-pe-jacket-double-armour-tape-1-steel-strengthen-member-24-core；2019-10-02T18:22:30 cat6a-f-utp-23awg-lszh-cable-305m-white；2019-10-02T18:22:30 cat6a-futp-23awg-lszh-cable-305m-grey；2019-10-02T18:22:30 cat6a-futp-23awg-lszh-cable-305m-orange；2019-10-02T18:22:30 fiber-optic-airblown-cables；2019-10-02T18:22:30 lc-apc-single-mode-pigtail-9-125-0-9-mm-1m；2019-10-02T18:22:30 lc-apc-single-mode-pigtail-9-125-0-9-mm-2m…
+- SC-683 VOYGAR SYSTEMS GmbH · news_1（html）：内容变化：+1 −1 行
+  - `-By Kevin Wheat Technology Trends 2792 Read more...`
+  - `+By Kevin Wheat Technology Trends 2796 Read more...`
+- SC-700 amc-systeme.de · sitemap（sitemap）：新增 820 条： digital-io-steuerkarten.html； messgeraete-karten.html； motorsteuer-und-zaehlerkarten.html； fpga-io-karten.html； mobile-messtechnik.html； cdaq-messsystem.html； idaq-messsystem.html； mobile-messtechnik-idaq-messsysteme-usb-30.html…
+- SC-708 armosystems.ru · telegram（html）：内容变化：+27 −28 行
+  - `-854 photos`
+  - `+855 photos`
+  - `-АРМО-Системы. Дистрибьюция систем безопасности`
+  - `-🆕 «АРМО-Системы» стала официальным дистрибьютором продукции бренда «РУВЕР» для систем видеонаблюдения. В Краснодаре команда «РУВЕР» разрабатывает и выпускает о`
+  - `-💪 Среди конкурентных преимуществ – подтвержденный статус российского производителя радиоэлектроники: камеры «РУВЕР» сертифицированы и внесены в реестр Минпромт`
+  - `-🤝 В рамках сотрудничества «АРМО-Системы» займется поставками IP-камер видеонаблюдения и комплексных решений на базе продуктов бренда «РУВЕР».`
+- SC-714 avant.by · telegram（html）：内容变化：+19 −8 行
+  - `-468 photos`
+  - `+469 photos`
+  - `-586 links`
+  - `+587 links`
+  - `-«АВАНТ-ТЕХНО»`
+  - `-❤ 2`
+- SC-714 avant.by · youtube（rss）：新增 1 条：2026-11-27T09:30:07 Профессиональная деформация сотрудников АВАНТ-ТЕХНО😅
+- 消失 1 条（RSS 窗口滚动属正常）：Не работает карта доступа? Разбираемся, в чём може
+- SC-722 bic-video.ru · home（html）：内容变化：+8 −8 行
+  - `+2 790 руб.`
+  - `+TDB-IPB0301F28 Уличная сетевая видеокамера с облачным сервисом IPeye`
+  - `+Есть в наличии`
+  - `+Арт. tdb0001`
+  - `+В корзину`
+  - `+В корзине`
+- SC-722 bic-video.ru · news_1（html）：内容变化：+2 −2 行
+  - `+График работы офисов продаж 28.11 - 29.11.26`
+  - `+27.11.2026`
+  - `-График работы офисов продаж 23.10 - 25.10.26`
+  - `-22.10.2026`
+- SC-722 bic-video.ru · news_2（html）：内容变化：+1 −1 行
+  - `+EM, HID и MF – в новом считывателе Smartec для бюджетных СКУД`
+  - `-Один коммутатор — четыре оптических луча: как OSNOVO закрывает нестандартные уличные сценарии`
+- SC-722 bic-video.ru · telegram（html）：内容变化：+17 −17 行
+  - `-1.38K photos`
+  - `-987 links`
+  - `+1.39K photos`
+  - `+988 links`
+  - `-БИК Торговый Дом`
+  - `-Изменения в графике работы офиса обслуживания м.Нарвская`
+- SC-729 brownbear.ru · news_2（html）：内容变化：+2 −2 行
+  - `-26.11.2026`
+  - `+27.11.2026`
+  - `-26.11.2026`
+  - `+27.11.2026`
+- SC-770 elmark.com.pl · home（html）：内容变化：+20 −20 行
+  - `-How to Standard IEC 61850 a transmisja danych – cz. 2: Konfiguracja PRP i HSR w sieciach energetycznych`
+  - `-27.02.2025`
+  - `-News Cyfrowy sabotaż w środku zimy: Analiza raportu CERT Polska z perspektywy użytkowników rozwiązań Moxa`
+  - `-10.02.2026`
+  - `+How to NIS2 – przewodnik dla sektora przemysłowego`
+  - `+26.02.2024`
+- SC-770 elmark.com.pl · news_1（html）：内容变化：+10 −10 行
+  - `+Od szafy do maszyny – ewolucja rozproszonych I/O w sieci PROFINET`
+  - `+03.03.2026`
+  - `+Informacje produktowe`
+  - `-Przetwarzanie brzegowe (edge computing) vs. chmura – gdzie analizować dane w systemach przemysłowych?`
+  - `-25.02.2026`
+  - `-How to`
+- SC-770 elmark.com.pl · news_2（html）：内容变化：+10 −10 行
+  - `+Od szafy do maszyny – ewolucja rozproszonych I/O w sieci PROFINET`
+  - `+03.03.2026`
+  - `+Informacje produktowe`
+  - `-Przetwarzanie brzegowe (edge computing) vs. chmura – gdzie analizować dane w systemach przemysłowych?`
+  - `-25.02.2026`
+  - `-How to`
+- SC-770 elmark.com.pl · youtube（rss）：新增 1 条：2026-11-27T07:30:39 Uruchomienie serwonapędu w kilka minut bez PC
+- 消失 1 条（RSS 窗口滚动属正常）：Pierwsze uruchomienie NPort 6000 G2 krok po kroku
+- SC-783 expressalarm.cz · home（html）：内容变化：+471 −1 行
+  - `-Požární a speciál`
+  - `+Požární a speciální detektory`
+  - `+Magnetické kontakty`
+  - `+Povrchové`
+  - `+Povrchové polarizované`
+  - `+Závrtné`
+- SC-783 expressalarm.cz · sitemap（sitemap）：新增 749 条：2026-03-03 12-internal34；2025-05-23 2n-produktove-skoleni-internal；2025-05-09 2n-produktove-skoleni-prihlaska；2026-06-24 2N；2021-04-16 acs；2026-08-20 ajax-brno；2026-06-23 ajax-cheb；2026-06-19 ajax-hradec…
+- 更新 80 条：www.expressalarm.cz（2026-11-26 → 2026-11-27）；bazar（2026-11-26 → 2026-11-27）；cctv（2026-11-26 → 2026-11-27）；kamery-ip--hikvision（2026-11-26 → 2026-11-27）；rada-standard（2026-11-26 → 2026-11-27）；16mp（2026-11-26 → 2026-11-27）；bullet-kamery（2026-11-26 → 2026-11-27）；dome-kamery（2026-11-26 → 2026-11-27）
+- SC-884 novicam.ru · sitemap（sitemap）：新增 820 条： lux-57m-v-1109v； lux-57mx-v-1048v； lux-58m-v-1110v； lux-58x-v-1049v； magic-4-hd-white-v-4851； magic-4-7-10-bracket-v-4150； magic-7-dark-hd； magic-7-white-hd-v-4821…
+- SC-884 novicam.ru · telegram_2（html）：内容变化：+47 −8 行
+  - `-221 views edited`
+  - `+222 views edited`
+  - `-193 views`
+  - `+194 views`
+  - `-220 views`
+  - `+225 views`
+- SC-897 pixietech.uz · sitemap（sitemap）：更新 9 条：ru（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；switches（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；voip（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；fiber-cables（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；media-converters（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；sfp-modules（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；cabinets（2026-11-26T11:34:51 → 2026-11-27T11:28:37）；ups（2026-11-26T11:34:51 → 2026-11-27T11:28:37）
+- SC-956 systerra.de · sitemap（sitemap）：新增 820 条：2026-11-26 SRS-3201-BLUBOXX.html；2026-11-26 SRS-4401-SERIAL.html；2026-11-26 SRS-8401-SERIAL.html；2026-11-26 SRS-8442-SERIAL.html；2026-11-26 SRS-8493-CoolConduct.html；2026-11-26 CompactPCI-3HE.htm；2026-11-26 cPCI_PlusIO_Karten.htm；2026-11-26 P82-GBE.html…
+- 更新 80 条：www.systerra.de（2026-11-25 → 2026-11-26）；Produkte.htm（2026-11-25 → 2026-11-26）；Boards_Systeme.htm（2026-11-25 → 2026-11-26）；CompactPCI.htm（2026-11-25 → 2026-11-26）；cPCI_Serial.htm（2026-11-25 → 2026-11-26）；cPCI_Serial_CPU_Karten.htm（2026-11-25 → 2026-11-26）；SC3-LARGO.html（2026-11-25 → 2026-11-26）；SC4-CONCERTO.html（2026-11-25 → 2026-11-26）
+- SB-016 Richard Jackson · intel_news_en（rss）：状态变化：HTTP 429 → HTTP 503
+- SB-414 Rolins · intel_news_id（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-565 Marmaris Bilişim · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-723 BİLGEN ELEKTRONİK · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SB-901 Hersnet Ltd · intel_news_hu（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-1167 vmo broadband pvt ltd · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-3026 说是有需求会说的，问了catalog · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-676 Puncak Niaga Holdings · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-679 SPECTRUM · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- SC-680 SUREN Smart Electrical · intel_news_en（rss）：状态变化：HTTP 503 → HTTP 429
+- 本轮抓取失败 908：SA-012/home：ConnectTimeout: HTTPConnectionPool(host='www.widen.co.th', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.widen.co.th', port=80) at 0x786e96732360>, 'Connection to；SA-015/sitemap：HTTP 403；SA-015/feed_auto：HTTP 403；SA-020/sitemap：HTTP 404；SA-021/home：HTTP 429；SA-023/home：HTTP 404；SA-027/home：ReadTimeout: HTTPConnectionPool(host='alsalami.com', port=80): Read timed out. (read timeout=20)；SA-042/feed_auto：HTTP 403；SA-047/youtube：YouTube 404（对运行器 IP 的拦截，非频道不存在；设 YT_API_KEY 走官方 API 可绕过）；SA-048/sitemap：HTTP 403；SA-048/feed_auto：HTTP 403；SA-049/home：ReadTimeout: HTTPSConnectionPool(host='iotsistem.com', port=443): Read timed out. (read timeout=20)；SA-049/sitemap：ConnectTimeout: HTTPSConnectionPool(host='iotsistem.com', port=443): Max retries exceeded with url: /sitemap_index.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='iotsistem.com', port=443) at 0x786e8c6bbe90；SA-049/news_1：ConnectTimeout: HTTPSConnectionPool(host='www.iotsistem.com', port=443): Max retries exceeded with url: /haberler/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iotsistem.com', port=443) at 0x786e945a3920；SA-049/feed_auto：ConnectTimeout: HTTPSConnectionPool(host='www.iotsistem.com', port=443): Max retries exceeded with url: /feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iotsistem.com', port=443) at 0x786e9456e3f0>, '；SA-061/home：HTTP 523；SA-071/home：HTTP 403；SA-074/feed_auto：HTTP 403；SA-076/home：ConnectTimeout: HTTPSConnectionPool(host='tbi.com.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='tbi.com.tr', port=443) at 0x786e8c6baea0>, 'Connection to tbi.c；SB-047/home：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to；SB-047/sitemap：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: /sitemap.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed；SB-047/news_1：SSLError: HTTPSConnectionPool(host='topica.mn', port=443): Max retries exceeded with url: /blog (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl；SB-071/sitemap：HTTP 404；SB-071/news_1：HTTP 404；SB-079/home：SSLError: HTTPSConnectionPool(host='cansisteknoloji.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:；SB-103/intel_news_en：HTTP 503；SB-103/intel_news_de：HTTP 503；SB-104/intel_news_en：HTTP 503；SB-104/intel_news_it：HTTP 503；SB-109/intel_news_en：HTTP 503；SB-110/intel_news_en：HTTP 503；SB-1102/intel_news_en：HTTP 503；SB-1102/intel_news_vi：HTTP 503；SB-1114/intel_news_en：HTTP 503；SB-1115/intel_news_en：HTTP 503；SB-1116/intel_news_en：HTTP 503；SB-1116/feed_auto：ParseError: syntax error: line 1, column 0；SB-1122/intel_news_en：HTTP 503；SB-1122/intel_news_ru：HTTP 503；SB-1134/intel_news_en：HTTP 503…

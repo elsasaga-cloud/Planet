@@ -1,6 +1,5 @@
-# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-1117 syscom.mx · home · https://www.syscom.mx/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 SYSCOM - Donde los PROs Encuentran TODO | Mayorista Tecnológico México
-JUEVES DE HIK-MASTERS | Lanzamiento de Hik-Connect Versión 7 con AI HIKO — Únete aquí Ver más
 Productos
 0
 Noticias 0 Especiales
@@ -171,46 +170,46 @@ Carrito
 Productos
 Noticias
 Ver todas
-Gregorio · 10h · Audio e Intercom
+Nicolas · 13h · Videovigilancia
+De noche graba en IR. Cuando alguien pasa, prende la luz y graba a color.
+La DS-2CE76K0T-LMFS es TurboHD 3K (2960 x 1665) con Dual Light: 30 m de IR más 20 m de luz blanca que se dispara con la detección de movimiento. Lente 2.8 mm de 104.9°, micrófono integrado sin cable extra, IP67 y 12 Vcc a 2.9 W. Cuatro tecnologías: TVI, AHD, CVI y CVBS.
+Conoce la TurboHD con luz dual 1
+Rafael · 14h · Control de Acceso
+Los GDS3725, GDS3726 y GDS3727 integran cámara 4 MP con WDR de 120 dB, lector RFID/NFC/BLE 5.0 y extensión SIP en una sola placa IP66. Administración remota desde SecureAccess, GDS Manager o GDMS, con salida ONVIF Profile S hacia el VMS existente.
+Leer: Serie GDS372x de Grandstream: videoportero IP, control de acceso y cámara 2K en
+Leopoldo · 19h · Cableado Estructurado
+El cable que sí pasa por la bisagra del display.
+El C-HM/HM/PICO/BK-10 de Kramer mide 3.6 mm de diámetro y dobla en un radio de 36 mm: entra por la canaleta más apretada y por el brazo de un soporte articulado. Conector de 16 x 8 mm, 18 Gbps, 4K@60, HDR-10, Dolby Vision y HDCP 2.2. Triple blindaje y contactos en oro 24K. 3 m en negro.
+Conoce el HDMI PICO ultra delgado 2
+Rafael · 20h · Redes
+1.4 Gbps de backhaul con dos canales independientes
+El PTP 550 conectorizado usa MU-MIMO 4x4 y agregación asimétrica de canales no contiguos: dos flujos 2x2 en bandas distintas, sin intervalo de guarda. Hasta 1.4 Gbps y latencia de 2.2 a 6 ms en 4910-6200 MHz. Para troncales donde el ancho de banda es el cuello de botella.
+Conoce el PTP 550 conectorizado
+Nicolas · 20h · Videovigilancia
+La cámara no solo graba al intruso. Lo ahuyenta.
+La DS-2CD1T47G3-LIUF/LSRB suma a su bala IP de 4 MP una bocina SoundMax y luz estroboscópica roja y azul que se disparan con AcuSense Lite. ColorVu 3.0 con lente 4 mm F1.0, Dual Light de 50 m IR más 50 m de luz blanca, H.265+, WDR 120 dB, IP67 y PoE 802.3af.
+Conoce la bala IP con estrobo y bocina
+Gregorio · 1d · Audio e Intercom
 Se acabó el "¿me escuchan?" en la videollamada. Y de paso, el "¿quién está hablando?".
 SmartVision 40: barra todo-en-uno con doble lente de 48 MP, 4K, 8 micrófonos MEMS a 6 m y 20W estéreo. Para salas chicas y medianas.
 SmartVision 80: 4 lentes con zoom óptico 20x y 4 modos de seguimiento por IA. Para salas grandes.
 Ambas con seguimiento por IA y audio con supresión de ruido. Ya disponibles en SYSCOM.
 Descubre cuál va en tu sala
-Ruben · 12h · Drones
+Ruben · 1d · Drones
 La oscuridad ya no detiene tus operativos.
 El reflector con gimbal CZI GL10 V2, compatible con DJI Matrice 4T, lleva tus misiones nocturnas al siguiente nivel con iluminación inteligente y precisión táctica. Equipa tu aeronave con beneficios reales en campo:
 • Mantén iluminado tu objetivo de forma automática al desplazarte.
 • Guía a tu equipo en tierra con total exactitud en situaciones críticas.
 • Impón presencia y disuade amenazas en segundos con alertas visuales en rojo, azul y ámbar.
 Conoce el reflector GL10 V2
-Nicolas · 14h · Videovigilancia
+Nicolas · 1d · Videovigilancia
 El DVR no se cambia cuando la cámara sube a 4K.
 El iDS-7208HUHI-M1/T graba 8 canales TurboHD hasta 4K (8 MP) y suma 8 canales IP: 16 en total. Pentahíbrido TVI/CVI/AHD/analógico/IP, H.265+, AcuSense en 4 canales para filtrar personas y vehículos, audio bidireccional por Coaxitron en todos los canales y 1 HDD de hasta 10 TB. Apagando los canales TurboHD se vuelve un NVR de 16 IP.
 Conoce el DVR pentahíbrido de 16 canales 1 1
-Leopoldo · 20h · Audio e Intercom
+Leopoldo · 1d · Audio e Intercom
 El audio del display no necesita un cable de regreso.
 El EPC-EHB70ARC manda HDMI 4K60 hasta 70 m por Cat5e/6, con 18 Gbps de ancho de banda, y regresa el audio del display al amplificador por ARC. Suma IR y RS-232 bidireccionales, gestión EDID avanzada para que no aparezca la pantalla negra, HDCP 2.2, audio Dolby/DTS 5.1 y PoC en ambos sentidos.
 Conoce el extensor que regresa el audio
-Rafael · 20h · Redes
+Rafael · 1d · Redes
 Un enlace de 1 Gbps que llega armado hasta la torre
-El paquete Force 425 incluye dos radios y dos antenas integradas de 25 dBi: el enlace punto a punto completo, con hasta 1 Gbps en 4.9–6.2 GHz y 10 km de alcance. Se instala y se alinea sin comprar cada pieza por separado.
-Conoce el enlace Force 425
-Nicolas · 20h · Videovigilancia
-Un canal ve todo el patio. El otro se acerca a la cara.
-La DS-2SE4C415MWG-E/14 es TandemVu: PTZ de 4 MP con zoom óptico 15X (2.8-75 mm) más una cámara fija de 4 MP y 2.8 mm que nunca deja de mirar. IR 100 m y luz blanca 30 m, paneo 360°, 300 presets, dos micrófonos con bocina y luz estroboscópica. IP67, PoE+ y micro SD de 512 GB.
-Conoce la TandemVu de 15X
-Adrián · 1d · Ubiquiti
-Todavía quedan lugares para el UDSS del 4 de diciembre
-La certificación UniFi Digital Sentinel Specialist que imparte Ubiquiti en Sucursal México Norte mantiene el registro abierto. Miguel Paz, Pre-Sales del fabricante, cubre UniFi Protect y UniFi Access en una sesión con equipos incluidos para las prácticas y para tus propias demos. Este curso con fabricante no se abre seguido y el cupo no es amplio.
-Aparta tu lugar para el 4 de diciembre
-Ruben · 1d · Drones
-Cuando cada segundo cuenta, dar indicaciones claras desde el aire lo cambia todo.
-El altavoz digital CZI MP130 Pro convierte tu dron en un centro de mando aéreo para emergencias, rescates y patrullaje. Mantén el control de la situación con beneficios reales en campo:
-• Tu mensaje llega claro dentro de vehículos o entre multitudes.
-• Refuerza tus operativos con señalización visual de largo alcance.
-• 130 dB y 700 m de alcance, con protección IP54 para operar a la intemperie.
-Conoce el altavoz MP130 Pro
-Nicolas · 1d · Videovigilancia
-180° de una sola cámara. Sin dos videos que revisar por separado.
-La DS-2CE72KF3TP-DLS es TurboHD 3K (3328 x 1504) con dos lentes de 2.8 mm que forman una sola imagen panorámica: ocupa un canal y un solo BNC. Dual Light de 40 m IR más 40 m de luz blanca
+El paquete Force 425 incluye dos radios y dos antenas integradas de 25

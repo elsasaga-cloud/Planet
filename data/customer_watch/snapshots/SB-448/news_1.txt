@@ -1,4 +1,4 @@
-# SB-448 bettinivideo.com · news_1 · https://www.bettinivideo.com/en/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-448 bettinivideo.com · news_1 · https://www.bettinivideo.com/en/news/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 News | BETTINI
 products
 General catalogue​
@@ -31,11 +31,11 @@ Training courses​
 Contacts
 info
 contacts
-Italiano
-English
+Error!
+No 'PLL_Widget_Languages' widget registered in this installation.
 Search for
-Italiano
-English
+Error!
+No 'PLL_Widget_Languages' widget registered in this installation.
 news
 Check out all the latest Bettini news
 News, events, company, products, services, case studies and articles

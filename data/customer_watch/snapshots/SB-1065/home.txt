@@ -1,4 +1,4 @@
-# SB-1065 poznan.pl · home · https://www.poznan.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1065 poznan.pl · home · https://www.poznan.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Strona główna | Poznan.pl
 Przejdź do menu głównego
 Przejdź do treści
@@ -8,9 +8,9 @@ pl
 polski
 english
 українська
-Podatek on-line
+Deklaracja ON-LINE
 Umów wizytę w UMP
-Oszczędzaj z OK Poznań
+Uchodźcy – informacje
 Rozwiń
 Poznan.pl, oficjalna strona Miasta Poznania
 Szukaj
@@ -393,8 +393,8 @@ Zaakceptuj
 Pominąłeś menu menu
 Aktualności
 Informacje dodatkowe
-czwartek, 26 listopada 2026
-0 o C
+piątek, 27 listopada 2026
+-1 o C
 POCHMURNIE
 jakość powietrza:
 DOBRA
@@ -407,8 +407,10 @@ VP
 Coraz bliżej budowy hali
 Nowoczesna hala lekkoatletyczna planowana jest na Golęcinie, w pobliżu innych obiektów sportowych. W ostatnich miesiącach przygotowywano niezbędną...
 25.11.2026
-Nad Jeziorem Kierskim zaplanowano działania na rzecz zatrzymywania deszczówki
-W rejonie Jeziora Kierskiego powstanie dokumentacja projektowa dotycząca zagospodarowania wód opadowych. Obejmie m.in. rozwiązania, które pozwolą...
-26.11.2026
-Weekendowe zmiany tras tramwajów przy ul. Jana Pawła II
-W sobotę i niedzielę, 28 i 29 listopada, prowadzone będą awaryjne prace torowe na skrzyżowaniu ulic Jana Pawła II i Kórnickiej. 
+Nowe Zoo ma kolejnego mieszkańca
+Do Poznania przyjechał młody samiec sowy jarzębatej. Ten drapieżny ptak, który przybył tu z ostrawskiego ogrodu zoologicznego, to rzadki gość w naszym...
+27.11.2026
+44. Ale Kino! Festival trwa do 29 listopada
+Do niedzieli 29 listopada potrwa 44. Międzynarodowy Festiwal Filmów dla Młodej Widowni Ale Kino! W programie znalazło się ponad 130 seansów, podczas...
+27.11.2026
+Weekend w Poznan

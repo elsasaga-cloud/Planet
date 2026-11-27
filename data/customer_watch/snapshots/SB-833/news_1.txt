@@ -1,4 +1,4 @@
-# SB-833 comtime-com.de · news_1 · https://comtime-com.de/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-833 comtime-com.de · news_1 · https://comtime-com.de/news/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Über comtime | comtime Produkte Mobilfunk-Router CT-Router NG 5G
 CT-Router NG LTE Cat 6
 CT-Router LTE 450
@@ -17,6 +17,7 @@ OEM & Produktentwicklung
 Produktabkündigungen
 Anwendungen 2G-Abschaltung 2028
 5G-Campus-Netze
+Fernwartung
 RS232 über IP
 Support
 Security
@@ -45,6 +46,7 @@ Produktabkündigungen
 Anwendungen
 Übersicht: Anwendungen 2G-Abschaltung 2028
 5G-Campus-Netze
+Fernwartung
 RS232 über IP
 Support
 Security
@@ -57,14 +59,14 @@ Home
 / Über comtime
 Unternehmen
 Über comtime
-Industrierouter und Modems aus Norderstedt, seit 2001.
+Industrierouter und Modems aus Deutschland, seit 2001.
 Unsere Geschichte
-Seit über zwanzig Jahren entwickeln und fertigen wir industrielle Router und
-Modems in Norderstedt. Was als Spezialist für serielle und ISDN-Anbindungen
+Seit über zwanzig Jahren entwickeln und fertigen wir Industrierouter und
+Modems in Deutschland. Was als Spezialist für serielle und ISDN-Anbindungen
 begann, ist heute ein Portfolio aus Mobilfunk-, DSL- und LAN-Lösungen für
 Industrie, Stadtwerke und den öffentlichen Sektor.
 Was uns wichtig ist
-Made in Germany. Entwicklung und Fertigung in Norderstedt. Keine White-Label-Hardware, keine ausgelagerte Firmware-Entwicklung.
+Made in Germany. Entwicklung und Fertigung in Deutschland. Keine White-Label-Hardware, keine ausgelagerte Firmware-Entwicklung.
 Langer Lebenszyklus. Industrieanlagen leben Jahre. Unsere Produkte tun das auch.
 Direkter Draht. Wenn Sie unsere Hardware einsetzen, sprechen Sie mit den Menschen, die sie gebaut haben, nicht mit einem Callcenter.
 Standort
@@ -84,7 +86,7 @@ E-Mail
 info@comtime-com.de
 Standort
 Norderstedt, Deutschland
-Industrierouter und Modems für Mobilfunk, DSL und LAN. Entwicklung und Fertigung in Norderstedt.
+Industrierouter und Modems für Mobilfunk, DSL und LAN. Entwicklung und Fertigung in Deutschland.
 Produkte
 Alle Produkte
 Mobilfunk-Router

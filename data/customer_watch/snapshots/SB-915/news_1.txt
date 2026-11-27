@@ -1,4 +1,4 @@
-# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-915 radwin.com · news_1 · https://www.radwin.com/blog · fetched 2026-11-27T11:01:47Z · HTTP 200
 Blog Posts | RADWIN Website
 Skip to Content
 Home
@@ -78,7 +78,7 @@ Preamble Punctering
 PtMP
 QORA
 Wi-Fi 7
-Nov 25, 2026
+Nov 26, 2026
 Articles
 Why Wi-Fi 7 Alone Isn't Enough Outdoors
 In Part 1 of The Road to QORA, we explored how Wi-Fi 7 opens new possibilities for fixed wireless access. But speed alone does not win long-term customer loyalty. For broadband operators, the real tes...

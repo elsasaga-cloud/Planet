@@ -1,4 +1,5 @@
-# PC-011 Akçaba Communications（Akçaba Ltd.） · feed_auto · https://akcaba.com/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# PC-011 Akçaba Communications（Akçaba Ltd.） · feed_auto · https://akcaba.com/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+Thu, 26 Nov 2026 14:38:17 +0000	ChatGPT veya Claude’u 3CX Santralinize Nasıl Bağlarsınız? (Güncelleme 10 Rehberi)	https://akcaba.com/chatgpt-3cx-baglantisi-update-10/
 Thu, 05 Nov 2026 14:18:15 +0000	Sizin için sektörden derlediğimiz haberlerle Ekim ayı bültenimiz sizlerle… Vol. 76	https://akcaba.com/sektorden-haberler-vol-76/
 Mon, 05 Oct 2026 20:51:49 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 75	https://akcaba.com/sektorden-haberler-vol-75/
 Mon, 31 Aug 2026 21:51:44 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 74	https://akcaba.com/sizin-icin-sektorden-derledigimiz-haberler-vol-74/
@@ -8,4 +9,3 @@ Fri, 05 Jun 2026 14:28:52 +0000	KKTC’de Hikvision CCTV Kameralar — Ev ve İ�
 Fri, 29 May 2026 09:52:50 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 71	https://akcaba.com/sizin-icin-sektorden-derledigimiz-haberler-vol-71/
 Wed, 06 May 2026 11:23:46 +0000	3CX yükseltmeleri, yenilemeleri ve yeni lisanslarında %30’a varan indirim	https://akcaba.com/sinirli-sureli-3cx-kampanyasi/
 Tue, 05 May 2026 17:56:28 +0000	AI Destekli Mesai Dışı Çağrı Karşılama Süreci | PBX ve UCaaS Çözümleri	https://akcaba.com/ai-destekli-mesai-disi-cagri-karsilama-sureci/
-Tue, 28 Apr 2026 15:44:05 +0000	Sizin için sektörden derlediğimiz haberler…Vol. 70	https://akcaba.com/sektorden-haberler-70/

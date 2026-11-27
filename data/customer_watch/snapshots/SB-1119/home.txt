@@ -1,7 +1,7 @@
-# SB-1119 noktaelektronik.net · home · https://www.noktaelektronik.net/tr · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1119 noktaelektronik.net · home · https://www.noktaelektronik.net/tr · fetched 2026-11-27T11:01:47Z · HTTP 200
 Nokta Elektronik — Güvenlik ve Network Distribütörü
 +90 212 222 87 80 nokta@noktaelektronik.net
-Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog B2B Giriş Teknik Servis Dil Seçimi
+Ürünler Ar-Ge & Üretim Yazılım Markalar Hakkımızda İletişim E-Katalog Teknik Yardım B2B Giriş Teknik Servis Dil Seçimi
 Dil Seçimi
 Menüyü aç
 Aramayı kapat
@@ -128,6 +128,7 @@ Bariyer ve Otopark Sistemleri
 Yazılım Çözümleri
 Destek
 Teknik Destek Programı
+Teknik Yardım
 Blog & Rehberler
 Ar-Ge & Üretim
 Yazılım

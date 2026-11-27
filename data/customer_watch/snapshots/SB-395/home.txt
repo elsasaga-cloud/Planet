@@ -1,4 +1,4 @@
-# SB-395 mercku.com · home · https://www.mercku.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-395 mercku.com · home · https://www.mercku.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Mercku | Mesh Wi-Fi and Remote Management for ISPs
 Skip to content
 Hardware
@@ -103,6 +103,7 @@ Higher ARPU
 Fewer call-ins
 Better subscriber experience
 Lower churn
+Watch the demo
 Explore remote management
 noc.mercku · Overview
 Devices

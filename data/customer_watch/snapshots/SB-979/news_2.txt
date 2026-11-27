@@ -1,4 +1,4 @@
-# SB-979 iOneresources · news_2 · https://ioneresources.net/category/news/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-979 iOneresources · news_2 · https://ioneresources.net/category/news/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 News | iOne Resources, Inc
 sales@ioneresources.net
 About Us
@@ -6,6 +6,10 @@ What’s New
 Contact Us
 Submit Ticket
 Select Page
+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections
+by admin | Nov 27, 2026 | News
+Mission-Critical Connectivity Infrastructure for Government
+by admin | Nov 27, 2026 | News
 Beyond Installation: How Reliable Connectivity Can Power Digital Learning in GIDAs
 by Richard Grimaldo | Jul 9, 2026 | Blog , Feature , News
 iOne Resources Inc. Recognized as Omada by TP-Link’s Top Public Sector Partner of the Year
@@ -17,20 +21,14 @@ iOne Resources, Inc. proudly marks another milestone with the opening of its new
 iOne Successfully Passes Integrated ISO 27001 and ISO 9001 Standards Assessment
 by admin | Mar 30, 2026 | Blog , News
 iOne Resources, Inc. has successfully passed its integrated ISO 27001 and ISO 9001 standards assessment, reinforcing the company’s commitment to quality management, information security, operational discipline, and continual improvement. The audit was conducted by...
-Connecting the Nation, One Transmission at a Time
-by Richard Grimaldo | Mar 17, 2026 | Blog , Feature , News
-SPECIAL FEATURE iOne’s Journey in Powering COMELEC’s NLE 2025 Connecting the Nation, One Transmission at a Time The road was rough, the sea was restless, and the signal bars were empty. Yet for the iOne SETS Delivery Team, this was exactly where they needed to be. So,...
-iOne Resources, Inc. Achieves ISO 27001 Certification and Retains ISO 9001
-by admin | Oct 20, 2025 | News
-One Resources, Inc. is proud to announce that it has officially achieved ISO 27001 Certification after successfully passing both the first and second stage audits on September 11, 2025. The certification was awarded by the British Standards Institution (BSI), a...
 « Older Entries
 Search
 Recent Posts
+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections November 27, 2026
+Mission-Critical Connectivity Infrastructure for Government November 27, 2026
 Beyond Installation: How Reliable Connectivity Can Power Digital Learning in GIDAs July 9, 2026
 iOne Resources Inc. Recognized as Omada by TP-Link’s Top Public Sector Partner of the Year June 26, 2026
 iOne Resources Strengthens Regional Presence with New Iloilo Office June 6, 2026
-iOne Successfully Passes Integrated ISO 27001 and ISO 9001 Standards Assessment March 30, 2026
-Connecting the Nation, One Transmission at a Time March 17, 2026
 Comments
 Angelika Nicrao on Connecting the Nation, One Transmission at a Time April 14, 2026
 One day, sana makarating din sa amon ang ganitong satelite. Libre ba ito kay Mayor?
@@ -54,9 +52,9 @@ About Us
 What’s New
 Contact Us
 Submit Ticket
+From Polling Sites to Data Centers: iOne’s Role in the First BARMM Parliamentary Elections
+Mission-Critical Connectivity Infrastructure for Government
 Beyond Installation: How Reliable Connectivity Can Power Digital Learning in GIDAs
-iOne Resources Inc. Recognized as Omada by TP-Link’s Top Public Sector Partner of the Year
-iOne Resources Strengthens Regional Presence with New Iloilo Office
 Facebook
 X
 Instagram

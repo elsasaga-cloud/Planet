@@ -1,4 +1,4 @@
-# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-042 regalsecurity.co.za · home · https://regalsecurity.co.za/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Regal Security Home
 Login / Register
 
@@ -93,9 +93,9 @@ Connectors & Boots
 Fibre
 IP Decoder
 Media Convertors
-Network Power
 Network Switches
 PC Components
+PoE
 RJ45 Wall Mount Box
 Routers
 VGA
@@ -103,6 +103,7 @@ Wireless and Wi-Fi
 Power Supplies and Batteries Alkaline Batteries
 Battery Accessories
 Gel Batteries
+Inverter
 Lithium Batteries
 Power Supply
 Sealed Lead Acid Batteries
@@ -122,6 +123,7 @@ Enclosures
 Gate Motor Accessories
 Hardware and Accessories
 HDMI
+Junction Boxes
 Security Cables
 Solar Accessories
 Connectors
@@ -171,6 +173,7 @@ Omada
 Optex
 Paradox
 Paxton
+Powa-Prod
 Risco
 RLynk
 Roboguard
@@ -185,6 +188,7 @@ Takex
 TP-Link
 VIGI
 Virdi
+Wisnetworks
 Zartek
 ZKTeco
 Special Offers & Promotions
@@ -292,16 +296,18 @@ Connectors & Boots
 Fibre
 IP Decoder
 Media Convertors
-Network Power
 Network Switches
 PC Components
+PoE
 RJ45 Wall Mount Box
 Routers
 VGA
 Wireless and Wi-Fi
-Power Supplies and Batteries chevron_right Alkaline Batteries
+Power Supplies and Batteries chevron_right arrow_downward
+Alkaline Batteries
 Battery Accessories
 Gel Batteries
+Inverter
 Lithium Batteries
 Power Supply
 Sealed Lead Acid Batteries
@@ -322,6 +328,7 @@ Enclosures
 Gate Motor Accessories
 Hardware and Accessories
 HDMI
+Junction Boxes
 Security Cables
 Solar chevron_right Accessories
 Connectors
@@ -372,6 +379,7 @@ Omada
 Optex
 Paradox
 Paxton
+Powa-Prod
 Risco
 RLynk
 Roboguard
@@ -386,6 +394,7 @@ Takex
 TP-Link
 VIGI
 Virdi
+Wisnetworks
 Zartek
 ZKTeco
 Special Offers & Promotions
@@ -548,10 +557,4 @@ REGAL MBOMBELA (NELSPRUIT)
 REGAL NORTHGATE (CAPE TOWN)
 REGAL PIETERMARITZBURG
 REGAL PINETOWN
-REGAL POLOKWANE
-REGAL EXPORTS
-REGAL OTTERY
-REGAL SOMERSET WEST
-REGAL RUSTENBURG
-Submit
 

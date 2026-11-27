@@ -1,4 +1,4 @@
-# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-243 hfcl.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC7DsrJOOuofW4mfsJf6oEBA · fetched 2026-11-27T11:01:47Z · HTTP 200
 2026-11-20T10:30:10+00:00	Beyond Faster Wi-Fi: Is Your Network Ready for Wi-Fi 7?	https://www.youtube.com/watch?v=nqw0JN1fw6M
 2026-11-06T07:30:49+00:00	AI Racks Need Up to 36x More Fiber. Can Data Centers Keep Up?	https://www.youtube.com/watch?v=OckDdAP1WrU
 2026-11-04T06:15:44+00:00	HFCL OptiQ AI™: Optical Connectivity Built for AI Data Centers & Hyperscalers	https://www.youtube.com/watch?v=79SoVZRl55c

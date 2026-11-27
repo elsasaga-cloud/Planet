@@ -1,4 +1,5 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-27T11:01:47Z · HTTP 200
+Fri, 27 Nov 2026 09:00:00 +0000	Seguridad de la conectividad del VDR en redes de puente alineadas con IEC 61162-460	https://www.davantel.com/seguridad-de-la-conectividad-del-vdr-en-redes-de-puente-alineadas-con-iec-61162-460
 Thu, 26 Nov 2026 09:00:00 +0000	¿Qué router 4G industrial usar para la monitorización de sensores?	https://www.davantel.com/router-lte-industrial-para-monitorizacion-de-sensores
 Wed, 25 Nov 2026 09:00:00 +0000	Robustel EG3120e: gateway de edge computing con eSIM, 4×RS-485 y Debian para modernizar instalaciones industriales	https://www.davantel.com/robustel-eg3120e-gateway-de-edge-computing-con-esim-4xrs-485-y-debian-para-modernizar-instalaciones-industriales
 Tue, 24 Nov 2026 09:00:00 +0000	RMS Teltonika: guía de gestión remota de routers	https://www.davantel.com/rms-teltonika
@@ -55,5 +56,4 @@ Fri, 28 Aug 2026 08:00:00 +0000	Módems 5G: La Guía Definitiva para Elegir el C
 Wed, 26 Aug 2026 08:00:00 +0000	Teltonika OXA: Gateway IoT Integrado para Integradores y Fabricantes OEM	https://www.davantel.com/teltonika-oxa-gateway-iot-integrado-para-integradores-y-fabricantes-oem
 Mon, 24 Aug 2026 08:00:00 +0000	Guía de Routers 5G Industriales: Construyendo Redes Resilientes y de Baja Latencia para 2026	https://www.davantel.com/guia-de-routers-5g-industriales-construyendo-redes-resilientes-y-de-baja-latencia-para-2026
 Fri, 21 Aug 2026 08:00:00 +0000	Edge Computing en Despliegues de Smart City: Gestión de la Conectividad, la Latencia y la Infraestructura Distribuida	https://www.davantel.com/edge-computing-en-despliegues-de-smart-city-gestion-de-la-conectividad-la-latencia-y-la-infraestructura-distribuida
-Wed, 19 Aug 2026 08:30:00 +0000	¿Qué es un router eSIM? eUICC, aprovisionamiento remoto de SIM y conectividad industrial IoT explicados	https://www.davantel.com/que-es-un-router-esim-euicc-aprovisionamiento-remoto-de-sim-y-conectividad-industrial-iot-explicados
-Mon, 17 Aug 2026 08:00:00 +0000	Más All
+Wed, 19 Aug 2026 08:30:00 +0000	¿Qué es un router eSIM? eUICC, aprovisionami

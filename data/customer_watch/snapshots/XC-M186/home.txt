@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-26T11:08:06Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-27T11:01:47Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Menu
@@ -131,14 +131,12 @@ Cellhire IoT
 Cooper Safety
 CSAG
 Dahua
-Duracell
 elbaC - Alpha
 Enersys
 GJD
 GRI
 Hikvision
 Honeywell Security
-Infosec
 Inim
 Inim Certified
 KnightPlastic
@@ -146,7 +144,6 @@ Optex
 Orisec
 Paradox
 Prodatec
-Pulsar
 RISCO
 Sensomag
 Tele2 IoT
@@ -291,11 +288,9 @@ Dahua
 Davantis
 Dell
 Digitus
-Dotworkz
 Eboo Solutions
 EIZO
 elbaC - Alpha
-Etherwan
 Flir
 Foxstream
 Genetec
@@ -306,27 +301,19 @@ Hikvision
 HiLook
 Honeywell Security
 Iiyama
-Infosec
 Inim
 IQsight
 Milestone
 Mirasys
 Mobotix
 Neomounts
-Netgear
 Network Optix
-NVT
-Pulsar
 Raytec
-Razberi
 RISCO
 Seagate
-SeeEyes
-SEWOSY
 Tecnovideo
 TVT
 VDL Masten
-Veracity
 Vivotek
 Western Digital
 Cameras
@@ -426,14 +413,22 @@ Dell
 Digitus
 EIZO
 Etherwan
+Foxstream
 Genetec Certified
 Hikvision
 Iiyama
+Infosec
+Milestone
 Neomounts
 Netgear
+NVT
+Pulsar
+Razberi
 Seagate
+SeeEyes
 Tele2 IoT
 TVT
+Veracity
 Western Digital
 Wi-Tek
 Server Client Bridge
@@ -657,7 +652,6 @@ Perimeter
 Brands
 Dahua
 Flir
-Foxstream
 Hanwha
 Hikvision
 IQsight
@@ -700,7 +694,6 @@ Honeywell Security
 IZYX SYSTEMS
 Nedap
 Paxton
-Pulsar
 Recogtech
 Rosslare
 SEWOSY
@@ -959,8 +952,6 @@ Bysecur
 Duracell
 Enersys
 Etherwan
-Inim
-Inim Addressable Fire
 IZYX SYSTEMS
 Mean Well
 Pulsar
@@ -1046,11 +1037,14 @@ AlphaCable Fire
 Berica Cavi Cable
 Bysecur
 Digitus
+Dotworkz
 elbaC - Alpha
+Gas Safe Europe
 IZYX SYSTEMS
-Neomounts
 Pulsar
 SEWOSY
+Thermocable
+Wi-Tek
 Cable
 2N
 Alpha
@@ -1188,6 +1182,8 @@ Power Supplies & Batteries
 Cable & Installation
 New
 SmartSD News
+A redesigned SmartSD website
+Discover the latest features of the SmartSD website: simplified navigation, an improved search function, the Athéna chatbot, and easy access to your personal My SmartSD account.
 Network Optix innovation in video management
 At Network Optix, video management goes beyond technology alone.
 SmartSD Spain expands IP intercom and access control portfolio with 2N
@@ -1202,30 +1198,13 @@ Your training certificates always at hand
 Through our website, you can easily download official certificates for the training courses you have completed at SmartSD.
 New relay controller and AI cameras
 New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC50T 5MP AI IP cameras.
-VUPoint AI cameras in black
-Within the VUPoint range, RISCO is expanding its portfolio with a wide selection of cameras in black housings.
 SmartSD trainings
-Ajax Hands-On Training
-26 November
-@ SmartSD Merchtem (BE)
-1 December
-@ SmartSD Breda (NL)
-15 December
-@ SmartSD Merchtem (BE)
-Genetec System Design Training
-26 November
-@ SmartSD Breda (NL)
 Basic Networking Knowledge
 27 November
 @ SmartSD Merchtem (BE)
 16 December
 @ SmartSD Merchtem (BE)
 28 January
-@ SmartSD Merchtem (BE)
-Acre ACTpro Access Control
-30 November
-@ SmartSD Merchtem (BE)
-14 December
 @ SmartSD Merchtem (BE)
 Acre SPCevo
 30 November
@@ -1241,6 +1220,15 @@ Acre SPCevo
 3 February
 @ SmartSD Merchtem (BE)
 9 March
+@ SmartSD Merchtem (BE)
+Ajax Hands-On Training
+1 December
+@ SmartSD Breda (NL)
+15 December
+@ SmartSD Merchtem (BE)
+2 February
+@ SmartSD Breda (NL)
+26 February
 @ SmartSD Merchtem (BE)
 Hikvision HCSA-CCTV Certification Training
 2 December
@@ -1280,6 +1268,11 @@ Ajax EN54 Hands-On Training
 @ SmartSD Merchtem (BE)
 10 December
 @ SmartSD Breda (NL)
+Acre ACTpro Access Control
+9 December
+@ SmartSD Merchtem (BE)
+14 December
+@ SmartSD Merchtem (BE)
 acre Access Control Basics
 10 December
 @ SmartSD Breda (NL)
@@ -1348,4 +1341,5 @@ Netherlands - SmartSD BV (NL)
 BeLux - SmartSD NV/SA (NL)
 BeLux - SmartSD NV/SA (FR)
 France - SmartSD SARL (FR)
-Spain - Smart
+Spain - SmartSD SL (ES)
+©

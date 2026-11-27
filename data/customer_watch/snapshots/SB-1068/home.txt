@@ -1,4 +1,4 @@
-# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1068 rbline.pl · home · https://rbline.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Komponenty sieciowe, systemy UPS, kamery IP - rbline.pl
 Realizacja zamówień: 796 224 537
 Oferty i wyceny: 502 177 440 / 571 033 282 (pn–pt 8–16)
@@ -431,7 +431,7 @@ Hikvision
 IDS-2CD2T47G3-XS/PP(2.8MM)
 1 995,09 zł
 Dostawa:
-do wtorku, 01.12
+do środy, 02.12
 1 szt.
 Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
 Przetwornik: 1/1.8 " Progressive Scan CMOS ; Rozdzielczość: 2688 × 1520 ; Zasięg oświetlacza IR: 80 m ; Zasięg oświetlacza światła białego (LED): 80 m ; Audio: Obsługa dwukierunkowego audio ; Interfejs RS-485; Wybrane funkcje: Wyjście zasilania : 12 V DC ; Zasilanie: PoE (802.3at), 12 V DC ; Wandaloodporna: IK10 ;
@@ -444,7 +444,7 @@ Delta-Opti
 STREETPOLE-PRO/MAX/1M
 83,95 zł
 Dostawa:
-do wtorku, 01.12
+do środy, 02.12
 1 szt.
 Maksymalna dostępna ilość: 1 szt. Większą ilość możemy sprowadzić na zapytanie.
 Sposób montażu: Skręcanie ; Wysokość masztu: 0.94 m ; Liczba segmentów: 1 ; Przekrój słupa: Okrągły ; Wysokość transportowa: 1.04 m ; Materiał: Stal ocynkowana, malowanie proszkowe ; Kolor: Czarny ;
@@ -457,7 +457,7 @@ Delta-Opti
 STREETPOLE-ECO/1M
 71,96 zł
 Dostawa:
-do wtorku, 01.12
+do środy, 02.12
 5 szt.
 Maksymalna dostępna ilość: 5 szt. Większą ilość możemy sprowadzić na zapytanie.
 Sposób montażu: Skręcanie ; Wysokość masztu: 0.94 m ; Liczba segmentów: 1 ; Przekrój słupa: Okrągły ; Wysokość transportowa: 1.04 m ; Materiał: Stal ocynkowana, malowanie proszkowe ; Kolor: Czarny ;
@@ -470,6 +470,6 @@ Delta-Opti
 STREET-GRIP
 67,16 zł
 Dostawa:
-do wtorku, 01.12
+do środy, 02.12
 4 szt.
-Maksymalna dostępna i
+Maksymalna dostępna ilość

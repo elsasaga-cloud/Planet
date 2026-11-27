@@ -1,4 +1,4 @@
-# SB-696 aironix.co.il · home · https://aironix.co.il/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-696 aironix.co.il · home · https://aironix.co.il/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Home - Aironix Systems
 Skip to main content
 Aironix Systems
@@ -89,19 +89,20 @@ At Aironix, innovation drives everything we do. We continuously pursue ambitious
 Customer Service
 Aironix combines personalized attention with deep technical expertise. Our hands-on approach ensures direct access to our team, responsive support, and tailored solutions built around each customer's unique needs.
 our latest products
-RSB-3710
-Proce or: Rockchip RK3399 ARM Dual-Core Cortex-A72 and Quad-Core Cortex-A53, up to 18GHz
+SOM-3569
+Proce or: Intel® Pentium® N4200, Celeron® N3350, and Atom™ E3900- erie option
+CPU
 Read more
-RSB-3720
-Proce or: NXP iMX 8M Plu Dual-Core or Quad-Core ARM® Cortex®-A53, up to 18GHz
-Memory:
+ROM-6881
+Proce or: Rockchip RK3588 Octa-Core ARM proce or
+CPU Architecture: 4 x Cortex-A76 up to
 Read more
-PCE-5033
-Proce or: Support 12th, 13th, and 14th Gen Intel® Core™ i9/i7/i5/i3 and Pentium®
+SOM-A350
+Proce or: Intel® Core™ Ultra 7 155H/155U and Core™ Ultra 5 125H/125U option
+CPU
 Read more
-PCE-4132
-Proce or: Support 10th Gen Intel® Xeon® W and Core™ i9/i7/i5/i3 proce or
-Socket:
+SOM-6873
+Proce or: AMD Ryzen™ Embedded 8000 Serie , Ryzen 7 8845HS/8840U or Ryzen 5 8645HS/8640U
 Read more
 All Products
 Partners

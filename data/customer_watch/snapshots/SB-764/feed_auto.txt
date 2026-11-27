@@ -1,4 +1,4 @@
-# SB-764 ifotec.com · feed_auto · https://www.ifotec.com/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-764 ifotec.com · feed_auto · https://www.ifotec.com/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Thu, 19 Nov 2026 15:15:40 +0000	Partenariat technologique sur mesure	https://www.ifotec.com/partenariat-technologique-sur-mesure-concevoir-une-solution-sur-fibre-optique-qui-nexiste-pas-encore/
 Thu, 22 Oct 2026 09:40:09 +0000	Cybersécurité	https://www.ifotec.com/cybersecurite-equipements-reseau/
 Thu, 08 Oct 2026 15:54:28 +0000	Cybersécurité armoire de rue	https://www.ifotec.com/cybersecurite-armoire-de-rue/

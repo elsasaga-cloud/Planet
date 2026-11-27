@@ -1,4 +1,4 @@
-# SC-2516 novuscctv.com · home · https://novuscctv.com/en · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-2516 novuscctv.com · home · https://novuscctv.com/en · fetched 2026-11-27T11:01:47Z · HTTP 200
 NOVUS Professional solution for your security systems | Video surveillance (CCTV), Access control
 Skip to main content
 Home
@@ -17,117 +17,118 @@ Contact Export Department
 Technical Department
 Cameras
 We recommend
-4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4H-6602M/WL/F
-4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
-NVIP-4VE-6602M/WL/F
 5 MPX Dual IP Camera (Thermal/Visual)
-NVIP-5H-6711/TA/7-A
-8 MPX Vandal Proof IP Camera with white light and IR illuminator
-NVIP-8VE-6101/WL/LITE
-8 MPX Speed Dome IP Camera with intelligent object tracking
-NVIP-8SD-6540/25/F-II
+NVIP-5VE-6711/TA/7-A
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5H-6711/TA/3-A
 New
-4 MPX IP LPR bullet camera with a motor-zoom lens
-NVIP-4H-6732M/LPR-A
+2 MPX IP Camera with white light and IR illuminator
+NVIP-2VE-6103/WL/LITE
 8MPX IP Camera with video content analysis
 NVIP-8H-8932M/F
 New
 Dual PTZ IP Camera (Thermal/Visual)
 NVIP-5DPT-8703/30/T/25
+8 MPX Panoramic IP Camera with video content analysis and active deterrence
+NVIP-8PVE-6501/FWLAD
+4 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-4H-6103/WL/LITE
+5 MPX Dual IP Camera (Thermal/Visual)
+NVIP-5H-6711/TA/7-A
+8 MPX Bullet IP Camera with white light and IR illuminator
+NVIP-8H-6101/WL/LITE
+4 MPX Vandal Proof IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4VE-6602M/WL/F
+4 MPX Bullet IP Camera with high sensitivity supported by AI Night Colors
+NVIP-4H-6602M/WL/F
 New
 2 MPX Bullet IP Camera with white light and IR illuminator
 NVIP-2H-6103/WL/LITE
-New
-2 MPX IP Camera with white light and IR illuminator
-NVIP-2VE-6103/WL/LITE
-5 MPX Dual IP Camera (Thermal/Visual)
-NVIP-5H-6711/TA/3-A
-New
-Dual PTZ IP Camera (Thermal/Visual)
-NVIP-5DPT-8703M/30/T/50
 Lenses
 We recommend
 Recorders
 We recommend
-16-channel IP Recorder
-NVR-6216-H1/LITE
-32-channel IP Recorder
-NVR-6332A-H2-II
-NOVUS MANAGEMENT SYSTEM VSS IP Recorder
-NMS VSS NVR X-2U-III-312TB
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NMS VSS CLIENT 7-R-IV
-32-channel IP Recorder
-NVR-6432-H2/F-II
-NOVUS MANAGEMENT SYSTEM VSS Client Station
-NVSO VSS CLIENT 7-T-IV-2L
-8-channel IP Recorder
-NVR-6208P8-H1-II
-8-channel IP Recorder
-NVR-6208-H1/LITE
 NOVUS MANAGEMENT SYSTEM VSS Client Station
 NMS VSS CLIENT 5-R-IV
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NVSO VSS CLIENT 7-R-IV-2L
+NOVUS MANAGEMENT SYSTEM VSS Client Station
+NMS VSS CLIENT 7-R-IV
 16-channel IP Recorder
 NVR-6316P16A-H2-II
+Multistandard AHD Recorder
+NHDR-6016A-H1-II
+NOVUS MANAGEMENT SYSTEM VSS IP Recorder
+NMS VSS NVR X-2U-III-312TB
+32-channel IP Recorder
+NVR-6332A-H4-II
+16-channel IP Recorder
+NVR-6216-H1/LITE
 NOVUS MANAGEMENT SYSTEM VSS IP Recorder
 NMS VSS NVR X-2U-III-288TB
 32-channel IP Recorder
-NVR-6332A-H4-II
+NVR-6332A-H2-II
+64-channel IP Recorder
+NVR-6364-H8/FR-II
+New
+Supports up to 256 channels
+N Control 6000
 Signal Transmission
 We recommend
-SFP Module Kit
-NV-24SFP/S
-PoE Extender
-NV-101EP
-4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
-NVS-G3404SP-EH
 24-Port Gigabit Ethernet PoE+ Switch
 NVS-G3424SP
+8-Port Ethernet PoE+ Switch for use in harsh environments.
+NVS-3408SP-EH
+8-Port Gigabit Ethernet PoE+ Switch
+NVS-G3408SP
+PoE Injector
+NV-8000PS/HP
 SFP Module
-NV-02SFP/S
-24-Port Ethernet PoE+ Switch
-NVS-3424SP
+NV-03SFP/M
 SFP-Ethernet Module
 NV-SFP-GE
 New
 4-Port Gigabit Ethernet PoE+ Switch
 NVS-G3404SP
-SFP Module
-NV-03SFP/M
-16-Port Gigabit Ethernet PoE+ Switch
-NVS-G3416SP
-PoE Injector
-NV-8000PS/HP
+16-port PoE+ Managed Switch
+NVS-5116SP
 16-Port Ethernet PoE+ Switch
 NVS-3416SP
+4-Port Gigabit Ethernet PoE+ Switch for use in harsh environments.
+NVS-G3404SP-EH
+New
+24-Port Gigabit Ethernet Managed PoE+ Switch
+NVS-G5424SP/400
+SFP Module Kit
+NV-24SFP/S
 Video intercoms
 Other
 We recommend
-Input/Output alarm module
-NV-6000AL16/6
-Pole mount adapter
-NVB-SD6500PA
-Wall mount bracket indoor/outdoor
-NVB-8501WB
-Corner mount adapter
-NVB-SD8500CA
-Wall/ceiling mount bracket indoor
-NVB-6050JB-II
 Conversion adapter for wall mount, indoor/outdoor
 NVB-6082CAP
-Wall mount bracket indoor/outdoor
-NVB-SD8500JB
-Wall mount bracket indoor/outdoor
-NVB-6080WB
 Conversion adapter for wall mount, indoor/outdoor
 NVB-6083CAP
-Pole mount adapter
-NVB-SD8500PA
+Wall mount bracket indoor/outdoor
+NVB-SD8500JB
+Corner mount adapter
+NVB-SD8500CA
+43'' 4K LCD monitor designed for continuous operation
+NVM-6043LCD-4K
+Wall mount bracket indoor/outdoor
+NVB-8501WB
+Conversion adapter for wall mount, indoor/outdoor
+NVB-6081CAP
+Wall/ceiling mount bracket indoor/outdoor
+NVB-8560JB
+Wall/ceiling mount bracket indoor
+NVB-6050JB-II
+Wall mount bracket indoor/outdoor
+NVB-6080WB
+New
+30W IP horn speaker
+NV-IPS8030/M-II
 Rack mount bracket for 4000 Series NVRs
 NVR-4000/RACK
-Wall mount bracket indoor/outdoor
-NVB-SD6500JB
 NMS VSS
 NMS AC
 ANPR
@@ -172,19 +173,19 @@ Press
 NOVUS MANAGEMENT SYSTEM AC with SALTO integration
 NOVUS MANAGEMENT SYSTEM AC with SALTO integrationWith the release of NOVUS MANAGEMENT SYSTEM AC 6.06.017, we have expanded the system’s...
 New products
+Supports up to 256 channels N Control 6000
 4-Port Gigabit Ethernet PoE+ Switch NVS-G3404SP 4 x 10/100/1000Mbps PoE+
 1 x 10/100/1000Mb/s UPLINK, 1 x 1000Mb/s SFP UPLINK
 Operation mode: VLAN, Extend, PoE Watchdog
-Supports up to 256 channels N Control 6000
+4-Port Ethernet PoE+ Switch NVS-3404SP 4 x 10/100Mbps PoE+
+2 x 100Mb/s UPLINK
+Operation mode: VLAN, Extend, PoE Watchdog
 30W IP horn speaker NV-IPS8030/M-II built-in 30W Class D amplifier
 maximum sound pressure level: 120 dB
 build-in omnidirectional microphone
 2 MPX IP Camera with white light and IR illuminator NVIP-2VE-6103/WL/LITE Resolution: 2 MPX
 Lens: fixed focal, f=2.8 mm/F2.0
 built-in microphone
-4-Port Ethernet PoE+ Switch NVS-3404SP 4 x 10/100Mbps PoE+
-2 x 100Mb/s UPLINK
-Operation mode: VLAN, Extend, PoE Watchdog
 2 MPX Bullet IP Camera with white light and IR illuminator NVIP-2H-6103/WL/LITE Resolution: 2 MPX
 Lens: fixed focal, f=2.8 mm/F2.0
 built-in microphone

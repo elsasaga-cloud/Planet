@@ -1,4 +1,4 @@
-# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1091 triotronik.com · home · https://www.triotronik.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 TRIOTRONIK - der Netzwerkdistributor
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -6,18 +6,23 @@ Zur Hauptnavigation springen
 ACADEMY
 DISTRIBUTION
 TECHNOLOGIES
-Login
+Konto
 Menü schließen
 Ihr Konto
-Anmelden
-oder
-registrieren
+Admin
 Übersicht
 Persönliches Profil
+Mitarbeiter
+Rollen
 Adressen
 Bestellungen
 Meine Ansprechpartner
+Einkaufslisten
+Genehmigungsregeln
+Angebote
+Schnellbestellungen
 Abonnements
+Abmelden
 Menü schließen
 SPRACHEN
 Deutsch
@@ -458,24 +463,26 @@ Technischer Support
 Services allgemein
 Distributor werden
 Kataloge und Broschüren
-Login
+Konto
 Menü schließen
 Ihr Konto
-Anmelden
-oder
-registrieren
+Admin
 Übersicht
 Persönliches Profil
+Mitarbeiter
+Rollen
 Adressen
 Bestellungen
 Meine Ansprechpartner
+Einkaufslisten
+Genehmigungsregeln
+Angebote
+Schnellbestellungen
 Abonnements
+Abmelden
 Menü schließen
 Deutsch
 English
-Jetzt Kunde werden, wir beraten Sie gerne!
-Michael Windhaber
-Leitung Kundenservice
 TRIOTRONIK
 Netzwerktechnik ganzheitlich gedacht.
 Jetzt Kunde werden
@@ -572,8 +579,12 @@ HIKVISION
 AVIGILON
 Alle anzeigen
 Produkt des Monats
+Loading...
 50-er Packung, KAT6A 10 Gigabit Lightpatchkabel, 0,1m, geschirmt, Ø 3,8mm, GHMT
+0
 SLIM-LS-K6A 0.1 WT 50
+Regulärer Preis:
+82,00 €
 Weitere Varianten
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
@@ -585,72 +596,126 @@ Mehr entdecken
 StARKE Marken Für beste Lösungen
 Neuheiten
 Neu
+Loading...
 Wirewin
 WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, U/UTP
+0
+i
+In Zulauf
+08.01.2027
+440
+11.02.2027
+880
 PKW-ELITE-UU-K6A 1.0
+Regulärer Preis:
+2,39 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
+Loading...
 Wirewin
 WIREWIN® Elite Patchkabel KAT6A, hochflexibler flammwidriger Elite Mantel, S/FTP
+0
+i
+In Zulauf
+08.01.2027
+880
+11.02.2027
+1540
 PKW-ELITE-SF-K6A 1.0
+Regulärer Preis:
+3,19 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
+Loading...
 Ubiquiti
 IP67 industrial WiFi 7 Access Point mit erweiterten Temperaturbereich
+0
+i
+In Zulauf
+04.12.2026
+40
 U7-INDUSTRIAL
+Regulärer Preis:
+324,61 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
+Loading...
 Lightwin Optics
 100 GBit QSFP28 LR4, 10km, DFB, LC-Duplex, Singlemode, Enterprise Version
++ 8
+i
+Internes Lager
++ 8
+Versandbereit ab Lager
 LWO-QSFP28-LR4
+Regulärer Preis:
+750,00 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
+Loading...
 TELTONIKA
 Industrie Dual 5G/LTE Router für professionelle Anwendungen, Digitale I/Os
+0
 RUTM54
+Regulärer Preis:
+636,23 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
 Neu
+Loading...
 Ubiquiti
 UniFi Enterprise Campus 48S Port Switch, Layer 3, 10 GbE, 25 Gb, 100 Gb
+0
 ECS-48S
+Regulärer Preis:
+2.974,00 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
+Loading...
 MikroTik
 hAP be³ Media WiFi-7 Home Router, Home Media- und Automatisierungszentrum
+0
+i
+In Zulauf
+18.12.2026
+10
+18.12.2026
+10
+18.12.2026
+10
+18.12.2026
+10
+07.01.2027
+10
+15.01.2027
+10
+15.01.2027
+30
 MA53UG+HBEH
+Regulärer Preis:
+155,09 €
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
+Rabatt
+%
+Loading...
 Hikvision
 DS-2SE7C432MWG-EB/26(F0) - 6MP + 4MP TandemVu 32x ColorVu & IR Acusens SpeedDome
+0
 327001129
+Verkaufspreis:
+1.188,00 €
+Regulärer Preis:
+2.013,56 €
+(41% gespart)
 Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
 Stk
+Loading...
 SICO
 SICO Industrieller Switch, 8×GB PoE-Ports + 2×GB SFP-Slots
-SICO-10P-2F8P
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-TP-Link
-Omada Fusion 2.5G Gateway
-FUSION 2.5G
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Ubiquiti
-UniFi Express 7 superkompaktes 10G Cloud Gateway mit integriertem WiFi 7
-UX7-3
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Lightwin Optics
-25GBit SFP28 AOC-Kabel (Active Optical Cable)
-LWO-AOC-SFP28-1M
-Produkt Anzahl: Gib den gewünschten Wert ein oder benutze die Schaltflächen um die Anzahl zu erhöhen oder zu reduzieren.
-Stk
-Neu
-Hikvision
-DS
++ 21
+i
+Internes L

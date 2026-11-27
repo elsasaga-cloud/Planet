@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
@@ -172,6 +172,7 @@ Last
 Email *
 Phone *
 Community or Property Name *
+Your (if Property
 Your Role * Board President
 Board Member
 Property Manager
@@ -187,7 +188,6 @@ Punta Gorda area
 Panama City / Panhandle
 Other Florida
 Outside Florida
-Services Your Anything
 Services of Interest Internet
 BroadStreamTV
 Phone

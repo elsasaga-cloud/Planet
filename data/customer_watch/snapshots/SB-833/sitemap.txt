@@ -1,4 +1,4 @@
-# SB-833 comtime-com.de · sitemap · https://comtime-com.de/sitemap_index.xml · fetched 2026-11-26T11:08:06Z · HTTP 404
+# SB-833 comtime-com.de · sitemap · https://comtime-com.de/sitemap_index.xml · fetched 2026-11-27T11:01:47Z · HTTP 404
 Seite nicht gefunden | comtime Produkte Mobilfunk-Router CT-Router NG 5G
 CT-Router NG LTE Cat 6
 CT-Router LTE 450
@@ -17,6 +17,7 @@ OEM & Produktentwicklung
 Produktabkündigungen
 Anwendungen 2G-Abschaltung 2028
 5G-Campus-Netze
+Fernwartung
 RS232 über IP
 Support
 Security
@@ -45,6 +46,7 @@ Produktabkündigungen
 Anwendungen
 Übersicht: Anwendungen 2G-Abschaltung 2028
 5G-Campus-Netze
+Fernwartung
 RS232 über IP
 Support
 Security
@@ -68,8 +70,8 @@ Fachbeiträge zur industriellen Vernetzung
 Support
 Datenblätter, Handbücher, Firmware
 Über comtime
-Industrierouter aus Norderstedt
-Industrierouter und Modems für Mobilfunk, DSL und LAN. Entwicklung und Fertigung in Norderstedt.
+Industrierouter aus Deutschland
+Industrierouter und Modems für Mobilfunk, DSL und LAN. Entwicklung und Fertigung in Deutschland.
 Produkte
 Alle Produkte
 Mobilfunk-Router

@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -23,6 +23,7 @@ Dojazd
 Serwis
 Kontakt
 Kategorie
+⚫️ BLACK FRIDAY ⚫️ (45)
 Access Pointy (659)
 Akcesoria (440)
 Akcesoria GSM/LTE (378)
@@ -42,18 +43,18 @@ Radiolinie (85)
 Routery (185)
 Routery ADSL (5)
 Światłowody (1707)
-Switche (682)
-Szafy rack 10/19 cali (503)
+Switche (683)
+Szafy rack 10/19 cali (504)
 Telewizja cyfrowa DVB-T (69)
 VoIP (78)
 Zasilanie (832)
 Zdrowie (10)
 Złącza (248)
-MikroTik (406)
+MikroTik (405)
 Solarix (140)
-Teltonika (400)
+Teltonika (401)
 Tenda (175)
-TP-Link (483)
+TP-Link (484)
 Ubiquiti (805)
 ♻️ Towary refurbished (2)
 Wybierz producenta
@@ -135,7 +136,7 @@ Joinwit (2)
 Kemot (2)
 Kingston (12)
 Kruger&Matz (4)
-Lanberg (156)
+Lanberg (157)
 LeoLabs (8)
 LH (1)
 Logitech (2)
@@ -148,7 +149,7 @@ Mean Well (67)
 Merawex (8)
 Mercusys (35)
 Microsoft (1)
-MikroTik (520)
+MikroTik (519)
 Mimosa (24)
 Modecom (2)
 MW Power (74)
@@ -191,12 +192,12 @@ StalFlex (279)
 TechnicLan (23)
 Telcoline (98)
 Telcom (8)
-Teltonika (314)
+Teltonika (315)
 Tenda (222)
 Tinycontrol (71)
 Tonze (1)
 TotoLink (23)
-TP-Link (585)
+TP-Link (586)
 Tracer (11)
 Tracom (45)
 Trans-Data (16)
@@ -291,44 +292,46 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-MikroTik ROSE Data Server (RDS2216-2XG-4S+4XS-2XQ)
-6 765,00 zł z VAT
-7 544,36 zł
-5 500,00 zł netto
+Wisnetworks WIS-L5818S Sector Base Station
+367,77 zł z VAT
+575,64 zł
+299,00 zł netto
 szt
-Najniższa cena z 30 dni: 7 544,36 zł
+Najniższa cena z 30 dni: 575,64 zł
 WYPRZEDAŻ
-MikroTik CRS125-24G-1S-2HnD-IN - obudowa RACK 19"
-72,57 zł z VAT
-196,80 zł
-59,00 zł netto
+Pigtail MMCX - N/ż [short head] (20 cm)
+12,18 zł z VAT
+18,94 zł
+9,90 zł netto
 szt
-Najniższa cena z 30 dni: 196,80 zł
-Wisnetworks WIS-L5820S Sector Base Station
-479,70 zł z VAT
-719,55 zł
-390,00 zł netto
+Najniższa cena z 30 dni: 18,94 zł
+NOWOŚĆ WYPRZEDAŻ
+Spawarka światłowodowa Signal Fire AI-30
+3 688,77 zł z VAT
+5 510,40 zł
+2 999,00 zł netto
 szt
-Najniższa cena z 30 dni: 719,55 zł
+Najniższa cena z 30 dni: 5 510,40 zł
 WYPRZEDAŻ
+TP-Link Deco X10
+195,57 zł z VAT
+300,99 zł
+159,00 zł netto
+szt
+Najniższa cena z 30 dni: 300,99 zł
 Uchwyt kablowy KP10/10, na przewód płaski 10x10 mm
 2,34 zł z VAT
 8,61 zł
 1,90 zł netto
 szt
 Najniższa cena z 30 dni: 8,61 zł
-PowerWalker VI 1000 ERT HID, LCD Rack 19" (powystawowy)
-1 094,70 zł z VAT
-1 094,70 zł
-890,00 zł netto
+WYPRZEDAŻ
+Teltonika RUTX08 router (RUTX08000000)
+613,77 zł z VAT
+764,65 zł
+499,00 zł netto
 szt
-Najniższa cena z 30 dni: 1 094,70 zł
-Pigtail U.FL - N/m (20 cm)
-8,49 zł z VAT
-18,91 zł
-6,90 zł netto
-szt
-Najniższa cena z 30 dni: 18,91 zł
+Najniższa cena z 30 dni: 764,65 zł
 Najnowsze propozycje
 NOWOŚĆ
 Obudowa hermetyczna słupowa 300x200x400 (HGF-30/20/40)
@@ -341,14 +344,19 @@ Teltonika ATC774 (ATC774-QMA50)
 381,81 zł netto
 szt
 NOWOŚĆ
-Teltonika FTC927 (FTC927BPPIL1)
-263,28 zł z VAT
-214,05 zł netto
+Teltonika KeepCam (KEPCAMAAAA01)
+469,63 zł z VAT
+381,81 zł netto
 szt
 NOWOŚĆ
 TP-Link EAP603-Outdoor
 507,98 zł z VAT
 412,99 zł netto
+szt
+NOWOŚĆ
+TP-Link SG5452X
+3 393,57 zł z VAT
+2 759,00 zł netto
 szt
 NOWOŚĆ
 TP-Link VIGI adapter VJB-300
@@ -365,11 +373,6 @@ Ubiquiti UniFi Dream Machine Beast (UDM-Beast)
 7 939,67 zł z VAT
 6 455,02 zł netto
 szt
-NOWOŚĆ
-Ubiquiti UniFi Protect Motion Sensor, 3-pack (USL-Motion-3)
-649,55 zł z VAT
-528,09 zł netto
-szt
 Uchwyt kablowy 40x60 (uniwersalny)
 3,49 zł z VAT
 2,84 zł netto
@@ -377,9 +380,9 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Cudy BU530
-20,75 zł z VAT
-16,87 zł netto
+Tenda CP6 obrotowa kamera do monitoringu domowego
+79,40 zł z VAT
+64,55 zł netto
 more
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
@@ -387,4 +390,4 @@ Koszty przesyłki:
 DHL: od 13 PLN (netto)
 FedEx: od 14.90 PLN (netto)
 Paczkomat: od 14 PLN (netto)
-Poczta: zgodnie z cenni
+Poczta: zgodnie z cenn

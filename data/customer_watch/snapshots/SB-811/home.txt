@@ -1,4 +1,4 @@
-# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-811 esoft.fi · home · https://www.esoft.fi/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 eSoft – Verkkokauppa – eSoft – Verkkokauppa
 Siirry sisältöön
 eSoft - Verkkokauppa
@@ -136,81 +136,81 @@ WLAN-kaapelit ( 32 )
 WLAN-sovittimet ( 22 )
 WLAN-tukiasemat ( 4 )
 WLAN-ulkotukiasemat ( 6 )
-Näytetään tulokset 1–24 / 1961
+Näytetään tulokset 1–24 / 1959
 Lajittelu, oletustapa
 Lajittelu: ostetuin ensin
 Järjestä uusimman mukaan
 Lajittelu: halvin ensin
 Lajittelu: kallein ensin
-30,90 € veroton hinta 24,62 €
-Gigabit Ethernet NIC 10/100/1000 USB-A Realtek, Abitti yhteensopiva
-Realtek RTL8153 on USB 3.0 10/100/1000Mbps Gigabit Ethernet verkkosovitin kaikille tietokoneille. RTL8153 toimii USB 3.0 standardin mukaan, joka mahdollistaa 10/100/1000Mbps verkkoliikennöintinopeuden. Sovitin toimii myös USB 2.0/1.x porteissa. Sovitin on
-18,90 € veroton hinta 15,06 €
-WLINK 2G/3G/4G fixed antenna 5dBi SMA 700-2700MHz, White
-WLINK WL-RA-M6W on ympärisäteilevä valkoinen 2G/3G/4G- antenni 5dBi vahvistuksella. Kiinteästi SMA-liittimeen asennettava niveljalalla varustettu antenni soveltuu erilaisiin mobiilitaajuuksia käyttäviin hälyttimiin, puhelimiin, reitittimiin, tukiasemiin.
-9,90 € veroton hinta 7,89 €
-LC(UPC)-SC(APC) SM 9/125 OS2 0, 5m Simplex Kytkentäkuitu LSZH
-DatoLink PCLUSA1SM-0.5 on laadukas 50cm yksimuoto simplex valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Kaapelin LC liitinpää on UPC-hiottu ja SC liitinpää APC- hiottu (vihreät liitt
-107,90 € veroton hinta 85,98 €
-Tuya KERUI W181 GSM/WiFi-varashälytin kitti PIR, Door Magnet, 2x Remote Control, Siren
-Tuya KERUI W181 on uuden sukupolven GSM/GPRS/WiFi- varashälytin kaikentyyppisten tilojen valvontaan: kesämökit, asunnot, toimistot, varastot, autotallit, veneet ja asuntoautot. KERUI W181-varashälyttintä voidaan ohjata perinteisillä kauko-ohjaimilla ja SMS
-24,90 € veroton hinta 19,84 €
-DTECH HDMI 2.1 Cable 2m 8k@120Hz
-DTECH DT-H203-2M on laadukas 2m pituinen HDMI 2.1 kaapeli retail-pussitettuna, joka tukee 8k@120Hz videon lisäksi 4k@240Hz videota. HDMI 2.1-kaapelin edut: • 8k tarkkuudet 120p • 4k tarkkuudet 240p • Dynamic HDR • HDR10 • HDCP 2.2 • eARC (korjaa HDMI kät
-9,90 € veroton hinta 7,89 €
-HENEX Charge station PSU Chail Plug
-Välikappale HENEX H-500 Cradle latausasemien ketjuttamiseksi.
-37,90 € veroton hinta 30,20 €
-Shelly Plug M Gen3 WiFi socket 230VAC @ 13A 3000W, Power Metering, Matter, White
-Shelly Plug M Gen3 on kompakti älypistoke, jossa on monia sisäänrakennettuja toimintoja, jotka tekevät lattiavalaisimista ja muista laitteista helposti älykkäitä. Laitteessa on 13A rele ja sisäänrakennettu tehonmittari, joten voit seurata kulutustasi ja s
-24,90 € veroton hinta 19,84 €
-SimPal IO-sensor 433MHz FSK V1 for Wired sensors NO/NC
-SimPal WSC-057-F (IO-FSK) on 433MHz taajuudella toimiva langaton I/O sovitin, joka pystyy välittämään minkä hyvänsä langallisen anturin (esim. PIR, vesivuotoanturi, ovimagneettianturi, kiinteisöautomaatio, hälytinjärjestelmä)NO/NC kärkitiedon SimPal T40/G
-10,90 € veroton hinta 8,69 €
-CAT5E U/UTP RJ45 7m GREEN Patch Cable 24AWG
+536,00 € veroton hinta 427,09 €
+8x1000T@8xPoE+, 2xSFP, 12-56VDC -40…+75C, IP30, DIN
+PLANET IGS-1020PTF-12V on teollisuuskäyttöön soveltuva 10- porttinen 10/100/1000Base-TX (8x TX + 2x SFP) PoE Ethernet-kytkin laajennetulla käyttölämpötila-alueella sekä DIN-kiskokiinnityksellä. PLANET IGS-1020PTF-12 tarjoaa myös laajennetun käyttöjännitea
+19,90 € veroton hinta 15,86 €
+SC/SC/SM 9/125 OS2 5m Duplex-kuitukaapeli LSZH UPC/UPC
+DatoLink PCSUSU2SM-05 on laadukas 5m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Testattu (QC) duplex-valokaapeli on yksittäispakattu suojamuovipussiin, jonka kuituparit o
+4,90 € veroton hinta 3,90 €
+CAT5E U/UTP RJ45 1m RED Patch Cable 24AWG
 Laadukas Cat 5e Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 5e-kaapeli soveltuu nopeisiin Fast Ethernet- sekä Gigabit-verkkoihin. RoHS-sertifioitu tuote on yksittäispakattu muovipussiin tuotekoodi- ja tuotetyyppimerkinnöillä. Kaikkien Microdata
-34,90 € veroton hinta 27,81 €
-Din-Rail Power Supply 12VDC 4.5A 60W
-WEHO DR-60-12 on teollisuuskäyttöön suunniteltu DIN-kiskoon asennettava 12VDC virtalähde 60W tehonsyötöllä. Tekniset tiedot: • Ulostulojännite: 12VDC @ 4.5A, 60W – söäädettävä +-10% • Sisääntulojännite: 85-264VAC tai 120-370VDC • Suojaukset: oikosulku /
-11,90 € veroton hinta 9,48 €
-Kerman CAT6a RJ-45 Keystone STP jatkosliitin naaras/naaras
-AVEC-7247709 on CAT6a STP RJ-45 jatkosliitin vaativiin kaapeloiniympäristöihin. Tekniset tiedot: • Merkki: Kerman • Cat6a • RJ45: Naaras / Narras • Asennusaukko: Keystone • Materiaalit: – Runko: Metallia – Liittimet: Kuparia, kullatut pinnit, hahlot tina
 4,90 € veroton hinta 3,90 €
-CAT6A U/UTP Thin RJ45 0.5m BLACK Patch Cable Latch Protection 30AWG, LSZH
-AVEC AVEC-6A30RUUTPZK on ohut ja notkea (U/UTP) musta CAT6A Ethernet-kytkentäkaapeli suojatuilla (n:o 715) RJ-45 liittimillä kaikkiin lähiverkon kytkentöihin. CAT6A-kaapeli soveltuu konesalien huippunopeisiin 10-GigabitEthernet-yhteyksiin, mutta pienemmä
-63,90 € veroton hinta 50,92 €
-10/100/1000BaseT-1000BaseSX MM Converter 275/550m, 850nm SC, LFP
-AOM-2100D-M05-EA on metallikoteloitu LFP (Link Fall Pass) -ominaisuudella varustettu mediamuunnin 10/100/1000Base-T Ethernet- ja 1000Base-SX kuituverkon (multimode) välille. Mediamuunnin voidaan asentaa myös AOA Technologyn mediamuunninkehikkoon AOR-14-2
-94,90 € veroton hinta 75,62 €
-10G SFP+ Fiber Transceiver SM 10km 1310nm
-PLANET MTB-LR on 10GBase-LR SFP+ singlemode moduuli max 10kmyhteyksille. Moduuli sopii kaikkiin SFP+ standardin mukaisiin väyläpaikkoihin kytkimissä, verkkokorteissa sekä reitittimissä. Moduuli on varustettu lisäksi DDM- diagnosointiominaisuuksilla. Tek
-102,90 € veroton hinta 81,99 €
-Shelly PRO 3 WiFi/LAN rele 3x 230VAC @ 16A Max load 48A
-Shelly Pro 3 DIN-kiskorele on 3-vaiheinen Wi-Fi-rele, joka tukee maksimissaan 48 A kuormitusta (16 A / kanava). Rele asennetaan suoraan DIN-kiskoon ja voit käyttää sitä ohjaamaan esim. valoja, kodin sähkölaitteita, kastelujärjestelmää, uima-altaan järjest
-7,90 € veroton hinta 6,29 €
-CAT6 F/UTP RJ45 3m YELLOW Patch Cable Bare Copper 26AWG Latch, LSZH
-AVEC S6SZ030Y on laadukas foliosuojattu (F/UTP, FTP, STP) CAT6 Ethernet-kytkentäkaapeli suojatulla (n:o 715) liittimellä kaikkiin lähiverkon kytkentöihin. Suojattuja kaapeleita käytetään, kun halutaan estää sähkömagneettisten häiriöiden (EMI = electromag
-28,90 € veroton hinta 23,03 €
-SUNIX 2x RS-232 DB9 PCI Low-Profile 16C950
-SUNIX SER5037AL on 2-porttinen sarjaliikenneporttikortti 32-ja 64-bittisiin Low Profile PCI-väyliin. Tekniset tiedot: • Portit: 2x RS-232 (DB9M) • UART 16C950-yhteensopiva • Kontrolleri: SUNIX SUN1989 • Nopeus: 115.2kbit/s • Ajurituki: – DOS – Windows CE
-199,90 € veroton hinta 159,28 €
-Redundant AC PSU for MC-1500R 230VAC/200W
-Lisävirtalähde PLANET MC-1500R mediamuunninkehikkoon. – 100-240VAC – 200W
-208,90 € veroton hinta 166,45 €
-GSM SMS ALARM 8x In 1x Relay
-LEGATO BASIC on monipuolisesti ohjelmoitava GSM- hälytin/robotti kaikentyyppisiin valvonta-, ohjaus-, LVI- jaturvallisuustoteutuksiin. BASIC-mallissa on 8x digitaalista sisääntuloa ja 1x relelähtö. Tuotepakkaus sisältää keskusyksikön GSM-antennilla. Virt
-22,90 € veroton hinta 18,25 €
-DTECH DisplayPort to HDMI Cable 1m
-DTECH DT-CU305-1M on DisplayPort-HDMI kaapeli, joka mahdollistaa 4k Ultra HD kuvatarkkuudet laadukkaalla äänentoistolla. Tekniset tiedot: • Easily connect your DisplayPort PC to HDMI-compatible HDTVenabled, monitor or projector • DP-HDMI-compatible suppo
-408,90 € veroton hinta 325,82 €
-VoIP SIP Multi-info speaker LED PoE+, WiFi, Ethernet 10/100, Bluetooth
-ZYCOO IPS-M1-BW on IP-pohjainen kuulutus- ja hälytyskaiutin, joka yhdistää ääni- ja valoilmoitukset samaan laitteeseen. Laite tukee SIP-, multicast- ja P2P-viestintää, minkä ansiosta se soveltuu kuulutus-, tiedotus- ja hälytysjärjestelmiin esimerkiksi koul
+CAT6 F/UTP RJ45 0.5m BLUE Patch Cable Bare Copper 26AWG Latch, LSZH
+AVEC S6SZ005 on laadukas foliosuojattu (F/UTP, FTP, STP) CAT6 Ethernet-kytkentäkaapeli suojatulla (n:o 715) liittimellä kaikkiin lähiverkon kytkentöihin. Suojattuja kaapeleita käytetään, kun halutaan estää sähkömagneettisten häiriöiden (EMI = electromagn
+9,90 € veroton hinta 7,89 €
+CAT5E U/UTP RJ45 5m YELLOW Patch Cable 24AWG
+Laadukas Cat 5e Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 5e-kaapeli soveltuu nopeisiin Fast Ethernet- sekä Gigabit-verkkoihin. RoHS-sertifioitu tuote on yksittäispakattu muovipussiin tuotekoodi- ja tuotetyyppimerkinnöillä. Kaikkien Microdata
+214,90 € veroton hinta 171,24 €
+Procet Industrial PoE+ 802.3at Injector 30W -40…+65C, Outdoor IP67, 100-240VAC
+Procet PT-PSE118GR-OT on 802.3at standardin mukainen teollisuuskäyttöön suuniteltu High PoE (30W) injektori ulkotiloihin. Laajennetulla käyttölämpötila-alueella ja IP67sääsuojaluokituksella varustettu PT-PSE118GR-OT on alaspäin yhteensopiva myös 802.3af P
+19,90 € veroton hinta 15,86 €
+LC(UPC)-LC(APC) SM 9/125 OS2 5m Duplex-kuitukaapeli LSZH
+DatoLink PCLULA2SM-05 on laadukas 5m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Kaapelin toinen LC liitinpää on UPC-hiottu ja toinen LC liitinpää APC-hiottu (vihreät lii
+30,90 € veroton hinta 24,62 €
+Water Leak Extra sensor Vesivahti
+King Pigeon WL-100-S on lisäanturi WL-100 vesivuotohälyttimeen. Anturi on varustettu 1.5m johdolla sekä tarrakiinnityksellä.
+214,90 € veroton hinta 171,24 €
+ZEBEX 2D Image Scan Module USB
+Tiny and easy to integrate, Z-5132 GT can fit virtually anywhere. Z-5132 GT includes great features such as Illumination & Aiming Lights off, IR Mode, and is great at reading 2D barcodes on phone screens. Best of all, it is IP65 protected, with an intense
+20,90 € veroton hinta 16,65 €
+CAT6 U/UTP RJ45 10m PURPLE Patch Cable, 24AWG LSZH
+Laadukas Cat 6 Ethernet-kaapeli kaikkiin lähiverkon kytkentöihin. Cat 6-kaapeli soveltuu nopeisiin Gigabit Ethernet-yhteyksiin, mutta pienemmän vaimennuksen myötä tuo lisävarmuutta myös hitaampiin yhteyksiin. RoHS-sertifioitu tuote on yksittäispakattu muo
+14,90 € veroton hinta 11,87 €
+LC(UPC)-LC(APC) SM 9/125 OS2 0.5m Duplex-kuitukaapeli LSZH
+DatoLink PCLULA2SM-0.5 on laadukas 0.5m yksimuoto valokuitulaitekaapeli kytkentätiloihin mediamuuntimien, reitittimien tai kytkimien kuituporttien välisiin yhteyksiin. Kaapelin toinen LC liitinpää on UPC-hiottu ja toinen LC liitinpää APC-hiottu (vihreät
+40,90 € veroton hinta 32,59 €
+SFP 1000Base-SX MM 275/550m, 850nm Multimode 1.25G, LC, DDM, Aruba / HPE Compatible
+Datolink DLT-J4858D on Gigabitin monimuoto (multi-mode) SFP-moduuli HPE / Aruba Ethernet-kytkimiin, -tukiasemiin ja -reitittimiin DDM-tuella. Moduuli on varustettu duplex LC- liittimillä. Moduuli vastaa teknisesti HP J4858D SFP-moduulia. Moduulia voidaan
+360,90 € veroton hinta 287,57 €
+Gainwise 2G/3G Keypad opener, IP65 384x pin codes, 1150x numbers
+Gainwise SS1401D2-M on näppäimistöllä varustettu 2G/3G koodilukko, joka tukee 384x PIN-koodia ja 1150x puhelinnumeroa. Näppäimistö on varustettu sinisellä taustavalolla. SS1401D2-M tarjoaa laajan valikoiman sovelluskohteita niin kotikäyttäjälle kuin yrit
+52,90 € veroton hinta 42,15 €
+HEYI Langaton PIR-liikesensori, Pet Immunity 433MHz
+HEYI HY-321 on langaton PIR-liikesensori HEYI-järjestelmiin ja muihin 433MHz langattomia antureita tukeviin varashälyttimiin. Sensori käyttää kahta infrapunailmaisinta, jotka vertaavat havaintoja keskenään. Tämä vähentää virheilmoituksia ja parantaa toim
+67,90 € veroton hinta 54,10 €
+Sebury Plastic Access Control RFID/PIN, 500 users
+Ominaisuudet: • Use RFID to open door, fashion, security and reliability • Can be used as controller and reader, freely switch, easily operate • Clear and beautiful luminous keypad, convenient for user to enter password & open door • With door bell butto
+24,90 € veroton hinta 19,84 €
+SECTEC Bracket
+Tuotekoodi:ST-5026 : Valmistajan koodi:ST-5026 : Tuotteen nimi:SECTEC Bracket : Tuoteryhmä:Kamerakotelot ja -tarvikkeet : Valmistaja:SECTEC Co. Ltd : Takuuaika:12 kk :
+2306,00 € veroton hinta 1837,45 €
+IPv4/IPv6, 16-Port Coax + 2xGbit+2xSFP Managed Switch, PoE 440W
+PLANET on kehittänyt teknologian (Long Reach PoE), jonka avulla vanhat koaksiaalikaapelit voidaan hyödyntää IP- kameraverkkojen rakentamisessa. Tekniikan avulla vanhoissa kaapeleissa voidaan datan lisäksi siirtää IP-kameroiden tarvitsema PoE/PoE+ virransy
+18,90 € veroton hinta 15,06 €
+DTECH Mini DisplayPort to VGA Cable
+DTECH DT-6506 on sovitinkaapeli, joka muuntaa Mini DisplayPort liitännän VGA liitännäksi. Sovitin on yhteensopiva kaikkien tietokoneiden kanssa.
+50,90 € veroton hinta 40,56 €
+WDM Tx-1310 SFP-module
+PLANET MFB-FA20 on 100M WDM SFP-moduuli, jota voidaan käyttää kytkimissä ja mediamuuntimissa, jotka tukevat 100M moduuleita. Tekniset tiedot: • SFP Multi-Source Agreement compliant • 125Mbps IEEE 802.3u 100Base-FX compliant • 1 X 100Mbps LC fiber port •
+85,90 € veroton hinta 68,45 €
+24x 10/100BaseT Switch 19” Ethernet
+24-porttinen erittäin pienikokoinen (syvyys suunnassa) 10/100BaseT Fast Ethernet 19″-räkkiasennettava kytkin MDI/MDIX-porteilla. Tekniset tiedot: • 24x 10/100BASE-TX Fast Ethernet ports • Supports auto MDI/MDI-X function • Complies with IEEE 802.3, 10BAS
+4,90 € veroton hinta 3,90 €
+ZYsecurity 30cm DC Cable 1-to-2
+ZYsecurity ZY-CS02 on haaroitinkaapeli virransyötölle. Kaapelissa on naaras sisääntuloliittimen lisäksi 2x uros ulostuloliitintä. Sovitinta voidaan käyttää esim. turvakameratoteutuksissa, kun yhdeltä virtalähdeteeltä halutaan syöttää virtaa useammalle kam
+58,90 € veroton hinta 46,93 €
+SFP 1000Base-BX BIDI 20km, Tx1550 Rx1310 Singlemode WDM, 1.25G, LC, DDM -40…+75C
+Datolink DTL-B5312L-ID20 on laajennetulla käyttölämpötila- alueella varustettu teollisuuskäyttöön suunniteltu Gigabitinyksimuoto (single-mode) SFP BIDI-moduuli DDM-tuella, joka toimii kaikissa SFP-standardin mukaisissa tietoliikennelaitteissa. Moduuli on
+52,90 € veroton hinta 42,15 €
+ZYsecurity AHD Outdoor Bullet 720P IP65 3.6mm, IR 20m
+ZYsecurity ZY-FBD7048AZA on bullet-tyyppinen AHD-M (720P) ulkokamera. Vandaalisuojattu ja säänkestävä valvontakamera on varustettu 1M kuvakennolla, IR-yövaloilla sekä 3.6mm kiinteällä optiikalla, joten se tarjoaa tarkkaa kuvanlaatua myös hämärissä olosuht
 13,90 € veroton hinta 11,08 €
-DTECH HDMI 2.0 Cable 1.5m 4k/3D@60Hz 30AWG
-DTECH DT-H003 on laadukas 1.5m pituinen HDMI 2.0 kaapeli retail-pussitettuna HDMI 2.0-kaapelin edut: • 4k tarkkuudet 50/60p • 4k värisyvyydet 10/12-bit • 2x yhtäaikaista videostreamia yhdelle näytölle • 32x audiokanavaa, 1536kHz kanvavat, Dolby Atmos • L
-11,90 € veroton hinta 9,48 €
-USB Cable USB-C to Lightning 1m White (20W)
-LVSUN LS-USB-C-LTN on laadukas USB-välikaapeli USB C- ja Apple Lighning liittimillä. Kaapelin avulla Apple iPhone/iPad matkapuhelimet/tabletit saadaan yhdistettyä tietokonemalleihin, joissa USB-C portti. Kaapelia voidaan käyttää myös matkapuhelimen sekä t
-4,90 € veroton hinta 3,90 €
-Häntäkuitu MM OM3 1.5m, LC (UPC) 50/125 Simplex LSOH 0.9mm
-Häntäkuitu on 1.5m pituinen kuitu, jonka toisessa päässä on optinen liitin. Häntäkuituja käytetää
+3G/4G/5G pigtail cable SMA-SSMB 30cm välikaapeli mokkula-antenni
+Chinmore 30cm pigtail välikaapeli SMA ja SSMB liittimillä. Sovittimen avulla 3G/4G/5G-päätelaitteesee

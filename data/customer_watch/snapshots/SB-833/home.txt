@@ -1,4 +1,4 @@
-# SB-833 comtime-com.de · home · https://comtime-com.de/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-833 comtime-com.de · home · https://comtime-com.de/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Industrierouter für LTE 450, 5G, Glasfaser und DSL | comtime Produkte Mobilfunk-Router CT-Router NG 5G
 CT-Router NG LTE Cat 6
 CT-Router LTE 450
@@ -17,6 +17,7 @@ OEM & Produktentwicklung
 Produktabkündigungen
 Anwendungen 2G-Abschaltung 2028
 5G-Campus-Netze
+Fernwartung
 RS232 über IP
 Support
 Security
@@ -45,6 +46,7 @@ Produktabkündigungen
 Anwendungen
 Übersicht: Anwendungen 2G-Abschaltung 2028
 5G-Campus-Netze
+Fernwartung
 RS232 über IP
 Support
 Security
@@ -55,7 +57,7 @@ Kontakt
 +49 40 55448940
 Industrielle Kommunikation seit 2001
 Industrierouter und Modems für Mobilfunk, DSL und LAN
-comtime entwickelt und fertigt Industrierouter und Modems in Norderstedt, für Industrie, Stadtwerke und den öffentlichen Sektor.
+comtime entwickelt und fertigt Industrierouter und Modems in Deutschland, für Industrie, Stadtwerke und den öffentlichen Sektor.
 Produkte entdecken
 Anwendungsfälle
 IT Security made in Germany
@@ -64,7 +66,7 @@ Made in Germany
 TeleTrusT-ITSMIG
 Norderstedt, Deutschland
 Produktportfolio
-Unsere Produktbereiche
+Industrierouter für Mobilfunk, DSL, LAN und Glasfaser
 Industrierouter und Modems für unterschiedliche Anbindungstechnologien, entwickelt und gefertigt in Deutschland.
 Alle Produkte
 Mobilfunk-Router
@@ -80,10 +82,10 @@ Antennen
 Antennenlösungen für Mobilfunk und LTE-450, passend zu unseren Industrieroutern.
 Zur Kategorie
 Warum comtime
-Robuste Hardware aus deutscher Entwicklung
+Industrierouter aus deutscher Entwicklung und Fertigung
 Industrierouter und Modems, die seit über 20 Jahren in Industrie, Stadtwerken und im öffentlichen Sektor zuverlässig laufen.
 Made in Germany
-Entwicklung und Fertigung in Norderstedt. Träger des TeleTrusT-Siegels „IT Security made in Germany".
+Entwicklung und Fertigung in Deutschland. Träger des TeleTrusT-Siegels „IT Security made in Germany".
 Industriegerecht
 Robuste Bauform für die DIN-Hutschiene, Schutzart IP20, geeignet für den Schaltschrank.
 Sichere Kommunikation
@@ -91,16 +93,35 @@ Integrierte VPN-Funktionalität, SMS- und E-Mail-Alarmierung, optional eigener O
 Custom Engineering
 OEM-Produktion und kundenspezifische Anpassungen: Hardware und Firmware nach Bedarf.
 Einsatzgebiete
-Wo unsere Router im Einsatz sind
+Wo unsere Industrierouter im Einsatz sind
 Von der einzelnen Maschine bis zum verteilten Versorgernetz: Hauptsache zuverlässige Datenübertragung.
 Industrie Maschinen & Anlagen
 VPN-Anbindung von Maschinen, SPS und Servicetechnikern über Mobilfunk oder DSL.
+Mehr zur Fernwartung →
 Versorger Stadtwerke & Energie
 Anbindung von Schaltanlagen, Zählern und Leittechnik über LTE 450 und Mobilfunk.
 Öffentlicher Sektor Behörden & Kommunen
 Sichere Kommunikation für Verwaltung und kommunale Infrastruktur.
 M2M / IoT Verteilte Anlagen
 SMS- und E-Mail-Alarmierung, Fernwartung und Steuerung über Mobilfunk.
+Industrierouter von comtime
+Was einen Industrierouter ausmacht
+Ein Industrierouter verbindet Maschinen, Schaltanlagen, Zähler und Messstellen mit Leitwarte,
+Fernwirk- oder Wartungssystem. Anders als ein Büro-Router sitzt er auf der Hutschiene im
+Schaltschrank, läuft über Jahre ohne Eingriff und steht oft dort, wo so schnell kein Techniker
+vorbeikommt: im Umspannwerk, an der Pumpstation oder in der Maschine beim Endkunden.
+Welche Anbindung passt, entscheidet der Standort. Wo kein Festnetz liegt, ist Mobilfunk die
+Lösung: LTE- und 5G-Industrierouter von LTE Cat 1 bis 5G,
+für Stadtwerke und Versorger auch im 450-MHz-Netz mit LTE 450. Wo ein Anschluss vorhanden ist,
+binden VDSL-Router oder
+LAN-WAN- und Glasfaser-Router die Anlage an.
+Alle comtime-Router bringen eine integrierte Firewall sowie VPN mit IPsec und OpenVPN mit,
+viele Modelle arbeiten bei Temperaturen von −40 °C bis +70 °C. Über das
+Device Management WebCenter lassen sich
+die Router zentral überwachen, konfigurieren und aktualisieren.
+Entwicklung, Fertigung und Support sitzen seit 2001 in Deutschland. Sie erhalten
+Hardware, Firmware und Support aus einer Hand; Firmware-Updates finden Sie auf unseren
+Firmware-Seiten .
 Projektanfrage oder technische Beratung?
 Unsere Engineering-Experten unterstützen Sie bei der Auswahl der richtigen Komponenten, von der Spezifikation bis zur Inbetriebnahme.
 Projektanfrage senden
@@ -112,7 +133,7 @@ E-Mail
 info@comtime-com.de
 Standort
 Norderstedt, Deutschland
-Industrierouter und Modems für Mobilfunk, DSL und LAN. Entwicklung und Fertigung in Norderstedt.
+Industrierouter und Modems für Mobilfunk, DSL und LAN. Entwicklung und Fertigung in Deutschland.
 Produkte
 Alle Produkte
 Mobilfunk-Router

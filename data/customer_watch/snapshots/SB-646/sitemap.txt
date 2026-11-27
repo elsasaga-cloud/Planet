@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-646 artsistem.com · sitemap · https://www.artsistem.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 	https://www.artsistem.com/
 	https://www.artsistem.com/hakkimizda
 	https://www.artsistem.com/oduller
@@ -146,8 +146,6 @@
 	https://www.artsistem.com/markalar/hp/urunler
 	https://www.artsistem.com/markalar/hprt
 	https://www.artsistem.com/markalar/hprt/urunler
-	https://www.artsistem.com/markalar/huawei
-	https://www.artsistem.com/markalar/huawei/urunler
 	https://www.artsistem.com/markalar/huawei-ekit
 	https://www.artsistem.com/markalar/huawei-ekit/urunler
 	https://www.artsistem.com/markalar/hytech
@@ -251,4 +249,6 @@
 	https://www.artsistem.com/markalar/steelseries
 	https://www.artsistem.com/markalar/steelseries/urunler
 	https://www.artsistem.com/markalar/sunlux
+	https://www.artsistem.com/markalar/sunlux/urunler
+	https://www.artsistem.com/markalar/teknim
 	https:/

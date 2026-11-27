@@ -1,4 +1,4 @@
-# SC-323 comptek.ru · home · https://comptek.ru/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-323 comptek.ru · home · https://comptek.ru/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 CompTek - Дистрибутор сетевого и телекоммуникационного оборудования
 Дистрибутор серверного, сетевого
 и телекоммуникационного оборудования
@@ -165,6 +165,10 @@ IP-телефоны бизнес-класса из Китая.
 IP-АТС РОССИЙСКОГО ПРОИЗВОДСТВА
 софтсвичи, аппаратные решения, шлюзы, телефонные аппараты
 Подробнее
+3 декабря 2026 г.
+Uncom
+Вебинар «Демонстрация операционной системы Uncom OS и UNC ИИ-бокс»
+3 декабря (четверг) в стартует вебинар, на котором рассмотрим функционал и особенности отечественной операционной системы Uncom OS от компании АДВИЛАБС-РУС
 2 декабря 2026 г.
 Premiumline
 Вебинар «Решения Premium-Line для ИИ Дата-Центров»
@@ -209,12 +213,18 @@ Loudplay
 Loudplay
 Промоакция: Loudplay VDI по цене протокола
 Только до 30 декабря 2026 г компания Loudplay предоставляет возможность приобретения Loudplay VDI по цене протокола Loudplay. Акция приурочена к выходу нового продукта Loudplay VDI
-9 сентября 2026 г.
-Fanvil
-Защищённый Wi-Fi-телефон W626W
-Компания Fanvil объявила о выходе новой модели беспроводного Wi-Fi IP-телефона Linkvil W626W
 Распродажа складских остатков
 Все предложения
+HP PROBOOK 440 G10
+HP
+14" FHD / i7-1355U / 16GB / 512GB / DOS / RUS KB
+82 000 руб.
+46 000 руб.
+Dell Latitude 7350
+Dell
+13" FHD Touch / Ultra 5 135U / 16GB / 256GB / Win 11 / RUS KB / vPro
+162 000 руб.
+80 500 руб.
 Dell Vostro 3500
 Dell
 15" FHD / i3-1115G4 / 8GB / 256GB / Win10 (Win11 lic) / RUS KB
@@ -225,37 +235,28 @@ Dell
 19.5" / 1600x900 / LED / TN / VGA
 9 550 руб.
 4 025 руб.
-Dell Display 21.5" E2221HN
+Dell Display 23.8" P2422H
 Dell
-21.5" / 1920х1080 / LED / TN / VGA / HDMI
-12 480 руб.
-5 750 руб.
-Dell Display 27" S2722DC
-Dell
-27" / 2560x1440 / 75 Hz / LED / IPS / HDMI / USB-C / USB / Speakers
-62 628 руб.
-28 750 руб.
-NVIDIA Quadro GV100
-32 GB / 4xDisplayPort
-450 000 руб.
-201 250 руб.
-NVIDIA Quadro P6000
-24 GB / 1xDVI-D / 4xDisplayPort
-165 000 руб.
-115 000 руб.
+23.8" / 1920х1080 / LED / IPS / VGA / HDMI / DP / USB
+22 300 руб.
+11 500 руб.
 Premium Active Pen PN579X
 Dell
 5 500 руб.
 2 500 руб.
+Performance Dock WD19DCS, 240W
+Dell
+2xUSB-C 3.1 Gen 2 / USB-A 3.1 Gen 1 / 2xDP / HDMI / USB-C / 2xUSB-A 3.1 Gen1 / RJ45
+77 895 руб.
+13 800 руб.
 WD19 Upgrade Module
 Дополнительный модуль для WD19DC, без адаптера питания
 4 000 руб.
 2 300 руб.
-Dell Legacy Adapter LD17
+Dell Privacy Filter - 13.3"
 Dell
-LPT parallel / RJ-45 / RS-232 / USB 2.0
-4 950 руб.
-2 250 руб.
+3 200 руб.
+1 500 руб.
 Dell Targus Executive Topload 14"
 Dell
 Сумка-портфель для ноутбука

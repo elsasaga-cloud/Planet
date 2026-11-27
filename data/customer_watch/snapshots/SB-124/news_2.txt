@@ -1,4 +1,4 @@
-# SB-124 telconet.net · news_2 · https://telconet.net/noticias/noticias · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-124 telconet.net · news_2 · https://telconet.net/noticias/noticias · fetched 2026-11-27T11:01:47Z · HTTP 200
 Noticias | Telconet Latam
 Saltar al contenido
 Nosotros
@@ -54,12 +54,12 @@ Noticias
 Sala de prensa · Telconet Latam
 Noticias
 Lanzamientos, eventos, reconocimientos y proyectos que conectan Ecuador y Latinoamérica.
-Premios y reconocimientos 13 de noviembre de 2026 Carnival Submarine Networks hace historia en Londres: CSN-1 es elegido “Project of the Year” en los Global Connectivity Awards 2026
-El sistema de cable submarino CSN-1 fue galardonado en Londres con el premio “Project of the Year – Subsea, Terrestrial, Satellite and/or Wireless”, el máximo…
-Comunicados oficiales 17 de noviembre de 2026 La integridad no es negociable: nuestro compromiso con la ética y el cumplimiento
-En el Grupo Empresarial Telconet, la ética, la integridad y el cumplimiento de la ley son principios irrenunciables que deben regir todas nuestras decisiones, relaciones…
-Eventos 7 de octubre de 2026 Telconet Latam participa en el Guayaquil Business Summit 2026 y se suma a la visión de un Gran Guayaquil integrado
-El Ing. Tomislav Topic, CEO de Telconet Latam, participó en el conversatorio “Potenciación de la Economía del Gran Guayaquil”, espacio que reunió a cerca de 300…
+Premios y reconocimientos 26 de noviembre de 2026 Telconet Latam integra el Top 1000 de empresas de mayor facturación del Ecuador 2025
+La compañía recibió este reconocimiento durante el 1000 Leaders Summit 2026, organizado por Grupo Ekos, en un encuentro que reunió a los principales líderes…
+Premios y reconocimientos 26 de noviembre de 2026 Cámara de Comercio Ecuatoriano-Canadiense reconoce el liderazgo del CEO de Telconet Latam en el desarrollo tecnológico del Ecuador
+El Ing. Tomislav Topic recibió una distinción por su visión y liderazgo en la transformación tecnológica del país, durante un encuentro empresarial que también dio la…
+Premios y reconocimientos 26 de noviembre de 2026 Telconet Latam recibe el Galeón Liderazgo en Innovación y Transformación Digital por su aporte al desarrollo tecnológico del Ecuador
+El reconocimiento fue entregado al Ing. Tomislav Topic, CEO de Telconet Latam, durante la Gala por los 106 años de trayectoria de la Cámara Oficial Española de Comercio…
 Todos los años
 2026
 2025
@@ -78,7 +78,13 @@ Septiembre
 Octubre
 Noviembre
 Diciembre
-Todas 102 Comunicados oficiales 28 Eventos 16 Premios y reconocimientos 28 Responsabilidad social 8 Telcoinnova 13 Casa adentro 9 102 noticias
+Todas 105 Comunicados oficiales 28 Eventos 16 Premios y reconocimientos 31 Responsabilidad social 8 Telcoinnova 13 Casa adentro 9 105 noticias
+Premios y reconocimientos 26 de noviembre de 2026 Telconet Latam integra el Top 1000 de empresas de mayor facturación del Ecuador 2025
+La compañía recibió este reconocimiento durante el 1000 Leaders Summit 2026, organizado por Grupo Ekos, en un encuentro que reunió a los principales líderes…
+Premios y reconocimientos 26 de noviembre de 2026 Cámara de Comercio Ecuatoriano-Canadiense reconoce el liderazgo del CEO de Telconet Latam en el desarrollo tecnológico del Ecuador
+El Ing. Tomislav Topic recibió una distinción por su visión y liderazgo en la transformación tecnológica del país, durante un encuentro empresarial que también dio la…
+Premios y reconocimientos 26 de noviembre de 2026 Telconet Latam recibe el Galeón Liderazgo en Innovación y Transformación Digital por su aporte al desarrollo tecnológico del Ecuador
+El reconocimiento fue entregado al Ing. Tomislav Topic, CEO de Telconet Latam, durante la Gala por los 106 años de trayectoria de la Cámara Oficial Española de Comercio…
 Comunicados oficiales 17 de noviembre de 2026 La integridad no es negociable: nuestro compromiso con la ética y el cumplimiento
 En el Grupo Empresarial Telconet, la ética, la integridad y el cumplimiento de la ley son principios irrenunciables que deben regir todas nuestras decisiones, relaciones…
 Premios y reconocimientos 13 de noviembre de 2026 Carnival Submarine Networks hace historia en Londres: CSN-1 es elegido “Project of the Year” en los Global Connectivity Awards 2026
@@ -128,12 +134,4 @@ Telconet Latam fortalece su compromiso con la sostenibilidad y la gestión respo
 Premios y reconocimientos 27 de marzo de 2026 Telconet Latam es reconocida como uno de los mayores generadores de empleo del Ecuador 2025 por Great Place To Work
 Telconet Latam recibió el reconocimiento como uno de los Mayores Generadores de Empleo del Ecuador 2025 durante el evento The Future of Work 2026, organizado por Grupo…
 Eventos 27 de marzo de 2026 Telconet Latam comparte su visión sobre redes preparadas para la era de la IA en Capacity durante el MWC 2026
-Telconet Latam continúa consolidando su presencia en los principales escenarios tecnológicos internacionales.
-Comunicados oficiales 17 de marzo de 2026 Telconet Latam impulsa la IA como nueva unidad de negocio en el Mobile World Congress 2026
-Telconet Latam participó en el Mobile World Congress 2026, el evento global más importante de conectividad y tecnología móvil, realizado del 2 al 5 de marzo en…
-Casa adentro 25 de febrero de 2026 Telconet Latam fortalece la gestión corporativa del holding con capacitación en ISO 31000 Risk Management
-Telconet Latam desarrolló una jornada de capacitación en ISO 31000 – Gestión de Riesgos, dirigida a mandos alto y alta dirección de todas las empresas del Holding…
-Comunicados oficiales 24 de febrero de 2026 Comunicado oficial del Grupo Telconet sobre declaraciones públicas
-Ante las declaraciones públicas realizadas por el señor Jan Topic en relación al Ministerio del Interior, al Ministro Reimberg y otros asuntos de carácter político, el…
-Comunicados oficiales 16 de febrero de 2026 Comunicado: los operadores de centros de datos no acceden a la información de sus clientes
-La infraestructura dig
+Telconet Latam continúa consolidando su presencia en los principales escenarios tecnológicos internacio

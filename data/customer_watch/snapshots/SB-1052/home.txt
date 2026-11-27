@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -10,7 +10,6 @@ Ezek a cookie-k segítenek abban, hogy a webáruház használható és működő
 Marketing cookie-k
 Ezeket a cookie-k segítenek abban, hogy az Ön érdeklődési körének megfelelő reklámokat és termékeket jelenítsük meg a webáruházban.
 ×
-Töltse ki kérdőívünket és ajándék ingyenes kiszállítást kap! 🚚
 2026.11.16-tól változnak kiszállítási feltételeink.
 A megjelenített árak és AKCIÓK, kizárólag webshopon keresztűl történő vásárláskor érvényesek!!!!
 Új DIGITUS ipari hálózati eszközök érkeznek a LAN.HU kínálatába
@@ -40,6 +39,127 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
+SFTP Cat6A patch kábel 5 m PUR DK-1644-A-PUR-050
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP050C6APU
+Ár:
+4.265 Ft + ÁFA
+(5.417 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 3 m PUR DK-1644-A-PUR-030
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP030C6APU
+Ár:
+2.710 Ft + ÁFA
+(3.442 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 7 m PUR DK-1644-A-PUR-070
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP070C6APU
+Ár:
+6.110 Ft + ÁFA
+(7.760 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 10 m PUR DK-1644-A-PUR-100
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP100C6APU
+Ár:
+8.095 Ft + ÁFA
+(10.281 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 15 m PUR DK-1644-A-PUR-150
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP150C6APU
+Ár:
+11.950 Ft + ÁFA
+(15.177 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 20 m PUR DK-1644-A-PUR-200
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP200C6APU
+Ár:
+15.900 Ft + ÁFA
+(20.193 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+8P8C Cat8.1 toolless mod. dugó DN-93838
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: K2993838TD
+Ár:
+0 Ft + ÁFA
+(0 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 1 m PUR DK-1644-A-PUR-010
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP010C6APU
+Ár:
+1.160 Ft + ÁFA
+(1.473 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 2 m PUR DK-1644-A-PUR-020
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP020C6APU
+Ár:
+1.920 Ft + ÁFA
+(2.438 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Gigabit Media Converter SM SC, 1310nm, up to 20 km DN-652102-1
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-652102
+Ár:
+29.713 Ft + ÁFA
+(37.736 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Gigabit Media Converter SFP DN-652103-1
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-652103
+Ár:
+23.939 Ft + ÁFA
+(30.403 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial Power Supply 48V DC DN-PWR12048
 ÚJDONSÁG!
 Villámnézet
@@ -139,6 +259,72 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+Industrial 16+2 port Gigabit Switch DN-651138
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651138
+Ár:
+108.615 Ft + ÁFA
+(137.941 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 4+2 port Gigabit PoE switch DN-651149
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651149
+Ár:
+43.785 Ft + ÁFA
+(55.607 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651107
+Ár:
+36.839 Ft + ÁFA
+(46.786 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port Gigabit Switch DN-651150
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651150
+Ár:
+59.314 Ft + ÁFA
+(75.329 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit Switch DN-651156
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651156
+Ár:
+85.484 Ft + ÁFA
+(108.565 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8+2-Port L2 Gigabit PoE DN-651157
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651157
+Ár:
+99.034 Ft + ÁFA
+(125.773 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial 8 + 4 10G Gigabit PoE switch DN-651161
 ÚJDONSÁG!
 Villámnézet
@@ -183,50 +369,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 16 port Gigabit Switch DN-651129
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651129
-Ár:
-80.982 Ft + ÁFA
-(102.847 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2 port Gigabit Switch DN-651138
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651138
-Ár:
-108.615 Ft + ÁFA
-(137.941 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 4+2 port Gigabit PoE switch DN-651149
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651149
-Ár:
-43.785 Ft + ÁFA
-(55.607 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial Gigabit Ethernet Switch 5-por Digitus / DN-651107
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651107
-Ár:
-36.839 Ft + ÁFA
-(46.786 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Industrial 8-port Gigabit Switch DN-651108
 ÚJDONSÁG!
 Villámnézet
@@ -249,35 +391,13 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8+2-Port Gigabit Switch DN-651150
+Industrial 16 port Gigabit Switch DN-651129
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-651150
+Cikkszám: HDIG-DN-651129
 Ár:
-59.314 Ft + ÁFA
-(75.329 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit Switch DN-651156
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651156
-Ár:
-85.484 Ft + ÁFA
-(108.565 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 8+2-Port L2 Gigabit PoE DN-651157
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651157
-Ár:
-99.034 Ft + ÁFA
-(125.773 Ft)
+80.982 Ft + ÁFA
+(102.847 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -290,39 +410,6 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
-db
-Kosárba
-Részletek
-Szellőző panel 1E szürke DN-97692
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97692
-Ár:
-2.140 Ft + ÁFA
-(2.718 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Szellőző panel 1E fekete DN-97693
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97693
-Ár:
-2.140 Ft + ÁFA
-(2.718 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Szellőző panel 2E szürke DN-97694
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97694
-Ár:
-3.870 Ft + ÁFA
-(4.915 Ft)
-Előrendelhető h
 db
 Kosárba
 Részletek
@@ -370,6 +457,39 @@ Cikkszám: K289543TD
 db
 Kosárba
 Részletek
+Szellőző panel 1E szürke DN-97692
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97692
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 1E fekete DN-97693
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97693
+Ár:
+2.140 Ft + ÁFA
+(2.718 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 2E szürke DN-97694
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97694
+Ár:
+3.870 Ft + ÁFA
+(4.915 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 8P8C mod.dugasz,árnyékolt Cat.6 átmenő P88R5Z50V2ST
 ÚJDONSÁG!
 Villámnézet
@@ -378,17 +498,6 @@ Cikkszám: K288542-EASY
 110 Ft + ÁFA
 (140 Ft)
 690 db raktáron
-db
-Kosárba
-Részletek
-Fix tálca 10" szekrényhez fekete DN-10-TRAY-1-B
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: TO-TÁL10F
-Ár:
-2.500 Ft + ÁFA
-(3.175 Ft)
-37 db raktáron
 db
 Kosárba
 Részletek
@@ -411,6 +520,17 @@ Cikkszám: DGYÜZMF
 1.990 Ft + ÁFA
 (2.527 Ft)
 4 db raktáron
+db
+Kosárba
+Részletek
+Fix tálca 10" szekrényhez fekete DN-10-TRAY-1-B
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TO-TÁL10F
+Ár:
+2.500 Ft + ÁFA
+(3.175 Ft)
+37 db raktáron
 db
 Kosárba
 Részletek
@@ -470,70 +590,4 @@ Tanúsítvány a pénzügyileg legstabilabb cégeknek
 2026. 07. 22.
 A Dun & Bradstreet nemzetközi üzleti információszolgáltató és -minősítő minden működő vállalkozás pénzügyi stabilitását, üzleti megbízhatóságát osztályozza egy folyamatosan visszamért és bizonyított, nemzetközi szakértők által kialakított módszertan alapján. Így került kiválasztásra cégünk, a Lan Számítástechnikai Szolgáltató Kft. is, mint a pénzügyileg legstabilabb cégek egyike.
 Részletek
-Már fekete színben is raktárról elérhetők a Digitus fali rack szekrények
-2026. 07. 16.
-A Digitus fali rack szekrények kínálata tovább bővült: a népszerű lapszerelt modellek már fekete színben is raktárról elérhetők. A 7U, 9U, 12U és 16U méretű szekrények 600×450 és 600×600 mm-es kivitelben rendelhetők, így még több lehetőség áll rendelkezésre hálózati és IT infrastruktúrák kialakításához.
-Termékek
-Részletek
-DIGITUS CAT8 hálózati megoldások professzionális infrastruktúrákhoz
-2026. 07. 09.
-A modern hálózatok egyre nagyobb teljesítményt és megbízhatóságot követelnek meg. Adatközpontokban, szervertermekben, irodaházakban és nagy sávszélességet igénylő vállalati környezetekben a hálózati infrastruktúra minősége meghatározó szerepet játszik. A DIGITUS CAT8 termékcsalád olyan komponenseket kínál, amelyek alkalmasak nagy teljesítményű strukturált kábelezési rendszerek kialakítására.
-Termékek
-Részletek
-További hírek
-Top termékek
-Cat7 S/FTP PiMF LSOH/3 1200Mhz AWG23/1 500m DK-1743-VH-5
-Villámnézet
-Cikkszám: K1131043
-Ár:
-248 Ft + ÁFA
-(315 Ft)
-16410 m raktáron
-m
-Kosárba
-Részletek
-Cat7 S/FTP PiMF LSZH-3 600Mhz AWG26/1 DK-1743-VH-305-MF-W 305m
-Villámnézet
-Cikkszám: K11310743
-Ár:
-199 Ft + ÁFA
-(253 Ft)
-14945 m raktáron
-m
-Kosárba
-Részletek
-UTP CAT6 falkábel, LSZH 305m DK-1613-VH-305
-Villámnézet
-Cikkszám: TA-K617LSZHD
-Ár:
-195 Ft + ÁFA
-(248 Ft)
-Német raktáron, érkezés: 1-2 hét
-m
-Kosárba
-Részletek
-FTP CAT6 falkábel, LSOH 305m DK-1623-VH-305
-Villámnézet
-Cikkszám: TA-K661LSOH
-Ár:
-225 Ft + ÁFA
-(286 Ft)
-9200 m raktáron
-m
-Kosárba
-Részletek
-UTP Cat5e földkábel UTK5814 , DK-1511-V-5-OD
-Villámnézet
-Cikkszám: K1142050FÖLD
-Ár:
-175 Ft + ÁFA
-(222 Ft)
-1509 m raktáron
-m
-Kosárba
-Részletek
-UTP Cat6A falkábel kék 305m LSOH DK-1613-A-VH-305
-Villámnézet
-Cikkszám: K1120501C6ADIG
-Ár:
-225 Ft + Á
+Már fekete színben is raktár

@@ -1,4 +1,4 @@
-# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-020 52 Networks, Inc.（弗吉尼亚 Woodbridge，GSA MAS 47QTCA22D00B3 联邦供应商） · feed_auto · https://52networks.com/feed · fetched 2026-11-27T11:01:47Z · HTTP 200
 Thu, 26 Nov 2026 05:10:11 +0000	Managed vs Unmanaged Network Switches: Which One Does Your Business Need?	https://52networks.com/managed-vs-unmanaged-network-switches-which-one-does-your-business-need/
 Thu, 26 Nov 2026 04:03:52 +0000	How to Build a Reliable Network Infrastructure for a Small Business	https://52networks.com/how-to-build-a-reliable-network-infrastructure-for-a-small-business-2/
 Wed, 25 Nov 2026 18:27:29 +0000	Ethernet Cable Fire Ratings Explained: CMP, CMR & More	https://52networks.com/ethernet-cable-fire-ratings/

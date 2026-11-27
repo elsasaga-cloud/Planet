@@ -1,11 +1,4 @@
-# SC-1038 TELTEX · feed_auto · https://teltex.com.br/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
-Tue, 24 Nov 2026 21:19:48 +0000	E se as câmeras da cidade pudessem entender o que estão vendo?	https://teltex.com.br/e-se-as-cameras-da-cidade-pudessem-entender-o-que-estao-vendo/
-Tue, 24 Nov 2026 21:17:06 +0000	Do monitoramento à decisão: como a tecnologia modernizou a segurança penitenciária em Sergipe	https://teltex.com.br/do-monitoramento-a-decisao-como-a-tecnologia-modernizou-a-seguranca-penitenciaria-em-sergipe/
-Tue, 24 Nov 2026 21:15:44 +0000	2.760 entregas, um único padrão: os bastidores de um projeto de grande escala no setor público	https://teltex.com.br/2-760-entregas-um-unico-padrao-os-bastidores-de-um-projeto-de-grande-escala-no-setor-publico/
-Tue, 24 Nov 2026 21:14:33 +0000	Não basta implementar. É preciso sustentar a operação.	https://teltex.com.br/nao-basta-implementar-e-preciso-sustentar-a-operacao/
-Tue, 24 Nov 2026 21:10:52 +0000	Quando a energia não pode esperar: como a AXIA Energia Norte ampliou a visão do seu Centro de Operação	https://teltex.com.br/quando-a-energia-nao-pode-esperar-como-a-axia-energia-norte-ampliou-a-visao-do-seu-centro-de-operacao/
-Thu, 27 Aug 2026 13:41:01 +0000	Muito além do controle de acesso: a estratégia de segurança desenvolvida para a Itaipu Binacional	https://teltex.com.br/muito-alem-do-controle-de-acesso-a-estrategia-de-seguranca-desenvolvida-para-a-itaipu-binacional/
-Thu, 27 Aug 2026 13:23:42 +0000	Como a Teltex conectou todas as unidades do TJGO a uma única estratégia de segurança	https://teltex.com.br/como-a-teltex-conectou-todas-as-unidades-do-tjgo-a-uma-unica-estrategia-de-seguranca/
-Thu, 27 Aug 2026 13:14:35 +0000	Teltex e Grupo Alibaba: Como a modernização de um centro de distribuição fortalece a segurança e a eficiência operacional	https://teltex.com.br/teltex-e-grupo-alibaba-como-a-modernizacao-de-um-centro-de-distribuicao-fortalece-a-seguranca-e-a-eficiencia-operacional/
-Thu, 27 Aug 2026 12:57:30 +0000	Energia, mobilidade, segurança nacional. A Teltex por trás dessas infraestruturas.	https://teltex.com.br/energia-mobilidade-seguranca-nacional-a-teltex-por-tras-dessas-infraestruturas/
-Thu, 27 Aug 2026 12:33:07 +0000	O Brasil que não pode parar: como a tecnologia da Teltex protégé infraestruturas críticas	https://teltex.com.br/o-brasil-que-nao-pode-parar-como-a-tecnologia-da-teltex-protege-infraestruturas-criticas/
+# SC-1038 TELTEX · feed_auto · https://teltex.com.br/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 403
+{
+"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
+}

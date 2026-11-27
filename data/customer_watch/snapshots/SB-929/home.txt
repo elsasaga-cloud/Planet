@@ -1,4 +1,4 @@
-# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-929 SOLTECH · home · https://fibermart.co.kr/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 파이버마트 - 통신 네트워크 전문 쇼핑몰
 {#text_1}
 {#imgTag_1}
@@ -144,11 +144,6 @@ FM2000-SFP-10G 광컨버터
 더보기
 LIKE IT ! 0
 Sold Out
-솔텍 SFC8000S 산업용 관리형 L2 스위치 (1Gbps TP 4포트 + 2.5G SFP 2슬롯) (전원공급장치 포함)
-상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 80°C / S-Ring(복구타임
-판매가 : 553,300원
-LIKE IT ! 0
-Sold Out
 솔텍 SFC300-POE (Power over Ethernet) 스위칭허브 V2
 상품요약정보 : SFP 2슬롯(100Mbps) + TP 4포트(10/100Mbps), Power over Ethernet(IEEE802.3af), -40~80℃,
 판매가 : 249,700원
@@ -159,14 +154,19 @@ Sold Out
 판매가 : 118,800원
 LIKE IT ! 0
 Sold Out
+ipTIME 5포트 100Mbps 유선 스위칭 허브 H905 (H805 후속)
+상품요약정보 : 5포트 10/100Mbps 스위칭 허브
+판매가 : 12,900원
+LIKE IT ! 0
+Sold Out
+솔텍 SFC8000S 산업용 관리형 L2 스위치 (1Gbps TP 4포트 + 2.5G SFP 2슬롯) (전원공급장치 포함)
+상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 80°C / S-Ring(복구타임
+판매가 : 553,300원
+LIKE IT ! 0
+Sold Out
 삼성전자 LS24F330EAKXKR S24F330 24인치 VA FHD 모니터 100Hz 베젤리스
 상품요약정보 : 60.4cm(24인치) / 와이드(16:9) / VA / 평면 / 광시야각 / 1920 x 1080(FHD) / 최대 주사율 : 100Hz / 5ms(GTG) / 250cd / 1,000:1 / 플리커 프리 / 블루라이트 차단 / 틸트(상하) / 100 x 100mm / 23W / 크기(가로x세로x깊이): 540.7x428.5x175.1mm / 2.4kg /[색상영역] NTSC : 72% /[게임특화] 게임모드 지원 / [단자정보] HDMI
 판매가 : 134,000원
-LIKE IT ! 0
-Sold Out
-[생산필요 구매전 문의해주세요] 솔텍 SFC8000 산업용 관리형 L2 스위치 (1Gbps TP 8포트/2.5G SFP 2슬롯) (전원공급장치 포함)
-상품요약정보 : 웹기반 매니지먼트/ 동작온도: -40°C ~ 80°C / 전원이중화 / S-Ring(복구타임
-판매가 : 585,200원
 LIKE IT ! 0
 Sold Out
 인네트워크 IN-OFD-SC12 국산 SC 12CORE 랙타입 라운드형 광분배함 INO087
@@ -175,9 +175,9 @@ Sold Out
 판매가 : 54,700원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC2000-TWLB/20 WDM 싱글모드 1Gbps 광컨버터
-상품요약정보 : 1-FIBER 송수신, 20km, 1310/1550nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
-판매가 : 197,900원
+광 패치코드 ST-ST-MM-2C 광 케이블 광 점퍼코드 1M / 2M / 3M
+상품요약정보 : 주문제작상품으로 영업일 2~3일 이내 출고됩니다. *반품환불 불가합니다*
+판매가 : 5,800원
 LIKE IT ! 0
 Sold Out
 [주문제작] 광피그테일 PIGTAIL ST-MM 1.5M
@@ -185,15 +185,14 @@ Sold Out
 판매가 : 3,300원
 LIKE IT ! 0
 Sold Out
-솔텍 SFC300-SFP 산업용 스위치 (100Mbps TP 4포트/100Mbps SFP 2슬롯)
-상품요약정보 : 동작온도: -40 ~ 80ºC / 41(W) x 103(D) x 133(H)mm
-판매가 : 216,700원
+솔텍 SFC2000-TWLB/20 WDM 싱글모드 1Gbps 광컨버터
+상품요약정보 : 1-FIBER 송수신, 20km, 1310/1550nm, SC 커넥터 / 71(W) x 94(D) x 26(H)mm
+판매가 : 197,900원
 LIKE IT ! 0
 Sold Out
-광케이블 SM-1C[FTTH · G657 · B3]
-상품요약정보 : 다량의 정보를 신속히 보내기 위하여 광섬유로 만든 케이블, 미터당 단가
-소비자가 : 300,000원
-판매가 : 330,000원
+광분배함 랙 SC타입 FDF-RACK-SC (04P / 08P / 12P / 16P / 24P)
+상품요약정보 : 모듈형 구조로 확장성이 좋고 여장관리가 용이! 옵션 4P, 8P, 12P, 16P,24P
+판매가 : 42,900원
 FiberMart 특가
 더보기
 LIKE IT ! 0
@@ -527,4 +526,10 @@ APC UPS 정품 교체 배터리 (RBC6)
 SOLTECH 전 회원 10% 할인 EVENT
 2026 추석 연휴 배송 안내
 8월 14일 택배 없는 날 배송안내
-파이버마트 리뉴얼 오픈! 모든 회원 10
+파이버마트 리뉴얼 오픈! 모든 회원 10% 할인 EVENT !
+더보기
+고객센터
+:
+070-4628-5231
+월 ~ 금 : 오전  ~ 오후
+점심시간 : 오전 ~ 오후

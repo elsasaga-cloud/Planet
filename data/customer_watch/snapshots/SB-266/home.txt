@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,49 +41,43 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Teltonika Telematics FMC927, Automobilový GPS tracker s Bluetooth a 4G LTE Cat 1
-1 482 Kč bez DPH
-1 793 Kč s DPH
-Triton 19" stojanový rack 18U/600x1000 prosklené dveře, šedý
-9 558 Kč bez DPH
-11 565 Kč s DPH
-Ubiquiti Single-Mode optický 1/10G SFP+ modul, 1310nm, 10km
-1 083 Kč bez DPH
-1 310 Kč s DPH
+Triton 19" stojanový rack 27U/600x800 prosklené dveře, šedý
+10 350 Kč bez DPH
+12 524 Kč s DPH
+Hikvision IP bullet hybrid kamera DS-2CD1643G3-LIZSU(2.8-12mm)/BLACK, 4Mpx, 2.8-12mm, Černá
+Hikvision IP dome hybrid kamera DS-2CD2143G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
+Hikvision IP dome kamera DS-2CD1147G3-LIU(2.8mm), 4Mpx, 2.8mm, ColorVu 3.0
+Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý, 24 pack
+1 954 Kč bez DPH
+2 364 Kč s DPH
+MEAN WELL DDR-60L-24 Step-down měnič napětí DC/DC, 60W
+743 Kč bez DPH
+899 Kč s DPH
+Anténní držák na zeď k oknu "L" - pravý, délka 25cm, výška 12cm, průměr 32mm
+140 Kč bez DPH
+169 Kč s DPH
+Triton 19" stojanový rack 42U/600x900 prosklené dveře, černý
+14 250 Kč bez DPH
+17 243 Kč s DPH
+Hikvision IP turret kamera DS-2CD2347G3-LI2UY(2.8mm)(BLACK), 4Mpx, 2.8mm, ColorVu 3.0, Černá
+Hikvision IP turret hybrid kamera DS-2CD1347G2H-LIU(4mm), 4Mpx, 4mm, ColorVu
 Triton 19" stojanový rack 45U/600x900 prosklené dveře, šedý
 14 430 Kč bez DPH
 17 460 Kč s DPH
-Triton 19" stojanový rack 47U/600x1000 prosklené dveře, šedý
-15 840 Kč bez DPH
-19 166 Kč s DPH
+MikroTik KNOT Gateway LR8
+2 601 Kč bez DPH
+3 147 Kč s DPH
+DEYE GB-W-Pack12-2-A3 Bateriový modul, 12.03 kWh, HV
+38 130 Kč bez DPH
+46 137 Kč s DPH
 Synology HDD HAT5320-20T, 3.5", 20TB, SATA
-24 381 Kč bez DPH
-29 501 Kč s DPH
-SanDisk Micro SDXC Ultra 64GB + SD adaptér
-598 Kč bez DPH
-724 Kč s DPH
-Cudy IR02, Průmyslový 4G LTE Wi-Fi Router, RS-232/RS-485 a I/O
-2 909 Kč bez DPH
-3 520 Kč s DPH
-Teltonika Security BP2VA, Bezdrátový vnitřní PIR detektor pohybu
-995 Kč bez DPH
-1 204 Kč s DPH
-Triton 19" stojanový rack 47U/800x800 prosklené dveře, šedý
-15 570 Kč bez DPH
-18 840 Kč s DPH
-SanDisk Micro SDXC Ultra GO 256GB
-1 568 Kč bez DPH
-1 898 Kč s DPH
-Ubiquiti Externí přísvit pro G6 180 kameru, černý
-2 928 Kč bez DPH
-3 543 Kč s DPH
-DEYE měnič 4 kW, 3 fázový, G06
-10 588 Kč bez DPH
-12 812 Kč s DPH
-Samsung 9100 PRO NVMe SSD, M.2, 8TB
-46 611 Kč bez DPH
-56 399 Kč s DPH
+24 631 Kč bez DPH
+29 804 Kč s DPH
+Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
 Aktuality
+Odolný router pro vozidla i průmysl od MikroTiku
+27.11.2026
+Nový MikroTik LtAP LTE12 ax přináší do sortimentu odolné připojení pro provoz na cestách i venku. Kombinuje Wi-Fi 6, LTE Cat12, GPS, digitalní i analogové I/O a RouterOS v7 v robustním IP66 šasi. Díky eSIM, dvěma nanoSIM slotům, miniPCI-e nabízí vysokou flexibilitu i jistotu připojení.
 Kritická chyba ve firmware Teltonika
 30.10.2026
 Výrobce Teltonika upozornil na kritickou bezpečnostní zranitelnost ve firmware vybraných zařízení s rutOS 7.22–7.24.2 a tswOS 1.9–1.10.0. Doporučujeme neprodleně aktualizovat na rutOS 7.24.3 nebo tswOS 1.10.1. Zranitelnost nelze odstranit jinak než aktualizací. Pokud potřebujete s ověřením nebo aktualizací pomoci, kontaktujte naši technickou podporu.
@@ -108,9 +102,6 @@ MikroTik rozšiřuje své portfolio o další praktické novinky pro síťovou i
 Velké letní slevy na fotovoltaické sety
 11.08.2026
 Připravili jsme pro vás letní akci na zvýhodněné fotovoltaické sety s měniči DEYE o výkonu 10 až 80 kW. Využijte velké slevy na kompletní řešení pro domácnosti i firmy a pořiďte si spolehlivou fotovoltaiku za výhodnější cenu. Akce platí pouze do vyprodání zásob.
-Stabilní 5G připojení bez nastavování směru antény
-31.07.2026
-Od města až po otevřené moře. Do nabídky jsme zařadili MikroTik LAMP 5G R16 – venkovní 5G router s integrovanou eSIM, všesměrovými anténami a podporou 5G SA/NSA. Nabízí odolnost IP67, GNSS i certifikaci EN 60945, takže je ideální pro průmysl, přístavy, plavidla, záložní konektivitu i další náročné venkovní instalace.
 Další aktuality
 Zastoupené značky
 Represented brands
@@ -143,6 +134,7 @@ IČ: 10964703
 DIČ: CZ10964703
 O společnosti O nás
 Kontakty
+Kariéra
 O nákupu Doprava a platba
 Reklamace a vrácení zboží
 Obchodní podmínky

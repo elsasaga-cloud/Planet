@@ -1,4 +1,4 @@
-# SB-995 acixme.com · home · https://www.acixme.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-995 acixme.com · home · https://www.acixme.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Security Solution Provider | Access Control Systems | Dubai, UAE | ACIX ME
 Security Systems
 All about Security Systems
@@ -56,13 +56,10 @@ Videos
 Resources
 Other Resources
 Browse resources
-Home
-About Us
-Solutions
 Knowledge Base
 Blogs
 Case Study
-Contact Us
+White Papers
 Contact us
 Contact Us
 Intelligent Security & Business Application Solutions
@@ -186,4 +183,6 @@ Subscribe To Our Newsletter
 Would You Like To Stay Updated
 With The Latest
 Developments And
-Offers From ACIX Middle East? Consider Subscribing To Our Newsletter Toda
+Offers From ACIX Middle East? Consider Subscribing To Our Newsletter Today.
+Full Name *
+Email A

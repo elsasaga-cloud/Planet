@@ -1,4 +1,4 @@
-# SC-2834 Dipol · sitemap · https://www.dipol.com.pl/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-2834 Dipol · sitemap · https://www.dipol.com.pl/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8w_lux_dvb-t-t2_ze_wzmacniaczem_lna177-5g_i_filtrem_lte_5g_A0024.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8_dvb-t-t2_z_symetryzatorem_A0028.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_asp-8w_dvb-t-t2_ze_wzmacniaczem_lna169-5g_i_filtrem_lte_5g_A0029.htm
@@ -27,7 +27,7 @@
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_telewizyjna_dipol_19-21-48_dvb-t-t2_uhf_A1911.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_telewizyjna_dipol_smart_city_dvb-t2_A2010.htm
 2026-03-10T05:01:58Z	https://www.dipol.com.pl/antena_telewizyjna_dvb-t2_dipol_smart_city_combo_z_polaryzacja_h-v_dc_5_24_v_A2050.htm
-2025-10-14T05:02:05Z	https://www.dipol.com.pl/antena_telewizyjna_dvb-t2_y3_passive_combo_z_polaryzacja_h-v_A2120.htm
+2026-11-27T05:01:52Z	https://www.dipol.com.pl/antena_telewizyjna_dvb-t2_dipol_y3_passive_combo_z_polaryzacja_h-v_A2120.htm
 2024-03-22T14:27:06Z	https://www.dipol.com.pl/antena_telewizyjna_dipol_smart_horizon_dvb-t2_A2230.htm
 2025-10-10T05:01:51Z	https://www.dipol.com.pl/antena_telewizyjna_dvb-t2_dipol_smart_horizon_combo_z_polaryzacja_h-v_dc_0_24_v_A2270.htm
 2024-05-07T05:01:03Z	https://www.dipol.com.pl/antena_telewizyjna_dipol_17-21-48_tri_digit_mini_dvb-t-t2_uhf_A2550.htm
@@ -102,4 +102,4 @@
 2024-07-31T05:01:45Z	https://www.dipol.com.pl/antena_5g_atk-log_alp_mimo_2x2_10_m_przewodu_wtyk_sma_698-3800_mhz_A7064_10.htm
 2024-08-13T05:01:35Z	https://www.dipol.com.pl/antena_atk-log_alp_5g_mimo_2x2_15_m_przewodu_wtyk_sma_698-3800_mhz_A7064_15.htm
 2024-08-13T05:01:35Z	https://www.dipol.com.pl/antena_atk-log_alp_5g_mimo_2x2_20_m_przewodu_wtyk_sma_698-3800_mhz_A7064_20.htm
-2024-07-31T05:01:45Z	https://www.dipol.com.pl/an
+2024-07-31T05:01:45Z	https://www.dipol.com

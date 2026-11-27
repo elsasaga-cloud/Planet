@@ -1,4 +1,6 @@
-# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-26T11:08:06Z · HTTP 200
+# PA-013 Leteng AS · feed_auto · https://www.leteng.no/WebPages/produkt/rss.aspx · fetched 2026-11-27T11:01:47Z · HTTP 200
+27.11.2026 11:07:41	AH Racktray 01 Pullout 19" 1U	https://www.leteng.no/adam-hall/87556/ah-racktray-01-pullout-19-1u-sort
+27.11.2026 11:01:02	AH Racktray 02 19" 2U	https://www.leteng.no/adam-hall/8755/ah-racktray-02-sort-19-2u-sort
 25.11.2026 15:40:23	Apto Kabelhylle Sort, 90cm	https://www.leteng.no/apto-plus/3053-0000-9005/apto-kabelhylle-sort-90cm
 24.11.2026 12:11:23	EFB M6 Skruesett for Rack	https://www.leteng.no/efb-elektronik/691100hq/efb-m6-skruesett-for-rack-pose-med-50-sett
 24.11.2026 12:06:35	EFB Network Tool Set	https://www.leteng.no/efb-elektronik/39919-dot-1v2/efb-network-tool-set-rj11-rj12-rj45
@@ -97,5 +99,3 @@
 10.09.2026 15:22:14	ACT Strømkabel C20 - C21 2,0 m	https://www.leteng.no/act/ak5344/act-str%c3%b8mkabel-c20-c21-2-0-m-c20-hann-c21-hunn-sort
 10.09.2026 15:12:25	ACT Strømkabel C20 - C21 1,0 m	https://www.leteng.no/act/ak5343/act-str%c3%b8mkabel-c20-c21-1-0-m-c20-hann-c21-hunn-sort
 10.09.2026 15:08:52	Strømkabel C5 C14 - 1,0 m	https://www.leteng.no/act/ak5433/str%c3%b8mkabel-c5-c14-1-0-m-3x0-75mm-max-2-dot-5a-sort-mikke-mus
-10.09.2026 15:05:32	Strømkabel C5 C14 - 0,5 m	https://www.leteng.no/act/ak5218/str%c3%b8mkabel-c5-c14-0-5-m-3x0-75mm-max-2-dot-5a-sort-mikke-mus
-10.09.2026 15:00:36	Strømkabel C13 C14 - 3,0 m	https://www.leteng.no/act/ak5111/str%c3%b8mkabel-c13-c14-3-0-m-3x0-75mm-bl%c3%a5

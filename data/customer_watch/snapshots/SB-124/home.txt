@@ -1,4 +1,4 @@
-# SB-124 telconet.net · home · https://telconet.net/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-124 telconet.net · home · https://telconet.net/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Telconet Latam | Infraestructura y soluciones tecnológicas para empresas
 Saltar al contenido
 Nosotros
@@ -97,7 +97,7 @@ CSN1 cable submarino propio en operación
 4 + 4 centros de datos operativos y en construcción
 99,995% de disponibilidad Tier IV
 +7 días de autonomía energética
-Certificados para que tu operación nunca se detenga: ISO/IEC 27001:2022 · ISO 22301 · ISO 9001 · ISO 37001 · EFQM Global Award 2025 · 5 Estrellas
+Certificados para que tu operación nunca se detenga: ISO/IEC 27001:2022 · ISO 22301 · ISO 9001 · ISO 37001 · ISO 50001 · EFQM Global Award 2025 · 5 Estrellas
 Conoce nuestra infraestructura
 ¿Listo para llevar tu compañía más lejos?
 Cuéntanos tu reto y diseñamos contigo la solución.

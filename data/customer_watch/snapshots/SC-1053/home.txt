@@ -1,4 +1,4 @@
-# SC-1053 casmarglobal.com · home · https://casmarglobal.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-1053 casmarglobal.com · home · https://casmarglobal.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 CASMAR | Distribuidor de tecnologías de seguridad electrónica
 0 0
 Idioma es | es
@@ -596,6 +596,7 @@ Centrales detección monóxido carbono
 Detectores monóxido carbono
 Autónomos monóxido carbono
 Detección de llama
+Cámaras termográficas DITE
 Cámaras Térmicas con videoanálisis
 Licencias cámaras térmicas con videoanálisis
 Accesorios cámaras térmicas con videoanálisis
@@ -604,7 +605,6 @@ Detectores zonas de seguridad intrínseca con cámara
 Detectores de chispa
 Comprobadores
 Accesorios
-Cámaras termográficas DITE
 Mantenimiento de sistemas de PCI
 Comprobadores serie Solo 365
 Recambios y consumibles serie Solo 365

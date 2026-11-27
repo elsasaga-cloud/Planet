@@ -1,4 +1,4 @@
-# SB-779 shop4power.nl · home · https://shop4power.nl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-779 shop4power.nl · home · https://shop4power.nl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Shop4Power - Power Supply, Switches & Planet Ethernet Specialist
 Ga naar inhoud
 Voor besteld, vandaag verzonden
@@ -132,7 +132,7 @@ Vraag een offerte aan
 Exclusief Scodeno in de Benelux
 ± 2 weken als iets niet voorradig is
 VANDAAG VERZONDEN
-Nog 5u 45m
+Nog 2u 40m
 Bestel voor , dan verzenden we vandaag nog.
 Op een werkdag vóór uur besteld, verzenden we dezelfde dag nog.
 Na uur of in het weekend verzenden we de volgende werkdag.
@@ -201,8 +201,8 @@ Caravan en camper
 Elektrisch varen
 UPS-batterij
 2. Spanning
-12V 2
-24V 21
+12V 1
+24V 22
 48V 1
 12V 24
 24V 15
@@ -210,7 +210,7 @@ UPS-batterij
 48V 32
 60V 15
 72V 1
-12V 12
+12V 13
 12V 14
 24V 8
 36V 1

@@ -1,4 +1,4 @@
-# SB-1049 kdelectronics.ie · home · https://www.kdelectronics.ie/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1049 kdelectronics.ie · home · https://www.kdelectronics.ie/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 KD Electronics Ireland - Trade Supplier of CCTV, Security Systems, Audio Visual and Networking sol - CCTV, Fire, Security, TV, Audio & Networking Distributor Ireland
 ×
 Quick Order
@@ -273,13 +273,13 @@ data-aria-add="Add Triax CAT6 UTP LSZH Purple 305m Pull Box - Indoor PVC jacket 
 data-aria-added="Triax CAT6 UTP LSZH Purple 305m Pull Box - Indoor PVC jacket added to favourites."
 data-aria-view="View your favourites.">
 Add to Favourites
-Dahua Video intercom 1 modular panel Black
-VTM78
-Code: 13429
+DetectaSmoke® Synthetic DSF1 250ml smoke test aerosol (Flammable)
+DSF1
+Code: GSE01
 Loading...
 Favourited'
-data-aria-add="Add Dahua Video intercom 1 modular panel Black to favourites."
-data-aria-added="Dahua Video intercom 1 modular panel Black added to favourites."
+data-aria-add="Add DetectaSmoke® Synthetic DSF1 250ml smoke test aerosol (Flammable) to favourites."
+data-aria-added="DetectaSmoke® Synthetic DSF1 250ml smoke test aerosol (Flammable) added to favourites."
 data-aria-view="View your favourites.">
 Add to Favourites
 Ajax EN54 Fire Hub Jeweller Black – Wireless Fire Alarm Control Panel
@@ -318,13 +318,13 @@ data-aria-add="Add Ajax EN54 FireProtect (Smoke) Jeweller White – Wireless Add
 data-aria-added="Ajax EN54 FireProtect (Smoke) Jeweller White – Wireless Addressable Smoke Detector added to favourites."
 data-aria-view="View your favourites.">
 Add to Favourites
-Ajax EN54 FireProtect (Heat) Jeweller White - Wireless Addressable Heat Detector
-119917
-Code: AJ-0615
+DetectaGas® DG1 250ml CO Detector test aerosol (Non-Flammable)
+DG1
+Code: GSE02
 Loading...
 Favourited'
-data-aria-add="Add Ajax EN54 FireProtect (Heat) Jeweller White - Wireless Addressable Heat Detector to favourites."
-data-aria-added="Ajax EN54 FireProtect (Heat) Jeweller White - Wireless Addressable Heat Detector added to favourites."
+data-aria-add="Add DetectaGas® DG1 250ml CO Detector test aerosol (Non-Flammable) to favourites."
+data-aria-added="DetectaGas® DG1 250ml CO Detector test aerosol (Non-Flammable) added to favourites."
 data-aria-view="View your favourites.">
 Add to Favourites
 Ajax EN54 FireProtect (Sounder/VAD) Jeweller White - Wireless Addressable VAD/Sounder
@@ -385,5 +385,4 @@ Ajax BulletCam HL (8 Mp/2.8 mm) Black
 126256
 Code: AJ-0344
 Loading...
-Favourited'
-dat
+Favour

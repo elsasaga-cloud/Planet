@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1062 odoo.com · news_1 · https://www.odoo.com/blog · fetched 2026-11-27T11:01:47Z · HTTP 200
 Blog Posts | Odoo
 Skip to Content
 Odoo
@@ -208,7 +208,7 @@ Digital Cash Register Mandate 2028: What German Businesses Should Know
 Nov 20, 2026
 Odoo News
 How to Prepare Your E-Commerce Store for Black Friday
-Nov 19, 2026
+Nov 20, 2026
 Business Hacks
 How to Upgrade Odoo With Customizations Without Breaking Workflows
 Nov 19, 2026

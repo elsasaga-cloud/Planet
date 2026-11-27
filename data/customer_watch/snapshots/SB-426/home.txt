@@ -1,4 +1,4 @@
-# SB-426 helmholz.de · home · https://www.helmholz.de/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-426 helmholz.de · home · https://www.helmholz.de/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Home
 Zum Hauptinhalt springen
 Zur Suche springen
@@ -99,7 +99,6 @@ Service
 Supportanfrage
 FAQ
 Security (PSIRT)
-SPS-Messeticket bestellen
 Unternehmen
 Kontakt
 Vertriebsteam
@@ -135,10 +134,6 @@ Datenschutz
 Versand und Zahlung
 AGB
 AEB
-Messe
-24. – 26. November 2026
-Besuchen Sie uns auf der SPS Nürnberg am Stand 7-115.
-SPS Ticket sichern
 Best Practice
 Sicherheit beginnt an der richtigen Netzwerkgrenze
 WALL IE – Maschinen sicher integrieren. Kommunikation gezielt kontrollieren.

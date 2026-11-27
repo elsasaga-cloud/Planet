@@ -1,4 +1,4 @@
-# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-915 radwin.com · sitemap · https://www.radwin.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 2026-01-22	https://www.radwin.com/about
 2026-11-12	https://www.radwin.com/app/suint
 2026-01-22	https://www.radwin.com/become-a-partner
@@ -13,7 +13,7 @@
 2026-03-12	https://www.radwin.com/contact-radwin-certification
 2026-03-12	https://www.radwin.com/contact-request-a-quote
 2026-04-13	https://www.radwin.com/contact-support-request
-2026-11-24	https://www.radwin.com/contactus
+2026-11-26	https://www.radwin.com/contactus
 2026-08-16	https://www.radwin.com/cookie-policy
 2026-10-29	https://www.radwin.com/descubre-qora
 2026-10-25	https://www.radwin.com/employee/form
@@ -110,16 +110,13 @@
 	https://www.radwin.com/website/info
 	https://www.radwin.com/jobs/pre-sales-bd-manager-transportation-india-apac-247
 	https://www.radwin.com/jobs/senior-hardware-engineer-digital-power-and-fpga-260
-	https://www.radwin.com/jobs/senior-rf-hardware-engineer-wi-fi-and-frequency-conversion-261
 	https://www.radwin.com/jobs/wifi-tech-engineer-249
 	https://www.radwin.com/jobs
 	https://www.radwin.com/jobs/apply/pre-sales-bd-manager-transportation-india-apac-247
 	https://www.radwin.com/jobs/apply/senior-hardware-engineer-digital-power-and-fpga-260
-	https://www.radwin.com/jobs/apply/senior-rf-hardware-engineer-wi-fi-and-frequency-conversion-261
 	https://www.radwin.com/jobs/apply/wifi-tech-engineer-249
 	https://www.radwin.com/jobs/detail/pre-sales-bd-manager-transportation-india-apac-247
 	https://www.radwin.com/jobs/detail/senior-hardware-engineer-digital-power-and-fpga-260
-	https://www.radwin.com/jobs/detail/senior-rf-hardware-engineer-wi-fi-and-frequency-conversion-261
 	https://www.radwin.com/jobs/detail/wifi-tech-engineer-249
 	https://www.radwin.com/blog
 	https://www.radwin.com/blog/articles-3
@@ -132,6 +129,7 @@
 	https://www.radwin.com/blog/pr-archive-6/feed
 	https://www.radwin.com/blog/videos-10/feed
 	https://www.radwin.com/blog/what-s-new-2/feed
+	https://www.radwin.com/blog/articles-3/more-capacity-from-the-spectrum-you-already-have-125
 	https://www.radwin.com/blog/articles-3/why-wi-fi-7-alone-isn-t-enough-outdoors-123
 	https://www.radwin.com/blog/articles-3/wi-fi-7-fixed-wireless-access-122
 	https://www.radwin.com/blog/articles-3/cambium-ptp-alternative-radwin-alpha-pro-and-2000e-121
@@ -174,4 +172,5 @@
 	https://www.radwin.com/blog/pr-archive-6/radwin-professional-services-provides-network-optimization-assistance-worldwide-during-covid-19-55
 	https://www.radwin.com/blog/pr-archive-6/introducing-radwin-s-new-and-innovative-multisectortm-ptmp-dual-carrier-base-station-series-54
 	https://www.radwin.com/blog/pr-archive-6/radwin-introduces-terrabridge-a-cutting-edge-mmwave-solution-for-the-transportation-market-53
-	https://www.radwin.com/blog/pr-archive-6/virgin-hyperloop-joins-forces-with-radwin-to-
+	https://www.radwin.com/blog/pr-archive-6/virgin-hyperloop-joins-forces-with-radwin-to-implement-a-cutting-edge-communications-system-for-its-ultra-high-speed-transportation-pods-52
+	https://www.radwin.com/blog/pr-archive-6/big-wave-wireless-deploys-jet-duo-to-deliver-100mbps-servic

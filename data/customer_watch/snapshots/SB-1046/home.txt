@@ -1,4 +1,4 @@
-# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1046 ivolta.pl · home · https://ivolta.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Systemy alarmowe i monitoringu CCTV | iVolta.pl Logowanie
 ×
 22 295 06 06
@@ -54,29 +54,29 @@ W sklepie iVolta.pl znajdziesz bogatą ofertę rozwiązań z zakresu systemów a
 Współpracujemy z instalatorami, inwestorami oraz biurami projektowymi, aby dobierać systemy zabezpieczeń najlepiej dopasowane do Twoich potrzeb. Bogata oferta produktowa oraz rozbudowany magazyn gwarantują szeroki wybór rozwiązań z zakresu systemów alarmowych i monitoringu. Zapewnimy Ci również doradztwo oraz pomoc w zakupach. Nasz zespół to ponad 70 osób w centrali firmy w Warszawie oraz 10 oddziałach regionalnych, dbających o wysoki poziom obsługi na terenie całej Polski. Bezstresowy zwrot zakupionego towaru w ciągu 14 dni oraz własny dział serwisowy to gwarancja Twojej satysfakcji na każdym etapie realizacji zamówienia. Zapraszamy do zakupów.
 Nowości
 zobacz wszystkie
-Centrala systemu BE WAVE, moduł komórkowy (2G/4G) HYBRID 128 Plus SATEL
-1 709,70 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
-662,97 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
-Kabel wielożyłowy, YTDY 6x05, 100m YTDY 6x05 MROWIEC
-152,52 zł brutto
+CZUJKA POGODOWA DESZCZ-WIATR CDW-04 AFG
+1 168,50 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Moduł interfejsu IO - 2 wejścia 1 wyjście FLM-430-I2M1 BOSCH
 1 316,10 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-H01Z1Z1-U B2ca LSZH, SA-YTDY 8x0.5, 100m YTDY 8x05 B2ca (100m) SATEC
-418,20 zł brutto
+Zestaw sys. alarm.: PRF16LTE, ANT-LTE-I, OPU-4 P PERFECTA 16 LTE SET-A SATEL
+662,97 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-CZUJKA POGODOWA DESZCZ-WIATR CDW-04 AFG
-1 168,50 zł brutto
+Centrala systemu BE WAVE, moduł komórkowy (2G/4G) HYBRID 128 Plus SATEL
+1 709,70 zł brutto
 Dostępność: Dostępny
+Dodaj do koszyka
+Autonomiczna czujka dymu, bateria 9V SHS-05 SAFEMI
+35,67 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Centrala pożarowa EN54 Fire Hub (8EU) PL BLACK AJAX
+3 665,40 zł brutto
+Dostępność: Na zamówienie
 Dodaj do koszyka
 Akademia zabezpieczeń – szkolenia
 Akademia Zabezpieczeń Volta to cykl szkoleń, webinarów i warsztatów z zakresu systemów alarmowych i monitoringu prowadzonych przez naszych ekspertów oraz przedstawicieli firm z branży zabezpieczeń, takich jak Bosch, Axxon, Satel, Dahua czy Hikvision. Dlaczego warto do nas dołączyć? Zaprezentujemy Wam najnowsze technologie z dziedziny systemów alarmowych i monitoringu CCTV, a na naszych warsztatach dowiecie się jak je poprawnie skonfigurować i dlaczego warto je wybrać. Na szkoleniach podzielimy się z Wami wiedzą nie tylko techniczną, ale również handlową - nauczycie się jak pozyskać klienta, jak z nim rozmawiać oraz jak efektywnie z nim pracować. Różne poziomy zaawansowania oraz bogata oferta tematyczna szkoleń z pewnością zaspokoją Wasz głód wiedzy!
@@ -92,16 +92,16 @@ Dzień Otwarty Hikvision - Warszawa
 Sprawdź
 Promocje
 zobacz wszystkie
-Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
-429,27 zł brutto
+Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
+1 665,42 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Przycisk wyjścia podtynkowy YPW6DPL YOTOGI
 141,45 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Konwerter wyjściowy AVIO analog/Dante (1-kanałowy) ADP-DAO-0X1 MONACOR
-1 665,42 zł brutto
+Stacja wewnętrzna 2-Wire, ekran 7 ", biała DS-KH6320-WTE2-W HIKVISION
+429,27 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
 Wyprzedaże
@@ -110,36 +110,38 @@ Programator do programu300,PCRS-232+USBsieć RS-485 IPC/301LR-PC CAME
 1 843,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
-1 105,77 zł brutto
-Dostępność: Dostępny
-Dodaj do koszyka
 Wzmacniacz DSP PLENA MATRIX 220W, 4 kanały, OUTLET PLM-4P220 BOSCH
 5 535,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
+Terminal rozpoznawania twarzy, pomiar temperatury YTT-301 YOTOGI
+1 105,77 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
 W zestawie taniej
 zobacz wszystkie
-Zestaw 10 x MC 740-PE ZZ_10x_MC 740-PE ALARMTECH
-412,05 zł brutto
+Zestaw 2xZW600R i 5xAPWK ZZ_2xZW600R_5xAPWK YOTOGI
+1 002,45 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Kontroler 6-sciu przejść, pamięć 20000 kart, moduł LAN w obudowie z zasilaczem QP600XIQLANPACK PCSC
-Szczegółowe informacje dostępne na karcie produktu
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_43 TAVIO
-1 279,00 zł brutto
-Dostępność: Na zamówienie
-Dodaj do koszyka
-Papier termoczuły do drukarek 112mm x 20m, 10 rolek ZZ_papier termiczny 112mm x 20m MEFA
-110,70 zł brutto
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_40 TAVIO
+509,00 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Zestaw 2xZW600 i 5xAPWK ZZ_2xZW600_5xAPWK YOTOGI
-928,65 zł brutto
+Zestaw 2xZW600 i 2xTL600 ZZ_2xZW600_2xTL600 YOTOGI
+613,77 zł brutto
 Dostępność: Dostępny
 Dodaj do koszyka
-Gotowy zestaw do monitoringu Tavio ZZTAVIO_45 TAVIO
-819,00 zł brutto
+Gotowy zestaw do monitoringu Tavio ZZTAVIO_39 TAVIO
+509,00 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Zestaw OPTIVA IP 1080p, NVR + kamera IP ZZVOBNVR4104+VOBIP243M OPTIVA2B
+227,55 zł brutto
+Dostępność: Dostępny
+Dodaj do koszyka
+Zestaw wideodomofonowy Genway ZZF-S7V11-2W GENWAY
+1 999,00 zł brutto
 Dostępność: Na zamówienie
 Dodaj do koszyka
 Zostań naszym
@@ -245,4 +247,8 @@ Masz prawo dostępu do Twoich danych osobowych i ich sprostowania, usunięcia lu
 Więcej informacji uzyskasz tutaj .
 * Pole obowiązkowe
 Informacja systemowa
-Niniejszym informujemy, iż pobranie faktury korygującej w formie elektronicznej przez Klienta poprzez kliknięcie w link "Tak potwierdzam", jest równoznaczne z potwierdzeniem przez Klienta otrzymania przedmiotowej faktury. Dziękujemy i zapraszamy do ewentualnego kontaktu pod nu
+Niniejszym informujemy, iż pobranie faktury korygującej w formie elektronicznej przez Klienta poprzez kliknięcie w link "Tak potwierdzam", jest równoznaczne z potwierdzeniem przez Klienta otrzymania przedmiotowej faktury. Dziękujemy i zapraszamy do ewentualnego kontaktu pod numerem 22 295 06 06.
+Nie zgadzam się Tak potwierdzam
+Drogi Użytkowniku!
+×
+Dz

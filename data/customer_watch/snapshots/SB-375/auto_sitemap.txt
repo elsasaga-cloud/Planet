@@ -1,16 +1,4 @@
-# SB-375 Delta Consulting LLC（第比利斯，系统集成 + AS209786） · auto_sitemap · https://www.dc.ge/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
-	https://www.dc.ge/
-	https://www.dc.ge/about-us
-	https://www.dc.ge/services
-	https://www.dc.ge/portfolio
-	https://www.dc.ge/features
-	https://www.dc.ge/contact
-	https://www.dc.ge/cctv
-	https://www.dc.ge/homepage
-	https://www.dc.ge/about-us-eng
-	https://www.dc.ge/solutions
-	https://www.dc.ge/partners
-	https://www.dc.ge/projects
-	https://www.dc.ge/contact-eng
-	https://www.dc.ge/cctv-eng
-	https://www.dc.ge/milesight
+# SB-375 Delta Consulting LLC（第比利斯，系统集成 + AS209786） · auto_sitemap · https://www.dc.ge/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 403
+{
+"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
+}

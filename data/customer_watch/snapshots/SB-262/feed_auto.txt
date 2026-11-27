@@ -1,4 +1,4 @@
-# SB-262 Software Effect Enterprises, Inc · feed_auto · https://www.seei.biz/feed/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-262 Software Effect Enterprises, Inc · feed_auto · https://www.seei.biz/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Sun, 22 Nov 2026 18:41:48 +0000	Juniper SRX and EX Switch Routing Engine Temperature	https://www.seei.biz/juniper-srx-and-ex-switch-routing-engine-temperature/
 Mon, 16 Nov 2026 15:46:17 +0000	Set Linux CPU Speed	https://www.seei.biz/set-linux-cpu-speed/
 Mon, 14 Sep 2026 12:50:17 +0000	Configure BIND to prefer IPv4 without disabling IPv6	https://www.seei.biz/configure-bind-to-prefer-ipv4-without-disabling-ipv6/

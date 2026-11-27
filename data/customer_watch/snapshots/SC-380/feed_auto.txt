@@ -1,4 +1,6 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+Fri, 27 Nov 2026 07:03:51 GMT	[ipTIME NAS] 단종 NAS와 후속 모델 대응표	https://iptime.com/support/faq/28035
+Fri, 27 Nov 2026 00:59:15 GMT	[펌웨어] ipTIME C300E 펌웨어 37.2.15	https://iptime.com/support/downloads/28034
 Thu, 26 Nov 2026 06:08:12 GMT	[공지] ipTIME 홈캠 보안 점검 권고 사항 조치 안내	https://iptime.com/notices/28033
 Thu, 26 Nov 2026 05:14:18 GMT	[ipTIME 카메라] 홈캠 보안 점검 권고 사항 조치, 안심하고 사용하세요	https://iptime.com/support/faq/28032
 Wed, 25 Nov 2026 04:30:16 GMT	[ipTIME 공유기] 시스템 로그 확인 방법과 자주 나오는 로그의 의미	https://iptime.com/support/faq/28031
@@ -47,5 +49,3 @@ Fri, 20 Nov 2026 01:05:31 GMT	[ipTIME 공유기] 카페·식당 손님용 와이
 Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME 스위칭 허브] 거실 TV·게임기·PC를 유선으로 연결하는 구성	https://iptime.com/support/faq/27987
 Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME NAS] 다른 NAS나 외장하드에서 ipTIME NAS로 데이터 옮기기	https://iptime.com/support/faq/27986
 Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME 공유기] 정전 뒤 인터넷이 안 될 때	https://iptime.com/support/faq/27985
-Fri, 20 Nov 2026 00:59:29 GMT	[ipTIME 공유기] 이사할 때 공유기 옮기고 다시 연결하는 방법	https://iptime.com/support/faq/27984
-Fri, 20 Nov 2026 00:54:06 GMT	[ipTIME 카메라] 홈캠과 CCTV(녹화기) 중 무엇을 선택해야 하나요?	https://iptime.com/support/faq/27983

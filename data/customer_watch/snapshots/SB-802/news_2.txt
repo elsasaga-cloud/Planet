@@ -1,2 +1,2 @@
-# SB-802 baldota.co.in · news_2 · https://baldota.co.in/news-details/25 · fetched 2026-11-25T11:29:08Z · HTTP 500
+# SB-802 baldota.co.in · news_2 · https://baldota.co.in/news-details/25 · fetched 2026-11-27T11:01:47Z · HTTP 500
 🧨 Attempt to read property "title" on null (View: /home1/baldojpr/public_html/resources/views/frontend/pages/news-details.blade.php)

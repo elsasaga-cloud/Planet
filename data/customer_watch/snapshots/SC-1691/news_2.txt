@@ -1,4 +1,4 @@
-# SC-1691 alfacomp.net · news_2 · https://www.alfacomp.net/tp20-transmissor-de-pressao · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-1691 alfacomp.net · news_2 · https://www.alfacomp.net/tp20-transmissor-de-pressao · fetched 2026-11-27T11:01:47Z · HTTP 200
 Transmissor de pressão - TP20
 Soluções Completas em Automação Industrial
 Fale por WhatsApp
@@ -190,30 +190,26 @@ Transmissor de pressão - TP20
 Previous
 Next
 Transmissor de pressão - TP20
-Transmissor de Pressão TP20 — medição de pressão em líquidos e gases com precisão, robustez e o melhor custo-benefício do mercado.
-Permite a medição de pressão em líquidos e gases sob pressão de 100 mbar a 600 bar para aplicações industriais. Corpo em aço inoxidável, compensado em temperatura e saídas em 4–20 mA, I2C, Modbus e HART.
-📄
-Folha de dados do produto
-Especificações completas, dimensões e código de pedido em PDF
-Baixar PDF
-Visão geral
-Características principais
+Transmissor de Pressão
+Transmissor de Pressão TP20
+O transmissor de pressão TP20 mede a pressão de líquidos e gases de 100 mbar a 600 bar em aplicações industriais. Corpo em aço inoxidável, compensação de temperatura e saídas em 4 a 20 mA, I2C, Modbus e HART.
+Baixe a Folha de Dados
+Solicite Orçamento
+Características Principais
 Faixas de medição de 100 mbar a 600 bar
-Precisão de ±0,25% (típ.) / ±0,5% (máx.) Fundo de escala
+Precisão de ±0,25% (típ.) / ±0,5% (máx.) do fundo de escala
 Compensado em temperatura
 Corpo em aço inoxidável
 Diversas formas de conexão de pressão e elétrica
-Saída em 4–20 mA, I2C, Modbus e HART
-Uso
+Saída em 4 a 20 mA, I2C, Modbus e HART
 Aplicações
 Hidráulica e pneumática
 Máquinas industriais
 Bombeamento
 Indústria química
-Ficha técnica
-Especificações técnicas
-Especificação
-Detalhe
+Especificações Técnicas
+Item
+Especificações
 Faixas de medição
 100 mbar a 600 bar
 Precisão (% Fundo de Escala)
@@ -222,8 +218,8 @@ Coef. de temperatura — Zero
 ±0,75% típ. / ±1,5% máx. (FE)
 Coef. de temperatura — Span
 ±0,75% típ. / ±1,5% máx. (FE)
-Estabilidade longo prazo
-±0,3% típ. / ±0,5% máx. (FE)
+Estabilidade a longo prazo
+±0,3% (FE)
 Temperatura de operação
 -20 a +85 °C / 0 a +125 °C
 Temperatura de compensação
@@ -252,9 +248,8 @@ Resistência de carga
 < (V.Alimentação – 12) / 0,02 A (versão 4–20 mA)
 Teste EMC
 IEC 61000-4-2 / IEC 61000-4-3
-Faixas
-Faixas de medição disponíveis
-Pressão Gauge — zero referenciado à pressão atmosférica ambiente (= Pressão Absoluta − Pressão Atmosférica). Pressão Absoluta — zero referenciado ao vácuo perfeito (= Pressão Gauge + Pressão Atmosférica).
+Faixas de Medição Disponíveis
+Pressão Gauge tem o zero referenciado à pressão atmosférica ambiente, ou seja, é igual à Pressão Absoluta menos a pressão atmosférica. Pressão Absoluta tem o zero referenciado ao vácuo perfeito, ou seja, é igual à Pressão Gauge somada à pressão atmosférica.
 Pressão Gauge
 Código
 Faixa (bar)
@@ -349,22 +344,15 @@ Faixa (bar)
 0 … 25
 0044
 0,8 … 1,2
-Como funciona
-Princípio de funcionamento
+Princípio de Funcionamento
 Os transmissores de pressão consistem em três partes: uma membrana elástica que deforma quando exposta à pressão, um transdutor elétrico/eletrônico que detecta a deformação alterando suas propriedades elétricas, e um circuito eletrônico que converte a medição em sinal elétrico para indicadores e controladores. O sensor pode ser do tipo resistivo, capacitivo ou indutivo.
 A versão mais popular utiliza circuito resistivo na forma de strain gauge colado à membrana. A deformação proporcional à pressão resulta em alteração da resistência, que é medida e transformada no sinal de saída. O formato mais utilizado é a saída em corrente de 4 a 20 mA.
 Unidades: 1 bar = 10,197 mca (metros de coluna d'água). O CLP ou controlador que recebe o sinal deve ser parametrizado com os valores máximos e mínimos de pressão da faixa selecionada.
-Aplicação especial
-Transmissor de pressão na medição de nível
+Transmissor de Pressão na Medição de Nível
 Quando há acesso à tubulação de saída na base do reservatório, o transmissor de pressão pode ser utilizado para medição de nível, com as seguintes vantagens em relação ao transmissor de nível hidrostático:
 Menor custo
-Acesso externo e facilitado — em tubulações maiores podem ser utilizados colares de tomada para instalar o sensor
+Acesso externo e facilitado: em tubulações maiores podem ser utilizados colares de tomada para instalar o sensor
 Possibilidade de isolamento galvânico por conexões ou mangueiras plásticas, conferindo mais proteção contra surtos elétricos
-Com faixas de até 600 bar e precisão de ±0,25% , o TP20 é a escolha ideal para aplicações industriais exigentes em hidráulica, pneumática e processos químicos.
-Precisa de um transmissor de pressão para sua aplicação?
-Fale com nosso time técnico.
-WhatsApp Alfacomp
-Alfacomp — Observe. Pense. Solucione. ⚙
 Faça Seu Orçamento
 ENVIAR
 Se preferir entre em contato por WhatsApp ou Telefone
@@ -408,4 +396,20 @@ Soluções de Engenharia
 Contato
 Unidade Porto Alegre/RS:
 Rua Cel. Dico de Barros, 67, Bairro Navegantes. CEP 90.240-090
-Po
+Porto Alegre, RS – Brasil
+Unidade Campinas/SP: Av. Antônio Artioli, 570 Sala 204. Edifício Locarno, Swiss Park.
+CEP 13049-253.
+Campinas, SP – Brasil
+Horário de Atendimento:
+Segunda a Quinta das 08h às 18h
+Sexta das 08h às 17h
+Fale por WhatsApp
+Clique para Ligar
+Alfacomp
+© Copyright 2026 DIVIA Marketing Digital. Todos os Direitos Reservados.
+Preencha para falar pelo Telefone
+FAZER LIGAÇÃO
+Preencha para falar pelo WhatsApp
+CHAMAR NO WHATSAPP
+Fechar
+Selecione o WhatsApp

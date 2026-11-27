@@ -1,4 +1,5 @@
-# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-770 elmark.com.pl · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCsTJBN7fUCaJvaL_dtlsoUA · fetched 2026-11-27T11:01:47Z · HTTP 200
+2026-11-27T07:30:39+00:00	Uruchomienie serwonapędu w kilka minut bez PC	https://www.youtube.com/shorts/w_lwkxtgOP4
 2026-11-26T11:02:33+00:00	Prąd rozruchowy zasilacza LED: skąd się bierze?	https://www.youtube.com/shorts/RfWk8ueWSLE
 2026-11-26T08:30:32+00:00	Jak zabezpieczyć sieć OT farmy fotowoltaicznej i magazynu energii?	https://www.youtube.com/watch?v=p-NlYYYEgkA
 2026-11-26T07:15:07+00:00	Serwo zamiast falownika: stabilne niskie obroty	https://www.youtube.com/shorts/-zcVjuMklvU
@@ -13,4 +14,3 @@
 2026-11-19T15:07:08+00:00	PRP i HSR: bezstratna rekonfiguracja w sieciach OT stacji IEC 61850	https://www.youtube.com/watch?v=ruB-cqGs1JY
 2026-11-19T14:56:04+00:00	Modernizacja oczyszczalni: 7 mln zł zamiast 15 mln	https://www.youtube.com/shorts/VmIBl0Iaaws
 2026-11-18T11:34:18+00:00	Bezpiecznik wybija przy włączaniu LED? Test ogranicznika MEAN WELL ICL	https://www.youtube.com/watch?v=-90qm0VODas
-2026-11-16T09:09:52+00:00	Pierwsze uruchomienie NPort 6000 G2 krok po kroku	https://www.youtube.com/watch?v=WgWSm4f9dkw

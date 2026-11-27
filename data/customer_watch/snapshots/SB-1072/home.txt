@@ -1,4 +1,4 @@
-# SB-1072 securame.com · home · https://www.securame.com/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-1072 securame.com · home · https://www.securame.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 Securame
 Contacte con nosotros
 Servicio al cliente
@@ -27,7 +27,6 @@ Video
 Cámaras Dahua
 Domo 2MP
 Domo 5MP
-Domo 6MP
 Domo 8MP
 Bullet 2MP
 Bullet 5MP
@@ -103,7 +102,6 @@ xvr 4 canales
 xvr 8 canales
 xvr 16 canales
 X-Security
-CÁMARAS PLACAS SOLARES
 Ópticas
 Board (M12)
 Pinhole (M12)
@@ -113,7 +111,7 @@ Varifocal manual
 Cajas fuertes / Arcón
 Videoconferencia
 Termográficas
-Extensores
+Teclados y Joystick para CCTV
 Intrusión
 Alarmas
 Ajax
@@ -306,7 +304,6 @@ Video
 Cámaras Dahua
 Domo 2MP
 Domo 5MP
-Domo 6MP
 Domo 8MP
 Bullet 2MP
 Bullet 5MP
@@ -382,7 +379,6 @@ xvr 4 canales
 xvr 8 canales
 xvr 16 canales
 X-Security
-CÁMARAS PLACAS SOLARES
 Ópticas
 Board (M12)
 Pinhole (M12)
@@ -392,7 +388,7 @@ Varifocal manual
 Cajas fuertes / Arcón
 Videoconferencia
 Termográficas
-Extensores
+Teclados y Joystick para CCTV
 Intrusión
 Alarmas
 Ajax
@@ -766,4 +762,4 @@ Propósito
 Caducidad
 PHP_SESSID
 www.securame.com
-La cookie dos. En el sitio web se utiliza para establecer una sesión de usuario y para pasar los datos de estado a través
+La cookie dos. En el sitio web se utiliza para establecer una sesión de usuario y para pasar los datos de estado a través de una cookie temporal, q

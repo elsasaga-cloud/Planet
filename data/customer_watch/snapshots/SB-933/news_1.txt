@@ -1,4 +1,4 @@
-# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-933 airlive.com · news_1 · https://www.airlive.com/news.php · fetched 2026-11-27T11:01:47Z · HTTP 200
 wifi6 MESH Router|AirLive|Managed Switch|5G|Your best choice of Smart Network Solution - News 鑫志科技
 Open Navigation Search
 AirCloud
@@ -51,13 +51,16 @@ AirCore Windows Updates
 Press Review and Award
 Event
 EDM
-AirCore Windows 2.19.11
-2026/11/13
+AirCore Windows 2.19.12
+2026/11/27
 AirCore Windows Updates
-AirCoreWin Companion 2.19.11
-Headline changes (4 new features + 6 fixes, built from 12 commits already merged and reviewed on the shipping branch):
-New
-- Local recording: merge multiple local camera-recording segments into a single .mp4 file on thi
+AirCoreWin 2.19.12
+Fixed:
+- All Devices summary captions now say "this site" instead of "site + unassigned"
+- Localized 6 remaining code-behind hardcoded status strings
+Added:
+- Multi-level map floor navigation
+- Map door control and linked camera
 Social
 Facebook
 Youtube

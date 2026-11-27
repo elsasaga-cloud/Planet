@@ -1,4 +1,4 @@
-# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SC-380 iptime.com · sitemap · https://iptime.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
 	https://iptime.com/
 	https://iptime.com/products
 	https://iptime.com/notices
@@ -34,9 +34,7 @@
 	https://iptime.com/products?cat=lancard
 	https://iptime.com/products?cat=accessory
 	https://iptime.com/products?cat=discontinued
-2026-11-03T09:50:13.180Z	https://iptime.com/products/compare
-2026-11-25T05:10:32.108Z	https://iptime.com/products/compare-table
-2026-11-06T05:38:52.441Z	https://iptime.com/products/compare-nas
+2026-11-27T05:52:58.352Z	https://iptime.com/products/compare-nas
 2026-11-24T01:02:24.624Z	https://iptime.com/products/compare-ipcam
 2026-11-06T05:42:24.827Z	https://iptime.com/products/compare-router
 2026-11-17T02:11:50.068Z	https://iptime.com/products/compare-ap
@@ -219,4 +217,7 @@
 2026-11-13T02:24:35.960Z	https://iptime.com/products/188
 2026-11-13T02:24:35.960Z	https://iptime.com/products/189
 2026-11-13T02:24:35.960Z	https://iptime.com/products/190
-2026-08-31T07:19:32.851Z	https://iptime.com/products/19
+2026-08-31T07:19:32.851Z	https://iptime.com/products/191
+2026-11-13T02:24:35.960Z	https://iptime.com/products/192
+2026-11-13T02:24:35.960Z	https://iptime.com/products/193
+2026-11-13T0

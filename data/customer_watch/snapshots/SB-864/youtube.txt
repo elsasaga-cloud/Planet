@@ -1,4 +1,4 @@
-# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SB-864 dacelsolutions.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCs4ygVVJksvG3FTj7K_mZYw · fetched 2026-11-27T11:01:47Z · HTTP 200
 2026-11-25T14:00:31+00:00	PLC Counter Nedir? Sayı Neden Yalnız Bir Artıyor?	https://www.youtube.com/shorts/TJPgqdQSZMI
 2026-11-23T14:00:34+00:00	PLC Timer Nedir? Valf Üç Saniye Dolunca Nasıl Açılır?	https://www.youtube.com/shorts/VbbqxIFGS7g
 2026-11-21T14:00:35+00:00	Ladder Diyagram Nasıl Okunur? Kontak ve Bobin Ne İşe Yarar?	https://www.youtube.com/shorts/ablKYHdRnJo

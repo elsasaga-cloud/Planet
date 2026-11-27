@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-26T11:08:06Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-27T11:01:47Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
+UPS Micro Pro LCD
+Eurogroup Micro Pro LCD 1000: UPS 1000 VA / 600 W | MLPMM100010T
+Esegui l'accesso per visualizzare i prezzi
++
+L3
+Planet SGS-6310-24P4X: Switch Managed L3 Stackable con 24 Porte 10/100/1000T PoE+ e 4 Porte 10G SFP+
+Esegui l'accesso per visualizzare i prezzi
++
 Esaurito
-Armadi 800x800
-Armadio Rack a Pavimento 22U 800×800 Porta in Vetro RAL 9004 | 4Net
+L3
+PLANET DCS-7342-32C switch data center Layer 3 32x100G QSFP28
 Esegui l'accesso per visualizzare i prezzi
 +
-Patch Cord Cat 6
-4Net Patch Cord Cat 6 U/UTP 3 m LSZH verde | CP06UTP30V
+UPS Third Power / Third Power Plus – Rack/Tower: gruppi di continuità on-line a doppia conversione
+UPS Rack/Tower 4000 VA / 4000 W (4U) Third Power Plus | Eurogroup
 Esegui l'accesso per visualizzare i prezzi
 +
-Armadi 600x1000
-Armadio Rack a Pavimento 42U 600×1000 Porta in Vetro RAL 9004 | 4Net
+Stabilizzatori elettromeccanici monofase
+Stabilizzatore Di Tensione Elettromeccanico Monofase 5 Kva ±20%
 Esegui l'accesso per visualizzare i prezzi
 +
-Unmanaged
-Media Converter 10/100/1000T A 1000Lx (Sc, Sm) -60Km
+Patch Cord Cat 6A
+4Net Patch Cord Cat 6A U/UTP 3 m LSZH nero | CP6AUUTP30N
 Esegui l'accesso per visualizzare i prezzi
 +
-Kit Montaggio Rack
-Coppia Alette Per Montaggio Rack 19” Blu Scuro
+L3
+Planet SGS-6310-48T6X: Switch Layer 3 stackable, 48 Gigabit + 6 SFP+ 10G
 Esegui l'accesso per visualizzare i prezzi
 +
-48V DC
-4Net 4N-PWR480-48: alimentatore industriale 48 V 480 W su guida DIN
-Esegui l'accesso per visualizzare i prezzi
-+
-Passacavi, Pannelli ciechi e Barra di alimentazione
-Canalina Alimentazione 6 Prese + Interruttore Luminoso
-Esegui l'accesso per visualizzare i prezzi
-+
-10 GB
-PLANET MTB-TLA20: SFP+ 10GBASE-BX single-mode 20 km TX1270/RX1330, -40~85 °C
+UPS Third Power Trifase 40000-200000
+Eurogroup Third Power TT160: UPS trifase 160 kVA / 160 kW | THPTT160K00T
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta
