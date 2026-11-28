@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · news_2 · https://www.ltsecurityinc.com.au/blog/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Ajax Multi-transmitter
 Trade Register
 Products
@@ -103,14 +103,29 @@ News
 Contact Us
 Support
 Webinars
-Kits & Bundles
-Ajax Alarm
-Ajax CCTV
-Akuvox Intercom
+Intercom & Access Control
 LTS Intercom
-LTS Platinum CCTV
-LTS PRO-X CCTV
-Solar
+2-Wire
+Brackets & Accessories
+IP
+Video Doorbell
+Access Control
+Akuvox
+Accessories
+Access Control
+Brackets
+Door Stations
+Health Care
+Indoor Monitors
+2-Wire
+Armatura
+Accessories
+Biometrics
+Control Units
+Credentials
+Licenses
+Readers
+Universal / Lift Controllers
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -175,29 +190,14 @@ CCTV Kits
 NVRs
 EZVIZ
 Clearance Items
-Intercom & Access Control
-Akuvox
-Accessories
-Access Control
-Brackets
-Door Stations
-Health Care
-Indoor Monitors
-2-Wire
-Armatura
-Accessories
-Biometrics
-Control Units
-Credentials
-Licenses
-Readers
+Kits & Bundles
+Ajax Alarm
+Ajax CCTV
+Akuvox Intercom
 LTS Intercom
-2-Wire
-Brackets & Accessories
-IP
-Video Doorbell
-Access Control
-Universal / Lift Controllers
+LTS Platinum CCTV
+LTS PRO-X CCTV
+Solar
 Monitors & Displays
 Advertising Screens
 LCD Brackets

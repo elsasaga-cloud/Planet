@@ -1,4 +1,4 @@
-# SB-216 ltsecurityinc.com.au · home · https://www.ltsecurityinc.com.au/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-216 ltsecurityinc.com.au · home · https://www.ltsecurityinc.com.au/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Security Cameras & CCTV Distributor Australia | LTS Security
 Trade Register
 Products
@@ -103,14 +103,6 @@ News
 Contact Us
 Support
 Webinars
-Kits & Bundles
-Ajax Alarm
-Ajax CCTV
-Akuvox Intercom
-LTS Intercom
-LTS Platinum CCTV
-LTS PRO-X CCTV
-Solar
 Alarms & Home Automation
 Ajax Wireless
 Accessories
@@ -198,6 +190,14 @@ IP
 Video Doorbell
 Access Control
 Universal / Lift Controllers
+Kits & Bundles
+Ajax Alarm
+Ajax CCTV
+Akuvox Intercom
+LTS Intercom
+LTS Platinum CCTV
+LTS PRO-X CCTV
+Solar
 Monitors & Displays
 Advertising Screens
 LCD Brackets

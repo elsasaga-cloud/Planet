@@ -1,4 +1,4 @@
-# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-2718 mercasat.es · home · https://www.mercasat.es/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Distribuidor de Seguridad y Telecomunicaciones | Mercasat
 952 10 57 37
 
@@ -373,6 +373,20 @@ Anterior
 Siguiente
 Mercasat distribuidor de productos de seguridad y telecomunicaciones
 Novedades
+RG-CAP62-WP
+Punto de acceso WiFi 6 de pared AX3000 PoE Ruijie Cybrey
+Ruijie Cybrey
+Punto de acceso Wi-Fi 6 AX3000
+Doble radio 2x2 MU-MIMO 2,4 y 5GHz
+Uplink 2,5G con PoE in y 4 puertos LAN
+Un puerto LAN PoE out para IP phone
+Hasta 1024 clientes; 64 recomendados
+Precio
+434,48 €
+
+Añadir al carrito
+Nuevo
+ Vista rápida
 RG-ANT90-T6
 Antena WiFi sectorial tribanda exterior 6 puertos IP55 Ruijie Cybrey
 Ruijie Cybrey
@@ -466,20 +480,6 @@ Mantenimiento Cloud
 Conexión de monitor y placas por Cloud
 Precio
 143,99 €
-
-Añadir al carrito
-Nuevo
- Vista rápida
-AK-E12W-BLACK
-Videoportero IP WiFi 2 Mpx PoE Akuvox Negro
-Videoportero IP en superficie
-Cámara 2 Mpx | Audio bidireccional
-Apertura tarjeta MF, NFC y BLE | 1 relé
-PoE, WiFi, SIP estándar
-Mantenimiento Cloud
-Conexión de monitor y placas Cloud
-Precio
-157,54 €
 
 Añadir al carrito
 Nuevo

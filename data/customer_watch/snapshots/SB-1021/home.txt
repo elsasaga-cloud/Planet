@@ -1,4 +1,4 @@
-# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-1021 cyberbajt.pl · home · https://www.cyberbajt.pl/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Cyberbajt Wireless, Światłowody, MikroTik, Ubiquiti, Anteny WiFi i LTE, Monitoring
 Koszyk
 Kontakt
@@ -61,13 +61,13 @@ Modemy LTE/5G 8
 Lokalizatory GPS 9
 Teltonika 119
 VDSL, G.SHDSL, ADSL 1
-Światłowody (5124)
-Wszystkie 5124
+Światłowody (5125)
+Wszystkie 5125
 Kable DAC/AOC SFP+ QSFP+ SFP28 QSFP28 117
 Kable światłowodowe 1029
 Patchcordy światłowodowe 1339
 Pigtaile światłowodowe 118
-Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 383
+Moduły optyczne SFP, SFP+, QSFP+, SFP28, QSFP28 384
 Adaptery światłowodowe 128
 Budowa sieci optotelekomunikacyjnej 369
 Spawarki światłowodowe i akcesoria 50

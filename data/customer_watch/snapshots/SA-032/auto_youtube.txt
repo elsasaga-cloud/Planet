@@ -1,4 +1,7 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · auto_youtube · https://www.youtube.com/@SUNDARTECHNOSOLUTIONS · fetched 2026-11-28T10:38:53Z · HTTP 200
+2026-11-27T14:38:38+00:00	STS 14-Inch Rugged Laptop 360° Walkaround | Intel Core Ultra 5, IP65 & 1,000-Nit Touchscreen	https://www.youtube.com/watch?v=aLXg-N62Ong
+2026-11-27T12:52:32+00:00	Suggested title: Half-Length ISA SBC for a Legacy CNC Wire EDM Controller | Sundar Techno Solutions	https://www.youtube.com/watch?v=jPRyF7dcAW4
+2026-11-27T11:45:36+00:00	Legacy PCI DAQ Cards on a 12th Gen Industrial PC | STS-680H 4U Rack PC_SUNDAR TECHNO SOLUTIONS_INDIA	https://www.youtube.com/shorts/Xm3-DkXVpGo
 2026-11-25T13:57:08+00:00	14-Inch Rugged Laptop with 64 GB RAM | How Intel Shared Graphics Works | STS_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/shorts/ANnUD7a7N_8
 2026-11-24T14:40:30+00:00	USB Port Speeds Explained | 480 Mbps to 80 Gbps for Industrial PCs_SUNDAR TECHNO SOLUTIONS INDIA	https://www.youtube.com/shorts/k1aL4N_o4UM
 2026-11-24T12:31:04+00:00	HL7 Hospital Interface Computer | RS-232 Lab Analyser to LIS | Linux & Node-RED Demo_SUNDAR TECHNO	https://www.youtube.com/shorts/APne09RGy2Y
@@ -11,6 +14,3 @@
 2026-11-17T15:57:04+00:00	STS RUGGED LAPTOPS FOR MARITIME INSPECTION | LIVE UNDERWATER MONITORING_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/watch?v=TIFEW4I8xVw
 2026-11-17T15:08:43+00:00	RUGGED LAPTOPS & TABLETS FOR DISASTER RESPONSE | SUNDAR TECHNO SOLUTIONS_USING DRONES	https://www.youtube.com/watch?v=AtRLx21e7x8
 2026-11-17T10:44:00+00:00	STS Industrial Powerline Ethernet Bridge Ethernet Over Existing Power Wiring_SUNDAR TECHNO SOLUTIONS	https://www.youtube.com/watch?v=8d4s2m2cAa8
-2026-11-17T09:22:01+00:00	STS AIoT Gateway | Intel N100 + Hailo-8 + Node-RED Industrial Edge AI_SUNDAR TECHNO SOLUTIONS_INDIA	https://www.youtube.com/shorts/_dAJaFmGiYY
-2026-11-16T14:03:53+00:00	🏭 STS EMBEDDED INDUSTRIAL BOX PC AS SOFT PLC WITH OpenPLC & USB DAQ_SUNDAR TECHNO SOLUTIONS_INDIA	https://www.youtube.com/shorts/UR8fj-2Ak3s
-2026-11-16T13:00:33+00:00	🏭 STS IPC AS SOFT PLC WITH CODESYS Control RTE SL_SUNDAR TECHNO SOLUTIONS_BANGALORE_INDIA	https://www.youtube.com/shorts/bch3PHiZTiQ

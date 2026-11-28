@@ -1,4 +1,4 @@
-# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-409 xlrsecurity.com · sitemap · https://www.xlrsecurity.com/sitemap.xml · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-11-19T02:03:31+00:00	https://www.xlrsecurity.com/
 2026-08-16T20:13:21+00:00	https://www.xlrsecurity.com/blog/
 2026-11-19T02:04:28+00:00	https://www.xlrsecurity.com/hdd-calculator/
@@ -35,18 +35,25 @@
 2025-04-17T19:27:42+00:00	https://www.xlrsecurity.com/warehouses-factories/
 2023-03-17T18:33:16+00:00	https://www.xlrsecurity.com/alarm-intrusion/
 2023-02-01T22:26:43+00:00	https://www.xlrsecurity.com/access-control/
+2026-11-27T22:25:07+00:00	https://www.xlrsecurity.com/product/xvr301-08q4/
+2026-11-27T21:25:41+00:00	https://www.xlrsecurity.com/product/ipc2b18ss-adf28kmc-i1/
+2026-11-27T19:44:28+00:00	https://www.xlrsecurity.com/blog/uniview-tri-guard-series/
+2026-11-27T18:26:34+00:00	https://www.xlrsecurity.com/product/ipc94144sfw-x25-f40c/
+2026-11-27T18:26:34+00:00	https://www.xlrsecurity.com/product/nvr502-16b-p16-iq/
+2026-11-27T18:26:34+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky6tb/
+2026-11-27T18:26:33+00:00	https://www.xlrsecurity.com/product/ae-tr-up08-a/
+2026-11-27T03:25:18+00:00	https://www.xlrsecurity.com/product/tr-jb06-a-in/
+2026-11-27T03:25:18+00:00	https://www.xlrsecurity.com/product/ed-525b-wb/
+2026-11-27T03:25:18+00:00	https://www.xlrsecurity.com/product/ed-r1/
 2026-11-26T22:10:03+00:00	https://www.xlrsecurity.com/product/ipc3638ss-adf28kmc-i1-bk/
 2026-11-26T22:09:45+00:00	https://www.xlrsecurity.com/product/ipc3638ss-adf28kmc-i1/
 2026-11-26T21:25:56+00:00	https://www.xlrsecurity.com/product/tr-jb12-in-outdoor-weatherproof-enclosure/
 2026-11-26T18:51:01+00:00	https://www.xlrsecurity.com/product/ipc3635sr3-adpz-f/
 2026-11-26T18:51:00+00:00	https://www.xlrsecurity.com/product/ipc3634sr3-adzk-g/
 2026-11-26T18:51:00+00:00	https://www.xlrsecurity.com/product/ipc3634sr4-adzk-h/
-2026-11-26T07:25:50+00:00	https://www.xlrsecurity.com/product/tr-jb06-a-in/
 2026-11-26T07:25:50+00:00	https://www.xlrsecurity.com/product/ipc3624sr-adf28km-wp-bk/
 2026-11-26T07:25:49+00:00	https://www.xlrsecurity.com/product/nvr504-32b-p16/
 2026-11-26T07:25:49+00:00	https://www.xlrsecurity.com/product/tic2a32sa-f10-4f8ac-i1/
-2026-11-25T21:26:00+00:00	https://www.xlrsecurity.com/product/ed-525b-wb/
-2026-11-25T21:26:00+00:00	https://www.xlrsecurity.com/product/ed-r1/
 2026-11-25T17:10:30+00:00	https://www.xlrsecurity.com/product/ec-t4f28m-dl/
 2026-11-24T22:21:32+00:00	https://www.xlrsecurity.com/product/unv-kit-301-p8-6t4dl-2tb/
 2026-11-24T22:21:08+00:00	https://www.xlrsecurity.com/product/unv-kit-301-p4-4t4dl-1tb/
@@ -54,7 +61,6 @@
 2026-11-24T21:49:02+00:00	https://www.xlrsecurity.com/product/ipc6434lr-x16-vg1/
 2026-11-24T18:26:32+00:00	https://www.xlrsecurity.com/product/lcs-16gs-p/
 2026-11-24T08:26:14+00:00	https://www.xlrsecurity.com/product/ipc3534sr4-adzk-h/
-2026-11-24T08:26:13+00:00	https://www.xlrsecurity.com/product/ipc94144sfw-x25-f40c/
 2026-11-20T20:25:25+00:00	https://www.xlrsecurity.com/product/nvr502-08b-p8/
 2026-11-20T19:25:23+00:00	https://www.xlrsecurity.com/product/ipc3224ss-adf28k-i1/
 2026-11-20T19:25:22+00:00	https://www.xlrsecurity.com/product/ae-tr-jb07-in/
@@ -105,7 +111,6 @@
 2026-11-09T16:06:00+00:00	https://www.xlrsecurity.com/product/l7lite/
 2026-11-03T10:25:16+00:00	https://www.xlrsecurity.com/product/ipc3624sr-adf28km-wp/
 2026-11-02T15:25:21+00:00	https://www.xlrsecurity.com/product/lcst-8gt2sfp-hp/
-2026-11-02T10:25:38+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky6tb/
 2026-11-02T10:25:38+00:00	https://www.xlrsecurity.com/product/hdd-sg-sky4tb/
 2026-11-01T21:46:54+00:00	https://www.xlrsecurity.com/product/hdd-tos-dt02vh-6tb/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-cm24-in/
@@ -113,7 +118,6 @@
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-sm04-in/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-uc08-a/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-up06-b/
-2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-up08-a/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-we45-a/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-we45-b/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/ae-tr-wm03-b/
@@ -138,7 +142,6 @@
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-jb03-i-in-bk/
 2026-11-01T19:35:05+00:00	https://www.xlrsecurity.com/product/tr-up06-c-in/
 2026-10-31T04:25:49+00:00	https://www.xlrsecurity.com/product/ipc3628sr-adf28km-wp/
-2026-10-29T20:25:37+00:00	https://www.xlrsecurity.com/product/xvr301-08q4/
 2026-10-29T14:37:18+00:00	https://www.xlrsecurity.com/product/tic3612sa-f7-4f6ac-i1/
 2026-10-28T05:25:42+00:00	https://www.xlrsecurity.com/product/ipc3k28se-adf28kmc-dl-i0/
 2026-10-27T17:25:32+00:00	https://www.xlrsecurity.com/product/xlr-pwr-24vac/
@@ -148,11 +151,8 @@
 2026-10-23T13:25:37+00:00	https://www.xlrsecurity.com/product/rg-rap1260/
 2026-10-19T18:25:35+00:00	https://www.xlrsecurity.com/product/pn-pd1001t/
 2026-10-19T18:25:34+00:00	https://www.xlrsecurity.com/product/xlr-pwr-18ch10a/
-2026-10-19T17:25:41+00:00	https://www.xlrsecurity.com/product/ipc2b18ss-adf28kmc-i1/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr824-256r/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr504-16b-p16/
-2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr502-16b-p16-iq/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr516-128e-r/
 2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/xvr302-16q4/
-2026-10-16T15:20:51+00:00	https://www.xlrsecurity.com/product/nvr504-32e-im/
-2026-10-16
+20

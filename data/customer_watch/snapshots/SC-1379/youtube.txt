@@ -1,4 +1,6 @@
-# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-1379 parks.com.br · youtube · https://www.youtube.com/@parksbrasil · fetched 2026-11-28T10:38:53Z · HTTP 200
+2026-11-27T19:55:42+00:00	Alimente Câmeras e Access Points com uma ONU PoE Fiberlink 4301 de 4 Portas #shorts	https://www.youtube.com/shorts/5LLwDc7mdgY
+2026-11-27T14:47:36+00:00	Como Grandes Operadoras Criam Produtos B2B #shorts	https://www.youtube.com/shorts/Pj1dTEOusF0
 2026-11-25T14:41:20+00:00	Transforme o Wi-Fi em uma Máquina de Captar Clientes #shorts	https://www.youtube.com/shorts/0zpHFd03b-Y
 2026-11-24T21:56:26+00:00	Provedores: o NOVO BOOM está nos serviços B2B #shorts	https://www.youtube.com/shorts/lb71Cfyp7ag
 2026-11-24T14:41:38+00:00	Wi-Fi Gerenciado com o PK-AP3000: Mais Conexão e Alcance para Pequenos Negócios #shorts	https://www.youtube.com/shorts/Q2iZh_Fiy4I
@@ -12,5 +14,3 @@
 2026-11-04T21:01:29+00:00	PK3000 Plus: Mais Eficiência, Menor Custo de Energia #shorts	https://www.youtube.com/shorts/ySn28FvqKyw
 2026-11-03T20:24:18+00:00	Conheça o Switch PK700-8T2S: 8 Portas Gigabit e Agregação de Link #shorts	https://www.youtube.com/shorts/mnTFzx4vOpI
 2026-10-30T14:49:26+00:00	Conheça os Switches SFP+ de 10 Gigabits e Seus Recursos L3 #shorts	https://www.youtube.com/shorts/xpY_a8A1E6I
-2026-10-29T20:49:23+00:00	Por que as Operadoras Escolhem L2 para Reduzir Custos? #shorts	https://www.youtube.com/shorts/XxRhN2Xv-WA
-2026-10-29T20:30:06+00:00	Como entregar links dedicados com Switch EDD Parks	https://www.youtube.com/watch?v=n_MKUpOpdUI

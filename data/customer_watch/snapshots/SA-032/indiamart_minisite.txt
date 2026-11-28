@@ -1,4 +1,4 @@
-# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · indiamart_minisite · https://www.sundartechno.in/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SA-032 Sundar Techno Solutions Pvt. Ltd.（班加罗尔，工业 PC/自动化，Volktek 代理） · indiamart_minisite · https://www.sundartechno.in/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Sundar Techno Solutions - Exporter & Manufacturer of Industrial PC from Bengaluru
 Sundar Techno Solutions
 Bengaluru, Karnataka
@@ -8,13 +8,13 @@ Payment Protected
 Call 08047641506 89% Response Rate
 SEND EMAIL
 X
-Windows Iot Core Operating System Based Single Board Computer Price: ₹ 8,500 / Piece
+STS-SBC-12GNSS Industrial Single Board Computer Nano-ITX Price: ₹ 19,000 / Piece
 Get Best Quote
 EMBEDDED COMPUTING PRODUCTS PORTWELL Price: ₹ 25,000 / Piece
 Get Best Quote
 GPIO Industrial PC Price: ₹ 50,000 / Piece
 Get Best Quote
-C&T RCO-6000-CML-2C FANLESS EMBEDDED COMPUTER Price: ₹ 1.50 Lakh / Piece
+Industrial Grade Fanless Embedded Computer with PCI slot / PCIe slot Box PC Price: ₹ 45,000 / Piece
 Get Best Quote
 STS Rail Computer Transportation EN50155 IBASE Model: MPT-7000V BOX PC Price: ₹ 90,000 / Piece
 Get Best Quote
@@ -40,19 +40,19 @@ Embedded Computing
 Tablet Pc
 Kvm Switches
 Rugged Computer
+Industrial Grade Mother Board
 Single Board Computer
 MEDIA CONVERTER
 Rugged Tablet
 Protocol Converter
 ARTIFICIAL INTELLIGENCE INDUSTRIAL COMPUTER
-Industrial Grade Mother Board
-Tough Book Panasonic
 Industrial Grade Ethernet Switch
+Tough Book Panasonic
 RACK MOUNT CHASSIS
-INDUSTRIAL MONITOR
 Network Switch
-Industrial POE Switch
+INDUSTRIAL MONITOR
 KVM Console
+Industrial POE Switch
 Embedded Industrial BOX PC
 Unmanaged Industrial Grade Ethernet Switch
 INDUSTRIAL EMBEDDED BOX PC
@@ -63,24 +63,24 @@ INDUSTRIAL Embedded Computer
 Network Appliance Processor
 IOT GATEWAY
 RUGGED TABLET ANDROID
-INDUSTRIAL MOTHER BOARD
-Sensors
 Modules
+INDUSTRIAL MOTHER BOARD
 ABB PRODUCTS
+Sensors
 HMI
-Computer Mouse
 COM Express Carrier Board
 Profinet Switch
 Lite Managed Switch
+Computer Mouse
 Toughpad Panasonic
 Human Machine Interface
-Fiber Optic Converter
 PLC System
+Fiber Optic Converter
 Gps Antenna
+INDUSTRIAL TOUCH PANEL PC
 Intelligent Transportation Processor
 SENSOR
 Lcd Monitor
-INDUSTRIAL TOUCH PANEL PC
 Fiber Media Converter
 Poe Switch
 MODULAR EMBEDDED IPC
@@ -95,32 +95,32 @@ COM express Module
 Wifi Router
 Switch Mode Power Supply
 KVM EXTENDER
-INDUSTRILA KEYBOARD
-Touch Screen Panel
-Keyboard
-Laptop
 Poe Injector
+Touch Screen Panel
+SIM BONDING DEVICE 5G DUAL SIM
+INDUSTRILA KEYBOARD
+Laptop
 RUGGED MILITARY DISPLAY
+Keyboard
 Flat Panel Display
 INDUSTRIAL SWITCH
 Computer Servers
 ATM KEYPAD
+Mobile Computer
 Control Card
 5G SIM DONGLE WITH DUAL SIM
 Ethernet Adapter
 Home Appliances
 Total Station
-Mobile Computer
 PCI
 Profibus Connectors
 Computer Power Supply
-SIM BONDING DEVICE 5G DUAL SIM
 New Items
 Contact Us
-Windows Iot Core Operating System Based Single Board Computer
+STS-SBC-12GNSS Industrial Single Board Computer Nano-ITX
 EMBEDDED COMPUTING PRODUCTS PORTWELL
 GPIO Industrial PC
-C&T RCO-6000-CML-2C FANLESS EMBEDDED COMPUTER
+Industrial Grade Fanless Embedded Computer with PCI slot / PCIe...
 STS Rail Computer Transportation EN50155 IBASE Model: MPT-7000V BOX...
 STS 8-Port 10/100/1000BASE-TX+4G SFP Managed Industrial PoE Switch
 FZ55 Panasonic Toughbook Rugged Laptop 13th Generation
@@ -187,7 +187,7 @@ Embedded Computing
 Tablet Pc
 Kvm Switches
 Rugged Computer
-Single Board Computer
+Industrial Grade Mother Board
 +View All
 See All Products
 Click Here

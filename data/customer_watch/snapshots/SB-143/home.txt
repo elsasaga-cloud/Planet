@@ -1,4 +1,4 @@
-# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-143 broadstar.com · home · https://www.broadstar.com/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Bulk Fiber Internet, TV and Phone for Florida Communities | Broadstar
 Skip to content
 Menu
@@ -171,8 +171,8 @@ Your Name * First
 Last
 Email *
 Phone *
+Email Units Contract
 Community or Property Name *
-Your (if Property
 Your Role * Board President
 Board Member
 Property Manager

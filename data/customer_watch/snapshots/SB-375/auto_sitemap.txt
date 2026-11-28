@@ -1,4 +1,4 @@
-# SB-375 Delta Consulting LLC（第比利斯，系统集成 + AS209786） · auto_sitemap · https://www.dc.ge/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 403
+# SB-375 Delta Consulting LLC（第比利斯，系统集成 + AS209786） · auto_sitemap · https://www.dc.ge/sitemap.xml · fetched 2026-11-28T10:38:53Z · HTTP 403
 {
 "message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
 }

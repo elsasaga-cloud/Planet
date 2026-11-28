@@ -1,4 +1,4 @@
-# SB-131 DE secure · sitemap · https://desecuretechnology.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-131 DE secure · sitemap · https://desecuretechnology.com/sitemap.xml · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-11-12T00:00:00.000Z	https://desecuretechnology.com/
 2026-11-12T00:00:00.000Z	https://desecuretechnology.com/cozumler/
 2026-11-12T00:00:00.000Z	https://desecuretechnology.com/cozumler/ai-guvenlik-teknolojileri/
@@ -34,6 +34,7 @@
 2026-11-12T00:00:00.000Z	https://desecuretechnology.com/kvkk/aydinlatma-metni/
 2026-11-12T00:00:00.000Z	https://desecuretechnology.com/kvkk/cerez-politikasi/
 2026-11-12T00:00:00.000Z	https://desecuretechnology.com/kvkk/ilgili-kisi-basvuru-formu/
+2026-11-27T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/tesis-guvenlik-kesfi-sorulacak-sorular/
 2026-11-18T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/7-24-tek-nokta-kac-guvenlik-gorevlisi/
 2026-11-18T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/enerji-santralinde-ozel-guvenlik-zorunlu-mu/
 2026-11-18T00:00:00.000Z	https://desecuretechnology.com/kaynaklar/blog/guvenlik-firmasindan-istenecek-belgeler/

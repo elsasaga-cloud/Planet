@@ -1,4 +1,4 @@
-# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-1052 lan.hu · home · https://lan.hu/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 LAN Számítástecnikai Szolgáltató Kft.
 Ugrás a fő tartalomhoz
 Visszajelzés a kisegítő lehetőségekről
@@ -39,39 +39,6 @@ termék
 Kosár
 Tovább a kosárhoz
 Legújabb termékek
-SFTP Cat6A patch kábel 5 m PUR DK-1644-A-PUR-050
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: TA-PFTP050C6APU
-Ár:
-4.265 Ft + ÁFA
-(5.417 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-SFTP Cat6A patch kábel 3 m PUR DK-1644-A-PUR-030
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: TA-PFTP030C6APU
-Ár:
-2.710 Ft + ÁFA
-(3.442 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-SFTP Cat6A patch kábel 7 m PUR DK-1644-A-PUR-070
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: TA-PFTP070C6APU
-Ár:
-6.110 Ft + ÁFA
-(7.760 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 SFTP Cat6A patch kábel 10 m PUR DK-1644-A-PUR-100
 ÚJDONSÁG!
 Villámnézet
@@ -138,6 +105,39 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+SFTP Cat6A patch kábel 5 m PUR DK-1644-A-PUR-050
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP050C6APU
+Ár:
+4.265 Ft + ÁFA
+(5.417 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 3 m PUR DK-1644-A-PUR-030
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP030C6APU
+Ár:
+2.710 Ft + ÁFA
+(3.442 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+SFTP Cat6A patch kábel 7 m PUR DK-1644-A-PUR-070
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: TA-PFTP070C6APU
+Ár:
+6.110 Ft + ÁFA
+(7.760 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Industrial Gigabit Media Converter SM SC, 1310nm, up to 20 km DN-652102-1
 ÚJDONSÁG!
 Villámnézet
@@ -157,17 +157,6 @@ Cikkszám: HDIG-DN-652103
 23.939 Ft + ÁFA
 (30.403 Ft)
 Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial Power Supply 48V DC DN-PWR12048
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-PWR1204
-Ár:
-17.032 Ft + ÁFA
-(21.631 Ft)
-1 db raktáron
 db
 Kosárba
 Részletek
@@ -259,25 +248,14 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 16+2 port Gigabit Switch DN-651138
+Industrial Power Supply 48V DC DN-PWR12048
 ÚJDONSÁG!
 Villámnézet
-Cikkszám: HDIG-DN-651138
+Cikkszám: HDIG-DN-PWR1204
 Ár:
-108.615 Ft + ÁFA
-(137.941 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 4+2 port Gigabit PoE switch DN-651149
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651149
-Ár:
-43.785 Ft + ÁFA
-(55.607 Ft)
-Előrendelhető h
+17.032 Ft + ÁFA
+(21.631 Ft)
+1 db raktáron
 db
 Kosárba
 Részletek
@@ -325,17 +303,6 @@ Előrendelhető h
 db
 Kosárba
 Részletek
-Industrial 8 + 4 10G Gigabit PoE switch DN-651161
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651161
-Ár:
-161.135 Ft + ÁFA
-(204.641 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
 Industrial 4 port Gigabit PoE Switch DN-651135
 ÚJDONSÁG!
 Villámnézet
@@ -343,28 +310,6 @@ Cikkszám: HDIG-DN-651135
 Ár:
 41.879 Ft + ÁFA
 (53.186 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2-Port L2 Gigabit switch DN-651158
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651158
-Ár:
-135.783 Ft + ÁFA
-(172.444 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-Industrial 16+2-Port L2 Gigabit PoE DN-651159
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-651159
-Ár:
-150.393 Ft + ÁFA
-(190.999 Ft)
 Előrendelhető h
 db
 Kosárba
@@ -402,6 +347,61 @@ Előrendelhető h
 db
 Kosárba
 Részletek
+Industrial 16+2 port Gigabit Switch DN-651138
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651138
+Ár:
+108.615 Ft + ÁFA
+(137.941 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 4+2 port Gigabit PoE switch DN-651149
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651149
+Ár:
+43.785 Ft + ÁFA
+(55.607 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 8 + 4 10G Gigabit PoE switch DN-651161
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651161
+Ár:
+161.135 Ft + ÁFA
+(204.641 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 16+2-Port L2 Gigabit switch DN-651158
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651158
+Ár:
+135.783 Ft + ÁFA
+(172.444 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Industrial 16+2-Port L2 Gigabit PoE DN-651159
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-651159
+Ár:
+150.393 Ft + ÁFA
+(190.999 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
 Tooltest - 4p,6p,8p fogó + teszter
 ÚJDONSÁG!
 Villámnézet
@@ -410,39 +410,6 @@ Cikkszám: HOBHTC-0022
 28.640 Ft + ÁFA
 (36.373 Ft)
 2 db raktáron
-db
-Kosárba
-Részletek
-Szellőző panel 2E fekete DN-97695
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97695
-Ár:
-3.870 Ft + ÁFA
-(4.915 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-1U panel for D-type modules, 12-port DN-97696
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97696
-Ár:
-2.480 Ft + ÁFA
-(3.150 Ft)
-Előrendelhető h
-db
-Kosárba
-Részletek
-2U panel for D-type modules, 24-port DN-97697
-ÚJDONSÁG!
-Villámnézet
-Cikkszám: HDIG-DN-97697
-Ár:
-4.380 Ft + ÁFA
-(5.563 Ft)
-Előrendelhető h
 db
 Kosárba
 Részletek
@@ -486,6 +453,39 @@ Cikkszám: HDIG-DN-97694
 Ár:
 3.870 Ft + ÁFA
 (4.915 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+Szellőző panel 2E fekete DN-97695
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97695
+Ár:
+3.870 Ft + ÁFA
+(4.915 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+1U panel for D-type modules, 12-port DN-97696
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97696
+Ár:
+2.480 Ft + ÁFA
+(3.150 Ft)
+Előrendelhető h
+db
+Kosárba
+Részletek
+2U panel for D-type modules, 24-port DN-97697
+ÚJDONSÁG!
+Villámnézet
+Cikkszám: HDIG-DN-97697
+Ár:
+4.380 Ft + ÁFA
+(5.563 Ft)
 Előrendelhető h
 db
 Kosárba

@@ -1,4 +1,4 @@
-# SB-432 qubix.it · feed_auto · https://www.qubix.it/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-432 qubix.it · feed_auto · https://www.qubix.it/feed/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Wed, 18 Nov 2026 11:00:25 +0000	È arrivato CuBLU di AEM Networks	https://www.qubix.it/news/scopri-cublu-di-aem-networks/
 Mon, 19 Oct 2026 05:00:27 +0000	Vi aspettiamo a Smart Building Levante 2026 il 18 e 19 novembre	https://www.qubix.it/focus/vi-aspettiamo-a-smart-building-levante-2026-il-18-e-19-novembre/
 Tue, 29 Sep 2026 08:36:17 +0000	Qubix Magazine #3: Novità prodotti e approfondimenti tecnici	https://www.qubix.it/focus/qubix-magazine-3-novita-prodotti-e-approfondimenti-tecnici/

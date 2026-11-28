@@ -1,19 +1,51 @@
-# SB-532 eclipsecctv.com · feed_auto · https://www.eclipsecctv.com/rss.asp?type=home · fetched 2026-11-27T11:01:47Z · HTTP 200
-Thu, 26 Nov 2026 00:00:00 EST	ESG-NVR16 16 Camera Network Video Recorder	https://www.eclipsecctv.com/ESG-NVR16-16-Camera-Network-Video-Recorder_p_789.html
-Thu, 26 Nov 2026 00:00:00 EST	HK-T2 Temperature measurment and hand santizer dispenser	https://www.eclipsecctv.com/HK-T2-Temperature-measurment-and-hand-santizer-dispenser_p_1026.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPDMS4F2 4 Megapixel Starlight Network IP Vandal Dome Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPDMS4F2-4-Megapixel-Starlight-Network-IP-Vandal-Dome-Camera_p_2037.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPBMS4F2 4 Megapixel Starlight Network IP Bullet Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPBMS4F2-4-Megapixel-Starlight-Network-IP-Bullet-Camera_p_2038.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse Signature ESG-IPX2 2 Megapixel HD IP IR PTZ Camera	https://www.eclipsecctv.com/Eclipse-Signature-ESG-IPX2-2-Megapixel-HD-IP-IR-PTZ-Camera_p_2040.html
-Thu, 26 Nov 2026 00:00:00 EST	ESG-IPDS8VZ 8 Megapixel Network IP Dome Camera with Motozoom	https://www.eclipsecctv.com/ESG-IPDS8VZ-8-Megapixel-Network-IP-Dome-Camera-with-Motozoom_p_2049.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPBMS5F2 5 Megapixel Starlight Network IP Bullet Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPBMS5F2-5-Megapixel-Starlight-Network-IP-Bullet-Camera_p_2060.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPBL5F4 5MP Starlight HD IP Bullet Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPBL5F4-5MP-Starlight-HD-IP-Bullet-Camera_p_2077.html
-Thu, 26 Nov 2026 00:00:00 EST	ESG-IPDS4VZ 4MP Colorblaze Dome With Motorized Zoom	https://www.eclipsecctv.com/ESG-IPDS4VZ-4MP-Colorblaze-Dome-With-Motorized-Zoom_p_2085.html
-Thu, 26 Nov 2026 00:00:00 EST	ECL-PVM10 10.1" Public View Monitor	https://www.eclipsecctv.com/ECL-PVM10-101-Public-View-Monitor_p_2088.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPDMS8F2 8 Megapixel 4K Colorblaze IP Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPDMS8F2-8-Megapixel-4K-Colorblaze-IP-Camera_p_2103.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPBT4D 4 Megapixel HD Thermal Imaging IP Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPBT4D-4-Megapixel-HD-Thermal-Imaging-IP-Camera_p_2113.html
-Thu, 26 Nov 2026 00:00:00 EST	ECL-SPS10036 Solar Cell Panel with Built-in Battery	https://www.eclipsecctv.com/ECL-SPS10036-Solar-Cell-Panel-with-Built-in-Battery_p_2118.html
-Thu, 26 Nov 2026 00:00:00 EST	ECL-ACC850 Smart WIFI Fingerprint Access Control Reader	https://www.eclipsecctv.com/ECL-ACC850-Smart-WIFI-Fingerprint-Access-Control-Reader_p_2131.html
-Thu, 26 Nov 2026 00:00:00 EST	ECL-SPS10050 Solar Cell Panel with Built-in Battery	https://www.eclipsecctv.com/ECL-SPS10050-Solar-Cell-Panel-with-Built-in-Battery_p_2142.html
-Thu, 26 Nov 2026 00:00:00 EST	ECL-SPS200100 Solar Cell Panel with Built-in Battery	https://www.eclipsecctv.com/ECL-SPS200100-Solar-Cell-Panel-with-Built-in-Battery_p_2144.html
-Thu, 26 Nov 2026 00:00:00 EST	ECL-ACC860 Smart Wi-Fi Video Doorbell Access Control Reader	https://www.eclipsecctv.com/ECL-ACC860-Smart-Wi-Fi-Video-Doorbell-Access-Control-Reader_p_2145.html
-Thu, 26 Nov 2026 00:00:00 EST	Eclipse ESG-IPDMC4F2 4 Megapixel IP Vandal Dome Camera	https://www.eclipsecctv.com/Eclipse-ESG-IPDMC4F2-4-Megapixel-IP-Vandal-Dome-Camera_p_2200.html
+# SB-532 eclipsecctv.com · feed_auto · https://www.eclipsecctv.com/rss.asp?type=home · fetched 2026-11-28T10:38:53Z · HTTP 200
+Sat, 28 Nov 2026 00:00:00 EST	ECL-597E Enhanced Mini Bullet Camera	https://www.eclipsecctv.com/ECL-597E-Enhanced-Mini-Bullet-Camera_p_14.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-600HIM Hi-Res Outdoor CCTV Camera with IR & Mechanical IR filter	https://www.eclipsecctv.com/ECL-600HIM-Hi-Res-Outdoor-CCTV-Camera-with-IR-Mechanical-IR-filter_p_24.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-644 Professional Outdoor Security Camera with Varifocal Lens	https://www.eclipsecctv.com/ECL-644-Professional-Outdoor-Security-Camera-with-Varifocal-Lens_p_25.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-HD40 2.1MP SDI Turret Security Camera with IR FIXED LENS	https://www.eclipsecctv.com/ECL-HD40-21MP-SDI-Turret-Security-Camera-with-IR-FIXED-LENS_p_26.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL- HD43 2.1MP High Definition CCTV SDI Turret with IR	https://www.eclipsecctv.com/ECL-HD43-21MP-High-Definition-CCTV-SDI-Turret-with-IR_p_27.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-HD5V 2.1MP High Definition SDI Surveillance Dome	https://www.eclipsecctv.com/ECL-HD5V-21MP-High-Definition-SDI-Surveillance-Dome_p_31.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-HDS25 2MP Long Range 1080P SDI Speed Dome PTZ	https://www.eclipsecctv.com/ECL-HDS25-2MP-Long-Range-1080P-SDI-Speed-Dome-PTZ_p_35.html
+Sat, 28 Nov 2026 00:00:00 EST	MAX-TB25V 2MP HD TVI Bullet Camera with Varifocal & Long Range 160ft IR	https://www.eclipsecctv.com/MAX-TB25V-2MP-HD-TVI-Bullet-Camera-with-Varifocal-Long-Range-160ft-IR_p_56.html
+Sat, 28 Nov 2026 00:00:00 EST	MAX-PLEX16S 16-Channel Surveillance Video Recorder for 960H Cameras	https://www.eclipsecctv.com/MAX-PLEX16S-16-Channel-Surveillance-Video-Recorder-for-960H-Cameras_p_63.html
+Sat, 28 Nov 2026 00:00:00 EST	MAX-PLEX4S 4-Channel Surveillance Video Recorder for 960H Cameras	https://www.eclipsecctv.com/MAX-PLEX4S-4-Channel-Surveillance-Video-Recorder-for-960H-Cameras_p_65.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC890 Sealed EZ-PASS Outdoor Card Reader	https://www.eclipsecctv.com/ECL-ACC890-Sealed-EZ-PASS-Outdoor-Card-Reader_p_67.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC910 weigand proximity card reader	https://www.eclipsecctv.com/ECL-ACC910-weigand-proximity-card-reader_p_68.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC960 - Outdoor Card Reader with Keyboard, Display & Metal Case	https://www.eclipsecctv.com/ECL-ACC960--Outdoor-Card-Reader-with-Keyboard-Display-Metal-Case_p_74.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC970 Advanced Card Reader with Keypad, LEDs, LCD Display & Metal CaseECL-ACC970	https://www.eclipsecctv.com/ECL-ACC970-Advanced-Card-Reader-with-Keypad-LEDs-LCD-Display-Metal-CaseECL-ACC970_p_75.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC980 Outdoor Illuminated Proximity Card Reader	https://www.eclipsecctv.com/ECL-ACC980-Outdoor-Illuminated-Proximity-Card-Reader_p_76.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC220A Proximity Card	https://www.eclipsecctv.com/ECL-ACC220A-Proximity-Card_p_77.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC225 Proximity Card	https://www.eclipsecctv.com/ECL-ACC225-Proximity-Card_p_78.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-ACC230 Keyfob Proximity Tag	https://www.eclipsecctv.com/ECL-ACC230-Keyfob-Proximity-Tag_p_79.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-NUBIX16HD NUBIX 16HD MAC & PC Compatible 16-Channel Security SDI DVR	https://www.eclipsecctv.com/ECL-NUBIX16HD-NUBIX-16HD-MAC-PC-Compatible-16-Channel-Security-SDI-DVR_p_80.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS4DC: 12VDC Power supply, 4 Channels	https://www.eclipsecctv.com/ECL-PS4DC-12VDC-Power-supply-4-Channels_p_87.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS8DC: 12VDC Power supply, 8 Channels	https://www.eclipsecctv.com/ECL-PS8DC-12VDC-Power-supply-8-Channels_p_88.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS16DC: 12VDC Power supply, 16 Channels	https://www.eclipsecctv.com/ECL-PS16DC-12VDC-Power-supply-16-Channels_p_89.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS8DCH: 12VDC Power supply, 8 Channels	https://www.eclipsecctv.com/ECL-PS8DCH-12VDC-Power-supply-8-Channels_p_90.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS16DC12: 12A 16-Channel DC Power Supply	https://www.eclipsecctv.com/ECL-PS16DC12-12A-16-Channel-DC-Power-Supply_p_92.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS4AC: 4-Channel AC Power Supply	https://www.eclipsecctv.com/ECL-PS4AC-4-Channel-AC-Power-Supply_p_95.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS8AC: 24VAC Power supply, 8 Channels	https://www.eclipsecctv.com/ECL-PS8AC-24VAC-Power-supply-8-Channels_p_96.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PS16AC: 24VAC Power supply, 16 Channels	https://www.eclipsecctv.com/ECL-PS16AC-24VAC-Power-supply-16-Channels_p_97.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-12500R: 12VDC, 500mA Power Adapter	https://www.eclipsecctv.com/ECL-12500R-12VDC-500mA-Power-Adapter_p_99.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-121R: Regulated 12VDC Power Adapter	https://www.eclipsecctv.com/ECL-121R-Regulated-12VDC-Power-Adapter_p_100.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-122R: Regulated 12VDC Power Adapter	https://www.eclipsecctv.com/ECL-122R-Regulated-12VDC-Power-Adapter_p_101.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-2440: 24VAC Power Adapter	https://www.eclipsecctv.com/ECL-2440-24VAC-Power-Adapter_p_103.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-1640: 16.5VAC Power Adapter	https://www.eclipsecctv.com/ECL-1640-165VAC-Power-Adapter_p_104.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PSDC9: 9-Channel Power Distributor	https://www.eclipsecctv.com/ECL-PSDC9-9-Channel-Power-Distributor_p_106.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-MX12070: 12V Sealed Rechargeable Battery	https://www.eclipsecctv.com/ECL-MX12070-12V-Sealed-Rechargeable-Battery_p_107.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-MX12040: 12V Sealed Rechargeable Battery	https://www.eclipsecctv.com/ECL-MX12040-12V-Sealed-Rechargeable-Battery_p_108.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-CHR12: 6V/12V Battery Charger	https://www.eclipsecctv.com/ECL-CHR12-6V12V-Battery-Charger_p_109.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-PLUG21 2.1mm Power Connector	https://www.eclipsecctv.com/ECL-PLUG21-21mm-Power-Connector_p_111.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-CON18 18-Gauge Splice	https://www.eclipsecctv.com/ECL-CON18-18-Gauge-Splice_p_112.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-IR300: Indoor/Outdoor Radiant IR / Infrared Source with 300' Range	https://www.eclipsecctv.com/ECL-IR300-IndoorOutdoor-Radiant-IR-Infrared-Source-with-300-Range_p_113.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-IR160: Indoor/Outdoor Radiant IR / Infrared Source with 160' Range	https://www.eclipsecctv.com/ECL-IR160-IndoorOutdoor-Radiant-IR-Infrared-Source-with-160-Range_p_114.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-605IR: Outdoor Camera Housing with Built-In Infrared Projector	https://www.eclipsecctv.com/ECL-605IR-Outdoor-Camera-Housing-with-Built-In-Infrared-Projector_p_115.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-LCD4: Portable Battery Powered Test Monitor	https://www.eclipsecctv.com/ECL-LCD4-Portable-Battery-Powered-Test-Monitor_p_116.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-LCD25: Battery Powered Test Monitor with 12VDC Power Output for CCTV Camera	https://www.eclipsecctv.com/ECL-LCD25-Battery-Powered-Test-Monitor-with-12VDC-Power-Output-for-CCTV-Camera_p_117.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-557WB: 557-Series Dome Camera Wall Bracket	https://www.eclipsecctv.com/ECL-557WB-557-Series-Dome-Camera-Wall-Bracket_p_118.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-557BB: 557-Series Dome Camera Bracket	https://www.eclipsecctv.com/ECL-557BB-557-Series-Dome-Camera-Bracket_p_119.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-577BK: 577-Series Dome Camera Wall Bracket	https://www.eclipsecctv.com/ECL-577BK-577-Series-Dome-Camera-Wall-Bracket_p_120.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-206: Plastic Camera Bracket	https://www.eclipsecctv.com/ECL-206-Plastic-Camera-Bracket_p_121.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-204: 9" Metal Heavy Duty CCTV Camera Bracket	https://www.eclipsecctv.com/ECL-204-9-Metal-Heavy-Duty-CCTV-Camera-Bracket_p_122.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-204L: Metal Heavy Duty CCTV Camera Bracket with 90' Bend	https://www.eclipsecctv.com/ECL-204L-Metal-Heavy-Duty-CCTV-Camera-Bracket-with-90-Bend_p_123.html
+Sat, 28 Nov 2026 00:00:00 EST	ECL-205: Tilt and Swivel Camera Bracket	https://www.eclipsecctv.com/ECL-205-Tilt-and-Swivel-Camera-Bracket_p_124.html

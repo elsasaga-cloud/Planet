@@ -1,4 +1,4 @@
-# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-646 artsistem.com · news_1 · https://www.artsistem.com/haberler · fetched 2026-11-28T10:38:53Z · HTTP 200
 Haberler · Art Sistem
 📍 İstanbul · Ankara · Gaziantep · (0212) 552 52 42
 destek@artsistem.com · Bayi Başvurusu · B2B Giriş
@@ -51,7 +51,10 @@ Sensei
 Tüm Markalar
 Kurumsal Markalar Ürün Kategorileri Çözümler Faydalı Araçlar E-Hizmetler Haberler İletişim B2B Giriş Bayi Başvurusu
 Ana Sayfa / Haberler Haberler
-Sektörden güncel haberler ve analizler ( 73 içerik).
+Sektörden güncel haberler ve analizler ( 74 içerik).
+İnceleme Dell Pro Max Micro: Küçük Kasada Büyük İş İstasyonu Gücü
+Dell Pro Max Micro, 2,9 litrelik kasada RTX PRO 4000 ve Core Ultra 9 ile yerel AI performansında öne çıkıyor.
+28 Kasım 2026
 Marka Duyurusu Dell PowerMaxOS 10.5 Geldi: Performans ve Güvenlik
 Dell PowerMaxOS 10.5, PowerPath çoklu yol desteğini geri getiriyor, Cyber Detect ile anlık görüntü taraması ekliyor.
 27 Kasım 2026
@@ -139,9 +142,6 @@ NVIDIA'nın pahalı RTX Spark laptopları, RTX 5090 üretiminin durma iddiası v
 Sektör Haberi AB Yasası Değiştirilebilir Pil Dönemini Başlatıyor
 AB'nin yeni pil yönetmeliği, akıllı telefonlarda değiştirilebilir pil dönemini yeniden başlatıyor. Üreticiler yıl içinde uyum sağlayacak.
 28 Ekim 2026
-Marka Duyurusu Dell AI Data Platform'a Semantik Katman Geldi
-Dell, AI Data Platform'u semantik katman, cuDF GPU hızlandırma ve 500 kiracılı PowerScale desteğiyle güçlendirdi.
-27 Ekim 2026
 22 yıldır Türkiye'nin lider teknoloji dağıtıcısı. 5.000+ bayi, 3 şube.
 Facebook Instagram LinkedIn YouTube WhatsApp
 Kurumsal

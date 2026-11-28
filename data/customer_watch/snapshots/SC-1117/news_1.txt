@@ -1,4 +1,4 @@
-# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-1117 syscom.mx · news_1 · https://www.syscom.mx/blog · fetched 2026-11-28T10:38:53Z · HTTP 200
 Blog | SYSCOM
 Blog Buscar artículos
 Todos
@@ -27,17 +27,17 @@ Control de acceso Grandstream
 Serie GDS372x de Grandstream: videoportero IP, control de acceso y cámara 2K en un solo equipo
 Los GDS3725, GDS3726 y GDS3727 integran cámara 4 MP con WDR de 120 dB, lector RFID/NFC/BLE 5.0 y extensión SIP en una sola placa IP66. Administración remota desde SecureAccess, GDS Manager o GDMS, con salida ONVIF Profile S hacia el VMS existente.
 RC
-RAFAEL CENICEROS MU&Ntilde;OZ · Hoy
+RAFAEL CENICEROS MU&Ntilde;OZ · Ayer
 UPS Hikvision DS-UPS600-X: 600 VA para que el apagón no apague la operación
-Cecilia Martinez · hace 3 días
+Cecilia Martinez · hace 4 días
 UPS Hikvision DS-UPS600-X: 600 VA para que el apagón no apague la operación
-Cecilia Martinez · hace 3 días
+Cecilia Martinez · hace 4 días
 videoconferencia Jabra
 Jabra PanaCast 40 VBS: 180° de visión y Android 13 para salas pequeñas
-ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 3 días
+ADRIAN ALEJANDRO CHAVIRA LOPEZ · hace 4 días
 Networking Wireless
 Caso de éxito: Wi-Fi para 45.000 personas en los estadios de Quito con Grandstream GWN
-RAFAEL CENICEROS MU&Ntilde;OZ · hace 3 días
+RAFAEL CENICEROS MU&Ntilde;OZ · hace 4 días
 BioStation 3 Max: rostro, huella, QR y tarjetas en una sola terminal de acceso
 Zaira Romero · hace 1 semana
 ROKU SmartTV QLED 58 pulgadas: 4K UHD y Dolby Audio para espacios que exigen presencia

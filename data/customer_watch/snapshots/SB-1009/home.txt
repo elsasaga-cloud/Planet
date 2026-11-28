@@ -1,4 +1,4 @@
-# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-1009 batna24.com · home · https://www.batna24.com/gb/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Batna24.com | Network equipment store
 Menu
 Search
@@ -382,6 +382,12 @@ Next
 New
 favorite
 favorite_border
+SFP modules MikroTik SFP Module S-31DLC20D, 1.25Gb/s, 1310nm, 2x LC, 20km, Single-Mode
+83.74 zł gross
+Add to basket
+New
+favorite
+favorite_border
 Gateways and hubs Shelly Wall Display X1i Black, Control Panel
 730.99 zł gross
 Add to basket
@@ -420,12 +426,6 @@ favorite
 favorite_border
 Bulbs and fluorescent tubes Aqara LED Downlight T2 4" CCT, recessed LED light, 4 inches, CCT
 199.99 zł gross
-Add to basket
-New
-favorite
-favorite_border
-Bulbs and fluorescent tubes Aqara LED Downlight T2 4" RGB CCT, recessed LED light fitting, 4 inches, RGB, CCT
-209.99 zł gross
 Add to basket
 On sale
 Previous

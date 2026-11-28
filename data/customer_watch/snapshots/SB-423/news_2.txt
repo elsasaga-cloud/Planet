@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-423 es-france.com · news_2 · https://www.es-france.com/blog/category/14-catalogues · fetched 2026-11-28T10:38:53Z · HTTP 200
 Ressources d'ES France : Livres Blancs, Notes d'application, Etudes de cas, Catalogues
 Close
 Menu
@@ -321,12 +321,12 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Formations NI : baisse des tarifs et des crédits de formation
+Profitez de la baisse des tarifs et des crédits de formation NI pour développer vos compétences sur LabVIEW,...
 NI InstrumentStudio : mesures PXI et automatisation des tests
 Découvrez NI InstrumentStudio pour vos mesures PXI et tests automatisés, avec un SDK gratuit permettant de développer...
 NGI N35500 : nouvelle génération d'alimentations DC bidirectionnelles
 Découvrez les alimentations NGI N35500 : régulation optimisée, faible ripple, simulation de batteries et panneaux...
-Mesure et caractérisation de la lumière : 6 instruments pour vos applications photométriques et spectrales
-Spectromètres, colorimètres, goniophotomètres et analyseurs d'éblouissement HOPOOCOLOR : sélectionnez votre...
 Ressources
 Il y a 409 Actualités.
 Comment rendre une sonnette audible malgré les casques ANC ?

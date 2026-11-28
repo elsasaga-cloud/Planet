@@ -1,4 +1,4 @@
-# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-654 davantel.com · feed_auto · https://www.davantel.com/feed · fetched 2026-11-28T10:38:53Z · HTTP 200
 Fri, 27 Nov 2026 09:00:00 +0000	Seguridad de la conectividad del VDR en redes de puente alineadas con IEC 61162-460	https://www.davantel.com/seguridad-de-la-conectividad-del-vdr-en-redes-de-puente-alineadas-con-iec-61162-460
 Thu, 26 Nov 2026 09:00:00 +0000	¿Qué router 4G industrial usar para la monitorización de sensores?	https://www.davantel.com/router-lte-industrial-para-monitorizacion-de-sensores
 Wed, 25 Nov 2026 09:00:00 +0000	Robustel EG3120e: gateway de edge computing con eSIM, 4×RS-485 y Debian para modernizar instalaciones industriales	https://www.davantel.com/robustel-eg3120e-gateway-de-edge-computing-con-esim-4xrs-485-y-debian-para-modernizar-instalaciones-industriales

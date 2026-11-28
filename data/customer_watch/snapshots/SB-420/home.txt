@@ -1,4 +1,4 @@
-# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-420 cdr.pl · home · https://cdr.pl/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 CDR.pl - Dystrybutor dla operatorów internetowych. MikroTIK, Ubiquiti, TPLink, Anteny, Kable, Zasilanie
 Szukaj w opisach
 Kontakt
@@ -177,39 +177,39 @@ ZTE ZXHN F6705
 Terminal GPON ONT z Wi-Fi 7, 1 portem 2.5G Ethernet oraz 3 porty 1G Ethernet.
 Przejdź do produktu
 Bestsellery
-417,76 zł
-513,84 zł z VAT
-MikroTIk cAPGi-5HaxD2HaxD cAP ax dwuzakresowy punkt dostępowy Wi-Fi 6 AX1800, 2x GE
+313,22 zł
+385,26 zł z VAT
+MikroTik RouterBOARD C52iG-5HaxD2HaxD-TC hAP ax2 bezprzewodowy router AX1800, 5x GE
+459,54 zł
+565,23 zł z VAT
+MikroTik C53UiG+5HPaxD2HPaxD hAP ax3 bezprzewodowy router Wi-Fi 6 AX1800, 1x 2.5GE, 4x GE
 60,34 zł
 74,22 zł z VAT
 Przełącznica (mufa) światłowodowa FDB-0216G-C - 2 IN, 16 OUT
-277,42 zł
-341,23 zł z VAT
-MikroTik wAP ax zewnętrzny punkt dostępowy Wi-Fi 6 AX3000, 2x GE, PoE IN
-246,10 zł
-302,70 zł z VAT
-MikroTik RouterBOARD D52G 5HacD2HnD TC hAP ac2 bezprzewodowy router dual band
+621,96 zł
+765,01 zł z VAT
+MikroTik Chateau PRO ax router Wi-Fi 6 AX3600 5x GE, USB, 1x PoE OUT
 Black Friday
--70%
-2,77 zł
-0,82 zł
-1,01 zł z VAT
-Adapter ST/APC SM SIMPLEX
--45%
-224,87 zł
-124,16 zł
-152,72 zł z VAT
-Opton 1.25G CWDM SFP TX1331 SM LC 40km
--36%
-23,66 zł
-15,19 zł
-18,68 zł z VAT
-RED Power RP18V1A-P-WM-EU zasilacz PoE, 18 V, 1 A, fast Ethernet (100 Mb/s)
--20%
-25 000,00 zł
-19 999,00 zł
-24 598,77 zł z VAT
-100 sztuk Huawei EG8145B7N-50 (terminal GPON ONT Wi-Fi 7 BE3600) z wybraną nagrodą za 1 zł
+-50%
+299,00 zł
+149,00 zł
+183,27 zł z VAT
+Huawei H801GICF płyta uplinkowa do terminali OLT MA5683T/MA5680T 2x SFP (1G)
+-50%
+59,85 zł
+29,64 zł
+36,46 zł z VAT
+OPTON 1.25G DUAL GBIC TX850 MM SC 500m (GBIC-SX-MM)
+-44%
+13 499,00 zł
+7 499,00 zł
+9 223,77 zł z VAT
+Huawei CloudEngine CE6820H-48S6CQ-B switch 48x SFP+, 6x QSFP28, zasilanie AC, front to back
+-9%
+207,00 zł
+189,00 zł
+232,47 zł z VAT
+TP-Link Archer AX23 dwupasmowy, bezprzewodowy router Wi-Fi 6 AX1800, 5x GE
 Promocja!
 -3%
 19 000,00 zł netto
@@ -222,7 +222,7 @@ Otrzymane dotacje
 Znajdziesz nas:
 Najczęściej kupowane
 zł
-Aktualna data: 2026-11-27 Data Ostatniej Aktualizacji: 19.06.2023
+Aktualna data: 2026-11-28 Data Ostatniej Aktualizacji: 19.06.2023
 © www.cdr.pl.Wszelkie Prawa Zastrzeżone.
 Oprogramowanie: KQS.store
 Strona używa cookies do obsługi koszyka, statystyk i reklam

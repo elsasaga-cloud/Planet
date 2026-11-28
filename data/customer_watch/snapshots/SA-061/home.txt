@@ -1,28 +1,28 @@
-# SA-061 RYMTECH EAS · home · https://rym-tech.net/static/login/ · fetched 2026-11-27T11:01:47Z · HTTP 523
-rym-tech.net | 523: Origin is unreachable
-Origin is unreachable
-Error code 523
+# SA-061 RYMTECH EAS · home · https://rym-tech.net/static/login/ · fetched 2026-11-28T10:38:53Z · HTTP 522
+rym-tech.net | 522: Connection timed out
+Connection timed out
+Error code 522
 Visit cloudflare.com for more information.
-2026-11-27 UTC
+2026-11-28 UTC
 You
 Browser
 Working
-Los Angeles
+Ashburn
 Cloudflare
 Working
 rym-tech.net
 Host
 Error
 What happened?
-The origin web server is not reachable.
+The initial connection between Cloudflare's network and the origin web server timed out. As a result, the web page can not be displayed.
 What can I do?
 If you're a visitor of this website:
 Please try again in a few minutes.
 If you're the owner of this website:
-Check your DNS Settings. A 523 error means that Cloudflare could not reach your host web server. The most common cause is that your DNS settings are incorrect. Please contact your hosting provider to confirm your origin IP and then make sure the correct IP is listed for your A record in your Cloudflare DNS Settings page. Additional troubleshooting information here.
+Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources. Additional troubleshooting information here.
 Cloudflare
 •
 Click to reveal
-20.169.58.0
+20.109.92.213
 •
 Performance & security by Cloudflare

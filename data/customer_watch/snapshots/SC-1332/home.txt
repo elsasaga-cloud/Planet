@@ -1,18 +1,18 @@
-# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-1332 dbg.co.za · home · https://dbg.co.za/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Home - DBG
 Loading...
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -31,15 +31,15 @@ Login/Register
 Product category All categories
 Dash Cameras & Displays
 WiFi Routers
-Wired Routers
 Alarms & Security
+Wired Routers
 LTE Routers
 WiFi Mesh Systems
 WiFi Range Extenders
 WiFi & Home Networking
 Indoor Access Points
-Fibre Networking
 Outdoor Access Points
+Fibre Networking
 Audio Visual
 Switching
 Power & UPS
@@ -241,7 +241,7 @@ DTECH USB Hubs 3 products
 DTECH USB Ethernet Adapters 1 products
 Shop All DTECH Products
 Fanvil Wired IP Phones 6 products
-Fanvil Wireless IP Phones 3 products
+Fanvil Wireless IP Phones 4 products
 Fanvil Intercoms & Doorbells 1 products
 Fanvil Accessories 0 products
 Shop All Fanvil Products

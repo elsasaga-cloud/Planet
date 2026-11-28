@@ -1,4 +1,4 @@
-# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-511 rivershop.co.kr · home · https://rivershop.co.kr/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 리버샵 - Rivershop
 {#item} {#html}
 {#item}
@@ -107,8 +107,9 @@ BNC 동축케이블 CCTV 수수 연결
 4K 미라캐스트 MHL 동글 스마트폰 무선 동글이 넷플릭스 미러링 TV 연결 HDMI
 상품요약정보 : 4K 3,840 x 2,160@30Hz / 듀얼밴드 2.4GHz, 5GHz / 스틱형
 판매가 : 28,900원
-넥시 I자형 RJ45 연장 커플러 8P8C
-판매가 : 110원
+CAT7 S-FTP 10G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 모뎀선
+상품요약정보 : 0.5M, 1M, 2M, 3M, 5M, 10M, 15M, 20M, 25M, 30M, 50M, 75M
+판매가 : 1,780원
 1 / 2
 SHORTS
 흥미로운 쇼츠와 소식을 한눈에 확인하세요.
@@ -170,6 +171,12 @@ CAT8 S-FTP 40G 기가 인터넷선 이더넷 랜 케이블 랜선 공유기선 �
 {#item_lazy}
 상품리뷰
 고객님의 생생한 후기를 확인해 보세요.
+넥시 4K 3:1 HDMI 선택기 NX625
+분배기가 필요해서 샀어요
+전원선이 필요친않으나..구성품에 있었으면 좋았을것같아요
+네이버 페이..
+2026-11-28
+0
 넥시 HDMI 일반형 케이블 V2.0
 만족
 네이버 페이..
@@ -194,11 +201,6 @@ USB B타입 프린터분배기 2포트 프린터 선택기 분할기 프린터�
 잘 사용할게요~^^
 네이버 페이..
 2026-11-16
-0
-넥시 DP to HDMI 케이블 V1.1
-DP & HDMI Small size를 생각하고 구매했는데 큰 size 가 와서 실망했어요
-네이버 페이..
-2026-11-15
 0
 Our Highlights
 {#item_lazy} {#html}

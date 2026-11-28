@@ -1,2 +1,4 @@
-# SA-049 iotsistem.com · sitemap · https://iotsistem.com/sitemap_index.xml · fetched 2026-11-26T11:08:06Z · HTTP 200
-
+# SA-049 iotsistem.com · sitemap · https://iotsistem.com/sitemap_index.xml · fetched 2026-11-28T10:38:53Z · HTTP 403
+{
+"message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
+}

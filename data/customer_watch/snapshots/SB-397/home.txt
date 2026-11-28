@@ -1,4 +1,4 @@
-# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-397 netiks.rs · home · http://www.netiks.rs/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Netiks
 NETIKS cenovnik
 POČETNA dobrodošli
@@ -25,8 +25,8 @@ KONTAKT prodajna mesta
 ZAPOSLENJE pridružite nam se
 Skip to content
 Prodavnica
-Svi proizvodi (3986)
-Kablovi (467)
+Svi proizvodi (4016)
+Kablovi (488)
 UTP, FTP, SFTP (216)
 Puna žica - solid (24)
 Patch - licnasti (12)
@@ -36,11 +36,11 @@ Samonoseći kablovi (2)
 Kablovi bez halogena (46)
 Hibridni kablovi (1)
 HDMI, VGA, DVI, KVM (37)
-Fiber optički (110)
+Fiber optički (131)
 Multi-mode fiber (7)
 Single-mode fiber (15)
-Fiber patch cordovi (66)
-Fiber pigtail-ovi (7)
+Fiber patch cordovi (84)
+Fiber pigtail-ovi (10)
 Samonoseći kablovi (8)
 Kablovi bez halogena
 Telefonski kablovi (5)
@@ -80,7 +80,7 @@ PVC bužiri (5)
 Halogen free bužiri
 Pocinkovani regali (62)
 Potrošni materijal (26)
-Ormani i kućišta (175)
+Ormani i kućišta (176)
 Rek ormani 19" (110)
 Rek ormani 10" (8)
 Indoor kućišta (35)
@@ -169,7 +169,7 @@ RJ konektori (32)
 Fiber konektori
 Koaks konektori (34)
 Šuko utikači (6)
-Patch paneli (111)
+Patch paneli (115)
 Patch paneli 10" (1)
 8-14 portova (1)
 Patch paneli 19" (23)
@@ -182,10 +182,10 @@ Kategorija 5E (1)
 Kategorija 6 i 6A
 Modularni - bez modula
 Patch paneli combo (41)
-Fiber patch paneli 19" (23)
+Fiber patch paneli 19" (25)
 Fiber patch paneli 19"
 Fiber adapteri
-Fiber kutije (ZOK) (21)
+Fiber kutije (ZOK) (23)
 Fiber kutije (ZOK)
 Fiber adapteri
 Tooless - bez alata
@@ -199,21 +199,21 @@ Telefonski p. paneli (12)
 Telefonske utičnice (4)
 Telefonski konektori (4)
 Ostale komponente (2)
-Fiber komponente (181)
-Fiber patch paneli 19" (23)
+Fiber komponente (208)
+Fiber patch paneli 19" (25)
 Fiber patch paneli 19"
 Fiber adapteri
-Fiber kutije (ZOK) (21)
+Fiber kutije (ZOK) (23)
 Fiber kutije (ZOK)
 Fiber adapteri
 Fiber spojnice (4)
-Fiber pigtail kablovi (12)
+Fiber pigtail kablovi (15)
 Multi-mode fiber (2)
-Single-mode fiber (5)
-Fiber patch cordovi (62)
+Single-mode fiber (8)
+Fiber patch cordovi (80)
 Multi-mode fiber (7)
-Single-mode fiber (26)
-Fiber adapteri (14)
+Single-mode fiber (35)
+Fiber adapteri (16)
 Ostala fiber pasiva (8)
 Fiber optički kabl (37)
 Multi-mode fiber (7)
@@ -528,4 +528,4 @@ Skrećemo pažnju na MikroTik Cube 60Pro uređaje koji omogućavaju ultra brze v
 Wireless Wire Cube Pro 60GHz + 5GHz se isporučuje pojedinačno, ali i u paru kao u potpunosti spreman 'plug & play' gigabit AES kriptovani link dometa 1km na 60GHz i do 2.4km na 5GHz. Potrebno je samo da usmerite antene i uključite uređaje ! MikroTik CubeSA 60Pro ac je 802.11ay/ad 60GHz +ac 5GHz dual band RouterOS L4 bazna stanica sa sektor antenom 60° koja omogućava umrežavanje do osam lokacija udaljenih do 800m. Cene su više nego povoljne !
 Ovde možete pogledati detaljnu dokumentaciju, a ovde video sa srpskim prevodom (uključite cc). - https://www.youtube.com/watch?v=IRf0TRVwXG0
 TP-Link Omada cloud biznis mrežna rešenja
-TP-Link već dugo može d
+TP-Link već dugo može 

@@ -1,4 +1,4 @@
-# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+# PB-018 Power Biztonságtechnikai Kereskedelmi Kft. · sitemap · https://powerbizt.hu/sitemap.xml · fetched 2026-11-28T10:38:53Z · HTTP 200
 	https://powerbizt.hu/termekek/2044
 	https://powerbizt.hu/termekek/2052f
 	https://powerbizt.hu/termekek/2052m
@@ -34,15 +34,19 @@
 	https://powerbizt.hu/termekek/lapos-kabel-blankolo-fogo
 	https://powerbizt.hu/termekek/legrand-lcs2-cat-6-ftp-aljzat-dlp-csatornahoz
 	https://powerbizt.hu/termekek/lgd-cat6-aljzatkeret
+	https://powerbizt.hu/termekek/minidp-dvi-adapter
 	https://powerbizt.hu/termekek/jic-375-blankolo-fogo
 	https://powerbizt.hu/termekek/pcse
 	https://powerbizt.hu/termekek/pcsh6
 	https://powerbizt.hu/termekek/ptcsh6
+	https://powerbizt.hu/termekek/szel-ac520-02
 	https://powerbizt.hu/termekek/tampervf
 	https://powerbizt.hu/termekek/trachsz4
 	https://powerbizt.hu/termekek/trachsz5
 	https://powerbizt.hu/termekek/trachsz6
 	https://powerbizt.hu/termekek/vgatoldo-1-8m
+	https://powerbizt.hu/termekek/am35-1017ew
+	https://powerbizt.hu/termekek/am35-13ew
 	https://powerbizt.hu/termekek/ac125-01
 	https://powerbizt.hu/termekek/ac126-01
 	https://powerbizt.hu/termekek/ac127-01
@@ -102,6 +106,7 @@
 	https://powerbizt.hu/termekek/cambium-networks-pl-e505x00a-eu
 	https://powerbizt.hu/termekek/canfor-behuzo-nylon-30m
 	https://powerbizt.hu/termekek/canfor-behuzo-uveg-15m-3mm
+	https://powerbizt.hu/termekek/capbncf
 	https://powerbizt.hu/termekek/capbncp
 	https://powerbizt.hu/termekek/ffcw
 	https://powerbizt.hu/termekek/rcaf
@@ -240,6 +245,7 @@
 	https://powerbizt.hu/termekek/ap-9670-eka-100db
 	https://powerbizt.hu/termekek/9680np
 	https://powerbizt.hu/termekek/96934-m6-anya-500db
+	https://powerbizt.hu/termekek/36934-m6-anya-200db
 	https://powerbizt.hu/termekek/96df-100db
 	https://powerbizt.hu/termekek/96-dft2-100db
 	https://powerbizt.hu/termekek/apolo-96-f-100-db
@@ -348,9 +354,4 @@
 	https://powerbizt.hu/termekek/dh-awa6220-o
 	https://powerbizt.hu/termekek/dh-awa6220-w
 	https://powerbizt.hu/termekek/dh-awa6330-c
-	https://powerbizt.hu/termekek/dahua-ax15m
-	https://powerbizt.hu/termekek/dahua-ax18
-	https://powerbizt.hu/termekek/ax18-v2-eurde
-	https://powerbizt.hu/termekek/dahua-dh-ax30-ax3000-wireless-router
-	https://powerbizt.hu/termekek/chs4106-4et-60
-	https://powerbizt.hu/termekek/dahua-
+	https://pow

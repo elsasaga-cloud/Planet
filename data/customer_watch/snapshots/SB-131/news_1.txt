@@ -1,4 +1,4 @@
-# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-131 DE secure · news_1 · https://desecuretechnology.com/kaynaklar/blog/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Blog | Desecure Technology
 İçeriğe geç 20+ yıl saha deneyimi · 7/24 Alarm İzleme Merkezi
 444 76 49
@@ -68,6 +68,10 @@ Kaynaklar
 Blog
 Güvenlik teknolojileri, alarm izleme, video analiz ve enerji tesisi güvenliği üzerine saha diliyle yazılmış teknik yazılar.
 Yazılar
+Mevzuat ve rehber · 27 Kasım 2026
+Tesis güvenliği keşfi: sorulacak sorular ve teklifte aranacaklar
+Güvenlik keşfine tesis yönetimi üç listeyle hazırlanabilir: firmanın keşifte soracağı yedi başlığa karşı hazırlanacak belgeler, tesisin firmaya yazılı soracağı on soru ve keşif sonunda teklifte aranacak dokuz bölüm. Listeler bizim yöntem önerimizdir; 5188 sayılı Kanun (m.3, m.6) ve 6331 sayılı Kanun (m.10) keşfin nasıl yapılacağını düzenlemez.
+-> Yazıyı oku
 Mevzuat ve rehber · 18 Kasım 2026
 7/24 güvenlik noktasında kadro planlaması ve çalışma süresi sınırı
 Kesintisiz korunan tek bir nöbet noktası haftada 168 saat demektir. 4857 sayılı İş Kanununun 63. maddesindeki haftalık 45 saatle bölündüğünde sonuç 3,73 çıkar; izin, rapor ve eğitim günleri hiç sayılmadan dört görevli eder. Dört, hesabın alt sınırıdır; mevzuatta yazılı bir asgari sayı değildir. Yıllık izin ve devamsızlık eklendiğinde sonuç dördün üstüne çıkabilir.
@@ -170,8 +174,4 @@ Ağ yönetim merkezi (Network Management Center, NMC), bir kurumun ağ altyapıs
 -> Yazıyı oku
 Teknik sözlük · 20 Ağustos 2024
 DVR kayıt cihazı nedir ve analog kameralarla nasıl çalışır?
-DVR (Digital Video Recorder), güvenlik kameralarından gelen görüntüyü dijital formatta kaydeden ve saklayan video kayıt cihazıdır. Analog kameraların sinyalini dijitale çevirerek mevcut analog sistemlerin dijital kayda geçişini sağlar. Bu yazı DVR'nin temel özelliklerini, hareket algılama ve olay bazlı kayıt gibi işlevlerini ve kaydın merkezî izlemeye nasıl bağlandığını anlatır.
--> Yazıyı oku
-Teknik sözlük · 20 Ağustos 2024
-NVR kayıt cihazı nedir ve IP kameralarla nasıl çalışır?
-NVR (Network Video Recorder), IP kameralardan gelen görüntüyü ağ üzerinden alıp dijital olarak kaydeden video kayıt cihazıdır. Analog sinyali dönüştüren DVR'den farkı, görüntünün kameradan kayda kadar dijital kalmasıdır. Bu yazı NVR'nin nasıl çalıştığını, büyük ve ço
+DVR (Digital Video Recorder), güvenlik kameralarından gelen görüntüyü dijital formatta kaydeden ve saklayan video kayıt cihazıdır. Analog kameraların sinyalini dijitale çevirerek mevcut analog sistemlerin dijital kayda geçişini sağlar. Bu yazı DVR'nin temel özelliklerini, hareket algılama ve

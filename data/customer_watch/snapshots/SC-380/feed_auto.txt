@@ -1,4 +1,4 @@
-# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-380 iptime.com · feed_auto · https://iptime.com/rss.xml · fetched 2026-11-28T10:38:53Z · HTTP 200
 Fri, 27 Nov 2026 07:03:51 GMT	[ipTIME NAS] 단종 NAS와 후속 모델 대응표	https://iptime.com/support/faq/28035
 Fri, 27 Nov 2026 00:59:15 GMT	[펌웨어] ipTIME C300E 펌웨어 37.2.15	https://iptime.com/support/downloads/28034
 Thu, 26 Nov 2026 06:08:12 GMT	[공지] ipTIME 홈캠 보안 점검 권고 사항 조치 안내	https://iptime.com/notices/28033

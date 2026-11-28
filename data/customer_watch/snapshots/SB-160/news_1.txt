@@ -1,4 +1,4 @@
-# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-160 linx-com.com · news_1 · https://www.linx-com.com/blog/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Blog - Linxcom UK
 What are you searching for...
 Search
@@ -194,12 +194,12 @@ The process of terminating twisted pair cable may seem simple on the surface, ho
 Read More
 A GUIDE TO LAN CABLE
 / September 6, 2021
-Views: 367
+Views: 368
 Despite the many advancements in fibre optic cable and newer builds taking advantage of this technology, LAN cable is pretty much used everywhere. LAN AND LAN CABLE LAN stands for
 Read More
 USES OF OPTICAL DISTRIBUTION FRAME (ODF)
 / August 30, 2021
-Views: 5,979
+Views: 5,980
 With fibre optic installations becoming increasingly more popular, the management of optical transmissions has networks has become more difficult. As discussed in our previous blog, many factors need to be
 Read More
 BANDWIDTH IN CABLES

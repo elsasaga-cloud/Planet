@@ -1,4 +1,4 @@
-# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-461 EMOS · news_1 · https://www.emos.cz/blog · fetched 2026-11-28T10:38:53Z · HTTP 200
 Píšeme, radíme, inspirujeme a testujeme | EMOS
 Přeskočit na hlavní obsah
 Přeskočit na záhlaví
@@ -6,6 +6,7 @@ Přeskočit na zápatí
 Přihlaste se k odběru novinek a získejte slevu
 Sleva 100 Kč
 na první nákup
+AKCE A DÁRKY
 Doprava a platba
 INFOCENTRUM
 Přihlášení
@@ -14,19 +15,19 @@ Prázdný
 Doprava zdarma. Na vše!
 Vyberte si kategorii
 Žárovky
-(284)
+(279)
 Svítilny a čelovky
-(111)
+(110)
 LED osvětlení
-(347)
+(346)
 Reflektory
-(107)
+(106)
 Lampičky a drobné osvětlení
 (55)
 Vánoční osvětlení
 (257)
 Meteostanice a budíky
-(39)
+(38)
 Váhy
 (14)
 Termostaty a detektory
@@ -50,7 +51,7 @@ Koaxiální, datové a AV kabely
 Multimetry, zkoušečky, měřidla
 (47)
 Instalační materiál
-(361)
+(346)
 Elektronika pro domácí mazlíčky
 (9)
 Novinky
@@ -58,7 +59,7 @@ Novinky
 Multipacky
 (17)
 Chytrá domácnost EMOS GoSmart
-(128)
+(127)
 Jaro / léto
 (176)
 Hledat
@@ -105,6 +106,7 @@ Předchozí
 Další
 Píšeme, radíme, inspirujeme a testujeme
 Hlavní odkazy
+AKCE A DÁRKY
 Doprava a platba
 INFOCENTRUM
 Informace

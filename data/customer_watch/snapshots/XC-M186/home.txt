@@ -1,4 +1,4 @@
-# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-27T11:01:47Z · HTTP 200
+# XC-M186 SmartSD B.V. · home · https://smartsd.com/en · fetched 2026-11-28T10:38:53Z · HTTP 200
 SmartSD is a Security distributor - SmartSD
 My SmartSD
 Menu
@@ -1199,13 +1199,6 @@ Through our website, you can easily download official certificates for the train
 New relay controller and AI cameras
 New from Akuvox: the WR01 Intelligent Edge Web Relay Controller and the VC50B/VC50T 5MP AI IP cameras.
 SmartSD trainings
-Basic Networking Knowledge
-27 November
-@ SmartSD Merchtem (BE)
-16 December
-@ SmartSD Merchtem (BE)
-28 January
-@ SmartSD Merchtem (BE)
 Acre SPCevo
 30 November
 @ SmartSD Lisses (FR)
@@ -1289,6 +1282,11 @@ Axis Webinars
 Risco LightSYS+ Technical/Commercial Introduction & Expert Session
 16 December
 @ SmartSD Breda (NL)
+Basic Networking Knowledge
+16 December
+@ SmartSD Merchtem (BE)
+28 January
+@ SmartSD Merchtem (BE)
 Inim SmartLine
 17 December
 @ SmartSD Merchtem (BE)
@@ -1342,4 +1340,4 @@ BeLux - SmartSD NV/SA (NL)
 BeLux - SmartSD NV/SA (FR)
 France - SmartSD SARL (FR)
 Spain - SmartSD SL (ES)
-©
+© 2026 SmartSD

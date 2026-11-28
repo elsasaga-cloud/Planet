@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · home · https://www.amc-systeme.de/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-700 amc-systeme.de · home · https://www.amc-systeme.de/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 AMC - Analytik & Messtechnik GmbH Chemnitz - AMC
 Navigation überspringen
 Startseite
@@ -230,12 +230,10 @@ Test- und Prüfsysteme .
 Wer wir sind?
 AMC Firmenvorstellung
 AMC ist dabei!
-Wir sind auf der SPS 2026 in Nürnberg dabei!
-Die SPS – Smart Production Solutions zählt zu den zentralen Treffpunkten der internationalen Automatisierungsbranche. Vom 24. bis 26. November 2026 sind auch wir in Nürnberg vor Ort.
-Sie finden die AMC – Analytik & Messtechnik GmbH Chemnitz als Unteraussteller unseres Partners Advantech in Halle 7 | Stand 380 .
-Mit dabei sind AMC iFactory X und SENSOmaster32 Energy – unsere Lösungen für mehr Transparenz bei Produktions-, Prozess- und Energiedaten.
-Nutzen Sie die Gelegenheit zum persönlichen Austausch mit uns und erfahren Sie, welche Möglichkeiten sich für Ihre individuellen Anwendungen ergeben.
-Wir freuen uns auf Ihren Besuch in Nürnberg!
+Wir sind beim NI Tech Forum 2026 in Düsseldorf vertreten!
+Am 8. Dezember 2026 dreht sich beim NI Tech Forum Düsseldorf alles um aktuelle Entwicklungen in den Bereichen Test, Validierung, Automatisierung und KI. Die Veranstaltung von NI (Part of Emerson) der Emerson Test and Measurement Business Group findet im Hilton Düsseldorf statt.
+Auch AMC ist vor Ort und gibt Einblicke in ausgewählte Test- und Prüflösungen auf Basis der NI-Technologie. Freuen Sie sich auf ein Anwendungsbeispiel mit PXI, CompactRIO und CompactDAQ sowie einem Retrofit-Szenario mit LabVIEW und NI Nigel.
+Nutzen Sie die Gelegenheit zum fachlichen Austausch und entdecken Sie neue Möglichkeiten für Ihre Test- und Messanwendungen.
 Veranstaltungsübersicht
 Webinare
 Informationen zu neuen Webinaren folgen demnächst.

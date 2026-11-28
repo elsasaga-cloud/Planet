@@ -1,4 +1,4 @@
-# SB-760 galaxysecurity.com · home · https://www.galaxysecurity.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-760 galaxysecurity.com · home · https://www.galaxysecurity.com/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Galaxy Security
 Skip to content
 4.9
@@ -94,6 +94,7 @@ dahua software
 VSaaS
 Nx Witness
 Mobile Surveillance Enclosures
+Server Rack Cabinets
 By Brand
 Galaxy
 Galaxy Hunter
@@ -189,6 +190,7 @@ dahua software
 VSaaS
 Nx Witness
 Mobile Surveillance Enclosures
+Server Rack Cabinets
 By Brand
 Galaxy
 Galaxy Hunter
@@ -330,12 +332,12 @@ Choose your option
 New Arrivals
 Shop All Products
 Add to cart
-iDS-2CD7A46G2/LM-IZHSY 2.8-12mm Black
-Hikvision 4MP DeepinViewX DarkFighter 2.0 Motorized Varifocal Bullet Camera iDS-2CD7A46G2/LM-IZHSY 2.8-12mm Black
+GX-CBN-PDU-10
+Galaxy 10CH PDU 15A 19"
 Regular price
-$2,048.00
+$59.79
 Sale price
-$2,048.00
+$59.79
 Regular price
 Unit price
 / per
@@ -343,12 +345,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-DS-3E0109P-E/M(C)
-Hikvision 8-Port Fast Ethernet Unmanaged PoE Switch DS-3E0109P-E/M(C)
+GX-CBN-PDU-08
+Galaxy 8CH PDU 15A w/overload protection
 Regular price
-$66.70
+$56.80
 Sale price
-$66.70
+$56.80
 Regular price
 Unit price
 / per
@@ -356,12 +358,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-DS-2DE5425IWG1-E Black
-Hikvision 4MP 25x DarkFighter IR AcuSense Network Speed Dome DS-2DE5425IWG1-E Black
+GX-CBN-FSH-2U18
+Galaxy vented fixed shelf heavy duty 2U 18"
 Regular price
-$963.00
+$53.81
 Sale price
-$963.00
+$53.81
 Regular price
 Unit price
 / per
@@ -369,12 +371,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-DS-2CD3648G2T-LIZS 2.7-13.5mm
-Hikvision 4MP Smart Dual-Light Motorized Varifocal Bullet Network Camera DS-2CD3648G2T-LIZS 2.7-13.5mm
+GX-CBN-FSH-1U18
+Galaxy vented fixed shelf 1U 18"
 Regular price
-$696.00
+$49.33
 Sale price
-$696.00
+$49.33
 Regular price
 Unit price
 / per
@@ -382,12 +384,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-IDS-9616NXI-M8/X
-Hikvision M Series 16-Channel 8K DeepinMind AI NVR iDS-9616NXI-M8/X
+GX-CBN-FSH-1U15
+Galaxy vented fixed shelf 1U 15"
 Regular price
-$0.00
+$44.85
 Sale price
-$0.00
+$44.85
 Regular price
 Unit price
 / per
@@ -395,12 +397,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-iDS-9664NXI-P16
-Hikvision DeepinMind Pro 64-Channel AI Network Video Recorder iDS-9664NXI-P16
+GX-CBN-FSH-1U10
+Galaxy vented fixed shelf 1U 10"
 Regular price
-$0.00
+$37.37
 Sale price
-$0.00
+$37.37
 Regular price
 Unit price
 / per
@@ -408,12 +410,12 @@ Add to cart
 View details
 Choose your option
 Add to cart
-DS-1100KI(C)
-Hikvision 7-inch Touchscreen Network Keyboard with 4-Axis Joystick DS-1100KI(C)
+GX-CBN-FG-42U60
+Galaxy cabinet 42U 600x600x2000
 Regular price
-$1,030.00
+$1,315.46
 Sale price
-$1,030.00
+$1,315.46
 Regular price
 Unit price
 / per

@@ -1,4 +1,4 @@
-# SC-1215 router.lv · home · https://router.lv/products.php · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-1215 router.lv · home · https://router.lv/products.php · fetched 2026-11-28T10:38:53Z · HTTP 200
 www.router.lv - Mikrotik Distributor
 lietuviškai
 latviski
@@ -42,7 +42,7 @@ Additional information
 Price:
 € 92.40
 + VAT
-In E2 stock 30
+In E2 stock 29
 Please call +371 67724000
 Notify when available
 Name:

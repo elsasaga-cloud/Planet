@@ -1,4 +1,4 @@
-# SC-2078 zebeye.com · feed_auto · https://zebronics.com/collections/cctv.atom · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-2078 zebeye.com · feed_auto · https://zebronics.com/collections/cctv.atom · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-11-18T17:11:40+05:30	Zeb ACZLB01	https://zebronics.com/products/zeb-aczlb01
 2026-11-18T16:54:04+05:30	Zeb ACLB01	https://zebronics.com/products/zeb-aclb01
 2026-11-18T16:17:29+05:30	Zeb ACML280	https://zebronics.com/products/zeb-acml280

@@ -1,4 +1,4 @@
-# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-700 amc-systeme.de · news_1 · https://www.amc-systeme.de/messen-veranstaltungen.html · fetched 2026-11-28T10:38:53Z · HTTP 200
 Messen, Veranstaltungen, Tagungen, Vorträge - AMC
 Navigation überspringen
 Startseite
@@ -201,16 +201,28 @@ Unsere bevorstehenden Termine 2027
 06.03.2027 - Tag der offenen Tür DHSN Glauchau
 17. - 19.03.2027 - 23. AALE Fulda
 15. - 16.09.2027 - all about automation Chemnitz
-AMC auf der SPS 2026 in Nürnberg
-Vom 24. bis 26. November 2026 sind wir auf der SPS – Smart Production Solutions 2026 in Nürnberg vertreten.
-Als Unteraussteller unseres Partners Advantech finden Sie uns in Halle 7 | Stand 380 . Dort präsentieren wir unsere Lösungen AMC iFactory X und SENSOmaster32 Energy für die Erfassung, Übertragung, Visualisierung und Analyse industrieller Prozess- und Energiedaten.
-Energieverbräuche einfach erfassen und transparent auswerten
-Mit dem SENSOmaster32 Energy zeigen wir eine praxisnahe Lösung zur Erfassung von Energieverbrauchsdaten an Maschinen und Anlagen mit 400-V-/64-A-CEE-Anschluss . Das tragbare Messmodul wird direkt in den Leistungsanschluss der Maschine zwischengeschaltet und erfasst kontinuierlich die Verbrauchsdaten.
-Die Messwerte werden kabellos über LoRaWAN an ein Gateway übertragen und anschließend in AMC iFactory X gespeichert und in übersichtlichen Dashboards visualisiert. Zusätzliche Kommunikationsverkabelungen an der Maschine sind dafür nicht erforderlich.
-Damit lassen sich Energieverbräuche einzelner Maschinen und Anlagen sowohl temporär als auch dauerhaft erfassen und analysieren . Die gewonnenen Daten schaffen Transparenz über den tatsächlichen Energieverbrauch und bilden eine Grundlage, um Optimierungspotenziale zu erkennen und den Energieeinsatz gezielt zu verbessern .
-Besuchen Sie uns auf dem Advantech Messestand in Halle 7 | Stand 380 und erleben Sie das Zusammenspiel von Energiedatenerfassung, LoRaWAN-Kommunikation und AMC iFactory X in der Praxis.
-Wir freuen uns auf Ihren Besuch auf der SPS 2026 in Nürnberg!
+AMC beim NI Tech Forum 2026 in Düsseldorf
+Am 8. Dezember 2026 treffen sich Experten und Anwender beim NI Tech Forum Düsseldorf im Hilton Düsseldorf, um aktuelle Technologien und Entwicklungen rund um Test, Validierung und Automatisierung kennenzulernen.
+Als AMC sind wir ebenfalls vor Ort und präsentieren unsere Demonstration aus der Welt der PC-basierten Mess-, Steuerungs- und Automatisierungstechnik.
+Unsere Anwendungsbeispiele
+Erleben Sie vor Ort, welche Möglichkeiten moderne NI-Technologien für flexible und leistungsfähige Test- und Prüfanwendungen bieten:
+Mindstorm Retrofit: Demonstration mit LabVIEW und NI Nigel
+PXI-Test- und Prüfsystem: Systemplattform mit modularen Instrumenten, DAQ-Messkarten und CAN-Kommunikation
+CompactRIO und CompactDAQ: Modulare Lösungen für Test- und Steuerungssysteme
+Darüber hinaus erwarten Sie Fachvorträge zu Testautomatisierung, Echtzeitdatenerfassung und modernen Systemarchitekturen sowie Live-Demos, Workshops und Möglichkeiten zum Networking mit NI-Experten und Branchenkollegen.
+Besuchen Sie uns in Düsseldorf!
+Datum: 8. Dezember 2026
+Uhrzeit: –Uhr
+Veranstaltungsort: Hilton Düsseldorf, Deutschland
+Wir freuen uns auf den persönlichen Austausch mit Ihnen!
 Rückblick: Messen und Veranstaltungen
+AMC auf der SPS 2026 in Nürnberg
+Vom 24. bis 26. November 2026 waren wir auf der SPS – Smart Production Solutions 2026 in Nürnberg vertreten.
+Als Unteraussteller unseres Partners Advantech präsentierten wir unsere Lösungen AMC iFactory X und SENSOmaster32 Energy für die Erfassung, Übertragung, Visualisierung und Analyse industrieller Prozess- und Energiedaten.
+Energieverbräuche einfach erfassen und transparent auswerten
+Im Mittelpunkt stand der SENSOmaster32 Energy , eine praxisnahe Lösung zur Erfassung von Energieverbrauchsdaten an Maschinen und Anlagen mit 400-V-/64-A-CEE-Anschluss. Das tragbare Messmodul erfasst kontinuierlich die Verbrauchsdaten und überträgt diese kabellos über LoRaWAN an ein Gateway.
+In AMC iFactoryX werden die Messwerte gespeichert, visualisiert und analysiert. So lassen sich Energieverbräuche sowohl temporär als auch dauerhaft überwachen und Optimierungspotenziale gezielt erkennen – ganz ohne zusätzliche Kommunikationsverkabelung an der Maschine.
+Darüber hinaus bot die SPS Gelegenheit, unsere Lösungen rund um die industrielle Datenerfassung und Digitalisierung vorzustellen und interessante Gespräche mit Kunden, Partnern und Branchenexperten zu führen.
 AMC auf den 12. Ostsächsischen Maschinenbautagen 2026
 Am 28. und 29. Oktober 2026 fanden die 12. Ostsächsischen Maschinenbautage im Technologie- und Gründerzentrum Bautzen statt. Im Mittelpunkt der Veranstaltung stand das Thema „ Robotik im Maschinenbau “.
 Auch wir – die AMC – Analytik & Messtechnik GmbH Chemnitz – waren an beiden Veranstaltungstagen vertreten und präsentierten am 28. Oktober 2026 im Rahmen der Begleitausstellung unsere Lösungen aus den Bereichen Mess-, Prüf- und Automatisierungstechnik.
@@ -225,7 +237,4 @@ An unserem Stand präsentierten wir Produkte und Lösungen aus den Bereichen Aut
 Die beiden Messetage boten zahlreiche Gelegenheiten für persönliche Gespräche und fachlichen Austausch zu aktuellen Projekten, technischen Herausforderungen und individuellen Lösungsansätzen.
 Wir bedanken uns bei allen Besucherinnen und Besuchern für das Interesse an unseren Lösungen und die vielen interessanten Gespräche und freuen uns auf ein Wiedersehen bei einer der kommenden Veranstaltungen.
 Projektabschluss des RUBIN-Bündnisses DuSwaP in Chemnitz
-Als Konsortialpartner im RUBIN-Bündnis DuSwaP hat sich die AMC – Analytik & Messtechnik GmbH Chemnitz maßgeblich an der Prozessüberwachung für die Fertigung von Brennstoffzellen- und Elektrolyseur-Stacks beteiligt. Unser Schwerpunkt lag dabei auf einer umfassenden Datenerfassung auf Basis moderner IoT-Edge-Systeme entlang der Prozesskette.
-Am 9. Juni 2026 fand im Fraunhofer IWU in Chemnitz die Abschlussveranstaltung des dreijährigen Forschungs- und Entwicklungsprojekts statt. Im Rahmen der Veranstaltung präsentierten die Partner des Konsortiums ihre gemeinsamen Ergebnisse entlang der Stack-Prozesskette.
-Im Fokus standen skalierbare Technologien für eine qualitätsgesicherte und automatisierte Fertigung sowie Ansätze zur industriellen Skalierung von Fertigungs- und Prüfprozessen. Die Veranstaltung bot interessante Einblicke in die zentralen Projektergebnisse und Gelegenheit zum Austausch zwischen Industrie und Forschung.
-AMC stellte dabei die im Proj
+Als Konsortialpartner im RUBIN-Bündnis DuSwaP hat sich die AMC – Analytik & Messtechnik GmbH Chemnitz maßgeblich an der Prozessüberwachung für die Fertigu

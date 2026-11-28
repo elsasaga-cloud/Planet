@@ -1,12 +1,10 @@
-# SC-114 Siklu Communication · sitemap · https://www.ceragon.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
-2026-11-27	https://www.ceragon.com/about-ceragon/careers/sales-engineer-cf-076
+# SC-114 Siklu Communication · sitemap · https://www.ceragon.com/sitemap.xml · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-06-02	https://www.ceragon.com/news/ceragon-reports-11-growth-in-third-quarter-of-2023-narrows-full-year-guidance-range-raising-midpoint
 2026-11-22	https://www.ceragon.com/case-studies/hudson-river-park-wireless-video-security
 2026-11-22	https://www.ceragon.com/case-studies/partnering-with-codipro-to-bring-high-power-e-band-to-spain
 2026-04-30	https://www.ceragon.com/blog/wireless-point-to-multipoint-to-point-to-point-fixed-wireless-access
 2026-04-30	https://www.ceragon.com/blog/20gbps-wireless-connectivity-today
 2026-04-15	https://www.ceragon.com/news/ceragon-highlights-select-private-network-contracts-totaling-10-million-in-recent-months
-2026-11-27	https://www.ceragon.com/about-ceragon/careers/sox-internal-auditor-b0-475
 2026-04-30	https://www.ceragon.com/blog/the-many-flavors-of-millimeter-wave
 2026-11-25	https://www.ceragon.com/resources
 2024-02-08	https://www.ceragon.com/blog/noc-whos-monitoring-your-network
@@ -14,7 +12,6 @@
 2026-11-26	https://www.ceragon.com/communications-the-backbone-of-modern-utilities-ceragon-connects
 2024-08-28	https://www.ceragon.com/news/ceragon-launches-the-markets-first-radio-aware-disaggregated-cell-site-gateway-ip-50fx
 2025-12-07	https://www.ceragon.com/news/ceragon-receives-follow-on-orders-of-29-million-from-tier-1-operators-in-india-for-deployment-in-2023
-2026-11-27	https://www.ceragon.com/about-ceragon/careers/tier-3-technical-support-engineer-network-management-systems-dd-c6b
 2022-03-08	https://www.ceragon.com/blog/eragon-empowers-large-mobile-operator-to-connect-amazon-rainforest-communities
 2025-12-07	https://www.ceragon.com/news/airtel-contracts-ceragon-for-e-band-and-multi-band-vendor-agnostic-solutions-for-5g-network-roll-out
 2026-04-23	https://www.ceragon.com/blog/wireless-mobile-backhauls-a-zero-sum-game-not-anymore
@@ -24,6 +21,7 @@
 2026-02-03	https://www.ceragon.com/news/ceragon-to-announce-fourth-quarter-and-full-year-2025-financial-results-on-february-17-2026
 2026-06-04	https://www.ceragon.com/news/ceragon-networks-announces-date-for-second-quarter-2022-financial-results
 2024-07-10	https://www.ceragon.com/blog/the-hfwc-network
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/product-engineering-e5-073
 2025-10-13	https://www.ceragon.com/contact-us
 2022-02-16	https://www.ceragon.com/blog/ceragon-stabilizes-upgrades-critical-overwater-link-for-leading-energy-company
 2026-07-15	https://www.ceragon.com/products/pointlink-long-haul
@@ -48,6 +46,7 @@
 2024-09-09	https://www.ceragon.com/blog/sizing-5g-fronthaul
 2026-11-22	https://www.ceragon.com/case-studies/high-speed-wi-fi-solution-backhaul-connectivity-siklu-by-ceragon
 2026-11-05	https://www.ceragon.com/podcast/ceragon-connects
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/regulatory-and-compliance-engineer-13-378
 2025-10-30	https://www.ceragon.com/blog/from-pit-to-port-how-connectivity-fuels-minings-autonomous-future
 2026-04-21	https://www.ceragon.com/blog/smart-grids-brilliant-connectivity-end-to-end-networks-for-utilities
 2022-08-15	https://www.ceragon.com/blog/ip-50fx-industrys-first-radio-aware-disaggregated-cell-site-gateway
@@ -66,6 +65,7 @@
 2024-07-09	https://www.ceragon.com/resources/creating-new-possibilities-connectivity-for-remote-operations-and-your-digital-transformation
 2025-08-13	https://www.ceragon.com/news/ceragon-to-provide-8-million-private-network-modernization-for-a-leading-power-utility-in-emea
 2025-11-12	https://www.ceragon.com/network-services/managed-services
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/algorithm-engineer-team-lead-70-f65
 2026-11-25	https://www.ceragon.com/blog/5g-networks-wireless-and-fiber-backhaul-solutions
 2024-07-25	https://www.ceragon.com/blog/5g-densification-needs-innovative-microwave-transport
 2026-11-22	https://www.ceragon.com/case-studies/network-access-for-a-smarter-and-safer-city
@@ -74,6 +74,7 @@
 2026-05-17	https://www.ceragon.com/markets/isps
 2022-05-02	https://www.ceragon.com/news/ceragon-networks-reports-2020-fourth-quarter-and-full-year-financial-results
 2025-01-14	https://www.ceragon.com/news/ceragon-to-acquire-end-2-end-technologies-expanding-its-offering-to-private-networks-in-north-america
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/accounts-receivable-and-finance-analyst-56-572
 2025-12-24	https://www.ceragon.com/blog/utility-network-upgrade
 2026-04-30	https://www.ceragon.com/blog/connectivity-service-providers-5g-challenges-ai-solutions
 2026-06-04	https://www.ceragon.com/news/ceragon-comments-on-aviats-self-serving-attempt-to-take-control-of-ceragons-board-and-rejects-aviats-opportunistic-indication-of-interest
@@ -85,6 +86,8 @@
 2026-11-25	https://www.ceragon.com/services
 2025-12-07	https://www.ceragon.com/blog/ceragon-alora-selected-to-help-bridge-the-digital-divide-in-spain
 2025-11-13	https://www.ceragon.com/blog/codipro-brings-high-performance-connectivity-to-spanish-networks
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/sales-engineer-telecommunications-f5-f67
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/order-fulfillment-rma-logistic-coordinator-92-27f
 2026-11-08	https://www.ceragon.com/blog/fiber-vs-wireless-the-greatest-debate-of-the-decade
 2025-03-06	https://www.ceragon.com/news/ceragon-to-participate-at-the-37th-annual-roth-conference
 2026-11-22	https://www.ceragon.com/case-studies/city-of-houston-video-security
@@ -107,8 +110,8 @@
 2026-06-10	https://www.ceragon.com/end-to-end-wireless
 2026-04-21	https://www.ceragon.com/blog/solving-public-safety-connectivity-challenges-with-wireless-solutions
 2026-06-04	https://www.ceragon.com/news/ceragon-networks-reports-2022-second-quarter-financial-results
+2026-11-27	https://www.ceragon.com/about-ceragon/careers/controller-91-37d
 2026-05-19	https://www.ceragon.com/news/ceragon-networks-reports-2026-first-quarter-financial-results
-2026-11-27	https://www.ceragon.com/about-ceragon/careers/regulatory-and-compliance-engineer-13-378
 2022-10-19	https://www.ceragon.com/blog/servitization-as-a-key-to-5g-success
 2024-11-18	https://www.ceragon.com/blog/millimeter-magic-unleashing-the-power-of-e-band-for-telco-5g-transport
 2022-10-13	https://www.ceragon.com/blog/best-of-breed-wins-when-it-comes-to-networking
@@ -119,11 +122,9 @@
 2026-10-06	https://www.ceragon.com/news/ceragon-brings-new-e-band-innovation-and-a-portfolio-built-to-scale-to-india-mobile-congress-2026
 2020-03-19	https://www.ceragon.com/blog/improve-your-offshore-business
 2026-04-30	https://www.ceragon.com/blog/enabling-cincinnati-first-responders-with-end-to-end-modern-network
-2026-11-27	https://www.ceragon.com/about-ceragon/careers/accounts-receivable-and-finance-analyst-56-572
 2026-04-30	https://www.ceragon.com/blog/fast-affordable-connectivity-for-private-networks
 2026-05-05	https://www.ceragon.com/professional-services/training-center
 2026-04-30	https://www.ceragon.com/blog/speeding-ahead-with-private-5g-networks
 2026-06-18	https://www.ceragon.com/blog/public-safety-communications-the-invisible-force-behind-real-time-emergency-response
 2021-08-02	https://www.ceragon.com/blog/recap-of-key-5g-news-april
-2024-08-28	https://www.ceragon.com/news/ceragon-to-participate-at-lake-street-best-ideas-growth-conference-on-september-12-2024
-2026-07-13	https://www.ceragon.com/solution
+202

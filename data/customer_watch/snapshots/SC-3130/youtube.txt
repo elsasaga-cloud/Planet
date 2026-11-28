@@ -1,4 +1,5 @@
-# SC-3130 tvc.mx · youtube · https://www.youtube.com/@tvcenlineamx · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-3130 tvc.mx · youtube · https://www.youtube.com/@tvcenlineamx · fetched 2026-11-28T10:38:53Z · HTTP 200
+2026-11-27T17:00:03+00:00	ZKBio Zlink | Agregar Equipos Compatibles	https://www.youtube.com/watch?v=a83QIwgrkNo
 2026-11-27T05:37:49+00:00	¡Nueva línea UNV en TVCenLínea.com!	https://www.youtube.com/watch?v=AbSAIrnQMgw
 2026-11-26T23:19:30+00:00	¡El Black Friday está aquí!	https://www.youtube.com/shorts/xm03V2H_AyM
 2026-11-24T17:42:17+00:00	EZTools de UNV: configura dispositivos y calcula almacenamiento	https://www.youtube.com/watch?v=iyl-eEgik-Y
@@ -13,4 +14,3 @@
 2026-11-23T18:58:24+00:00	Configura la Detección Múltiple e Inteligencia Artificial en tu Cámara IMOU	https://www.youtube.com/watch?v=pZSZhlI2sZU
 2026-11-20T05:51:24+00:00	¡Nueva línea UNV en TVCenLínea.com!	https://www.youtube.com/watch?v=hudzDQFeuFE
 2026-11-05T00:22:30+00:00	Configuración de Autoseguimiento y modo crucero desde App IMOU Life	https://www.youtube.com/watch?v=xBlY84dhSPI
-2026-11-05T00:22:25+00:00	Interfaz IMOU Life y opciones de pantalla	https://www.youtube.com/watch?v=GJlfy295WZk

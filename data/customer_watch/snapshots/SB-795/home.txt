@@ -1,14 +1,35 @@
-# SB-795 yachtgurus.us · home · https://yachtgurus.us/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-795 yachtgurus.us · home · https://yachtgurus.us/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Your local boat and yacht supplier.
 – Yacht Gurus, inc
 Skip to content
 Home
+Shop
+Anchoring & Docking
+Apparel & Branding
+Deck Hardware & Rigging
+Electrical
+Electronics & Navigation
+Engine & Fuel
+Helm Seating & Furniture
+Lighting
+Maintenance & Care
+Outdoor Living & Galley
+Plumbing & Pumps
+Safety
+Steering & Controls
+Thrusters, Stabilizers & Trim
+Tops, Covers & Canvas
+Trailer & RV
+Ventilation & Climate
+Watersports & Fishing
+Wipers, Windows & Shades
 Catalog
 Interior
 Decor
 Table Settings
 Uniforms
 Provisioning
+VesselOS
 News
 Contact Us
 Log in
@@ -732,12 +753,33 @@ Zimbabwe
 USD
 $
 Home
+Shop
+Anchoring & Docking
+Apparel & Branding
+Deck Hardware & Rigging
+Electrical
+Electronics & Navigation
+Engine & Fuel
+Helm Seating & Furniture
+Lighting
+Maintenance & Care
+Outdoor Living & Galley
+Plumbing & Pumps
+Safety
+Steering & Controls
+Thrusters, Stabilizers & Trim
+Tops, Covers & Canvas
+Trailer & RV
+Ventilation & Climate
+Watersports & Fishing
+Wipers, Windows & Shades
 Catalog
 Interior
 Decor
 Table Settings
 Uniforms
 Provisioning
+VesselOS
 News
 Contact Us
 Country/region
@@ -1615,57 +1657,4 @@ Unit price
 per
 Choose options
 View full details
-Custom Branded Towels (Bath Sheet)
-Regular price
-$75.00 USD
-Regular price
-Sale price
-$75.00 USD
-Unit price
-/
-per
-Custom Branded Towels (Bath Sheet)
-Regular price
-$75.00 USD
-Regular price
-Sale price
-$75.00 USD
-Unit price
-/
-per
-Custom Coasters
-Regular price
-$3.50 USD
-Regular price
-Sale price
-$3.50 USD
-Unit price
-/
-per
-Decrease quantity for Default Title
-Increase quantity for Default Title
-Crystal & Porclean Cabinet Fixtures - Custom
-Regular price
-$50.00 USD
-Regular price
-Sale price
-$50.00 USD
-Unit price
-/
-per
-Decrease quantity for Default Title
-Increase quantity for Default Title
-Custom Name Sign - Yacht Name
-Sale
-Custom Name Sign - Yacht Name
-Regular price
-$1,450.00 USD
-Regular price
-$1,700.00 USD
-Sale price
-$1,450.00 USD
-Unit price
-/
-per
-Decrease quantity for Default Title
-Increa
+Custom Branded Towels (Bat

@@ -1,6 +1,5 @@
-# SB-621 lanshack.com · news_1 · https://www.lanshack.com/Resources/Articles · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-621 lanshack.com · news_1 · https://www.lanshack.com/Resources/Articles · fetched 2026-11-28T10:38:53Z · HTTP 200
 Articles
-CLOSED November 26th & 27th · Have a safe and happy Thanksgiving!
 Custom Cable Manufacturing in the USA Since 1997
 Home of
 ISO 9001:2015 Certified
@@ -806,4 +805,7 @@ back
 12 Fiber Outdoor Flat Drop
 Outdoor Armored Assemblies
 back
-2 Fiber Outdoo
+2 Fiber Outdoor Armored
+4 Fiber Outdoor Armored
+6 Fiber Outdoor Armored
+8 Fiber 

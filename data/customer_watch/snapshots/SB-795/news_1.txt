@@ -1,14 +1,35 @@
-# SB-795 yachtgurus.us · news_1 · https://yachtgurus.us/blogs/news · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-795 yachtgurus.us · news_1 · https://yachtgurus.us/blogs/news · fetched 2026-11-28T10:38:53Z · HTTP 200
 News
 – Yacht Gurus, inc
 Skip to content
 Home
+Shop
+Anchoring & Docking
+Apparel & Branding
+Deck Hardware & Rigging
+Electrical
+Electronics & Navigation
+Engine & Fuel
+Helm Seating & Furniture
+Lighting
+Maintenance & Care
+Outdoor Living & Galley
+Plumbing & Pumps
+Safety
+Steering & Controls
+Thrusters, Stabilizers & Trim
+Tops, Covers & Canvas
+Trailer & RV
+Ventilation & Climate
+Watersports & Fishing
+Wipers, Windows & Shades
 Catalog
 Interior
 Decor
 Table Settings
 Uniforms
 Provisioning
+VesselOS
 News
 Contact Us
 Log in
@@ -732,12 +753,33 @@ Zimbabwe
 USD
 $
 Home
+Shop
+Anchoring & Docking
+Apparel & Branding
+Deck Hardware & Rigging
+Electrical
+Electronics & Navigation
+Engine & Fuel
+Helm Seating & Furniture
+Lighting
+Maintenance & Care
+Outdoor Living & Galley
+Plumbing & Pumps
+Safety
+Steering & Controls
+Thrusters, Stabilizers & Trim
+Tops, Covers & Canvas
+Trailer & RV
+Ventilation & Climate
+Watersports & Fishing
+Wipers, Windows & Shades
 Catalog
 Interior
 Decor
 Table Settings
 Uniforms
 Provisioning
+VesselOS
 News
 Contact Us
 Country/region
@@ -1467,6 +1509,18 @@ View cart
 Check out
 Continue shopping
 News
+Which LED Bulb Fits Your Boat's Light? BA15s, B...
+How to read a boat light bulb base (BA15s, BA15d, BAY15d, E12, E14, G4), check your DC voltage and fixture space, and pick the right LED bulb.
+Which LED Bulb Fits Your Boat's Light? BA15s, B...
+How to read a boat light bulb base (BA15s, BA15d, BAY15d, E12, E14, G4), check your DC voltage and fixture space, and pick the right LED bulb.
+Bow Thruster Runs but the Boat Won't Move Sidew...
+Sleipner or Side Power thruster motor runs but the boat won't move sideways? Safe first checks, when to call a tech, and which coupler or prop to order.
+Bow Thruster Runs but the Boat Won't Move Sidew...
+Sleipner or Side Power thruster motor runs but the boat won't move sideways? Safe first checks, when to call a tech, and which coupler or prop to order.
+Anchor Windlass Clicks but Won't Turn? What to ...
+Windlass clicks but won't turn? Safe first checks for 12V and 24V windlasses, what the click means, and how to match your solenoid control box.
+Anchor Windlass Clicks but Won't Turn? What to ...
+Windlass clicks but won't turn? Safe first checks for 12V and 24V windlasses, what the click means, and how to match your solenoid control box.
 Oceanic Systems Circuit Stopped Working? Safe F...
 One circuit dead on your Oceanic Systems digital switching? Identify the module, read the lights and check breakers safely before you call a tech.
 Oceanic Systems Circuit Stopped Working? Safe F...
@@ -1479,27 +1533,17 @@ NMEA 2000 Network Showing No Data? The First Ch...
 NMEA 2000 network showing no data? Check corrosion, connections, power, termination and data sources in safe order before you replace a sensor.
 NMEA 2000 Network Showing No Data? The First Ch...
 NMEA 2000 network showing no data? Check corrosion, connections, power, termination and data sources in safe order before you replace a sensor.
-Yacht Branding: Creating a Lasting Impression
-Yacht branding is essential for creating a cohesive and luxurious identity, extending beyond the vessel itself through elements like name signs, branded accessories, crew uniforms, and guest handouts. Every detail,...
-Yacht Branding: Creating a Lasting Impression
-Yacht branding is essential for creating a cohesive and luxurious identity, extending beyond the vessel itself through elements like name signs, branded accessories, crew uniforms, and guest handouts. Every detail,...
-The Importance of Digitizing Blueprints and Des...
-Yacht design and construction are meticulous processes that blend art and engineering, creating vessels that are as functional as they are elegant. Traditionally, blueprints and design drawings for yachts were...
-The Importance of Digitizing Blueprints and Des...
-Yacht design and construction are meticulous processes that blend art and engineering, creating vessels that are as functional as they are elegant. Traditionally, blueprints and design drawings for yachts were...
-Yacht Name Signs
-Yacht name signs are more than just identifiers; they are a statement of elegance and pride. Over time, however, these signs can suffer from wear and tear, fading, or even...
-Yacht Name Signs
-Yacht name signs are more than just identifiers; they are a statement of elegance and pride. Over time, however, these signs can suffer from wear and tear, fading, or even...
 1
 2
 3
+4
 Quick links
 Home
 About Us
 Catalog
 Contact Us
 News
+VesselOS
 Country/region
 United States |
 USD
@@ -1553,92 +1597,4 @@ $
 Austria
 EUR
 €
-Azerbaijan
-AZN
-₼
-Bahamas
-BSD
-$
-Bahrain
-USD
-$
-Bangladesh
-BDT
-৳
-Barbados
-BBD
-$
-Belarus
-USD
-$
-Belgium
-EUR
-€
-Belize
-BZD
-$
-Benin
-XOF
-Fr
-Bermuda
-USD
-$
-Bhutan
-USD
-$
-Bolivia
-BOB
-Bs.
-Bosnia & Herzegovina
-BAM
-КМ
-Botswana
-BWP
-P
-Brazil
-USD
-$
-British Indian Ocean Territory
-USD
-$
-British Virgin Islands
-USD
-$
-Brunei
-BND
-$
-Bulgaria
-EUR
-€
-Burkina Faso
-XOF
-Fr
-Burundi
-BIF
-Fr
-Cambodia
-KHR
-៛
-Cameroon
-XAF
-CFA
-Canada
-CAD
-$
-Cape Verde
-CVE
-$
-Caribbean Netherlands
-USD
-$
-Cayman Islands
-KYD
-$
-Central African Republic
-XAF
-CFA
-Chad
-XAF
-CFA
-Chile
-U
+Az

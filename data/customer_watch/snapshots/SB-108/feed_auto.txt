@@ -1,4 +1,4 @@
-# SB-108 gwsecurityusa.com · feed_auto · https://gwsecurityusa.com/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 403
+# SB-108 gwsecurityusa.com · feed_auto · https://gwsecurityusa.com/feed/ · fetched 2026-11-28T10:38:53Z · HTTP 403
 {
 "message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
 }

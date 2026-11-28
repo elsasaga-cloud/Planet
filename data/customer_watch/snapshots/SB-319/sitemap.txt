@@ -1,2 +1,9 @@
-# SB-319 viewtech.co.nz · sitemap · https://viewtech.co.nz/sitemap_index.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
-
+# SB-319 viewtech.co.nz · sitemap · https://viewtech.co.nz/sitemap_index.xml · fetched 2026-11-28T10:38:53Z · HTTP 403
+Verification Required
+Security Check
+Before you continue, we're running a quick automated check to ensure this is a friendly request. It usually finishes on its own in a few seconds, you don't need to do anything.
+Once the check completes, you'll be taken straight to the page you asked for.
+The verification widget could not be loaded. Please retry shortly, or from
+another network.
+If this page doesn't continue on its own, complete the check above. Still stuck? Get in touch .
+Security powered by SiteHost

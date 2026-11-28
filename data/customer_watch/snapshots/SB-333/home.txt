@@ -1,4 +1,4 @@
-# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-333 yli.ro · home · https://yli.ro/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 YLI Control Acces
 HOME
 PRODUSE
@@ -150,20 +150,20 @@ suport
 Customer Service
 Formular Retur/Service
 contact
-IPC-HFW1439TC1-A-LED-0280B-PRO - Camera supraveghere IP exterior Dahua WizColor, 4MP, 2.8mm, lumina alba 20m, microfon, POE
-S532(BRAK.F.RAIN) - Carcasa protectie ploaie pentru videointerfonul S532(IP), montaj incastrat
+YK-BAR-TC(V3) - Telecomanda radio cu cod saritor pentru bariere
+BXB-S18NCB01VF-I-GY-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 2–6 secunde, brat de pana la 8 metri, reversibila
+BXB-E30DZE-BL - Corp bariera de acces auto cu servomotor BRUSHLESS pe 24Vcc, viteza reglabila 1,5–6 secunde, brat de pana la 6 metri
+CY-SL-INT-EEC - Terminal intrare/iesire parcare interfon, scaner QR, ecran LCD 10", controler EEC, RJ45 10/100MBPS; IP54
+S563-DESKTOP.STAND - Suport montare pe birou pentru postul de videointerfonie S563
 EC33 - Centrala IP pentru controlul accesului la lift, cu 32 de iesiri releu, extensibila
 S535(BRAK.F) - Suport montare incastrata pentru videointerfoanele IP Akuvox S535
-SCP-211 - Buton iesire de urgenta cu 3 comutatoare NC-COM-NO, semnalizare acustica si luminoasa, IP54
-BXB-S18NCB01VF-I-GY-L - Corp bariera de acces auto cu motor BRUSHLESS pe 24Vcc, viteza reglabila 2–6 secunde, brat de pana la 8 metri, reversibila
-S532(BRAK.S.RAIN) - Carcasa protectie ploaie pentru videointerfonul S532(IP), montaj aparent
-CPK-865G-WP - Buton de urgenta resetabil, verde, 2 × NO/NC/COM, IP65
-SFP-10G-1270/1330-20A/B(K+) - Module SFP+ 10GBase-LR, 10Gbps, BiDi, 1270/1330nm, fibra singlemode, distanta pana la 20km
-BXB-S45CB01VF-H-wh-L - Corp bariera cu servomotor 24V, ciclu de utilizare industrial intensiv 100%, brat maxim 4.5m, 1-4 SECUNDE, MTBF 6 milioane
-CY-SUNV3-4G-6100077 - Terminal portabil parcare, taxare parcare, ecran touch 5.5", Android, imprimanta termica 58mm inclusa, scanner QR inclus, POS MYPos NFC
-S535 - Video interfon IP SIP, post de apel cu ecran touchscreen de 5”, Linux, BLE 5.0, recunoaștere facială, NFC, cod QR
 YP-902-24-3 - Sursa de alimentare neintreruptibila, pentru control acces, 24Vcc/3A
-CY-SOFT-ONPREM|UPGRADE - Upgrade software On-Premise, la cerere
+CPK-865G-WP - Buton de urgenta resetabil, verde, 2 × NO/NC/COM, IP65
+IPC-HFW1439TC1-A-LED-0280B-PRO - Camera supraveghere IP exterior Dahua WizColor, 4MP, 2.8mm, lumina alba 20m, microfon, POE
+S535(BRAK.S.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535, neagra
+WR01 - Modul de comanda IP cu 2 relee, 2 intrari digitale, Bluetooth 5.0 si alimentare PoE
+GL-KZQ-01 - Cabinet complet echipat pentru controlul a maxim 8 bolarzi hidraulici
+CY-SUNV3-4G-6100077 - Terminal portabil parcare, taxare parcare, ecran touch 5.5", Android, imprimanta termica 58mm inclusa, scanner QR inclus, POS MYPos NFC
 S535(BRAK.F.RAIN) - Aparatoare ploaie pentru interfoanele Akuvox S535
 Noutati
 Supraveghere video Dahua

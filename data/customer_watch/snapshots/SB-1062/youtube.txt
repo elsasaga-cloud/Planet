@@ -1,4 +1,4 @@
-# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-1062 odoo.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UCkQPikELWZFLgQNHd73jkdg · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-11-26T11:55:22+00:00	Odoo Quick Tips - Travel time [Planning]	https://www.youtube.com/watch?v=27BU11MWP9U
 2026-11-26T10:59:45+00:00	Odoo Insider Tech Q&A Session	https://www.youtube.com/watch?v=GzgioUylG4s
 2026-11-26T08:25:40+00:00	Odoo Insider - Live Q&A - Last 2026 session with Antoine🕺🏻	https://www.youtube.com/watch?v=-FItVtcI4ss

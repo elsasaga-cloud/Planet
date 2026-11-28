@@ -1,4 +1,4 @@
-# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-836 fiberworks.no · feed_auto · https://www.fiberworks.no/WebPages/produkt/rss.aspx · fetched 2026-11-28T10:38:53Z · HTTP 200
 27.11.2026 10.32.05	DIN-boks Mini preterm G8 LCU-Åpen 13 m	https://www.fiberworks.no/fiberworks-as/pd2-y08ms-lcu-pig-13/din-boks-mini-preterm-g8-lcu-%c3%a5pen-13-m-lc-upc-i-din-boks-%c3%a5pen-ende-b
 27.11.2026 10.30.25	DIN-boks Mini preterm G8 LCU-Åpen 12 m	https://www.fiberworks.no/fiberworks-as/pd2-y08ms-lcu-pig-12/din-boks-mini-preterm-g8-lcu-%c3%a5pen-12-m-lc-upc-i-din-boks-%c3%a5pen-ende-b
 27.11.2026 10.25.40	DIN-boks Mini preterm G8 LCU-Åpen 11 m	https://www.fiberworks.no/fiberworks-as/pd2-y08ms-lcu-pig-11/din-boks-mini-preterm-g8-lcu-%c3%a5pen-11-m-lc-upc-i-din-boks-%c3%a5pen-ende-b

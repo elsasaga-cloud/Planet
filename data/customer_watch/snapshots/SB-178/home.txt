@@ -1,4 +1,4 @@
-# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-178 wisp.pl · home · https://www.wisp.pl/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 WISP.PL Dystrybutor sprzętu sieciowego, MikroTik, Ubiquiti, TP-Link, Światłowody
 WISP.PL Sieci bezprzewodowe - Dystrybutor sprzętu sieciowego
 WISP.PL
@@ -292,46 +292,46 @@ MikroTik SXTsq Embedded LTE4 Global (EG25-G&SXTsq) – z rozszerzoną obsługą 
 #MikroTik #SXTsq
 More
 Promocje
-Wisnetworks WIS-L5818S Sector Base Station
+Tenda TEG1124P-24-250W
+762,60 zł z VAT
+799,50 zł
+620,00 zł netto
+szt
+Najniższa cena z 30 dni: 799,50 zł
+WYPRZEDAŻ
+Scodeno XPTN-9000-65-8GT
+232,47 zł z VAT
+272,79 zł
+189,00 zł netto
+szt
+Najniższa cena z 30 dni: 272,79 zł
+WYPRZEDAŻ
+Teltonika TAP200 z zasilaczem 15W (TAP200000300)
+244,77 zł z VAT
+380,08 zł
+199,00 zł netto
+szt
+Najniższa cena z 30 dni: 380,08 zł
+WYPRZEDAŻ
+USR-M100-EAU
 367,77 zł z VAT
-575,64 zł
+470,92 zł
 299,00 zł netto
 szt
-Najniższa cena z 30 dni: 575,64 zł
+Najniższa cena z 30 dni: 470,92 zł
 WYPRZEDAŻ
-Pigtail MMCX - N/ż [short head] (20 cm)
-12,18 zł z VAT
-18,94 zł
-9,90 zł netto
+Huawei ONT HG8540M (GPON) 1x SC/UPC 1x GE 3x FE
+40,59 zł z VAT
+90,66 zł
+33,00 zł netto
 szt
-Najniższa cena z 30 dni: 18,94 zł
-NOWOŚĆ WYPRZEDAŻ
-Spawarka światłowodowa Signal Fire AI-30
-3 688,77 zł z VAT
-5 510,40 zł
-2 999,00 zł netto
+Najniższa cena z 30 dni: 90,66 zł
+Tenda G103 Gigabit GPON Terminal SC/PC
+97,17 zł z VAT
+113,16 zł
+79,00 zł netto
 szt
-Najniższa cena z 30 dni: 5 510,40 zł
-WYPRZEDAŻ
-TP-Link Deco X10
-195,57 zł z VAT
-300,99 zł
-159,00 zł netto
-szt
-Najniższa cena z 30 dni: 300,99 zł
-Uchwyt kablowy KP10/10, na przewód płaski 10x10 mm
-2,34 zł z VAT
-8,61 zł
-1,90 zł netto
-szt
-Najniższa cena z 30 dni: 8,61 zł
-WYPRZEDAŻ
-Teltonika RUTX08 router (RUTX08000000)
-613,77 zł z VAT
-764,65 zł
-499,00 zł netto
-szt
-Najniższa cena z 30 dni: 764,65 zł
+Najniższa cena z 30 dni: 113,16 zł
 Najnowsze propozycje
 NOWOŚĆ
 Obudowa hermetyczna słupowa 300x200x400 (HGF-30/20/40)
@@ -380,14 +380,18 @@ szt
 Porównywarka
 Wybierz produkty do porównania
 Towar dnia
-Tenda CP6 obrotowa kamera do monitoringu domowego
-79,40 zł z VAT
-64,55 zł netto
+Cudy BU530
+14,76 zł z VAT
+16,87 zł
+12,00 zł netto
 more
+Najniższa cena z 30 dni: 20,75 zł
 WYSYŁKA
 Zamówienia złożone i potwierdzone do godz. 15-tej są realizowane w tym samym dniu*.
 Koszty przesyłki:
 DHL: od 13 PLN (netto)
 FedEx: od 14.90 PLN (netto)
 Paczkomat: od 14 PLN (netto)
-Poczta: zgodnie z cenn
+Poczta: zgodnie z cennikiem
+Zlokalizuj przesyłkę DHL
+Zlokali

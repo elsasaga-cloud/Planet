@@ -1,4 +1,4 @@
-# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-274 alcadon.no · feed_auto · https://www.alcadon.no/WebPages/produkt/rss.aspx · fetched 2026-11-28T10:38:53Z · HTTP 200
 23.11.2026 13:30:39	Outlet Switch & Metered Horisontal	https://www.alcadon.no/austin-hughes/iats-10xc13-wsi-c20/outlet-switch--and--metered-horisontal-10xc13-16a-m-2x3m-ledning-c20
 20.11.2026 10:40:48	Horisontal ATS-PDU	https://www.alcadon.no/austin-hughes/iats-8xc13-plus-2xc19/outlet-switch-horisontal-8xc13-plus-2xc19-16a-m-2x3m-ledning-c20
 20.11.2026 08:37:36	AH IPDU Vertikal Switched+Monitored, S	https://www.alcadon.no/austin-hughes/ipdu20xc13-plus-4xc19-zsi/ah-ipdu-vertikal-switched-plus-monitored-s-20xc13-plus-4xc19-16a-230v-1-fas-iec60309-3m

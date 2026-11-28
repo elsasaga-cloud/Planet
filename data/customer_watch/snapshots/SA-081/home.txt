@@ -1,4 +1,4 @@
-# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SA-081 4power.it · home · https://www.4power.it/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 4Power | UPS, Networking, Cablaggio Strutturato e Armadi Rack Skip to content Assistenza Clienti: +39 081 819 3441
 Cerca:
 Assistenza Clienti: +39 081 819 3441
@@ -146,37 +146,37 @@ Cataloghi Prodotti
 Scarica ora
 Prodotti in Evidenza
 +
-UPS Micro Pro LCD
-Eurogroup Micro Pro LCD 1000: UPS 1000 VA / 600 W | MLPMM100010T
+Armadi Rack da palo
+Box IP66 da palo 300×200×400 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
-L3
-Planet SGS-6310-24P4X: Switch Managed L3 Stackable con 24 Porte 10/100/1000T PoE+ e 4 Porte 10G SFP+
+Serial on Ethernet
+PLANET IMG-2102T: Modbus Gateway industriale RS232/422/485 con 100BASE-FX SC multimodale 2 km
+Esegui l'accesso per visualizzare i prezzi
++
+Armadi 600x600
+Armadio Rack a Pavimento 27U 600×600 Porta Grigliata Alta Densità RAL 9004 | 4Net
 Esegui l'accesso per visualizzare i prezzi
 +
 Esaurito
-L3
-PLANET DCS-7342-32C switch data center Layer 3 32x100G QSFP28
+Fire Protect OM2
+4Net Cavo fibra Fire Protect OM2 2 fibre armato LSZH B2ca | CF50BA02LSM2
 Esegui l'accesso per visualizzare i prezzi
 +
-UPS Third Power / Third Power Plus – Rack/Tower: gruppi di continuità on-line a doppia conversione
-UPS Rack/Tower 4000 VA / 4000 W (4U) Third Power Plus | Eurogroup
+Unmanaged
+Planet ISW-511T: Switch Fast Ethernet 4-Porte 10/100Base-Tx Ip30 Slim + 1-Porta
 Esegui l'accesso per visualizzare i prezzi
 +
-Stabilizzatori elettromeccanici monofase
-Stabilizzatore Di Tensione Elettromeccanico Monofase 5 Kva ±20%
-Esegui l'accesso per visualizzare i prezzi
-+
-Patch Cord Cat 6A
-4Net Patch Cord Cat 6A U/UTP 3 m LSZH nero | CP6AUUTP30N
+Unmanaged
+Media Converter Industriale Fast Ethernet Sfp Opz. Ip30
 Esegui l'accesso per visualizzare i prezzi
 +
 L3
-Planet SGS-6310-48T6X: Switch Layer 3 stackable, 48 Gigabit + 6 SFP+ 10G
+Planet XGS-6320-8X8TR: Switch Ethernet Managed L3 ad alte prestazioni con 8 porte SFP+ 10GBASE-X e 8 porte RJ45 10GBASE-T
 Esegui l'accesso per visualizzare i prezzi
 +
-UPS Third Power Trifase 40000-200000
-Eurogroup Third Power TT160: UPS trifase 160 kVA / 160 kW | THPTT160K00T
+Bretelle Multimodali Zip Duplex 62,5/125 OM1
+Bretella Fibra OM1 SC-SC 3m | 4Net
 Esegui l'accesso per visualizzare i prezzi
 Ultime dal Blog
 Come dimensionare un UPS: differenza tra VA e W, autonomia e criteri di scelta

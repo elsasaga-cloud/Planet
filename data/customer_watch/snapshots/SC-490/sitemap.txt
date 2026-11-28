@@ -1,4 +1,4 @@
-# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-490 hattelandtechnology.com · sitemap · https://www.hattelandtechnology.com/sitemap.xml · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-11-12	https://www.hattelandtechnology.com/view_product/p020518_accessory_488
 2023-06-28	https://www.hattelandtechnology.com/news/embron-group-acquires-swedish-electronics-and-software-developer-qrtech
 2026-11-17	https://www.hattelandtechnology.com/view_product/hd-cmb-sx2_accessory_38
@@ -39,6 +39,7 @@
 2026-11-12	https://www.hattelandtechnology.com/view_product/hd-t30-aex_accessory_523
 2026-10-20	https://www.hattelandtechnology.com/view_product/jh-19t01-mmd_monitor_364
 2023-06-28	https://www.hattelandtechnology.com/news/new-product-104-inch-panel-computer
+2026-01-26	https://www.hattelandtechnology.com/en/events/webinar-on-demand
 2026-10-21	https://www.hattelandtechnology.com/products/obsolete-marine-crt-monitors
 2023-06-29	https://www.hattelandtechnology.com/news/server-solution-for-precise-youniq
 2026-10-19	https://www.hattelandtechnology.com/view_product/jh-19t12-mmd_monitor_367
@@ -130,9 +131,9 @@
 2026-11-16	https://www.hattelandtechnology.com/view_product/jh-27twc-std_accessory_152
 2024-10-31	https://www.hattelandtechnology.com/blog/connectivity-and-vulnerability-secure-your-industrial-network-and-all-its-connected-devices
 2023-06-28	https://www.hattelandtechnology.com/news/merger-announcement-1
+2026-01-26	https://www.hattelandtechnology.com/faq
 2023-06-29	https://www.hattelandtechnology.com/news/announces-new-president-ceo-to-take-the-helm-in-february-2009
 2025-01-10	https://www.hattelandtechnology.com/members
 2026-11-13	https://www.hattelandtechnology.com/view_product/ht20370_computer_419
 2026-11-03	https://www.hattelandtechnology.com/view_product/hd-43t40-mvd-d_monitor_544
-2023-06-29	https://www.hattelandtechnology.com/news/hatteland-display-appoints-agent-in-singapore
-2026-11-16	https://www.hattelandtechnology.com/vi
+2023-06-29	https://ww

@@ -1,4 +1,4 @@
-# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-277 instantbyte.com · youtube · https://www.youtube.com/feeds/videos.xml?channel_id=UC_yWaJtmKy9dwFjqV4JT7uA · fetched 2026-11-28T10:38:53Z · HTTP 200
 2026-11-25T17:00:22+00:00	Conecta edificios sin fibra | Webinar Grandstream GWN7302 · 4/12 #Shorts	https://www.youtube.com/shorts/O2ng60ga6cM
 2026-11-23T11:46:29+00:00	Grandstream 2027: IA, redes, telefonía y seguridad | Webinar en español	https://www.youtube.com/watch?v=3hgRrrAu3sE
 2026-11-23T08:00:18+00:00	RouterOS 7.25 en español: seguridad en bridge, VTI para IPsec y cliente SSH	https://www.youtube.com/watch?v=eanoKkMnRkY

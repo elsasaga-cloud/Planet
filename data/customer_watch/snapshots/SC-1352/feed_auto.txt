@@ -1,4 +1,4 @@
-# SC-1352 globusinfocom.com · feed_auto · https://www.globusinfocom.com/blog/rss/index/store_id/1/ · fetched 2026-11-27T11:01:47Z · HTTP 403
+# SC-1352 globusinfocom.com · feed_auto · https://www.globusinfocom.com/blog/rss/index/store_id/1/ · fetched 2026-11-28T10:38:53Z · HTTP 403
 {
 "message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
 }

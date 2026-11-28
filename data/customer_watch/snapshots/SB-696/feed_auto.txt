@@ -1,4 +1,4 @@
-# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-696 aironix.co.il · feed_auto · https://aironix.co.il/feed/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Thu, 26 Nov 2026 09:33:45 +0000	Physical AI & Robotics: The Future of Industrial Computing | Aironix Systems	https://aironix.co.il/articles/physical-ai-robotics-the-future-of-industrial-computing-aironix-systems/
 Mon, 23 Nov 2026 08:36:33 +0000	CTC Union: Building Reliable Networks for Demanding Environments	https://aironix.co.il/articles/aironix-x-ctc-union-building-reliable-networks-for-demanding-environments/
 Tue, 17 Nov 2026 11:22:00 +0000	NEW!!!! VECOW SPC-8000	https://aironix.co.il/articles/new-vecow-spc-8000-ultra-compact-fanless-computing-for-edge-ai-and-industrial-applications/

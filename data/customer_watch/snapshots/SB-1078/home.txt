@@ -1,4 +1,4 @@
-# SB-1078 solimedia.net · home · https://solimedia.net/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-1078 solimedia.net · home · https://solimedia.net/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Solimedia: The Best Deals on Mikrotik and Grandstream
 Skip to content
 Search ×
@@ -170,14 +170,14 @@ Register an account
 click here to Register
 Featured Products
 Quick View
-CRS309-1G-8S+IN
-$ 374.60 CAD
-Quick View
-Optcore 10G pair SFP BIDI Fibre 10KM
-$ 114.14 CAD
-Quick View
 ROSE Data server (RDS)
 $ 2,853.38 CAD
+Quick View
+Fibre NIC 40G 2 QSFP
+$ 1,381.33 CAD
+Quick View
+hEX S (2025)
+$ 100.97 CAD
 Quick View
 MaGiC SFP 1G – High Freq.
 $ 83.41 CAD

@@ -1,4 +1,4 @@
-# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-266 axilogi.com · home · https://axilogi.com/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Axilogi s.r.o.
 O nás
 Kontakty
@@ -41,39 +41,42 @@ Počítače a komponenty
 Merch
 Akce a novinky
 Nové produkty
-Triton 19" stojanový rack 27U/600x800 prosklené dveře, šedý
-10 350 Kč bez DPH
-12 524 Kč s DPH
-Hikvision IP bullet hybrid kamera DS-2CD1643G3-LIZSU(2.8-12mm)/BLACK, 4Mpx, 2.8-12mm, Černá
+DEYE hybridní měnič 5 kW, 1 fázový, LV, 6.generace
+16 114 Kč bez DPH
+19 498 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, bílý
+57 Kč bez DPH
+69 Kč s DPH
+Ubiquiti UniFi UPS 2U Pro, Rackmount, 2200VA
+17 498 Kč bez DPH
+21 173 Kč s DPH
+Ubiquiti UniFi patch kabel, 0,2m, Cat5e, modrý, 24 pack
+1 089 Kč bez DPH
+1 318 Kč s DPH
+Ubiquiti UniFi patch kabel, 1m, Cat5e, černý, 24 pack
+1 957 Kč bez DPH
+2 368 Kč s DPH
+DEYE Solární ponorné čerpadlo 11000W s regulátorem DY-D13600AC/DC
+17 695 Kč bez DPH
+21 411 Kč s DPH
+Teltonika Security BF1, Bezdrátový detektor zaplavení vodou
+962 Kč bez DPH
+1 165 Kč s DPH
+TP-Link Tapo C250 Domácí bezpečnostní Wi-Fi kamera s naklápěním, 8Mpx
+1 344 Kč bez DPH
+1 626 Kč s DPH
+Triton 19" horizontální zemnící lišta 5x20mm
+801 Kč bez DPH
+969 Kč s DPH
+Hikvision IP dome hybrid kamera DS-2CD2123G2-LIS2U(2.8mm)(BLACK), 2Mpx, 2.8mm, AcuSense, Černá
+Ubiquiti UACC-Adapter-PoE-24-12W, Gigabitový PoE Injektor, 24V/0.5A (12W), 20 pack
+3 244 Kč bez DPH
+3 925 Kč s DPH
 Hikvision IP dome hybrid kamera DS-2CD2143G2-LIS2U(2.8mm), 4Mpx, 2.8mm, AcuSense
-Hikvision IP dome kamera DS-2CD1147G3-LIU(2.8mm), 4Mpx, 2.8mm, ColorVu 3.0
-Ubiquiti UniFi patch kabel, 1m, Cat5e, modrý, 24 pack
-1 954 Kč bez DPH
-2 364 Kč s DPH
-MEAN WELL DDR-60L-24 Step-down měnič napětí DC/DC, 60W
-743 Kč bez DPH
-899 Kč s DPH
-Anténní držák na zeď k oknu "L" - pravý, délka 25cm, výška 12cm, průměr 32mm
-140 Kč bez DPH
-169 Kč s DPH
-Triton 19" stojanový rack 42U/600x900 prosklené dveře, černý
-14 250 Kč bez DPH
-17 243 Kč s DPH
-Hikvision IP turret kamera DS-2CD2347G3-LI2UY(2.8mm)(BLACK), 4Mpx, 2.8mm, ColorVu 3.0, Černá
-Hikvision IP turret hybrid kamera DS-2CD1347G2H-LIU(4mm), 4Mpx, 4mm, ColorVu
-Triton 19" stojanový rack 45U/600x900 prosklené dveře, šedý
-14 430 Kč bez DPH
-17 460 Kč s DPH
-MikroTik KNOT Gateway LR8
-2 601 Kč bez DPH
-3 147 Kč s DPH
-DEYE GB-W-Pack12-2-A3 Bateriový modul, 12.03 kWh, HV
-38 130 Kč bez DPH
-46 137 Kč s DPH
-Synology HDD HAT5320-20T, 3.5", 20TB, SATA
-24 631 Kč bez DPH
-29 804 Kč s DPH
-Hikvision DS-KAB86, Instalační zápustná krabice pro IP videotelefony
+TP-Link Omada VIGI Cloud VMS license pro 1 kameru na 1 rok
+497 Kč bez DPH
+601 Kč s DPH
+Hikvision IP bullet kamera DS-2CD1027G3-LIU(4mm), 2Mpx, 4mm, ColorVu 3.0
 Aktuality
 Odolný router pro vozidla i průmysl od MikroTiku
 27.11.2026

@@ -1,4 +1,4 @@
-# SB-951 montavue.com · home · https://montavue.com/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-951 montavue.com · home · https://montavue.com/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 Montavue - 4K & 2K Security Systems for Home and Business - No Fees
 Skip to content
 Shop Products
@@ -79,24 +79,10 @@ Go to slide 2
 CHOOSE YOUR SYSTEM
 Hardwired NVR Kits & Specialized Solutions
 Nexus Security Packages Nexus Cameras
-Save $380.65
-Montavue Nexus 4MP 2K Smart Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD
-$619.30
-$999.95
-Number of Cameras
-4 6 8
-+ Add to cart
 Save $453.71
 Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD
 $596.24
 $1,049.95
-Number of Cameras
-4 6 8
-+ Add to cart
-Save $377.65
-Montavue Nexus 4MP 2K Smart Turret PoE Security Camera System with 8-Channel Pro NVR & 1TB HDD
-$762.30
-$1,139.95
 Number of Cameras
 4 6 8
 + Add to cart
@@ -107,24 +93,10 @@ $1,174.95
 Number of Cameras
 4 6 8
 + Add to cart
-Save $504.45
-Montavue Nexus 8MP 4K Smart Turret PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD
-$720.50
-$1,224.95
-Number of Cameras
-4 6 8
-+ Add to cart
 Save $516.25
 Montavue Nexus 8MP 4K Smart Bullet PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD
 $733.70
 $1,249.95
-Number of Cameras
-4 6 8
-+ Add to cart
-Save $486.45
-Montavue Nexus 8MP 4K Smart Turret PoE Security Camera System with 8-Channel Pro NVR & 1TB HDD
-$863.50
-$1,349.95
 Number of Cameras
 4 6 8
 + Add to cart
@@ -149,19 +121,47 @@ $1,649.95
 Number of Cameras
 4 6 8
 + Add to cart
-Save $599.55
-Montavue Nexus 4MP 2K Smart Turret PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD
-$1,225.40
-$1,824.95
-Number of Cameras
-8 12 16
-+ Add to cart
 Save $720.66
 Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD
 $1,179.29
 $1,899.95
 Number of Cameras
 8 12 16
++ Add to cart
+Save $845.75
+Montavue Nexus 8MP 4K Smart Bullet PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD
+$1,454.20
+$2,299.95
+Number of Cameras
+8 12 16
++ Add to cart
+Save $795.75
+Montavue Nexus 8MP 4K Smart Dome PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD
+$1,454.20
+$2,249.95
+Number of Cameras
+8 12 16
++ Add to cart
+Save $1,148.91
+Montavue Nexus 8MP 4K Active Deterrence Turret PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD
+$1,701.04
+$2,849.95
+Number of Cameras
+8 12 16
++ Add to cart
+Save $1,659.27
+Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera System with 32-Channel Pro NVR & 6TB HDD
+$2,040.68
+$3,699.95
+Number of Cameras
+16 24 32
++ Add to cart
+Save $1,934.45
+Montavue Nexus 8MP 4K Smart Light Bullet PoE Security Camera System with 32-Channel Pro NVR & 6TB HDD
+$2,590.50
+$4,524.95
+Number of Cameras
+16 24 32
 + Add to cart
 Previous
 Next
@@ -171,18 +171,10 @@ Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera – MNB-4-101
 $74.54
 $169.95
 + Add to cart
-Montavue Nexus 4MP 2K Smart Light Turret PoE Security Camera – MNT-4-101
-$80.30
-+ Add to cart
 Save $140.19
 Montavue Nexus 8MP 4K Active Deterrence Smart Turret PoE Security Camera – MNT-8-301
 $139.76
 $279.95
-+ Add to cart
-Save $114.35
-Montavue Nexus 8MP 4K Smart Light Turret PoE Security Camera – MNT-8-101
-$105.60
-$219.95
 + Add to cart
 Save $402.75
 Montavue Nexus 12MP 4K 360° Fisheye PoE Security Camera – MNF-12-201
@@ -209,11 +201,11 @@ Montavue Nexus 8MP 4K Smart Light Bullet PoE Security Camera – MNB-8-101
 $108.90
 $234.95
 + Add to cart
-Sold out
+Save $827.76
 Montavue Nexus 8MP 4K 32x Optical Zoom PTZ PoE Security Camera – MNZ-832-301
 $652.19
 $1,479.95
-Sold out
++ Add to cart
 Save $453.71
 Montavue Nexus 4MP 2K Smart Light Bullet PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD
 $596.24
@@ -221,10 +213,24 @@ $1,049.95
 Number of Cameras
 4 6 8
 + Add to cart
-Save $822.15
-8MP 4K Nexus Smart Turret IP Security Camera System with Pro 16 Channel PoE NVR & 4TB HDD
-$1,427.80
-$2,249.95
+Save $516.25
+Montavue Nexus 8MP 4K Smart Bullet PoE Security Camera System with 8-Channel Smart NVR & 1TB HDD
+$733.70
+$1,249.95
+Number of Cameras
+4 6 8
++ Add to cart
+Save $503.25
+Montavue Nexus 8MP 4K Smart Bullet PoE Security Camera System with 8-Channel Pro NVR & 1TB HDD
+$876.70
+$1,379.95
+Number of Cameras
+4 6 8
++ Add to cart
+Save $845.75
+Montavue Nexus 8MP 4K Smart Bullet PoE Security Camera System with 16-Channel Pro NVR & 4TB HDD
+$1,454.20
+$2,299.95
 Number of Cameras
 8 12 16
 + Add to cart
@@ -341,9 +347,4 @@ Good people. Knowledgeable and good prices
 Nick Dolson
 01/05/2026
 New Camera - MTT4095 | 4MP 2K Turret Security Camera with SMD+ and Smart Dual Illumination
-My new cameras are an improvement over the cameras that I had from five years ago. These are plug N play and they have some newer features that I like.
-None
-12/24/2025
-Subscribe to our newsletter
-Promotions, new products and sales. Directly to your inbox.
-Yo
+My new cameras are an improvement over the cameras that I had from five yea

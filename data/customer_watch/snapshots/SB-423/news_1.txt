@@ -1,4 +1,4 @@
-# SB-423 es-france.com · news_1 · https://www.es-france.com/blog/category/1-actualites · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-423 es-france.com · news_1 · https://www.es-france.com/blog/category/1-actualites · fetched 2026-11-28T10:38:53Z · HTTP 200
 Toutes les actualités d'ES France : Nouveaux et focus produits
 Close
 Menu
@@ -321,14 +321,21 @@ Compteur & Industrie
 IOT & Smart Home
 Consommation en veille ultra-faible
 Dernières Actualités
+Formations NI : baisse des tarifs et des crédits de formation
+Profitez de la baisse des tarifs et des crédits de formation NI pour développer vos compétences sur LabVIEW,...
 NI InstrumentStudio : mesures PXI et automatisation des tests
 Découvrez NI InstrumentStudio pour vos mesures PXI et tests automatisés, avec un SDK gratuit permettant de développer...
 NGI N35500 : nouvelle génération d'alimentations DC bidirectionnelles
 Découvrez les alimentations NGI N35500 : régulation optimisée, faible ripple, simulation de batteries et panneaux...
-Mesure et caractérisation de la lumière : 6 instruments pour vos applications photométriques et spectrales
-Spectromètres, colorimètres, goniophotomètres et analyseurs d'éblouissement HOPOOCOLOR : sélectionnez votre...
 Actualités
-Il y a 1442 Actualités.
+Il y a 1443 Actualités.
+Formations NI : baisse des tarifs et des crédits de formation
+Posté le: 27/11/26
+|
+Catégories:
+Actualités , NI
+Profitez de la baisse des tarifs et des crédits de formation NI pour développer vos compétences sur LabVIEW, TestStand, VeriStand, PXI et CompactRIO.
+Lire plus
 NI InstrumentStudio : mesures PXI et automatisation des tests
 Posté le: 26/11/26
 |
@@ -391,13 +398,6 @@ Posté le: 18/11/26
 Catégories:
 Actualités , BIO-TESTS & INDUSTRIES
 Découvrez les courantomètres à hélice, sondes électromagnétiques et solutions de jaugeage pour mesurer la vitesse et le débit de l'eau.
-Lire plus
-Automatisez vos tests et mesures avec NI InstrumentStudio
-Posté le: 17/11/26
-|
-Catégories:
-Actualités , NI
-Découvrez NI InstrumentStudio, le logiciel pour configurer vos instruments PXI, réaliser des mesures interactives et accompagner l'automatisation des tests.
 Lire plus
 1
 2

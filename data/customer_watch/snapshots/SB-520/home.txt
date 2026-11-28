@@ -1,4 +1,4 @@
-# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SB-520 abctech.cz · home · https://www.abctech.cz/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 ABCTECH - výpočetní technika a elektronika
 Individuální přístup
 Rychlé dodání
@@ -75,85 +75,85 @@ CZK
 abc tech MAG
 Přejít do poradny
 Produktové novinky
-Ubiquiti Gigabitový 2.5G PoE Injektor, 24V 0.5A 12W - 20 pack
-Balení 20 pasivních PoE injektorů s datovým rozhraním 2,5G a výstupem 24 V / 0,5 A (12 W) pro napájení kompatibilních síťových zařízení přes ethernetový kabel. Vstupní napájení 100–230 V AC a 20 napájecích kabelů.
-3 074 Kč bez DPH
-3 720 Kč s DPH
+Ubiquiti UACC-Cable-Patch-0.4M-BK-10, UniFi patch kabel, 0.4m, černý, 10-pack
+Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
+567 Kč bez DPH
+686 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Teltonika Security SMK205, Bezdrátový detektor kouře
-Bateriový detektor kouře pro montáž na strop v interiéru komunikuje na frekvenci 868 MHz. Integrovanou sirénu doplňují vzdálená upozornění v mobilní aplikaci a propojení se systémem Teltonika Security Systems.
+Ubiquiti UACC-Cable-Patch-0.4M-W-24, UniFi patch kabel, 0.4m, bílý, 24-pack
+Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
 1 189 Kč bez DPH
 1 439 Kč s DPH
 Novinka
 Porovnat
+Není skladem
+Přidat do košíku
+Cudy WR3600H 2.5G Wi-Fi 7 Mesh Router, BE3600
+Dvoupásmový mesh router s Wi-Fi 7 dosahuje až 688 Mb/s na 2,4 GHz a 2880 Mb/s na 5 GHz. Má 2,5Gb/s WAN a 4 gigabitové LAN porty, 4 pevné antény a podporu OFDMA a MU-MIMO. Pracuje jako router, přístupový bod či opakovač a podporuje VPN.
+1 157 Kč bez DPH
+1 400 Kč s DPH
+Novinka
+Porovnat
 skladem
 Přidat do košíku
-Huawei Aura10, Dual-Band Wi-Fi 7 router
-Dvoupásmový Wi-Fi 7 mesh router s rychlostí až 3,6 Gb/s v pásmech 2,4 a 5 GHz. Má 2,5Gb/s LAN/WAN port, další gigabitové porty a podporu MLO, 4K-QAM i Smart Mesh pro propojení až 8 jednotek. Správa přes Huawei eKit.
-2 996 Kč bez DPH
-3 625 Kč s DPH
+Ubiquiti UACC-Cable-Patch-2M-W-24, UniFi patch kabel, 2m, bílý, 24-pack
+Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
+2 162 Kč bez DPH
+2 616 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Wiking WK-PS210 V2, PoE switch
-PoE+ switch s 8 porty 10/100 Mb/s a 2 uplinky 10/100 Mb/s pro IP kamery. Napájecí rozpočet 76 W, až 30 W na port, standard 802.3af/at. Režim Extend umožňuje dosah 250 m při 10 Mb/s a restart zařízení funkcí PD Alive.
-721 Kč bez DPH
-872 Kč s DPH
+Solární panel Victron Energy 30Wp/12V Mono
+Monokrystalický solární panel 30 Wp pro menší 12V fotovoltaické systémy. Konstrukce s 36 články, eloxovaným hliníkovým rámem a tvrzeným sklem; bypass diody omezují pokles výkonu při zastínění. Rozměry 380 × 450 × 25 mm.
+638 Kč bez DPH
+772 Kč s DPH
 Novinka
 Porovnat
-Není skladem
+skladem
 Přidat do košíku
 Ubiquiti UACC-Cable-Patch-0.2M-BK-24, UniFi patch kabel, 0.2m, černý, 24-pack
 Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-1 052 Kč bez DPH
-1 273 Kč s DPH
+1 054 Kč bez DPH
+1 275 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Energy Meter VM-3P5A Victron Energy
-Třífázový elektroměr Victron Energy VM-3P5A pro měření výkonu a energie s rychlou komunikací přes VE.Can a Ethernet a podporou Modbus UDP.
-3 038 Kč bez DPH
-3 676 Kč s DPH
+Ubiquiti UACC-Cable-Patch-3M-BK-10, UniFi patch kabel, 3m, černý, 10-pack
+Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
+1 216 Kč bez DPH
+1 471 Kč s DPH
 Novinka
 Porovnat
 Není skladem
 Přidat do košíku
-Ubiquiti UACC-Cable-Patch-2M-BK, UniFi patch kabel, 2m, černý
+Ubiquiti UACC-Cable-Patch-0.4M-BK-50, UniFi patch kabel, 0.4m, černý, 50-pack
 Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-108 Kč bez DPH
-131 Kč s DPH
+2 270 Kč bez DPH
+2 747 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-MHPower konektor MC4 s integrovaným pojistkovým pouzdrem, pojistka 32 A
-Solární pojistkový konektor MC4 pro jištění fotovoltaických DC obvodů do 1000 V. Integrované pouzdro obsahuje pojistku 32 A o rozměru 10 × 38 mm. Zapojuje se přímo do solárního vedení, krytí IP67 platí při správně provedeném spojení.
-130 Kč bez DPH
-157 Kč s DPH
+Huawei OptiXstar EG8145B7N-50, GPON ONT Gateway, WiFi 7
+Optická GPON ONT brána s Wi-Fi 7 v pásmech 2,4 a 5 GHz. Konektor SC/APC, jeden 2,5Gb/s LAN port, tři gigabitové LAN porty, telefonní port POTS a USB. Podpora WPA3, MU-MIMO a Beamforming. Napájecí adaptér 12 V / 1,5 A.
+1 106 Kč bez DPH
+1 338 Kč s DPH
 Novinka
 Porovnat
 skladem
 Přidat do košíku
-Cudy LT700E Bezdrátový 4G LTE router, AC1200
-4G LTE Cat 6 router s nano SIM slotem a rychlostí až 300/50 Mb/s pro stahování a odesílání. Dvoupásmová Wi-Fi dosahuje až 300 + 866 Mb/s. Má 3× gigabitový LAN a 1× gigabitový LAN/WAN port a VPN klienta OpenVPN a WireGuard.
-1 676 Kč bez DPH
-2 028 Kč s DPH
-Novinka
-Porovnat
-skladem
-Přidat do košíku
-Ubiquiti UACC-Cable-Patch-0.4M-BL-24, UniFi patch kabel, 0.4m, modrý, 24-pack
+Ubiquiti UACC-Cable-Patch-0.2M-W-10, UniFi patch kabel, 0.2m, bílý, 10-pack
 Ultratenký patch kabel Ubiquiti UniFi s podporou 10 GbE a PoE+++ je ideální pro propojení síťových zařízení v domácích i firemních instalacích. Cat5e kabel s měděným vodičem nabízí spolehlivý přenos dat, zatímco UTP provedení bez stínění usnadňuje instala
-1 188 Kč bez DPH
-1 437 Kč s DPH
+486 Kč bez DPH
+588 Kč s DPH
 Novinka
 Porovnat
-skladem
+Není skladem
 Přidat do košíku
 Přejít do poradny
 Aktuality
@@ -293,11 +293,3 @@ Podle zákona o evidenci tržeb je prodávající povinen vystavit kupujícímu 
 Tato webová stránka používá cookies
 K provozování našeho webu využíváme takzvané cookies. Cookies jsou soubory sloužící k přizpůsobení obsahu webu, k měření jeho funkčnosti a obecně k zajištění vaší maximální spokojenosti. Dejte nám vědět o svých preferencích.
 Pouze nutné cookies
-Povolit výběr
-Povolit všechny cookies
-Nutné Preferenční Statistické Marketingové Neklasifikované
-Zobrazit detaily
-1
-Kontaktujte nás!
-491 041 044
-info@abctech.cz

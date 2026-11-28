@@ -1,4 +1,4 @@
-# SB-1040 icpdas.ro · feed_auto · http://icpdas.ro/modules/feeder/rss.php?id_category=0&orderby=name&orderway=asc · fetched 2026-11-27T11:01:47Z · HTTP 403
+# SB-1040 icpdas.ro · feed_auto · http://icpdas.ro/modules/feeder/rss.php?id_category=0&orderby=name&orderway=asc · fetched 2026-11-28T10:38:53Z · HTTP 403
 {
 "message": "Access denied by Imunify360 bot-protection. IPs used for automation should be whitelisted"
 }

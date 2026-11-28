@@ -1,4 +1,4 @@
-# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-27T11:01:47Z · HTTP 200
+# SC-1935 leunig.de · home · https://leunig.de/ · fetched 2026-11-28T10:38:53Z · HTTP 200
 ADDER KVM, AKCP & HW group, Moxa, Delta USV - Leunig
 sales@leunig.de
 0800 40 77 88 1 ( +49 8631 986000 )
@@ -278,15 +278,6 @@ Nur 1.612,52 EUR
 Lieferzeit:
 1-3 Tage
 DisplayPort-KVM-Extender-Set für ein oder zwei Full-HD-Monitore (1920x1200 bei 60 Hz, DP 1.2 MST), USB-HID, Audio, RS232. CAT6 bis 100 m, Glasfaser bis 4 km.
--16%
-Opal8GL-8GE-LV-LV, 8-Port unmanaged GB DIN-Rail...
-Der unmanaged 8-Port-Switch Opal8GL, 8 Ports, Gigabit, erweiterter Temperaturbereich
-Lieferzeit:
-1-3 Tage
-Nur 175,00 EUR
-Lieferzeit:
-1-3 Tage
-Der unmanaged 8-Port-Switch Opal8GL, 8 Ports, Gigabit, erweiterter Temperaturbereich
 TOP
 -15%
 Moxa ioLogik E1214, Remote Ethernet I/O,...
@@ -335,6 +326,15 @@ Nur 135,00 EUR
 Lieferzeit:
 1-3 Tage
 1-Port Device Server, RS-232 auf Ethernet, DB9 male, mit verschraubbarem Netzteil. Bis 921,6 kbps. Lagernd, Versand 1–3 Tage.
+-11%
+1 Port Device Server, 10/100M Ethernet, RS-232,...
+Moxa NPort 5110 device Server, 1 Port RS-232 auf Ethernet
+Lieferzeit:
+1-3 Tage
+Nur 141,00 EUR
+Lieferzeit:
+1-3 Tage
+Moxa NPort 5110 device Server, 1 Port RS-232 auf Ethernet
 {
 window.gambio.widgets.init($(swiperElement));
 window.gambio.widgets.init($(hoverElement));
@@ -364,4 +364,4 @@ Serverraum-Überwachung
 IP Thermometer, Serverraumüberwachung, Sensorik und Cloudservices von AKCP und HW group
 Unterbrechungsfreie Stromversorgung USV
 USV-Anlagen von Line-Interactive bis hin zur Doppelwandleranlage, 1- und 3-phasig, auch Großanlagen
-Hier bei LEUNIG suchen w
+Hier bei LEUNIG suchen wir langfristige Geschäftsbeziehungen – denn wir sind d
